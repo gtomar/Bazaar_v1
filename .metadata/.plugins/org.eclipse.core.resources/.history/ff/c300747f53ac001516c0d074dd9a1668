@@ -1,0 +1,72 @@
+<entry timestamp="2015-04-15#22:56:38" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2015-04-15#22:56:38" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2015-04-15#22:56:38" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2015-04-15#22:56:39" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher, class basilica2.social.listeners.StrategyScoreComputer, class basilica2.social.listeners.RuleBasedTriggerComputer, class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.myagent.listeners.Register]</entry>
+<entry timestamp="2015-04-15#22:56:39" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor, class basilica2.myagent.listeners.PromptActor]</entry>
+<entry timestamp="2015-04-15#22:56:39" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2015-04-15#22:56:39" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2015-04-15#22:56:41" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger</entry>
+<entry timestamp="2015-04-15#22:56:48" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to computer_parts</entry>
+<entry timestamp="2015-04-15#22:56:48" user="NewAgentRunner" level="NORMAL"><launching room=computer_parts/></entry>
+<entry timestamp="2015-04-15#22:56:48" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2015-04-15#22:56:48" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2015-04-15#22:56:48" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2015-04-15#22:56:48" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2015-04-15#22:56:48" user="AgentFactory" level="NORMAL">Components read. N=5</entry>
+<entry timestamp="2015-04-15#22:56:48" user="AgentFactory" level="NORMAL">Agent build. VirtualCarolyn_computer_parts</entry>
+<entry timestamp="2015-04-15#22:56:48" user="NewAgentRunner" level="NORMAL">Adding agent VirtualCarolyn_computer_parts</entry>
+<entry timestamp="2015-04-15#22:56:48" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2015-04-15#22:56:48" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2015-04-15#22:56:50" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2015-04-15#22:56:50" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2015-04-15#22:56:50" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for VirtualCarolyn_computer_parts</entry>
+<entry timestamp="2015-04-15#22:56:50" user="NewAgentRunner" level="NORMAL">Agent added VirtualCarolyn_computer_parts</entry>
+<entry timestamp="2015-04-15#22:58:58" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-15#22:58:58" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2015-04-15#22:58:58" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2015-04-15#22:58:58" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage initiate</entry>
+<entry timestamp="2015-04-15#22:58:58" user="PlanExecutor" level="NORMAL">Firing Stage 'body'</entry>
+<entry timestamp="2015-04-15#22:58:58" user="Step" level="NORMAL">Handlers for SHOW_IMAGE(whiteboard): [basilica2.agents.listeners.plan.WhiteboardStepHandler@3af64fae]</entry>
+<entry timestamp="2015-04-15#22:58:58" user="WhiteboardStepHandler" level="NORMAL">whiteboard step image:SHOW_IMAGE</entry>
+<entry timestamp="2015-04-15#22:58:58" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-15#22:58:58" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-15#22:58:59" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Guest 72415649263
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on parts of a computer
+You can wait for another person to join or start discussing with me a part of the computer. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-15#22:59:01" user="" level="NORMAL">ACCEPTED! CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</entry>
+<entry timestamp="2015-04-15#22:59:03" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-15#22:59:03" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-15#22:59:10" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-15#22:59:10" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-15#22:59:11" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on parts of a computer
+You can wait for another person to join or start discussing with me a part of the computer. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-15#23:00:26" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-15#23:00:26" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-15#23:00:27" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Gaurav
+We are just starting the discussion on parts of computer. Can one of you start talking about a part of the computer ? INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-15#23:00:39" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-15#23:00:39" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Wen
+We are just starting the discussion on parts of computer. Can one of you start talking about a part of the computer ? INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-15#23:00:39" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-15#23:00:53" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about MONITOR. If you want to discuss MONITOR with me say 'let's discuss MONITOR' TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-15#23:01:03" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to discuss more on monitor?
+         TUTOR</entry>
+<entry timestamp="2015-04-15#23:01:11" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-15#23:01:13" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: A monitor displays information in visual form, using text and graphics. 
+               The portion of the monitor that displays the information is called the screen. 
+               Like a television screen, a computer screen can show still or moving pictures.|Can you name two basic types of monitors? TUTOR</entry>
+<entry timestamp="2015-04-15#23:01:21" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: I am waiting for your response to start. Please ask for help if you are stuck.|Can you name two basic types of monitors? TUTOR</entry>
+<entry timestamp="2015-04-15#23:01:27" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: No! It's not correct. There are two basic types of monitors: 
+			        CRT (cathode ray tube) monitors and the newer LCD (liquid crystal display) monitors. 
+			        Both types produce sharp images, 
+			        but LCD monitors have the advantage of being much thinner and lighter.|Let's move on.|Okay - you can now continue discussing other parts. TUTOR</entry>
+<entry timestamp="2015-04-15#23:01:27" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-15#23:01:32" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-15#23:01:32" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>

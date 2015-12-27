@@ -1,0 +1,651 @@
+<entry timestamp="2015-04-24#21:57:57" user="FactoryBuiltAgent" level="NORMAL">CONFIGURING AGENT VirtualCarolyn_us2</entry>
+<entry timestamp="2015-04-24#21:57:57" user="VirtualCarolyn_us2.AGENT" level="NORMAL"><created>VirtualCarolyn_us2</created></entry>
+<entry timestamp="2015-04-24#21:57:57" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-24#21:57:57" user="VirtualCarolyn_us2.stateMemory" level="NORMAL"><created>stateMemory</created></entry>
+<entry timestamp="2015-04-24#21:57:58" user="VirtualCarolyn_us2.client" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-24#21:57:58" user="VirtualCarolyn_us2.client" level="NORMAL"><created>client</created></entry>
+<entry timestamp="2015-04-24#21:57:58" user="VirtualCarolyn_us2.client" level="NORMAL">Property read: socket_url =	http://erebor.lti.cs.cmu.edu:8015</entry>
+<entry timestamp="2015-04-24#21:58:03" user="VirtualCarolyn_us2.ccActor" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-24#21:58:03" user="VirtualCarolyn_us2.ccActor" level="NORMAL"><created>ccActor</created></entry>
+<entry timestamp="2015-04-24#21:58:03" user="VirtualCarolyn_us2.ccActor" level="NORMAL">Property read: typingScale =	null</entry>
+<entry timestamp="2015-04-24#21:58:03" user="VirtualCarolyn_us2.inputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-24#21:58:03" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL"><created>inputCoordinator</created></entry>
+<entry timestamp="2015-04-24#21:58:03" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-24#21:58:03" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL"><created>outputCoordinator</created></entry>
+<entry timestamp="2015-04-24#21:58:03" user="(client->inputCoordinator)" level="INFO">Connection initialized. Id=1429927083642</entry>
+<entry timestamp="2015-04-24#21:58:03" user="VirtualCarolyn_us2.client" level="INFO">Outgoing connection added from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#21:58:03" user="VirtualCarolyn_us2.inputCoordinator" level="INFO">Inward connection added from inputCoordinator to client</entry>
+<entry timestamp="2015-04-24#21:58:03" user="(inputCoordinator->inputCoordinator)" level="INFO">Connection initialized. Id=1429927083642</entry>
+<entry timestamp="2015-04-24#21:58:03" user="VirtualCarolyn_us2.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-24#21:58:03" user="VirtualCarolyn_us2.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-24#21:58:03" user="(inputCoordinator->outputCoordinator)" level="INFO">Connection initialized. Id=1429927083642</entry>
+<entry timestamp="2015-04-24#21:58:03" user="VirtualCarolyn_us2.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to outputCoordinator</entry>
+<entry timestamp="2015-04-24#21:58:03" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Inward connection added from outputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-24#21:58:03" user="(outputCoordinator->client)" level="INFO">Connection initialized. Id=1429927083642</entry>
+<entry timestamp="2015-04-24#21:58:03" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Outgoing connection added from outputCoordinator to client</entry>
+<entry timestamp="2015-04-24#21:58:03" user="VirtualCarolyn_us2.client" level="INFO">Inward connection added from client to outputCoordinator</entry>
+<entry timestamp="2015-04-24#21:58:03" user="VirtualCarolyn_us2.AGENT" level="NORMAL"><initialized>VirtualCarolyn_us2</initialized></entry>
+<entry timestamp="2015-04-24#21:58:05" user="VirtualCarolyn_us2.stateMemory" level="INFO">Observer Added:stateMemory.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-24#21:58:05" user="VirtualCarolyn_us2.ccActor" level="INFO">Observer Added:ccActor.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-24#21:58:05" user="VirtualCarolyn_us2.client" level="INFO">Observer Added:client.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-24#21:58:05" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-24#21:58:05" user="VirtualCarolyn_us2.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-24#21:58:05" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.edge</entry>
+<entry timestamp="2015-04-24#21:58:05" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.edge</entry>
+<entry timestamp="2015-04-24#21:58:05" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.edge</entry>
+<entry timestamp="2015-04-24#21:58:05" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.edge</entry>
+<entry timestamp="2015-04-24#21:58:07" user="VirtualCarolyn_us2.stateMemory" level="INFO">Observer Added:stateMemory.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-24#21:58:07" user="VirtualCarolyn_us2.ccActor" level="INFO">Observer Added:ccActor.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-24#21:58:07" user="VirtualCarolyn_us2.client" level="INFO">Observer Added:client.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-24#21:58:08" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-24#21:58:08" user="VirtualCarolyn_us2.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-24#21:58:08" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.panel</entry>
+<entry timestamp="2015-04-24#21:58:08" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.panel</entry>
+<entry timestamp="2015-04-24#21:58:08" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.panel</entry>
+<entry timestamp="2015-04-24#21:58:08" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.panel</entry>
+<entry timestamp="2015-04-24#21:58:11" user="AgreeDisagreeActor" level="WARNING">agree condition: true</entry>
+<entry timestamp="2015-04-24#21:58:13" user="AskForExplanationActor" level="WARNING">explain_other condition: false</entry>
+<entry timestamp="2015-04-24#21:58:14" user="RevoiceActor" level="WARNING">revoice condition: true</entry>
+<entry timestamp="2015-04-24#21:58:14" user="SayMoreActor" level="WARNING">say_more condition: true</entry>
+<entry timestamp="2015-04-24#21:58:14" user="PlanExecutor" level="NORMAL"><configuration planfile="plans/plan_steps.xml"></entry>
+<entry timestamp="2015-04-24#21:58:14" user="PlanExecutor" level="ERROR">PlanExecutor: Can't do that...java.io.IOException: No such file or directory</entry>
+<entry timestamp="2015-04-24#21:58:14" user="PlanExecutor" level="ERROR">Error while reading Status File (java.io.FileNotFoundException: planstatus/VirtualCarolyn_us2.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2015-04-24#21:58:15" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></commit></entry>
+<entry timestamp="2015-04-24#21:58:16" user="VirtualCarolyn_us2.AGENT" level="NORMAL"><starting>Initializing each component</starting></entry>
+<entry timestamp="2015-04-24#21:58:16" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-24#21:58:16" user="VirtualCarolyn_us2.stateMemory" level="NORMAL"><initialized>stateMemory</initialized></entry>
+<entry timestamp="2015-04-24#21:58:16" user="VirtualCarolyn_us2.ccActor" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-24#21:58:16" user="VirtualCarolyn_us2.ccActor" level="NORMAL"><initialized>ccActor</initialized></entry>
+<entry timestamp="2015-04-24#21:58:16" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-24#21:58:16" user="VirtualCarolyn_us2.client" level="NORMAL"><initialized>client</initialized></entry>
+<entry timestamp="2015-04-24#21:58:16" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-24#21:58:16" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL"><initialized>outputCoordinator</initialized></entry>
+<entry timestamp="2015-04-24#21:58:16" user="VirtualCarolyn_us2.inputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-24#21:58:16" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL"><initialized>inputCoordinator</initialized></entry>
+<entry timestamp="2015-04-24#21:58:16" user="VirtualCarolyn_us2.AGENT" level="NORMAL"><starting>All components initialized</starting></entry>
+<entry timestamp="2015-04-24#21:58:16" user="VirtualCarolyn_us2.inputCoordinator" level="INFO">Observer Added:frame1. 3 Observers now.</entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#21:58:18" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#21:58:18" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Arka is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Arka is now PRESENT</entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></retrieve></entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#21:58:18" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#21:58:18" user="PlanExecutor" level="NORMAL">Plan: <stage name="initiate" timeout="0">set</stage></entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Arka is now PRESENT]</entry>
+<entry timestamp="2015-04-24#21:58:18" user="PlanExecutor" level="ERROR">Error while updating Status File (java.io.FileNotFoundException: planstatus/VirtualCarolyn_us2.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#21:58:18" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Keith M is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Keith M is now PRESENT</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Keith M is now PRESENT]</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: VirtualCarolyn is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: VirtualCarolyn is now PRESENT</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: VirtualCarolyn is now PRESENT]</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#21:58:19" user="PlanExecutor" level="ERROR">Error while updating Status File (java.io.FileNotFoundException: planstatus/VirtualCarolyn_us2.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Proposal Queue: [CREATE whiteboard-image http://i62.tinypic.com/1ggo6c.png]</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Proposal CREATE whiteboard-image http://i62.tinypic.com/1ggo6c.pngbelief*priority: 1.0*1.0=1.0</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.outputCoordinator" level="INFO"><broadcasting>Whiteboard Event on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#21:58:19" user="(outputCoordinator->client)" level="INFO">Communicate Whiteboard Event from outputCoordinator to client</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.client" level="INFO"><queued name="Whiteboard Event" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.client" level="INFO"><processing name="Whiteboard Event" from="outputCoordinator">CREATE whiteboard-image http://i62.tinypic.com/1ggo6c.png</processing></entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.client" level="INFO"><processed name="Whiteboard Event" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>Whiteboard Event on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#21:58:19" user="(client->inputCoordinator)" level="INFO">Communicate Whiteboard Event from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="Whiteboard Event" from="client"></queued></entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="Whiteboard Event" from="client">CREATE whiteboard-image http://i62.tinypic.com/1ggo6c.png</processing></entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: CREATE whiteboard-image http://i62.tinypic.com/1ggo6c.png</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [CREATE whiteboard-image http://i62.tinypic.com/1ggo6c.png]</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#21:58:19" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="Whiteboard Event" from="client"></processed></entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#21:58:20" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#21:58:20" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Arka is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Arka is now PRESENT</entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Arka is now PRESENT]</entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Keith M is now ABSENT</processing></entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Keith M is now ABSENT</entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" /></State></commit></entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Keith M is now ABSENT]</entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#21:58:20" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#21:59:29" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#21:59:29" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Arka is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Arka is now PRESENT</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" /></State></commit></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Arka is now PRESENT]</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Gaurav is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Gaurav is now PRESENT</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Gaurav is now PRESENT]</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#21:59:29" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Gaurav is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Gaurav is now PRESENT</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-04-24#21:59:29" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Gaurav is now PRESENT]</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION]</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION]</entry>
+<entry timestamp="2015-04-24#21:59:29" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-24#21:59:31" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION]</entry>
+<entry timestamp="2015-04-24#21:59:31" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTIONbelief*priority: 1.5*1000000.0=1000000.0</entry>
+<entry timestamp="2015-04-24#21:59:31" user="VirtualCarolyn_us2.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#21:59:31" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-24#21:59:31" user="VirtualCarolyn_us2.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-24#21:59:31" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#21:59:31" user="VirtualCarolyn_us2.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION</processing></entry>
+<entry timestamp="2015-04-24#21:59:31" user="VirtualCarolyn_us2.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-24#21:59:32" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#21:59:32" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#21:59:32" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#21:59:32" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#21:59:32" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. </processing></entry>
+<entry timestamp="2015-04-24#21:59:32" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. </entry>
+<entry timestamp="2015-04-24#21:59:32" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#21:59:32" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#21:59:32" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-24#21:59:32" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#21:59:32" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. ]</entry>
+<entry timestamp="2015-04-24#21:59:32" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#21:59:32" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#21:59:32" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:00:09" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:00:09" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:00:09" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Arka is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Arka is now PRESENT</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Arka is now PRESENT]</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Gaurav is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Gaurav is now PRESENT</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Gaurav is now PRESENT]</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: dqlñwdfmkl is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: dqlñwdfmkl is now PRESENT</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: dqlñwdfmkl is now PRESENT]</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:00:09" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: dqlñwdfmkl is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: dqlñwdfmkl is now PRESENT</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-04-24#22:00:09" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: dqlñwdfmkl is now PRESENT]</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: Welcome, dqlñwdfmkl
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: Welcome, dqlñwdfmkl
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-24#22:00:09" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: Welcome, dqlñwdfmkl
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Welcome, dqlñwdfmkl
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTIONbelief*priority: 0.5625*1000000.0=1000000.0</entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:00:10" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Welcome, dqlñwdfmkl
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION</processing></entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:00:10" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Welcome, dqlñwdfmkl
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? </processing></entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Welcome, dqlñwdfmkl
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? </entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:00:10" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Welcome, dqlñwdfmkl
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? ]</entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#22:00:10" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#22:00:14" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:00:14" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:00:14" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#22:00:14" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:00:14" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:00:14" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:00:14" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#22:00:14" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:00:14" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:00:14" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:00:14" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#22:00:14" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Arka is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Arka is now PRESENT</entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Arka is now PRESENT]</entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Gaurav is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Gaurav is now PRESENT</entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Gaurav is now PRESENT]</entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: dqlñwdfmkl is now ABSENT</processing></entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: dqlñwdfmkl is now ABSENT</entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" /></State></commit></entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: dqlñwdfmkl is now ABSENT]</entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#22:00:15" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:08:48" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Gaurav is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Gaurav is now PRESENT</entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:08:48" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" /></State></commit></entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Gaurav is now PRESENT]</entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Arka is now ABSENT</processing></entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Arka is now ABSENT</entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="true" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="false" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" /></State></commit></entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Arka is now ABSENT]</entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#22:08:48" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:08:52" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:08:52" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Gaurav is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Gaurav is now PRESENT</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="false" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="false" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" /></State></commit></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Gaurav is now PRESENT]</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Germán is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Germán is now PRESENT</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="4" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="false" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="5" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="false" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Germán is now PRESENT]</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:08:52" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Germán is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Germán is now PRESENT</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="5" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="false" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="5" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="false" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-04-24#22:08:52" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Germán is now PRESENT]</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-24#22:08:52" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTIONbelief*priority: 0.2109375*1000000.0=1000000.0</entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:08:54" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION</processing></entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:08:54" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? </processing></entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? </entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="5" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="false" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="5" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="false" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:08:54" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="5" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="false" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? ]</entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#22:08:54" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:09:00" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-24#22:09:00" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Gaurav is now PRESENT</processing></entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Gaurav is now PRESENT</entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="5" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="false" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="5" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="false" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Gaurav is now PRESENT]</entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Germán is now ABSENT</processing></entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Germán is now ABSENT</entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="5" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="false" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="5" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Arka" name="Arka" role="UNASSIGNED" present="false" />	<student id="Keith M" name="Keith M" role="UNASSIGNED" present="false" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="dqlñwdfmkl" name="dqlñwdfmkl" role="UNASSIGNED" present="false" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="false" /></State></commit></entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Germán is now ABSENT]</entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-24#22:09:00" user="VirtualCarolyn_us2.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>

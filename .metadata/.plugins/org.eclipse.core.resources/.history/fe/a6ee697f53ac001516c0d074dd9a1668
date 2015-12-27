@@ -1,0 +1,308 @@
+2015-12-07,18:55:59,0,BazaarAgent,1449532560366,"Welcome, gaurav
+",INTRODUCTION
+2015-12-07,18:55:59,0,BazaarAgent,1449532562390,"Welcome, xu
+",INTRODUCTION
+2015-12-07,18:56:09,0,BazaarAgent,1449532570400,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2015-12-07,18:56:20,0,BazaarAgent,1449532582417,"Welcome, sree
+",INTRODUCTION
+2015-12-07,18:56:36,0,xu,1449532598982,I am comparing plan 1 and plan2. The only differences between the two is that between the coal and wind powers.,PLAN+POSITIVITY+AFFIRMATIVE+PLAN2+PLAN1+pos
+2015-12-07,18:56:38,0,BazaarAgent,1449532600437,"Hey gaurav, Can you evaluate xu's choice from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-12-07,18:57:04,0,gaurav,1449532625764,i prefer plan 1 over plan 4,PLAN+PLAN4+PLAN1+neg
+2015-12-07,18:57:12,0,gaurav,1449532632301,blah blah,neg
+2015-12-07,18:57:12,0,BazaarAgent,1449532632468,"Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-12-07,18:58:19,0,xu,1449532699739,i prefer plan 1 over plan 4,PLAN+PLAN4+PLAN1+neg
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-12-07,18:58:45,0,BazaarAgent,1449532726546,"Welcome, sree
+",INTRODUCTION
+2015-12-07,18:58:45,0,BazaarAgent,1449532728572,"Welcome, gaurav
+",INTRODUCTION
+2015-12-07,18:58:45,0,BazaarAgent,1449532730576,"Welcome, xu
+",INTRODUCTION
+2015-12-07,18:58:55,0,BazaarAgent,1449532736587,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2015-12-07,18:59:01,0,xu,1449532743040,I like plan 1,PLAN+POSITIVITY+PLAN1+neg
+2015-12-07,18:59:10,0,gaurav,1449532751793,i prefer plan 2 over plan 3,PLAN+PLAN3+PLAN2+neg
+2015-12-07,18:59:12,0,BazaarAgent,1449532752604,"Hey xu, Can you evaluate plan 1 from your perspective of environmental friendliness and reliability ?",plan_reasoning
+2015-12-07,18:59:18,0,BazaarAgent,1449532758612,"Hey gaurav, Can you evaluate plan 2 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-12-07,18:59:33,0,xu,1449532774591,"Hi Angie, I'm looking at Plan 1 as well.  It seems to be the most balanced and best compromise",PLAN+GIVING_OPINION+PLAN1+pos
+2015-12-07,18:59:34,0,BazaarAgent,1449532774625,"Hey gaurav, Can you evaluate xu's plan from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-12-07,18:59:56,0,sree,1449532796533,"Hi Angie, I'm looking at Plan 1 as well.  It seems to be the most balanced and best compromise",PLAN+GIVING_OPINION+PLAN1+pos
+2015-12-07,19:00:07,0,sree,1449532807514,I like plan 4 instead.,PLAN+POSITIVITY+PLAN4+neg
+2015-12-07,19:00:15,0,BazaarAgent,1449532816665,"Hey sree, Can you evaluate plan 4 from your perspective of most economical ?",plan_reasoning
+2015-12-07,19:00:41,0,sree,1449532842361,"plan 4 bothers me that only one of the options is within what is described as a ""tight yearly budget""",PLAN+HELP_REQUEST+PLAN4+QUESTION+pos
+2015-12-07,19:00:42,0,BazaarAgent,1449532842692,"Hey xu, Can you evaluate sree's plan from your perspective of environmental friendliness and reliability ?",plan_reasoning
+2015-12-07,19:01:10,0,xu,1449532871122,I like plan1.,PLAN+POSITIVITY+PLAN1+neg
+2015-12-07,19:03:02,0,BazaarAgent,1449532984825,It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.,POKING
+2015-12-07,19:04:02,0,BazaarAgent,1449533044883,It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.,POKING
+2015-12-07,19:05:03,0,BazaarAgent,1449533104949,It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.,POKING
+2015-12-07,19:06:03,0,BazaarAgent,1449533165005,It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.,POKING
+2015-12-07,19:07:03,0,BazaarAgent,1449533225060,It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.,POKING
+2015-12-07,19:08:03,0,BazaarAgent,1449533283119,It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.,POKING
+2015-12-07,19:09:03,0,BazaarAgent,1449533345178,It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.,POKING
+2015-12-07,19:10:03,0,BazaarAgent,1449533403228,It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.,POKING
+2015-12-07,19:11:03,0,BazaarAgent,1449533465280,It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.,POKING
+2015-12-07,19:11:14,0,BazaarAgent,1449533475289,"Thank you for participating in the discussion, you have 3 minutes to come to a consensus about a plan and complete your proposal. You will then take a final quiz.",Thank you for participating in the discussion, you have 3 minutes to come to a consensus about a plan and complete your proposal. You will then take a final quiz.
+2015-12-07,19:12:03,0,BazaarAgent,1449533523332,It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.,POKING
+2015-12-07,19:13:03,0,BazaarAgent,1449533585389,It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.,POKING
+2015-12-07,19:14:03,0,BazaarAgent,1449533643441,It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.,POKING
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-12-07,19:28:24,0,BazaarAgent,1449534505688,"Welcome, sree
+",INTRODUCTION
+2015-12-07,19:28:24,0,BazaarAgent,1449534507713,"Welcome, xu
+",INTRODUCTION
+2015-12-07,19:28:34,0,BazaarAgent,1449534515722,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2015-12-07,19:28:59,0,gaurav,1449534542528,i prefer plan 1 over plan 4,PLAN+PLAN4+PLAN1+neg
+2015-12-07,19:29:09,0,gaurav,1449534549317,blah blah,neg
+2015-12-07,19:29:09,0,BazaarAgent,1449534549758,"Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-12-07,19:29:28,0,xu,1449534568993,I I am comparing plan 1 and plan2. The only differences between the two is that between the coal and wind powers.,PLAN+POSITIVITY+AFFIRMATIVE+PLAN2+PLAN1+pos
+2015-12-07,19:29:29,0,BazaarAgent,1449534569777,"Hey gaurav, Can you evaluate xu's choice from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-12-07,19:29:44,0,gaurav,1449534592627,"COV
+
+
+Discussion
+
+gaurav has joined the discussion.6:54:47 PM
+
+xu has joined the discussion.6:55:40 PM
+
+BazaarAgent has joined the discussion.6:55:59 PM
+
+BazaarAgent6:56:00 PM
+Welcome, gaurav
+
+BazaarAgent6:56:02 PM
+Welcome, xu
+
+BazaarAgent6:56:10 PM
+Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+
+sree has joined the discussion.6:56:21 PM
+
+BazaarAgent6:56:22 PM
+Welcome, sree
+
+xu6:56:36 PM
+I am comparing plan 1 and plan2. The only differences between the two is that between the coal and wind powers.
+
+BazaarAgent6:56:40 PM
+Hey gaurav, Can you evaluate xu's choice from your perspective of carbon neutrality and economical in the long run ?
+
+gaurav6:57:04 PM
+i prefer plan 1 over plan 4
+
+gaurav6:57:12 PM
+blah blah
+
+BazaarAgent6:57:12 PM
+Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ?
+
+xu6:58:19 PM
+i prefer plan 1 over plan 4
+
+BazaarAgent has disconnected.6:58:26 PM
+
+sree has disconnected.6:58:28 PM
+
+xu has disconnected.6:58:30 PM
+
+xu has joined the discussion.6:58:41 PM
+
+sree has joined the discussion.6:58:44 PM
+
+BazaarAgent has joined the discussion.6:58:46 PM
+
+BazaarAgent6:58:46 PM
+Welcome, sree
+
+BazaarAgent6:58:48 PM
+Welcome, gaurav
+
+BazaarAgent6:58:50 PM
+Welcome, xu
+
+BazaarAgent6:58:56 PM
+Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+
+xu6:59:01 PM
+I like plan 1
+
+gaurav6:59:10 PM
+i prefer plan 2 over plan 3
+
+BazaarAgent6:59:12 PM
+Hey xu, Can you evaluate plan 1 from your perspective of environmental friendliness and reliability ?
+
+BazaarAgent6:59:18 PM
+Hey gaurav, Can you evaluate plan 2 from your perspective of carbon neutrality and economical in the long run ?
+
+xu6:59:33 PM
+Hi Angie, I'm looking at Plan 1 as well.  It seems to be the most balanced and best compromise
+
+BazaarAgent6:59:34 PM
+Hey gaurav, Can you evaluate xu's plan from your perspective of carbon neutrality and economical in the long run ?
+
+sree6:59:56 PM
+Hi Angie, I'm looking at Plan 1 as well.  It seems to be the most balanced and best compromise
+
+sree7:00:07 PM
+I like plan 4 instead.
+
+BazaarAgent7:00:16 PM
+Hey sree, Can you evaluate plan 4 from your perspective of most economical ?
+
+sree7:00:41 PM
+plan 4 bothers me that only one of the options is within what is described as a ""tight yearly budget""
+
+BazaarAgent7:00:42 PM
+Hey xu, Can you evaluate sree's plan from your perspective of environmental friendliness and reliability ?
+
+xu7:01:10 PM
+I like plan1.
+
+BazaarAgent7:03:04 PM
+It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.
+
+BazaarAgent7:04:04 PM
+It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.
+
+BazaarAgent7:05:05 PM
+It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.
+
+BazaarAgent7:06:05 PM
+It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.
+
+BazaarAgent7:07:05 PM
+It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.
+
+BazaarAgent7:08:03 PM
+It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.
+
+BazaarAgent7:09:05 PM
+It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.
+
+BazaarAgent7:10:03 PM
+It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.
+
+BazaarAgent7:11:05 PM
+It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.
+
+BazaarAgent7:11:15 PM
+Thank you for participating in the discussion, you have 3 minutes to come to a consensus about a plan and complete your proposal. You will then take a final quiz.
+
+BazaarAgent7:12:03 PM
+It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.
+
+BazaarAgent7:13:05 PM
+It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.
+
+BazaarAgent7:14:03 PM
+It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.
+
+BazaarAgent has disconnected.7:14:24 PM
+
+BazaarAgent has joined the discussion.7:28:24 PM
+
+BazaarAgent7:28:25 PM
+Welcome, sree
+
+BazaarAgent7:28:27 PM
+Welcome, xu
+
+BazaarAgent7:28:35 PM
+Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+
+gaurav7:28:59 PM
+i prefer plan 1 over plan 4",PLAN2+PLAN1+neg+GIVING_ORIENTATION+POSITIVITY+HELP_REQUEST+QUESTION+NEGATIVE+PLAN+GIVING_OPINION+PLAN4+PLAN3
+2015-12-07,19:30:00,0,gaurav,1449534600773,i prefer plan 1 over plan 4,PLAN+PLAN4+PLAN1+neg
+2015-12-07,19:30:18,0,gaurav,1449534619258,i prefer plan 2 over plan 3,PLAN+PLAN3+PLAN2+neg
+2015-12-07,19:30:27,0,BazaarAgent,1449534627862,"Hey gaurav, Can you elaborate on your plan from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-12-07,19:31:48,0,BazaarAgent,1449534709686,"Welcome, sree
+",INTRODUCTION
+2015-12-07,19:31:48,0,BazaarAgent,1449534711711,"Welcome, xu
+",INTRODUCTION
+2015-12-07,19:31:48,0,BazaarAgent,1449534713716,"Welcome, gaurav
+",INTRODUCTION
+2015-12-07,19:31:58,0,BazaarAgent,1449534719723,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2015-12-07,19:31:59,0,gaurav,1449534722226,i prefer plan 2 over plan 3,PLAN+PLAN3+PLAN2+neg
+2015-12-07,19:32:09,0,BazaarAgent,1449534729739,"Hey gaurav, Can you evaluate plan 2 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-12-07,19:32:23,0,gaurav,1449534744155,i prefer plan 1 over plan 4,PLAN+PLAN4+PLAN1+neg
+2015-12-07,19:32:33,0,gaurav,1449534754119,blah,neg
+2015-12-07,19:32:43,0,gaurav,1449534763952,blah,neg
+2015-12-07,19:33:05,0,gaurav,1449534785305,i prefer plan 3 over plan 2,PLAN+PLAN3+PLAN2+neg
+2015-12-07,19:33:38,0,gaurav,1449534819142,plan 2 is good,PLAN+POSITIVITY+PLAN2+neg
+2015-12-07,19:33:42,0,gaurav,1449534822647,beacuse,neg
+2015-12-07,19:33:45,0,gaurav,1449534825535,because,neg
+2015-12-07,19:35:01,0,BazaarAgent,1449534901893,It looks like no one is using the chat. Use this space to discuss and come to a consensus about which plan you prefer while writing the proposal.,POKING
+2015-12-07,19:35:21,0,gaurav,1449534921415,plan 3 is good,PLAN+POSITIVITY+PLAN3+neg
+2015-12-07,19:35:30,0,BazaarAgent,1449534931921,"Hey gaurav, Can you elaborate on your choice from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-12-07,19:37:34,0,BazaarAgent,1449535055868,"Welcome, sree
+",INTRODUCTION
+2015-12-07,19:37:34,0,BazaarAgent,1449535057892,"Welcome, gaurav
+",INTRODUCTION
+2015-12-07,19:37:44,0,BazaarAgent,1449535065902,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2015-12-07,19:37:50,0,gaurav,1449535072641,i prefer plan 2 over plan 3,PLAN+PLAN3+PLAN2+neg
+2015-12-07,19:38:01,0,BazaarAgent,1449535081918,"Hey gaurav, Can you evaluate plan 2 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-12-07,19:38:23,0,BazaarAgent,1449535104596,"Welcome, sree
+",INTRODUCTION
+2015-12-07,19:38:23,0,BazaarAgent,1449535106618,"Welcome, xu
+",INTRODUCTION
+2015-12-07,19:38:33,0,BazaarAgent,1449535114629,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2015-12-07,19:38:35,0,gaurav,1449535117756,i prefer plan 2 over plan 3,PLAN+PLAN3+PLAN2+neg
+2015-12-07,19:38:43,0,BazaarAgent,1449535124639,"Hey gaurav, Can you elaborate on your choice from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-12-07,19:38:54,0,gaurav,1449535134676,i prefer plan 1 over plan 4,PLAN+PLAN4+PLAN1+neg
+2015-12-07,19:38:54,0,xu,1449535134884,I like plan 4,PLAN+POSITIVITY+PLAN4+neg
+2015-12-07,19:38:55,0,xu,1449535135688,blan,neg
+2015-12-07,19:38:55,0,BazaarAgent,1449535136653,"Hey xu, Can you evaluate plan 4 from your perspective of environmental friendliness and reliability ?",plan_reasoning
+2015-12-07,19:39:02,0,BazaarAgent,1449535142661,"Hey gaurav, Can you elaborate on your choice from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-12-07,19:39:25,0,xu,1449535166592,"plan 4 bothers me that only one of the options is within what is described as a ""tight yearly budget""",PLAN+HELP_REQUEST+PLAN4+QUESTION+pos
+2015-12-07,19:39:26,0,BazaarAgent,1449535166684,"Hey sree, Can you evaluate xu's plan from your perspective of most economical ?",plan_reasoning
+2015-12-07,20:10:25,0,xu,1449537025842,hi,neg
+2015-12-07,20:10:32,0,xu,1449537032250,i prefer plan 1.,PLAN+PLAN1+neg
+2015-12-07,20:11:38,0,BazaarAgent,1449537098990,"Hey xu, Can you evaluate plan 1 from your perspective of environmental friendliness and reliability ?",plan_reasoning
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-12-07,20:15:13,0,BazaarAgent,1449537314369,"Welcome, sree
+",INTRODUCTION
+2015-12-07,20:15:13,0,BazaarAgent,1449537316390,"Welcome, gaurav
+",INTRODUCTION
+2015-12-07,20:15:23,0,BazaarAgent,1449537324401,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-12-07,20:16:34,0,BazaarAgent,1449537395613,"Welcome, sree
+",INTRODUCTION
+2015-12-07,20:16:34,0,BazaarAgent,1449537397637,"Welcome, xu
+",INTRODUCTION
+2015-12-07,20:16:41,0,xu,1449537403349,i prefer plan 1 over plan four.,PLAN+PLAN4+PLAN1+neg
+2015-12-07,20:16:44,0,BazaarAgent,1449537405651,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2015-12-07,20:16:52,0,BazaarAgent,1449537413674,"Hey xu, Can you elaborate on your choice from your perspective of environmental friendliness and reliability ?",plan_reasoning
+2015-12-07,20:17:20,0,xu,1449537441336,"I prefer plan 1 over plan 4 because it costs the least, and generates the least pollutants, and won't damage the habitats.",PLAN+PLAN4+EXPLANATION_CONTRIBUTION+PLAN1+pos
+2015-12-07,20:17:21,0,BazaarAgent,1449537441701,"Hey gaurav, Can you evaluate xu's choice from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-12-07,20:17:33,0,gaurav,1449537454402,i think plan 4 is better,PLAN+GIVING_OPINION+GIVING_ORIENTATION+PLAN4+neg
+2015-12-07,20:17:40,0,xu,1449537460916,i agree,GIVING_ORIENTATION+AGREE+neg
+2015-12-07,20:17:43,0,BazaarAgent,1449537463726,"Hey gaurav, Can you evaluate plan 4 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-12-07,20:17:50,0,xu,1449537470930,"plan 4 is better because  it costs the least, and generates the least pollutants, and won't damage the habitats.",PLAN+GIVING_ORIENTATION+PLAN4+EXPLANATION_CONTRIBUTION+pos
+2015-12-07,20:17:50,0,BazaarAgent,1449537471734,"Hey sree, Can you evaluate xu's plan from your perspective of most economical ?",plan_reasoning
+2015-12-07,20:18:01,0,xu,1449537481688,i like plan 4,PLAN+POSITIVITY+PLAN4+neg
+2015-12-07,20:18:03,0,gaurav,1449537484024,plan 3 is not possible because of carbon neutrality and economical,PLAN+PLAN3+NEGATIVE+pos
+2015-12-07,20:18:04,0,xu,1449537485158,plan 4 is the best,PLAN+GIVING_OPINION+PLAN4+neg
+2015-12-07,20:18:05,0,BazaarAgent,1449537485747,"Hey xu, Can you evaluate plan 4 from your perspective of environmental friendliness and reliability ?",plan_reasoning
+2015-12-07,20:18:22,0,sree,1449537502957,"plan 4 is the best because  it costs the least, and generates the least pollutants, and won't damage the habitats.",PLAN+GIVING_OPINION+PLAN4+EXPLANATION_CONTRIBUTION+pos
+2015-12-07,20:18:48,0,xu,1449537528982,plan 4,PLAN+PLAN4+neg
+2015-12-07,20:18:50,0,xu,1449537530226,plan 4,PLAN+PLAN4+neg
+2015-12-07,20:18:55,0,xu,1449537535815,plan 1 is the best,PLAN+GIVING_OPINION+PLAN1+neg
+2015-12-07,20:19:00,0,xu,1449537541084,plan 1 is not possible,PLAN+NEGATIVE+PLAN1+neg
+2015-12-07,20:19:01,0,BazaarAgent,1449537541797,"Hey xu, Can you evaluate plan 1 from your perspective of environmental friendliness and reliability ?",plan_reasoning
+2015-12-07,20:19:13,0,xu,1449537554380,"plan 1 is not good because  it costs the least, and generates the least pollutants, and won't damage the habitats.",PLAN+POSITIVITY+EXPLANATION_CONTRIBUTION+NEGATIVE+PLAN1+pos
+2015-12-07,20:19:34,0,xu,1449537574391,"plan 4 is better because  it costs the least, and generates the least pollutants, and won't damage the habitats.",PLAN+GIVING_ORIENTATION+PLAN4+EXPLANATION_CONTRIBUTION+pos
+2015-12-07,20:19:41,0,xu,1449537581073,great!,neg
+2015-12-07,20:19:50,0,sree,1449537590882,what about plan 2?,PLAN+QUESTION+PLAN2+neg
+2015-12-07,20:19:58,0,BazaarAgent,1449537599851,"Hey sree, Can you evaluate plan 2 from your perspective of most economical ?",plan_reasoning
+2015-12-07,20:20:02,0,sree,1449537602892,I would want to compare plan2 with plan 3.,PLAN+GIVING_OPINION+PLAN3+PLAN2+neg
+2015-12-07,20:20:10,0,BazaarAgent,1449537611865,"Hey sree, Can you elaborate on your choice from your perspective of most economical ?",plan_reasoning
+2015-12-07,20:20:18,0,gaurav,1449537618436,plan 1,PLAN+PLAN1+neg
+2015-12-07,20:20:20,0,gaurav,1449537620417,hehehehe,SMILES+neg
+2015-12-07,20:20:20,0,BazaarAgent,1449537621875,"Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-12-07,20:20:36,0,sree,1449537637608,"I agree plan 1 is the bets  it costs the least, and generates the least pollutants, and won't damage the habitats.",PLAN+GIVING_ORIENTATION+AGREE+PLAN1+pos
+2015-12-07,20:21:42,0,BazaarAgent,1449537703946,It looks like no one is using the chat. Use this space to discuss and come to a consensus about which plan you prefer while writing the proposal.,POKING
+2015-12-07,20:21:47,0,xu,1449537707840,"I agree plan 1 is the bets  it costs the least, and generates the least pollutants, and won't damage the habitats.",PLAN+GIVING_ORIENTATION+AGREE+PLAN1+pos
+2015-12-07,20:21:47,0,BazaarAgent,1449537707950,"Hey sree, Can you evaluate xu's plan from your perspective of most economical ?",plan_reasoning

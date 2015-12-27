@@ -1,0 +1,47 @@
+<entry timestamp="2015-04-24#21:10:21" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2015-04-24#21:10:21" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2015-04-24#21:10:21" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2015-04-24#21:10:23" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher, class basilica2.social.listeners.StrategyScoreComputer, class basilica2.social.listeners.RuleBasedTriggerComputer, class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.myagent.listeners.Register]</entry>
+<entry timestamp="2015-04-24#21:10:24" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor, class basilica2.myagent.listeners.PromptActor]</entry>
+<entry timestamp="2015-04-24#21:10:26" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2015-04-24#21:10:26" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2015-04-24#21:10:29" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger</entry>
+<entry timestamp="2015-04-24#21:10:30" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger explain</entry>
+<entry timestamp="2015-04-24#21:10:30" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger explain agree</entry>
+<entry timestamp="2015-04-24#21:10:31" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger revoice explain agree</entry>
+<entry timestamp="2015-04-24#21:10:32" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger say_more revoice explain agree</entry>
+<entry timestamp="2015-04-24#21:10:35" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to us2</entry>
+<entry timestamp="2015-04-24#21:10:35" user="NewAgentRunner" level="NORMAL"><launching room=us2/></entry>
+<entry timestamp="2015-04-24#21:10:35" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2015-04-24#21:10:35" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2015-04-24#21:10:35" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2015-04-24#21:10:35" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2015-04-24#21:10:35" user="AgentFactory" level="NORMAL">Components read. N=5</entry>
+<entry timestamp="2015-04-24#21:10:35" user="AgentFactory" level="NORMAL">Agent build. VirtualCarolyn_us2</entry>
+<entry timestamp="2015-04-24#21:10:35" user="NewAgentRunner" level="NORMAL">Adding agent VirtualCarolyn_us2</entry>
+<entry timestamp="2015-04-24#21:10:35" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2015-04-24#21:10:35" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2015-04-24#21:10:42" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2015-04-24#21:10:43" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2015-04-24#21:10:44" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for VirtualCarolyn_us2</entry>
+<entry timestamp="2015-04-24#21:10:44" user="NewAgentRunner" level="NORMAL">Agent added VirtualCarolyn_us2</entry>
+<entry timestamp="2015-04-24#21:10:44" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-24#21:10:44" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2015-04-24#21:10:44" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2015-04-24#21:10:44" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage initiate</entry>
+<entry timestamp="2015-04-24#21:10:44" user="PlanExecutor" level="NORMAL">Firing Stage 'body'</entry>
+<entry timestamp="2015-04-24#21:10:44" user="Step" level="NORMAL">Handlers for SHOW_IMAGE(whiteboard): [basilica2.agents.listeners.plan.WhiteboardStepHandler@12430cdb]</entry>
+<entry timestamp="2015-04-24#21:10:44" user="WhiteboardStepHandler" level="NORMAL">whiteboard step image:SHOW_IMAGE</entry>
+<entry timestamp="2015-04-24#21:10:44" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-24#21:10:44" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-24#21:10:46" user="" level="NORMAL">ACCEPTED! CREATE whiteboard-image http://i62.tinypic.com/1ggo6c.png</entry>
+<entry timestamp="2015-04-24#21:10:49" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-24#21:10:49" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-24#21:10:54" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-24#21:10:56" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-24#21:10:56" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-24#21:10:56" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-24#21:10:58" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION.
+Starting blockout countdown... </entry>

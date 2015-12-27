@@ -1,0 +1,64 @@
+<entry timestamp="2015-05-19#14:53:00" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2015-05-19#14:53:00" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2015-05-19#14:53:00" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2015-05-19#14:53:02" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher, class basilica2.social.listeners.StrategyScoreComputer, class basilica2.social.listeners.RuleBasedTriggerComputer, class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.myagent.listeners.Register]</entry>
+<entry timestamp="2015-05-19#14:53:02" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor, class basilica2.myagent.listeners.PromptActor]</entry>
+<entry timestamp="2015-05-19#14:53:02" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2015-05-19#14:53:02" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2015-05-19#14:53:07" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger</entry>
+<entry timestamp="2015-05-19#14:53:08" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger</entry>
+<entry timestamp="2015-05-19#14:53:27" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to final_demo</entry>
+<entry timestamp="2015-05-19#14:53:27" user="NewAgentRunner" level="NORMAL"><launching room=final_demo/></entry>
+<entry timestamp="2015-05-19#14:53:27" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2015-05-19#14:53:27" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2015-05-19#14:53:27" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2015-05-19#14:53:27" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2015-05-19#14:53:27" user="AgentFactory" level="NORMAL">Components read. N=5</entry>
+<entry timestamp="2015-05-19#14:53:27" user="AgentFactory" level="NORMAL">Agent build. VirtualCarolyn_final_demo</entry>
+<entry timestamp="2015-05-19#14:53:27" user="NewAgentRunner" level="NORMAL">Adding agent VirtualCarolyn_final_demo</entry>
+<entry timestamp="2015-05-19#14:53:27" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2015-05-19#14:53:27" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2015-05-19#14:53:30" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2015-05-19#14:53:31" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2015-05-19#14:53:31" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for VirtualCarolyn_final_demo</entry>
+<entry timestamp="2015-05-19#14:53:31" user="NewAgentRunner" level="NORMAL">Agent added VirtualCarolyn_final_demo</entry>
+<entry timestamp="2015-05-19#14:54:02" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-05-19#14:54:02" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2015-05-19#14:54:02" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2015-05-19#14:54:02" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage initiate</entry>
+<entry timestamp="2015-05-19#14:54:02" user="PlanExecutor" level="NORMAL">Firing Stage 'body'</entry>
+<entry timestamp="2015-05-19#14:54:02" user="Step" level="NORMAL">Handlers for ...(prompt): [basilica2.agents.listeners.plan.PromptStepHandler@5fc81d2c]</entry>
+<entry timestamp="2015-05-19#14:54:03" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-05-19#14:54:03" user="PromptStepHandler" level="NORMAL">starting 0.4 second prompt delay</entry>
+<entry timestamp="2015-05-19#14:54:03" user="PromptStepHandler" level="NORMAL">ending 0.4 second prompt delay</entry>
+<entry timestamp="2015-05-19#14:54:03" user="PlanExecutor" level="NORMAL">starting 300 second delay timer for ...</entry>
+<entry timestamp="2015-05-19#14:54:03" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-19#14:54:06" user="" level="NORMAL">accepted. Message from VirtualCarolyn: ... ....
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-19#14:55:14" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUT low pressure temperature' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-19#14:56:36" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to low pressure and temperature ?
+         TUTOR</entry>
+<entry timestamp="2015-05-19#14:56:40" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-05-19#14:56:42" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: We can talk about low pressure and temperature in a little more detail.|Can you explain why the temperature is most likely cooler at a low pressure center? TUTOR</entry>
+<entry timestamp="2015-05-19#14:57:40" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: It sounds like you could use some help.|Sorry, I didn't understand you. Can you explain why the temperature is most likely cooler at a low pressure center? TUTOR</entry>
+<entry timestamp="2015-05-19#14:58:40" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let me help you out. Cold air sinks and low pressure is a concentration of air that is low in altitude. It is most likely then that this air is cooler.|Please feel free to continue discussing among yourselves. TUTOR</entry>
+<entry timestamp="2015-05-19#14:58:40" user="PlanExecutor" level="NORMAL">starting 300 second delay timer for ...</entry>
+<entry timestamp="2015-05-19#14:58:56" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about low pressure precipitation. If you want to check your knowledge on low pressure precipitation with me say 'LET'S DISCUSS ABOUT low pressure precipitation' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-19#14:59:03" user="PlanExecutor" level="NORMAL">PLAN: current step done: ...</entry>
+<entry timestamp="2015-05-19#14:59:03" user="Step" level="NORMAL">Handlers for SHOW_IMAGE(whiteboard): [basilica2.agents.listeners.plan.WhiteboardStepHandler@d895756]</entry>
+<entry timestamp="2015-05-19#14:59:03" user="WhiteboardStepHandler" level="NORMAL">whiteboard step image:SHOW_IMAGE</entry>
+<entry timestamp="2015-05-19#14:59:03" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-05-19#14:59:04" user="" level="NORMAL">ACCEPTED! CREATE whiteboard-image http://i59.tinypic.com/5ap2co.png</entry>
+<entry timestamp="2015-05-19#14:59:08" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-05-19#14:59:08" user="Step" level="NORMAL">Handlers for QUESTION1(prompt): [basilica2.agents.listeners.plan.PromptStepHandler@5fc81d2c]</entry>
+<entry timestamp="2015-05-19#14:59:08" user="PromptStepHandler" level="NORMAL">starting 7.8999999999999995 second prompt delay</entry>
+<entry timestamp="2015-05-19#14:59:10" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Also discuss among yourselves where all of you would expect to find the coolest temperatures over the area of the map on right of your screen. QUESTION1.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-19#14:59:16" user="PromptStepHandler" level="NORMAL">ending 7.8999999999999995 second prompt delay</entry>
+<entry timestamp="2015-05-19#14:59:16" user="PlanExecutor" level="NORMAL">starting 600 second delay timer for QUESTION1</entry>

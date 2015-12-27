@@ -1,0 +1,8 @@
+2015-11-13,17:00:47,0,VirtualCarolyn,1447452048416,...,...
+2015-11-13,17:01:21,0,test,1447452081501,i agree,GIVING_ORIENTATION+AGREE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-11-13,17:02:20,0,VirtualCarolyn,1447452141805,...,...
+2015-11-13,17:02:54,0,test,1447452174765,i agree,GIVING_ORIENTATION+AGREE
+2015-11-13,17:04:54,0,VirtualCarolyn,1447452295986,You can discuss about low pressure precipitation. If you want to check your knowledge on low pressure precipitation with me say 'LET'S DISCUSS ABOUT low pressure precipitation',TOPIC_PROMPTED
+2015-11-13,17:06:54,0,VirtualCarolyn,1447452416123,You can discuss about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUT low pressure temperature',TOPIC_PROMPTED
+2015-11-13,17:07:26,0,VirtualCarolyn,1447452448154,Also discuss among yourselves where all of you would expect to find the coolest temperatures over the area of the map on right of your screen.,QUESTION1

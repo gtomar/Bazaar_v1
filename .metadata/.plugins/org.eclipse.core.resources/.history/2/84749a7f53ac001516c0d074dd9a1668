@@ -1,0 +1,305 @@
+2015-04-24,21:10:56,0,VirtualCarolyn,1429924258256,"Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.",INTRODUCTION
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-04-24,21:13:28,0,VirtualCarolyn,1429924410235,"Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.",INTRODUCTION
+2015-04-24,21:14:55,0,VirtualCarolyn,1429924496556,"Welcome, Natty
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?",INTRODUCTION
+2015-04-24,21:15:12,0,VirtualCarolyn,1429924514564,"Welcome, Timmy B
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?",INTRODUCTION
+2015-04-24,21:15:34,0,VirtualCarolyn,1429924536573,"Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?",INTRODUCTION
+2015-04-24,21:15:37,0,VirtualCarolyn,1429924538576,"Welcome, Tomit
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?",INTRODUCTION
+2015-04-24,21:16:46,0,Tomit,1429924612945,Pittsburgh weather sucks,TEASING+DISCONTENT
+2015-04-24,21:16:59,0,Tomit,1429924640954,I wish there are more high pressure here,HP
+2015-04-24,21:17:24,0,Gaurav,1429924645085,high pressure and warm temperature,TEMPERATURE+HP
+2015-04-24,21:17:25,0,VirtualCarolyn,1429924646645,I noticed that you are talking about high pressure temperature. If you want to check your knowledge on high pressure temperature with me say 'LET'S DISCUSS ABOUT high pressure temperature' and I will ask some questions on it.,TOPIC_ELICITATION
+2015-04-24,21:18:03,0,Gaurav,1429924686391,ok. virtualCarolyn. Let's discuss ABOUT high pressure temperature,TOPIC_REQUEST+AFFIRMATIVE+SAY_MORE_CANDIDATE+AGREE_CANDIDATE+TEMPERATURE+HP
+2015-04-24,21:18:06,0,VirtualCarolyn,1429924686686,"
+               Will you like to answer some questions related to high pressure and temperature ?
+        ",TUTOR
+2015-04-24,21:18:05,0,Germán,1429924688454,"So, let's discuss about high pressure temperature.",TOPIC_REQUEST+SAY_MORE_CANDIDATE+AGREE_CANDIDATE+TEMPERATURE+HP
+2015-04-24,21:18:06,0,VirtualCarolyn,1429924688689,Let's get started.,TUTOR
+2015-04-24,21:18:09,0,Tomit,1429924689831,lets not discuss about high pressure,GIVING_OPINION+HP+NEGATIVE
+2015-04-24,21:18:08,0,VirtualCarolyn,1429924690692,Let's see how much you know about high pressure and temperature.,TUTOR
+2015-04-24,21:18:08,0,VirtualCarolyn,1429924690694,Where is the air concentrated in a high pressure center?,TUTOR
+2015-04-24,21:18:13,0,VirtualCarolyn,1429924695337,That is correct. The air is concentrated higher in the atmosphere in a high pressure center.,TUTOR
+2015-04-24,21:18:13,0,VirtualCarolyn,1429924695339,Let's move on to other question.,TUTOR
+2015-04-24,21:18:13,0,VirtualCarolyn,1429924695340,"Since the air has concentrated higher in the atmosphere, the temperature is most likely…?",TUTOR
+2015-04-24,21:18:33,0,VirtualCarolyn,1429924713394,Can you weigh in on what Germán said? Do you agree or disagree? Why?,AT_MOVE+Germán+AGREE_DISAGREE
+2015-04-24,21:18:58,0,pia,1429924739319,The temperature is most likely cooler. ,POSITIVITY+SAY_MORE_CANDIDATE+TEMPERATURE
+2015-04-24,21:18:59,0,VirtualCarolyn,1429924741404,That is incorrect.,TUTOR
+2015-04-24,21:18:59,0,VirtualCarolyn,1429924741406,"Warm air rises and cool air sinks. In a high pressure center, the temperature is most likely...?",TUTOR
+2015-04-24,21:19:15,0,pia,1429924755842,"Is it warmer, then?",TEMPERATURE+EXPLANATION_REQUEST+QUESTION
+2015-04-24,21:19:20,0,VirtualCarolyn,1429924761415,"That is correct. Warm air rises and cool air sinks, so it is most likely warmer where there is a high pressure center.",TUTOR
+2015-04-24,21:19:20,0,VirtualCarolyn,1429924761416,Let's move on to other topic.,TUTOR
+2015-04-24,21:19:48,0,Natty,1429924789876,Ok let's discuss about cold fronts,TOPIC_REQUEST+AFFIRMATIVE+CF
+2015-04-24,21:20:09,0,Timmy B,1429924809770,what kind of weather is associated with cold fronts,CF+QUESTION
+2015-04-24,21:20:23,0,Tomit,1429924823527,Pittsburgh's weather,
+2015-04-24,21:20:28,0,Timmy B,1429924828871,hahaha,SMILES
+2015-04-24,21:20:29,0,Natty,1429924829618,cold weather ,
+2015-04-24,21:20:36,0,VirtualCarolyn,1429924837507,"Welcome, Germán
+We have been discussing on topics like  [high pressure temperature]
+Please join in.",INTRODUCTION
+2015-04-24,21:20:52,0,Natty,1429924852664,precipitation and cold fronts,PRECIPITATION+CF
+2015-04-24,21:20:52,0,VirtualCarolyn,1429924853545,I noticed that you are talking about cold front precipitation. If you want to check your knowledge on cold front precipitation with me say 'LET'S DISCUSS ABOUT cold front precipitation' and I will ask some questions on it.,TOPIC_ELICITATION
+2015-04-24,21:21:02,0,Timmy B,1429924863154,LET'S DISCUSS ABOUT cf precipitation,TOPIC_REQUEST+PRECIPITATION+CF
+2015-04-24,21:21:03,0,VirtualCarolyn,1429924863550,"
+               Will you like to answer some questions related to cold front and precipitation ?
+        ",TUTOR
+2015-04-24,21:21:09,0,Tomit,1429924869208,sure,GIVING_OPINION+AFFIRMATIVE
+2015-04-24,21:21:09,0,VirtualCarolyn,1429924869565,Let's get started.,TUTOR
+2015-04-24,21:21:09,0,VirtualCarolyn,1429924871568,Let's see how much you know about cold fronts and precipitation.,TUTOR
+2015-04-24,21:21:09,0,VirtualCarolyn,1429924871569,Where is the chance of precipitation higher in regards to a cold front?,TUTOR
+2015-04-24,21:21:45,0,Tomit,1429924906212,At the border?,QUESTION
+2015-04-24,21:22:09,0,VirtualCarolyn,1429924929647,That is incorrect.,TUTOR
+2015-04-24,21:22:09,0,VirtualCarolyn,1429924929653,I did not understand your answer. Where is the chance of precipitation higher in regards to a cold front?,TUTOR
+2015-04-24,21:22:18,0,Timmy B,1429924946730,which side of the border do you think it is more likely? The cool air moving in makes the air condense,POSITIVITY+GIVING_OPINION+TEMPERATURE+QUESTION
+2015-04-24,21:22:45,0,Natty,1429924965700,So behind the cold front,CF
+2015-04-24,21:22:47,0,VirtualCarolyn,1429924967823,That is incorrect. The chance of precipitation is higher behind the cold front.,TUTOR
+2015-04-24,21:22:47,0,VirtualCarolyn,1429924967824,"When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the chance of precipitation at these intersections is…?",TUTOR
+2015-04-24,21:23:23,0,Timmy B,1429925005473,hm. Virtual Carolyn is saying the correct answers are incorrect,
+2015-04-24,21:23:28,0,Gaurav,1429925008319,lol,SMILES
+2015-04-24,21:23:36,0,Natty,1429925017088,high?,QUESTION
+2015-04-24,21:23:38,0,VirtualCarolyn,1429925019863,"That is correct. Since Low Pressure centers push air upward which condenses to form moisture and clouds, and low pressure centers are usually found at intersections of cold fronts and warm fronts, the chance of precipitation is higher at these intersections.",TUTOR
+2015-04-24,21:23:38,0,VirtualCarolyn,1429925019864,Let's move on to other topic.,TUTOR
+2015-04-24,21:23:40,0,Tomit,1429925020492,I am confused lol,SMILES+AFFIRMATIVE
+2015-04-24,21:23:44,0,VirtualCarolyn,1429925025867,"Welcome, Arka
+Can any one of you provide a summary of our discussion till now to Arka",INTRODUCTION
+2015-04-24,21:24:16,0,Germán,1429925059818,we were talking about the intersection of cold and warm fronts and the chance of precipitation at this intersection,WF+PRECIPITATION
+2015-04-24,21:24:19,0,VirtualCarolyn,1429925060308,I noticed that you are talking about warm front precipitation. If you want to check your knowledge on warm front precipitation with me say 'LET'S DISCUSS ABOUT warm front precipitation' and I will ask some questions on it.,TOPIC_ELICITATION
+2015-04-24,21:24:20,0,Natty,1429925061925,hinarka we have been talking about cold fronts and precopitation,CF
+2015-04-24,21:24:37,0,Tomit,1429925077486,Lets not dicsuss about warm front precipitation,WF+GIVING_OPINION+PRECIPITATION+NEGATIVE
+2015-04-24,21:24:41,0,Arka,1429925081230,thanks guys,
+2015-04-24,21:24:58,0,Arka,1429925101277,lets discuss warm front precipitation,WF+GIVING_OPINION+TOPIC_REQUEST+PRECIPITATION
+2015-04-24,21:24:58,0,Timmy B,1429925101340,what would you rather discuss about?,QUESTION
+2015-04-24,21:25:01,0,VirtualCarolyn,1429925102325,"
+               Will you like to answer some questions related to warm front and precipitation ?
+        ",TUTOR
+2015-04-24,21:25:02,0,Timmy B,1429925102780,okay,AFFIRMATIVE
+2015-04-24,21:25:02,0,VirtualCarolyn,1429925104328,Let's get started.,TUTOR
+2015-04-24,21:25:03,0,VirtualCarolyn,1429925106329,Let's see how much you know about cold fronts and precipitation.,TUTOR
+2015-04-24,21:25:03,0,VirtualCarolyn,1429925106331,Where is the chance of precipitation higher in regards to a warm front?,TUTOR
+2015-04-24,21:25:07,0,Tomit,1429925107330,lol,SMILES
+2015-04-24,21:25:23,0,Arka,1429925124308,anybody knows the answer?,QUESTION
+2015-04-24,21:25:34,0,Germán,1429925134046,no idea,HELP+NEGATIVE
+2015-04-24,21:25:34,0,Tomit,1429925134533,infront of the warm front,WF
+2015-04-24,21:25:34,0,VirtualCarolyn,1429925136340,That is correct. The chance of precipitation is higher in front of a warm front.,TUTOR
+2015-04-24,21:25:34,0,VirtualCarolyn,1429925136341,Let's move on to other question.,TUTOR
+2015-04-24,21:25:34,0,VirtualCarolyn,1429925136342,"When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the chance of precipitation at these intersections is…?",TUTOR
+2015-04-24,21:25:58,0,Tomit,1429925167468,"I got it guys, I was a weather man in middle school",
+2015-04-24,21:26:05,0,Tomit,1429925167609,;pe,
+2015-04-24,21:26:07,0,Timmy B,1429925167648,haha nice,SMILES+POSITIVITY
+2015-04-24,21:26:07,0,Arka,1429925168494,good job tom !,GROUP_BONDING+POSITIVITY
+2015-04-24,21:26:08,0,Tomit,1429925168532,low*,
+2015-04-24,21:26:12,0,VirtualCarolyn,1429925174404,That is incorrect.,TUTOR
+2015-04-24,21:26:12,0,VirtualCarolyn,1429925174406,"In a low pressure center the air moves upwards. When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the chance of precipitation at these intersections is…?",TUTOR
+2015-04-24,21:26:22,0,Tomit,1429925182610,Nvm,
+2015-04-24,21:26:35,0,VirtualCarolyn,1429925196413,"Welcome, Leah
+We have been discussing on topics like  [high pressure temperature, cold front precipitation, warm front precipitation]
+Please join in.",INTRODUCTION
+2015-04-24,21:26:46,0,VirtualCarolyn,1429925206417,"Welcome, Leah
+We have been discussing on topics like  [high pressure temperature, cold front precipitation, warm front precipitation]
+Please join in.",INTRODUCTION
+2015-04-24,21:27:12,0,Leah,1429925233126,cool,TEMPERATURE
+2015-04-24,21:27:12,0,VirtualCarolyn,1429925234426,That is incorrect. The chances of precipitation are higher where warm fronts and cold fronts meet.,TUTOR
+2015-04-24,21:27:12,0,VirtualCarolyn,1429925234427,Let's move on to other topic.,TUTOR
+2015-04-24,21:27:17,0,Tomit,1429925237187,lol,SMILES
+2015-04-24,21:27:22,0,Germán,1429925242131,haha,SMILES
+2015-04-24,21:27:22,0,Arka,1429925242877,lol...,SMILES
+2015-04-24,21:27:29,0,Leah,1429925249526,haha,SMILES
+2015-04-24,21:27:42,0,Arka,1429925272314,"Leah, carolyn thought your cool was an answer to a previous question",TEMPERATURE
+2015-04-24,21:27:43,0,Leah,1429925272464,what's the question?,QUESTION
+2015-04-24,21:27:52,0,Leah,1429925272612,"yeah, i could tell",AFFIRMATIVE
+2015-04-24,21:28:03,0,Gaurav,1429925283820,Lot of offtask conversation going on,
+2015-04-24,21:28:12,0,Gaurav,1429925293152,Let's talk about a new topic now.,NEGATIVE
+2015-04-24,21:28:13,0,Tomit,1429925293400,Pittsburgh weather sucks,TEASING+DISCONTENT
+2015-04-24,21:28:28,0,Tomit,1429925308963,too many cold front,CF
+2015-04-24,21:28:32,0,Leah,1429925313236,so what is this weather? i guess we're having a cold front right now?,GIVING_OPINION+HELP_REQUEST+CF+QUESTION+NEGATIVE
+2015-04-24,21:28:45,0,Leah,1429925326302,i'm ready for our next warm front,WF+AFFIRMATIVE
+2015-04-24,21:28:46,0,Gaurav,1429925326677,can one of you explain me what is a cold front temperature,HELP_REQUEST+TEMPERATURE+CF+QUESTION
+2015-04-24,21:28:46,0,VirtualCarolyn,1429925328586,I noticed that you are talking about cold front temperature. If you want to check your knowledge on cold front temperature with me say 'LET'S DISCUSS ABOUT cold front temperature' and I will ask some questions on it.,TOPIC_ELICITATION
+2015-04-24,21:28:48,0,Natty,1429925328882,Feels like a cold front herr,POSITIVITY+CF
+2015-04-24,21:29:10,0,Leah,1429925350718,let's discuss about cold front temperature,TOPIC_REQUEST+SAY_MORE_CANDIDATE+TEMPERATURE+CF
+2015-04-24,21:29:10,0,VirtualCarolyn,1429925352595,"
+               Will you like to answer some questions related to cold front and temperature ?
+        ",TUTOR
+2015-04-24,21:29:24,0,Gaurav,1429925364080,yes,AFFIRMATIVE
+2015-04-24,21:29:24,0,VirtualCarolyn,1429925364696,Let's get started.,TUTOR
+2015-04-24,21:29:24,0,VirtualCarolyn,1429925366698,Let's see how much you know about cold fronts and temperature.,TUTOR
+2015-04-24,21:29:24,0,VirtualCarolyn,1429925366699,Where is the temperature cooler in regards to a Cold front?,TUTOR
+2015-04-24,21:29:32,0,Leah,1429925373430,"side note: you can't really use ""about"" with ""discuss""",NEGATIVE
+2015-04-24,21:29:55,0,Gaurav,1429925395188,thansk leah,
+2015-04-24,21:29:57,0,Leah,1429925397298,"you can ""talk about something"" or ""discuss something"", but not ""discuss about something""",GIVING_OPINION+NEGATIVE
+2015-04-24,21:30:00,0,Gaurav,1429925400544,thanks*,
+2015-04-24,21:30:00,0,VirtualCarolyn,1429925400711,That is incorrect.,TUTOR
+2015-04-24,21:30:00,0,VirtualCarolyn,1429925400712,I did not understand your answer. Where is the temperature cooler in regards to a Cold front?,TUTOR
+2015-04-24,21:30:08,0,Gaurav,1429925408094,behind,
+2015-04-24,21:30:10,0,VirtualCarolyn,1429925410716,That is correct. The temperature is cooler behind a cold front.,TUTOR
+2015-04-24,21:30:10,0,VirtualCarolyn,1429925410719,Let's move on to other question.,TUTOR
+2015-04-24,21:30:10,0,VirtualCarolyn,1429925410720,"When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the temperature at these intersections is… ?",TUTOR
+2015-04-24,21:30:25,0,Leah,1429925425152,cold,
+2015-04-24,21:30:36,0,Arka,1429925436699,cool,TEMPERATURE
+2015-04-24,21:30:41,0,VirtualCarolyn,1429925442756,"That is correct. Since cold air sinks and low pressure centers are concentrations of air low in the atmosphere, the temperature is most likely cooler.",TUTOR
+2015-04-24,21:30:41,0,VirtualCarolyn,1429925442757,Let's move on to other topic.,TUTOR
+2015-04-24,21:31:06,0,Germán,1429925466196,ok,AFFIRMATIVE
+2015-04-24,21:31:07,0,Timmy B,1429925467806,what topics would you guys like to discuss,POSITIVITY+QUESTION
+2015-04-24,21:31:16,0,Leah,1429925476507,let's discuss about rain,TOPIC_REQUEST+PRECIPITATION
+2015-04-24,21:31:45,0,Gaurav,1429925506262,did we see anything about rain in the video ?,PRECIPITATION+QUESTION
+2015-04-24,21:31:45,0,Leah,1429925506555,are there any more topics?,QUESTION
+2015-04-24,21:31:48,0,Timmy B,1429925509192,cool do you know what kind of pressure centers are more likely to bring precipitation?,POSITIVITY+PRECIPITATION+TEMPERATURE+QUESTION
+2015-04-24,21:32:04,0,Gaurav,1429925524644,low may be,GIVING_OPINION
+2015-04-24,21:32:06,0,Leah,1429925527096,warm?,QUESTION
+2015-04-24,21:32:20,0,Gaurav,1429925541129,frankly I didnt see the video properly but its awesome,POSITIVITY+GIVING_OPINION
+2015-04-24,21:32:22,0,Timmy B,1429925543335,pressure centers are high or low and fronts are cold or warm,
+2015-04-24,21:32:39,0,Gaurav,1429925559557,we have not been talking about wind direction,POSITIVITY+WINDDIRECTION+NEGATIVE
+2015-04-24,21:33:17,0,Natty,1429925598537,looks like the wind is going north east and south east,POSITIVITY+NEGATIVE
+2015-04-24,21:33:37,0,VirtualCarolyn,1429925618862,"Welcome, Keith M.
+Can any one of you provide a summary of our discussion till now to Keith M.",INTRODUCTION
+2015-04-24,21:33:45,0,Leah,1429925625832,"i think those are the fronts moving, not the wind",POSITIVITY+GIVING_OPINION+NEGATIVE
+2015-04-24,21:33:48,0,Gaurav,1429925628180,Hi Keith,
+2015-04-24,21:33:52,0,Keith M.,1429925632424,Hi all,
+2015-04-24,21:33:57,0,Leah,1429925637482,we're talking about wind direction?,POSITIVITY+WINDDIRECTION+QUESTION
+2015-04-24,21:34:04,0,Keith M.,1429925644727,Cool,TEMPERATURE
+2015-04-24,21:34:12,0,Keith M.,1429925652502,"Or maybe not, if they're warm winds",POSITIVITY+GIVING_OPINION+GIVING_ORIENTATION+NEGATIVE
+2015-04-24,21:34:46,0,Timmy B,1429925687172,so maybe we can talk about how high pressure affects wind direction,POSITIVITY+GIVING_OPINION+GIVING_ORIENTATION+WINDDIRECTION+HP
+2015-04-24,21:34:47,0,VirtualCarolyn,1429925688890,I noticed that you are talking about high pressure wind direction. If you want to check your knowledge on high pressure wind direction with me say 'LET'S DISCUSS ABOUT high pressure wind direction' and I will ask some questions on it.,TOPIC_ELICITATION
+2015-04-24,21:35:06,0,Timmy B,1429925706900,LET'S DISCUSS ABOUT high pressure wind direction,POSITIVITY+TOPIC_REQUEST+WINDDIRECTION+HP
+2015-04-24,21:35:06,0,VirtualCarolyn,1429925708898,"
+               Will you like to answer some questions related to high pressure and wind direction ?
+        ",TUTOR
+2015-04-24,21:35:16,0,Germán,1429925716362,yes,AFFIRMATIVE
+2015-04-24,21:35:16,0,VirtualCarolyn,1429925716901,Let's get started.,TUTOR
+2015-04-24,21:35:16,0,VirtualCarolyn,1429925718905,Let's see how much you know about high pressure and wind direction.,TUTOR
+2015-04-24,21:35:16,0,VirtualCarolyn,1429925718906,How strong are winds around a high pressure center?,TUTOR
+2015-04-24,21:35:42,0,Timmy B,1429925742646,anybody know this one?,QUESTION
+2015-04-24,21:35:50,0,Leah,1429925750397,winds are stronger,POSITIVITY+WINDDIRECTION
+2015-04-24,21:35:52,0,VirtualCarolyn,1429925752917,"That is incorrect. The winds around a high pressure center are usually mild, if there are any.",TUTOR
+2015-04-24,21:35:52,0,VirtualCarolyn,1429925752918,What direction does the wind blow around a high pressure center?,TUTOR
+2015-04-24,21:36:03,0,Leah,1429925763357,clockwise?,WINDDIRECTION+QUESTION
+2015-04-24,21:36:08,0,VirtualCarolyn,1429925768932,That is correct. Winds blow clockwise around high pressure centers.,TUTOR
+2015-04-24,21:36:08,0,VirtualCarolyn,1429925768933,Let's move on to other topic.,TUTOR
+2015-04-24,21:36:46,0,Leah,1429925806944,what topics are left?,QUESTION
+2015-04-24,21:37:11,0,Timmy B,1429925832595,"it's been very strong winds the past few days, can anybody say what kind of pressure centers were likely here",POSITIVITY+WINDDIRECTION+QUESTION
+2015-04-24,21:37:54,0,VirtualCarolyn,1429925874988,"Welcome, Leah
+We have been discussing on topics like  [high pressure wind direction, cold front temperature, warm front precipitation]
+Please join in.",INTRODUCTION
+2015-04-24,21:38:56,0,VirtualCarolyn,1429925937009,"Welcome, Keith M
+We have been discussing on topics like  [high pressure wind direction, cold front temperature, warm front precipitation]
+Please join in.",INTRODUCTION
+2015-04-24,21:39:23,0,VirtualCarolyn,1429925965019,"Welcome, Timmy
+We have been discussing on topics like  [high pressure wind direction, cold front temperature, warm front precipitation]
+Please join in.",INTRODUCTION
+2015-04-24,21:39:45,0,Keith M,1429925987214,"Sorry, I was trying to find a way to hide the on-screen keyboard on my tablet, I don't know a good way to do it. :/",POSITIVITY+KEYBOARD+HELP
+2015-04-24,21:39:56,0,VirtualCarolyn,1429925997052,"Welcome, Keith M
+We have been discussing on topics like  [high pressure wind direction, cold front temperature, warm front precipitation]
+Please join in.",INTRODUCTION
+2015-04-24,21:40:04,0,VirtualCarolyn,1429926005062,"Welcome, Germán
+We have been discussing on topics like  [high pressure wind direction, cold front temperature, warm front precipitation]
+Please join in.",INTRODUCTION
+2015-04-24,21:40:10,0,Timmy,1429926011497,"That's okay Keith, I think Natty is having the same problem",GIVING_OPINION+AFFIRMATIVE+PREDICTION_CONTRIBUTION+NEGATIVE
+2015-04-24,21:40:19,0,Keith M,1429926019943,And there I accidentally refreshed the page :P,
+2015-04-24,21:40:43,0,Leah,1429926043671,"anyone else having issues with the display, or is it just me?",QUESTION
+2015-04-24,21:40:49,0,Timmy,1429926049849,the picture?,QUESTION
+2015-04-24,21:41:04,0,Keith M,1429926065886,"The display looks fine to me, I'm just on a small screen",MONITOR
+2015-04-24,21:41:17,0,Leah,1429926078650,"yeah, instead of seeing the chat on the left and the whiteboard on the right, i see the whole chat at the top and the whiteboard below it",AFFIRMATIVE
+2015-04-24,21:41:29,0,Keith M,1429926089639,"Oh, that's different.",
+2015-04-24,21:41:29,0,Leah,1429926090356,i sent gaurav a screenshot...just curious if i'm the only one having issues,MONITOR
+2015-04-24,21:41:44,0,Leah,1429926105518,i'm going to try a different browser,
+2015-04-24,21:41:45,0,VirtualCarolyn,1429926107108,"Welcome, Gaurav
+We have been discussing on topics like  [high pressure wind direction, cold front temperature, warm front precipitation]
+Please join in.",INTRODUCTION
+2015-04-24,21:41:54,0,Timmy,1429926114314,Good thinking,POSITIVITY
+2015-04-24,21:42:02,0,Timmy,1429926122570,is anyone still here,
+2015-04-24,21:42:18,0,Gaurav,1429926139241,I am expecting few people to come by 10,AFFIRMATIVE
+2015-04-24,21:42:26,0,Keith M,1429926146318,LET'S DISCUSS ABOUT cold front precipitation,TOPIC_REQUEST+PRECIPITATION+CF
+2015-04-24,21:42:26,0,VirtualCarolyn,1429926147211,I noticed that you are talking about cold front precipitation. If you want to check your knowledge on cold front precipitation with me say 'LET'S DISCUSS ABOUT cold front precipitation' and I will ask some questions on it.,TOPIC_ELICITATION
+2015-04-24,21:42:26,0,VirtualCarolyn,1429926149213,"
+               Will you like to answer some questions related to cold front and precipitation ?
+        ",TUTOR
+2015-04-24,21:42:40,0,Keith M,1429926160579,Yeehaw,
+2015-04-24,21:42:49,0,Keith M,1429926170033,"I mean, yes.",AFFIRMATIVE
+2015-04-24,21:42:50,0,VirtualCarolyn,1429926171223,Let's get started.,TUTOR
+2015-04-24,21:42:51,0,VirtualCarolyn,1429926173230,Let's see how much you know about cold fronts and precipitation.,TUTOR
+2015-04-24,21:42:51,0,VirtualCarolyn,1429926173231,Where is the chance of precipitation higher in regards to a cold front?,TUTOR
+2015-04-24,21:43:26,0,Keith M,1429926207108,Precipitation follows behind a cold front,PRECIPITATION+CF
+2015-04-24,21:43:27,0,VirtualCarolyn,1429926209249,That is incorrect.,TUTOR
+2015-04-24,21:43:27,0,VirtualCarolyn,1429926209250,There are usually Low Pressure centers behind cold fronts and High pressure centers in front of cold fronts. Where is the chance of precipitation higher?,TUTOR
+2015-04-24,21:44:01,0,Keith M,1429926242673,In the low pressure center,LP
+2015-04-24,21:44:27,0,VirtualCarolyn,1429926269274,That is incorrect. The chance of precipitation is higher behind the cold front.,TUTOR
+2015-04-24,21:44:27,0,VirtualCarolyn,1429926269275,"When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the chance of precipitation at these intersections is…?",TUTOR
+2015-04-24,21:44:58,0,Keith M,1429926299284,"D'oh, it forked me.  Higher!",SAY_MORE_CANDIDATE
+2015-04-24,21:45:03,0,VirtualCarolyn,1429926305294,"That is correct. Since Low Pressure centers push air upward which condenses to form moisture and clouds, and low pressure centers are usually found at intersections of cold fronts and warm fronts, the chance of precipitation is higher at these intersections.",TUTOR
+2015-04-24,21:45:03,0,VirtualCarolyn,1429926305295,Let's move on to other topic.,TUTOR
+2015-04-24,21:45:21,0,VirtualCarolyn,1429926321300,"Okay, Keith M. Can you say a little more about that?",SAY_MORE+AT_MOVE+Keith M
+2015-04-24,21:45:55,0,Keith M,1429926356996,"Umm, just that I said the correct answer in two ways and you misunderstood :P",
+2015-04-24,21:46:09,0,Gaurav,1429926369747,hehe Keith,SMILES
+2015-04-24,21:47:04,0,Keith M,1429926425765,Maybe we should talk about wind speed,POSITIVITY+GIVING_OPINION+GIVING_ORIENTATION
+2015-04-24,21:47:21,0,Gaurav,1429926442214,low pressure wind direction,POSITIVITY+LP+WINDDIRECTION
+2015-04-24,21:47:22,0,VirtualCarolyn,1429926443358,I noticed that you are talking about low pressure wind direction. If you want to check your knowledge on low pressure wind direction with me say 'LET'S DISCUSS ABOUT low pressure wind direction' and I will ask some questions on it.,TOPIC_ELICITATION
+2015-04-24,21:47:46,0,Keith M,1429926466740,LET'S DISCUSS ABOUT low pressure wind direction,POSITIVITY+TOPIC_REQUEST+LP+WINDDIRECTION
+2015-04-24,21:47:46,0,VirtualCarolyn,1429926467366,"
+               Will you like to answer some questions related to low pressure and wind direction ?
+        ",TUTOR
+2015-04-24,21:47:57,0,VirtualCarolyn,1429926477375,"Welcome, Gaurav
+Can any one of you provide a summary of our discussion till now to Gaurav",INTRODUCTION
+2015-04-24,21:47:59,0,Keith M,1429926479148,Signs point to yes,AFFIRMATIVE
+2015-04-24,21:47:59,0,VirtualCarolyn,1429926479378,Let's get started.,TUTOR
+2015-04-24,21:47:59,0,VirtualCarolyn,1429926481380,Let's see how much you know about low pressure and wind direction.,TUTOR
+2015-04-24,21:47:59,0,VirtualCarolyn,1429926481381,How strong are winds around a low pressure center?,TUTOR
+2015-04-24,21:48:14,0,Gaurav,1429926495938,plzz someone give me summary :P,HELP_REQUEST
+2015-04-24,21:48:23,0,Gaurav,1429926503436,i dont care how strong they are,WINDDIRECTION
+2015-04-24,21:48:26,0,VirtualCarolyn,1429926507392,That is correct. Winds are strong around a low pressure center.,TUTOR
+2015-04-24,21:48:26,0,VirtualCarolyn,1429926507393,What direction does the wind blow around a low pressure center?,TUTOR
+2015-04-24,21:48:34,0,Gaurav,1429926514889,lol,SMILES
+2015-04-24,21:48:35,0,Germán,1429926515831,haha,SMILES
+2015-04-24,21:48:38,0,Keith M,1429926521275,"Hi Gaurav, I can't give you a summary right now because the agent will say it is incorrect",GIVING_OPINION+NEGATIVE
+2015-04-24,21:48:45,0,Keith M,1429926525503,Although it seems to like all of your answers,POSITIVITY
+2015-04-24,21:48:46,0,VirtualCarolyn,1429926527429,That is incorrect.,TUTOR
+2015-04-24,21:48:46,0,VirtualCarolyn,1429926527429,I did not understand your answer. What direction does the wind blow around a low pressure center?,TUTOR
+2015-04-24,21:48:53,0,Gaurav,1429926533671,No it will not try,NEGATIVE
+2015-04-24,21:49:11,0,Germán,1429926551334,clockwise?,WINDDIRECTION+QUESTION
+2015-04-24,21:49:12,0,VirtualCarolyn,1429926553439,That is incorrect. Wind blows counter-clockwise around low pressure centers,TUTOR
+2015-04-24,21:49:12,0,VirtualCarolyn,1429926553442,Let's move on to other topic.,TUTOR
+2015-04-24,21:49:15,0,Keith M,1429926555754,The wind goes counter-clockwise,POSITIVITY+WINDDIRECTION
+2015-04-24,21:49:25,0,Gaurav,1429926565116,you are late Keith,
+2015-04-24,21:49:33,0,Keith M,1429926573413,I was typing,
+2015-04-24,21:50:08,0,Keith M,1429926609361,It seems I am not so fast today.,AFFIRMATIVE+NEGATIVE
+2015-04-24,21:50:09,0,VirtualCarolyn,1429926611471,"Welcome, Natty
+We have been discussing on topics like  [low pressure wind direction, high pressure wind direction, cold front precipitation, cold front temperature, warm front precipitation]
+Please join in.",INTRODUCTION
+2015-04-24,21:50:15,0,Timmy,1429926615635,Hey Natty,NEGATIVE
+2015-04-24,21:50:24,0,Natty,1429926624485,Hello,
+2015-04-24,21:50:25,0,Keith M,1429926625654,That reminds me... LET'S DISCUSS ABOUT high pressure wind speed,POSITIVITY+TOPIC_REQUEST+HP+PREDICTION_CONTRIBUTION
+2015-04-24,21:50:38,0,Timmy,1429926638205,lolz,SMILES
+2015-04-24,21:50:42,0,Gaurav,1429926642415,you meant high pressure wind,POSITIVITY+HP
+2015-04-24,21:50:46,0,Keith M,1429926646822,Or is it LET'S DISCUSS ABOUT high pressure wind direction?,POSITIVITY+TOPIC_REQUEST+WINDDIRECTION+HP+QUESTION
+2015-04-24,21:51:01,0,Gaurav,1429926661880,we already discussed I think,GIVING_OPINION
+2015-04-24,21:51:08,0,Keith M,1429926668937,I am the agent's least favorite chat participant,AFFIRMATIVE
+2015-04-24,21:51:12,0,Gaurav,1429926672278,see the message to natty,TEASING+NEGATIVE
+2015-04-24,21:51:19,0,Gaurav,1429926679772,it includes topics discussed till now,NEGATIVE
+2015-04-24,21:52:02,0,Gaurav,1429926722342,cold front wind direction is available,POSITIVITY+WINDDIRECTION+CF
+2015-04-24,21:52:02,0,VirtualCarolyn,1429926723506,I noticed that you are talking about cold front wind direction. If you want to check your knowledge on cold front wind direction with me say 'LET'S DISCUSS ABOUT cold front wind direction' and I will ask some questions on it.,TOPIC_ELICITATION
+2015-04-24,21:52:15,0,Keith M,1429926737129,It's hard to see much because of how much space is taken up by the tabs/address bar and keyboard :( I'm not a huge fan,KEYBOARD+NEGATIVE
+2015-04-24,21:52:26,0,Keith M,1429926746286,But that's my problem,GIVING_OPINION
+2015-04-24,21:52:40,0,Keith M,1429926761119,LET'S DISCUSS ABOUT cold front wind direction,POSITIVITY+TOPIC_REQUEST+WINDDIRECTION+CF
+2015-04-24,21:52:41,0,VirtualCarolyn,1429926761525,"
+               Will you like to answer some questions related to cold front and wind direction ?
+        ",TUTOR
+2015-04-24,21:52:41,0,Keith M,1429926761867,yes,AFFIRMATIVE
+2015-04-24,21:52:41,0,VirtualCarolyn,1429926763527,Let's get started.,TUTOR
+2015-04-24,21:52:41,0,VirtualCarolyn,1429926765529,"Let's see how much you know about cold fronts, warm fronts and wind direction.",TUTOR
+2015-04-24,21:52:41,0,VirtualCarolyn,1429926765530,"When warm and cold fronts meet, there is likely to be a Low Pressure center. What is the strength of the winds at these intersections?",TUTOR
+2015-04-24,21:52:46,0,Timmy,1429926766940,LET'S DISCUSS ABOUT cold front wind direction,POSITIVITY+TOPIC_REQUEST+WINDDIRECTION+CF
+2015-04-24,21:53:07,0,Keith M,1429926787777,Low pressure centers bring strong counter-clockwise winds,POSITIVITY+LP+WINDDIRECTION
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-04-24,21:59:29,0,VirtualCarolyn,1429927171731,"Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.",INTRODUCTION
+2015-04-24,22:00:09,0,VirtualCarolyn,1429927210279,"Welcome, dqlñwdfmkl
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?",INTRODUCTION
+2015-04-24,22:08:52,0,VirtualCarolyn,1429927734439,"Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?",INTRODUCTION

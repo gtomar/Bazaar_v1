@@ -1,0 +1,87 @@
+<entry timestamp="2015-04-21#19:48:26" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2015-04-21#19:48:26" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2015-04-21#19:48:26" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2015-04-21#19:48:26" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher, class basilica2.social.listeners.StrategyScoreComputer, class basilica2.social.listeners.RuleBasedTriggerComputer, class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.myagent.listeners.Register]</entry>
+<entry timestamp="2015-04-21#19:48:26" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor, class basilica2.myagent.listeners.PromptActor]</entry>
+<entry timestamp="2015-04-21#19:48:27" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2015-04-21#19:48:27" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2015-04-21#19:48:28" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger</entry>
+<entry timestamp="2015-04-21#19:48:31" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger agree</entry>
+<entry timestamp="2015-04-21#19:48:32" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger explain agree</entry>
+<entry timestamp="2015-04-21#19:48:32" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger revoice explain agree</entry>
+<entry timestamp="2015-04-21#19:48:33" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger say_more revoice explain agree</entry>
+<entry timestamp="2015-04-21#19:48:37" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to us1</entry>
+<entry timestamp="2015-04-21#19:48:37" user="NewAgentRunner" level="NORMAL"><launching room=us1/></entry>
+<entry timestamp="2015-04-21#19:48:37" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2015-04-21#19:48:37" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2015-04-21#19:48:37" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2015-04-21#19:48:37" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2015-04-21#19:48:37" user="AgentFactory" level="NORMAL">Components read. N=5</entry>
+<entry timestamp="2015-04-21#19:48:37" user="AgentFactory" level="NORMAL">Agent build. VirtualCarolyn_us1</entry>
+<entry timestamp="2015-04-21#19:48:37" user="NewAgentRunner" level="NORMAL">Adding agent VirtualCarolyn_us1</entry>
+<entry timestamp="2015-04-21#19:48:37" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2015-04-21#19:48:37" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2015-04-21#19:48:37" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2015-04-21#19:48:37" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2015-04-21#19:48:37" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#19:48:37" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2015-04-21#19:48:37" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2015-04-21#19:48:37" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage initiate</entry>
+<entry timestamp="2015-04-21#19:48:37" user="PlanExecutor" level="NORMAL">Firing Stage 'body'</entry>
+<entry timestamp="2015-04-21#19:48:37" user="Step" level="NORMAL">Handlers for SHOW_IMAGE(whiteboard): [basilica2.agents.listeners.plan.WhiteboardStepHandler@4b578699]</entry>
+<entry timestamp="2015-04-21#19:48:37" user="WhiteboardStepHandler" level="NORMAL">whiteboard step image:SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#19:48:37" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#19:48:37" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for VirtualCarolyn_us1</entry>
+<entry timestamp="2015-04-21#19:48:37" user="NewAgentRunner" level="NORMAL">Agent added VirtualCarolyn_us1</entry>
+<entry timestamp="2015-04-21#19:48:39" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Timmy
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#19:48:41" user="" level="NORMAL">ACCEPTED! CREATE whiteboard-image http://i62.tinypic.com/1ggo6c.png</entry>
+<entry timestamp="2015-04-21#19:48:42" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#19:48:42" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-21#19:49:03" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about cold front wind direction. If you want to check your knowledge on cold front wind direction with me say 'LET'S DISCUSS ABOUT cold front wind direction' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#19:49:05" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to cold front and wind direction ?
+         TUTOR</entry>
+<entry timestamp="2015-04-21#19:49:11" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-21#19:49:13" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's see how much you know about cold fronts, warm fronts and wind direction.|When warm and cold fronts meet, there is likely to be a Low Pressure center. What is the strength of the winds at these intersections? TUTOR</entry>
+<entry timestamp="2015-04-21#19:49:21" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect. The wind is strong at these intersections.|When warm and cold fronts meet, there is likely to be a Low Pressure center. What is the direction of the winds at these intersections? TUTOR</entry>
+<entry timestamp="2015-04-21#19:50:18" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-21#19:50:18" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-21#19:50:18" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-21#19:50:19" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Gaurav
+We have been discussing on topics like  [cold front wind direction]
+Please join in. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#19:50:27" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-21#19:50:27" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-21#19:50:27" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-04-21#19:50:27" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-04-21#19:50:29" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Germán
+We have been discussing on topics like  [cold front wind direction]
+Please join in. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#19:52:13" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about warm front wind direction. If you want to check your knowledge on warm front wind direction with me say 'LET'S DISCUSS ABOUT warm front wind direction' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#19:52:22" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#19:52:23" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Looks like it's time to move on. TUTOR</entry>
+<entry timestamp="2015-04-21#19:52:25" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to warm front and wind direction ?
+         TUTOR</entry>
+<entry timestamp="2015-04-21#19:52:27" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#19:52:27" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-21#19:52:27" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-21#19:52:29" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's see how much you know about cold fronts, warm fronts and wind direction.|When warm and cold fronts meet, there is likely to be a Low Pressure center. What is the strength of the winds at these intersections? TUTOR</entry>
+<entry timestamp="2015-04-21#19:53:17" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-04-21#19:53:17" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-04-21#19:53:25" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect.|I did not understand your answer. When warm and cold fronts meet, there is likely to be a Low Pressure center. What is the strength of the winds at these intersections? TUTOR</entry>
+<entry timestamp="2015-04-21#19:53:52" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-04-21#19:53:52" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-04-21#19:53:52" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-04-21#19:53:52" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-04-21#19:53:53" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Gaurav
+Can any one of you provide a summary of our discussion till now to Gaurav INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#19:54:25" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect. The wind is strong at these intersections.|When warm and cold fronts meet, there is likely to be a Low Pressure center. What is the direction of the winds at these intersections? TUTOR</entry>

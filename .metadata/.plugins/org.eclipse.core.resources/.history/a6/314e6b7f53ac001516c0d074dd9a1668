@@ -1,0 +1,280 @@
+2015-11-19,18:14:49,0,BazaarAgent,1447974889923,"Welcome, gaurav
+",INTRODUCTION
+2015-11-19,18:14:59,0,BazaarAgent,1447974899942,"Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.",Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.
+2015-11-19,18:15:25,0,gaurav,1447974930113,plan 1 is good,PLAN+POSITIVITY+PLAN1+neg
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-11-19,18:17:15,0,BazaarAgent,1447975036986,"Welcome, gaurav
+",INTRODUCTION
+2015-11-19,18:17:20,0,gaurav,1447975041974,plan 1,PLAN+PLAN1+neg
+2015-11-19,18:17:24,0,gaurav,1447975044993,no reason,NEGATIVE+neg
+2015-11-19,18:17:25,0,BazaarAgent,1447975045038,"Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,18:17:25,0,BazaarAgent,1447975047045,"Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.",Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.
+2015-11-19,18:18:14,0,BazaarAgent,1447975095063,"Welcome, sree
+",INTRODUCTION
+2015-11-19,18:18:51,0,BazaarAgent,1447975133079,"Welcome, sree
+",INTRODUCTION
+2015-11-19,18:18:57,0,sree,1447975138159,Wassup Bazaar!,neg
+2015-11-19,18:19:04,0,sree,1447975145066,Thanks for your help. :),SMILES+CONFUSION+HELP_REQUEST+HELP+neg
+2015-11-19,18:19:48,0,sree,1447975192751,I suggest that we propose plan 2 because is the most economical aas well as environment friendly.,PLAN+GIVING_OPINION+PLAN2+pos
+2015-11-19,18:19:52,0,BazaarAgent,1447975193123,"Hey gaurav, Can you evaluatesree 's plan from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,18:20:06,0,sree,1447975206648,plan 2 plan 1,PLAN+PLAN2+PLAN1+neg
+2015-11-19,18:20:12,0,sree,1447975212099,blah,neg
+2015-11-19,18:20:12,0,BazaarAgent,1447975213137,"Hey sree, Can you evaluate plan 1 from your perspective of environmental friendliness and low startup cost ?",plan_reasoning
+2015-11-19,18:21:10,0,gaurav,1447975270602,plan 1 ,PLAN+PLAN1+neg
+2015-11-19,18:21:14,0,gaurav,1447975274452,no reason,NEGATIVE+neg
+2015-11-19,18:21:14,0,BazaarAgent,1447975275165,"Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,18:21:22,0,gaurav,1447975282733,plan 1 ,PLAN+PLAN1+neg
+2015-11-19,18:21:26,0,gaurav,1447975286478,no reason,NEGATIVE+neg
+2015-11-19,18:22:12,0,gaurav,1447975332904,I suggest that we propose plan 2 because is the most economical aas well as environment friendly.,PLAN+GIVING_OPINION+PLAN2+pos
+2015-11-19,18:22:12,0,BazaarAgent,1447975333186,"Hey sree, Can you evaluategaurav 's plan from your perspective of environmental friendliness and low startup cost ?",plan_reasoning
+2015-11-19,18:22:19,0,gaurav,1447975339993,I suggest that we propose plan 2 because is the most economical aas well as environment friendly.,PLAN+GIVING_OPINION+PLAN2+pos
+2015-11-19,18:22:20,0,BazaarAgent,1447975341191,"Hey sree, Can you evaluategaurav 's plan from your perspective of environmental friendliness and low startup cost ?",plan_reasoning
+2015-11-19,18:22:23,0,gaurav,1447975344168,I suggest that we propose plan 2 because is the most economical aas well as environment friendly.,PLAN+GIVING_OPINION+PLAN2+pos
+2015-11-19,18:22:24,0,sree,1447975344917, suggest that we propose plan 2 because is the most economical aas well as environment friendly,PLAN+GIVING_OPINION+PLAN2+pos
+2015-11-19,18:23:25,0,xu,1447975405838,I propose plan 1,PLAN+PLAN1+neg
+2015-11-19,18:23:35,0,xu,1447975415174,plan 1 is the best,PLAN+GIVING_OPINION+PLAN1+neg
+2015-11-19,18:23:43,0,sree,1447975423265,sounds like gibberish,POSITIVITY+neg
+2015-11-19,18:23:46,0,xu,1447975427021,hihihi,neg
+2015-11-19,18:23:53,0,xu,1447975433491,I propose plan 3,PLAN+PLAN3+neg
+2015-11-19,18:23:56,0,sree,1447975436858,What about plan 4?,PLAN+PLAN4+QUESTION+neg
+2015-11-19,18:23:58,0,xu,1447975439202,because plan 3 is the best,PLAN+GIVING_OPINION+PLAN3+neg
+2015-11-19,18:24:03,0,sree,1447975443903,Isn't it useless.,DISCONTENT+neg
+2015-11-19,18:24:18,0,xu,1447975459100,apple,neg
+2015-11-19,18:24:42,0,gaurav,1447975482466,plan 4,PLAN+PLAN4+neg
+2015-11-19,18:24:45,0,gaurav,1447975486008,no reason,NEGATIVE+neg
+2015-11-19,18:27:12,0,gaurav,1447975632894,plan 4,PLAN+PLAN4+neg
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-11-19,18:27:50,0,BazaarAgent,1447975671770,"Welcome, gaurav
+",INTRODUCTION
+2015-11-19,18:27:50,0,BazaarAgent,1447975673797,"Welcome, sree
+",INTRODUCTION
+2015-11-19,18:28:00,0,BazaarAgent,1447975681802,"Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.",Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.
+2015-11-19,18:28:03,0,gaurav,1447975684820,plan 3,PLAN+PLAN3+neg
+2015-11-19,18:28:09,0,sree,1447975689778,Wassup!,neg
+2015-11-19,18:28:09,0,xu,1447975690324,i propose plan 4,PLAN+PLAN4+neg
+2015-11-19,18:28:10,0,gaurav,1447975690477,no reason,NEGATIVE+neg
+2015-11-19,18:28:10,0,BazaarAgent,1447975691815,"Hey gaurav, Can you evaluate plan 3 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,18:28:25,0,gaurav,1447975705658,plan 1 ,PLAN+PLAN1+neg
+2015-11-19,18:28:28,0,gaurav,1447975708805,no reason,NEGATIVE+neg
+2015-11-19,18:28:28,0,BazaarAgent,1447975709824,"Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,18:28:34,0,gaurav,1447975714473,plan 2,PLAN+PLAN2+neg
+2015-11-19,18:28:38,0,gaurav,1447975718132,no reason,NEGATIVE+neg
+2015-11-19,18:28:40,0,sree,1447975723641,plan 1 is not viable because it is not environment friendly and just plain shit,PLAN+ABUSE+GIVING_OPINION+NEGATIVE+PLAN1+pos
+2015-11-19,18:28:43,0,BazaarAgent,1447975723845,"Hey gaurav, Can you evaluate sree 's plan from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,18:28:41,0,xu,1447975724851,I thik plan 3 is the best because it is the most environmentally friendly and could generate some commercial benefits.,PLAN+GIVING_OPINION+PLAN3+pos
+2015-11-19,18:29:32,0,xu,1447975772449,plan4,PLAN+PLAN4+neg
+2015-11-19,18:29:35,0,xu,1447975775312,plan 4,PLAN+PLAN4+neg
+2015-11-19,18:29:36,0,xu,1447975776765,hi,neg
+2015-11-19,18:29:38,0,sree,1447975778823,Wassup,neg
+2015-11-19,18:30:08,0,sree,1447975808430,plan4 is not viable because environment friendly and economy,PLAN+PLAN4+NEGATIVE+neg
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-11-19,18:36:35,0,BazaarAgent,1447976196783,"Welcome, gaurav
+",INTRODUCTION
+2015-11-19,18:36:35,0,BazaarAgent,1447976198806,"Welcome, xu
+",INTRODUCTION
+2015-11-19,18:36:37,0,xu,1447976199331,hi,neg
+2015-11-19,18:36:41,0,xu,1447976201772,i propose plan 1,PLAN+PLAN1+neg
+2015-11-19,18:36:45,0,BazaarAgent,1447976206821,"Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.",Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.
+2015-11-19,18:36:53,0,xu,1447976215870,i think plan 1 is the best,PLAN+GIVING_OPINION+PLAN1+neg
+2015-11-19,18:36:55,0,BazaarAgent,1447976216840,"Hey xu, Can you evaluate plan 1 from your perspective of environmental friendliness and reliability ?",plan_reasoning
+2015-11-19,18:37:10,0,xu,1447976231764,"yes, plan1 is the best because it's the most economical one.",PLAN+GIVING_OPINION+AFFIRMATIVE+PLAN1+pos
+2015-11-19,18:37:11,0,BazaarAgent,1447976232855,"Hey gaurav, Can you evaluate xu's plan from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,18:37:22,0,xu,1447976243501,i think plan 2 is also very good.,PLAN+POSITIVITY+GIVING_OPINION+PLAN2+neg
+2015-11-19,18:37:27,0,gaurav,1447976248152,"yes, plan1 is the best because it's the most economical one.",PLAN+GIVING_OPINION+AFFIRMATIVE+PLAN1+pos
+2015-11-19,18:37:28,0,BazaarAgent,1447976248945,"Hey xu, Can you evaluate gaurav's plan from your perspective of environmental friendliness and reliability ?",plan_reasoning
+2015-11-19,18:37:35,0,gaurav,1447976255535,"yes, plan1 is the best because it's the most economical one.",PLAN+GIVING_OPINION+AFFIRMATIVE+PLAN1+pos
+2015-11-19,18:37:42,0,gaurav,1447976262799,plan 2 ,PLAN+PLAN2+neg
+2015-11-19,18:37:45,0,xu,1447976266155,"yes, plan 1 is carbon neutral",PLAN+AFFIRMATIVE+PLAN1+neg
+2015-11-19,18:37:46,0,gaurav,1447976266906,no reason,NEGATIVE+neg
+2015-11-19,18:37:46,0,BazaarAgent,1447976266954,"Hey xu, Can you evaluate plan 1 from your perspective of environmental friendliness and reliability ?",plan_reasoning
+2015-11-19,18:38:34,0,gaurav,1447976314901,plan 3 ,PLAN+PLAN3+neg
+2015-11-19,18:38:37,0,gaurav,1447976317949,no reason,NEGATIVE+neg
+2015-11-19,18:38:43,0,xu,1447976323921,plan2,PLAN+PLAN2+neg
+2015-11-19,18:38:46,0,xu,1447976326885,plan4,PLAN+PLAN4+neg
+2015-11-19,18:39:07,0,sree,1447976347156,plan 1 ,PLAN+PLAN1+neg
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-11-19,18:40:51,0,BazaarAgent,1447976452914,"Welcome, gaurav
+",INTRODUCTION
+2015-11-19,18:40:51,0,BazaarAgent,1447976454931,"Welcome, sree
+",INTRODUCTION
+2015-11-19,18:40:57,0,BazaarAgent,1447976458944,"Welcome, sree
+",INTRODUCTION
+2015-11-19,18:41:00,0,xu,1447976462237,hi,neg
+2015-11-19,18:41:01,0,BazaarAgent,1447976462957,"Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.",Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.
+2015-11-19,18:41:05,0,gaurav,1447976466200,plan 1 ,PLAN+PLAN1+neg
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-11-19,18:45:38,0,BazaarAgent,1447976740002,"Welcome, gaurav
+",INTRODUCTION
+2015-11-19,18:45:42,0,BazaarAgent,1447976744027,"Welcome, xu
+",INTRODUCTION
+2015-11-19,18:45:47,0,xu,1447976748625,hi,neg
+2015-11-19,18:45:49,0,xu,1447976749423,plan 1,PLAN+PLAN1+neg
+2015-11-19,18:45:48,0,BazaarAgent,1447976750036,"Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.",Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-11-19,18:49:24,0,BazaarAgent,1447976965554,"Welcome, gaurav
+",INTRODUCTION
+2015-11-19,18:49:24,0,BazaarAgent,1447976967569,"Welcome, xu
+",INTRODUCTION
+2015-11-19,18:49:30,0,xu,1447976972403,hi bazaar,neg
+2015-11-19,18:49:32,0,xu,1447976972631,plan 1,PLAN+PLAN1+neg
+2015-11-19,18:49:34,0,gaurav,1447976974766,plan 2,PLAN+PLAN2+neg
+2015-11-19,18:49:34,0,BazaarAgent,1447976975574,"Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.",Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-11-19,18:53:08,0,BazaarAgent,1447977189795,"Welcome, gaurav
+",INTRODUCTION
+2015-11-19,18:53:08,0,BazaarAgent,1447977191815,"Welcome, xu
+",INTRODUCTION
+2015-11-19,18:53:18,0,BazaarAgent,1447977199826,"Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.",Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.
+2015-11-19,18:53:24,0,gaurav,1447977206006,PLAN 1,PLAN+PLAN1+neg
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-11-19,18:55:08,0,BazaarAgent,1447977309630,"Welcome, gaurav
+",INTRODUCTION
+2015-11-19,18:55:08,0,BazaarAgent,1447977311677,"Welcome, sree
+",INTRODUCTION
+2015-11-19,18:55:11,0,sree,1447977312972,Just under the surface.,SAY_MORE_CANDIDATE+neg
+2015-11-19,18:55:12,0,gaurav,1447977313236,plan 1,PLAN+PLAN1+neg
+2015-11-19,18:55:18,0,BazaarAgent,1447977319694,"Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.",Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.
+2015-11-19,18:55:23,0,gaurav,1447977323446,no reason,NEGATIVE+neg
+2015-11-19,18:55:23,0,BazaarAgent,1447977323738,"Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,18:55:23,0,sree,1447977326520,Plan 2 has very surface level features,PLAN+PLAN2+neg
+2015-11-19,18:55:32,0,sree,1447977332169,because zilch,neg
+2015-11-19,18:55:32,0,BazaarAgent,1447977333748,"Hey sree, Can you evaluate plan 2 from your perspective of environmental friendliness and low startup cost ?",plan_reasoning
+2015-11-19,18:55:39,0,gaurav,1447977339339,plan 3,PLAN+PLAN3+neg
+2015-11-19,18:55:43,0,gaurav,1447977343086,no reason,NEGATIVE+neg
+2015-11-19,18:56:09,0,sree,1447977370074,A-B-C-D-,neg
+2015-11-19,18:56:12,0,sree,1447977372249,E-F-G,neg
+2015-11-19,18:56:15,0,sree,1447977376100,plan 2,PLAN+PLAN2+neg
+2015-11-19,18:56:26,0,sree,1447977387167,plan 1 is economical and environment firnedly,PLAN+PLAN1+neg
+2015-11-19,18:56:40,0,sree,1447977400834,blah,neg
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-11-19,18:57:14,0,BazaarAgent,1447977435397,"Welcome, gaurav
+",INTRODUCTION
+2015-11-19,18:57:14,0,BazaarAgent,1447977437411,"Welcome, sree
+",INTRODUCTION
+2015-11-19,18:57:15,0,sree,1447977441442,I think plan 1 is the best because it is provides the least cost and is the most environment friendly,PLAN+GIVING_OPINION+PLAN1+pos
+2015-11-19,18:57:21,0,BazaarAgent,1447977443430,"Hey gaurav, Can you evaluate sree's plan from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,18:57:24,0,BazaarAgent,1447977445435,"Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.",Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.
+2015-11-19,18:57:32,0,sree,1447977452700,plan 1,PLAN+PLAN1+neg
+2015-11-19,18:57:35,0,sree,1447977455265,no reason,NEGATIVE+neg
+2015-11-19,18:57:35,0,BazaarAgent,1447977455440,"Hey sree, Can you evaluate plan 1 from your perspective of environmental friendliness and low startup cost ?",plan_reasoning
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-11-19,18:59:29,0,BazaarAgent,1447977570603,"Welcome, gaurav
+",INTRODUCTION
+2015-11-19,18:59:29,0,BazaarAgent,1447977572623,"Welcome, sree
+",INTRODUCTION
+2015-11-19,18:59:33,0,gaurav,1447977574803,plan 1,PLAN+PLAN1+neg
+2015-11-19,18:59:36,0,gaurav,1447977576632,no reason,NEGATIVE+neg
+2015-11-19,18:59:36,0,BazaarAgent,1447977578639,"Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,18:59:39,0,BazaarAgent,1447977580644,"Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.",Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.
+2015-11-19,18:59:43,0,xu,1447977583905,hi,neg
+2015-11-19,18:59:47,0,xu,1447977587290,hi,neg
+2015-11-19,18:59:49,0,xu,1447977589156,plan1,PLAN+PLAN1+neg
+2015-11-19,18:59:52,0,xu,1447977593136,plan1 is the best,PLAN+GIVING_OPINION+PLAN1+neg
+2015-11-19,19:00:01,0,xu,1447977602041,plan 1 is the best,PLAN+GIVING_OPINION+PLAN1+neg
+2015-11-19,19:00:17,0,xu,1447977618105,hi,neg
+2015-11-19,19:00:19,0,xu,1447977619763,plan2,PLAN+PLAN2+neg
+2015-11-19,19:00:22,0,xu,1447977622972,plan2 is the best,PLAN+GIVING_OPINION+PLAN2+neg
+2015-11-19,19:00:26,0,gaurav,1447977626370,plan 2,PLAN+PLAN2+neg
+2015-11-19,19:00:28,0,gaurav,1447977628823,no reason,NEGATIVE+neg
+2015-11-19,19:00:28,0,BazaarAgent,1447977630674,"Hey gaurav, Can you evaluate plan 2 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,19:00:37,0,gaurav,1447977637587,plan2,PLAN+PLAN2+neg
+2015-11-19,19:00:40,0,gaurav,1447977640941,no reason,NEGATIVE+neg
+2015-11-19,19:00:40,0,BazaarAgent,1447977642681,"Hey gaurav, Can you evaluate plan 2 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,19:01:00,0,sree,1447977661118,hi,neg
+2015-11-19,19:01:03,0,BazaarAgent,1447977664693,"Welcome, sree
+",INTRODUCTION
+2015-11-19,19:01:09,0,xu,1447977669789,plan 3,PLAN+PLAN3+neg
+2015-11-19,19:01:10,0,sree,1447977670999,"Assumptions made for computer-agent environments for classroom studies do not hold true for online learning studies. Assumptions specifically regarding formation, coordination and management of groups working together in online learning management systems where learners are distributed over vast distances and separated by time zones are handled by an extension to Bazaar, a modular framework for designing multi-party collaborative agents which provide multidimensional support for group learning. To date, this extension has been applied to three MOOC courses allowing us to draw some preliminary conclusions as to the generality of the approach. We briefly describe our experience in designing, developing and deploying chat tools on different MOOCs for supporting group learning. This work contributes a framework to a broad and creative community of researchers working on intelligent support for group learning to conduct experiments for investigating a wide range of important questions within the design space of group learning in online learning management systems like MOOCs. The system deployment effort is focused entirely on authoring domain dependent dialogs, while a rich set of domain-independent conversational behaviors are transparently generated by the dialog agent.",POSITIVITY+GIVING_ORIENTATION+NEGATIVE+pos
+2015-11-19,19:01:25,0,xu,1447977685779,plan 3,PLAN+PLAN3+neg
+2015-11-19,19:01:27,0,sree,1447977687853,plan 4 ,PLAN+PLAN4+neg
+2015-11-19,19:01:29,0,sree,1447977689320,crap,ABUSE+neg
+2015-11-19,19:01:29,0,BazaarAgent,1447977690706,"Hey sree, Can you evaluate plan 4 from your perspective of environmental friendliness and low startup cost ?",plan_reasoning
+2015-11-19,19:01:40,0,xu,1447977700487,plan 4,PLAN+PLAN4+neg
+2015-11-19,19:01:42,0,xu,1447977702546,hihi,neg
+2015-11-19,19:01:44,0,xu,1447977704204,bazaar ,neg
+2015-11-19,19:01:49,0,xu,1447977709526,why are you ignoring me?,QUESTION+neg
+2015-11-19,19:02:03,0,gaurav,1447977723390,plan 3,PLAN+PLAN3+neg
+2015-11-19,19:02:06,0,gaurav,1447977726233,no reason,NEGATIVE+neg
+2015-11-19,19:02:06,0,BazaarAgent,1447977726721,"Hey gaurav, Can you evaluate plan 3 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,19:02:24,0,BazaarAgent,1447977744728,"Welcome, sree
+",INTRODUCTION
+2015-11-19,19:02:51,0,BazaarAgent,1447977772742,"Welcome, sree
+",INTRODUCTION
+2015-11-19,19:02:51,0,BazaarAgent,1447977774745,"Welcome, xu
+",INTRODUCTION
+2015-11-19,19:02:58,0,xu,1447977779077,plan 1,PLAN+PLAN1+neg
+2015-11-19,19:03:04,0,xu,1447977784448,plan 1 is the best,PLAN+GIVING_OPINION+PLAN1+neg
+2015-11-19,19:03:04,0,BazaarAgent,1447977784750,"Hey xu, Can you evaluate plan 1 from your perspective of environmental friendliness and reliability ?",plan_reasoning
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-11-19,19:03:33,0,BazaarAgent,1447977814453,"Welcome, gaurav
+",INTRODUCTION
+2015-11-19,19:03:36,0,BazaarAgent,1447977816470,"Welcome, sree
+",INTRODUCTION
+2015-11-19,19:03:39,0,sree,1447977821435,Wassup!,neg
+2015-11-19,19:03:43,0,BazaarAgent,1447977824478,"Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.",Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.
+2015-11-19,19:03:44,0,BazaarAgent,1447977826489,"Welcome, sree
+",INTRODUCTION
+2015-11-19,19:03:44,0,BazaarAgent,1447977828553,"Welcome, xu
+",INTRODUCTION
+2015-11-19,19:03:48,0,sree,1447977828660,plan 1,PLAN+PLAN1+neg
+2015-11-19,19:03:51,0,sree,1447977831775,skills,neg
+2015-11-19,19:03:51,0,BazaarAgent,1447977832568,"Hey sree, Can you evaluate plan 1 from your perspective of environmental friendliness and low startup cost ?",plan_reasoning
+2015-11-19,19:03:55,0,xu,1447977835654,plan 1,PLAN+PLAN1+neg
+2015-11-19,19:04:06,0,sree,1447977849746,plan 1 is the best because environment friendly and economical,PLAN+GIVING_OPINION+PLAN1+pos
+2015-11-19,19:04:09,0,BazaarAgent,1447977850579,"Hey xu, Can you evaluate sree's plan from your perspective of environmental friendliness and reliability ?",plan_reasoning
+2015-11-19,19:04:09,0,BazaarAgent,1447977852586,"Hey xu, Can you evaluate plan 1 from your perspective of environmental friendliness and reliability ?",plan_reasoning
+2015-11-19,19:04:23,0,xu,1447977863877,plan 1 is the best because plan 1 it is the most economical one,PLAN+GIVING_OPINION+PLAN1+pos
+2015-11-19,19:04:23,0,BazaarAgent,1447977864593,"Hey sree, Can you evaluate xu's plan from your perspective of environmental friendliness and low startup cost ?",plan_reasoning
+2015-11-19,19:04:28,0,gaurav,1447977868553,plan 1 ,PLAN+PLAN1+neg
+2015-11-19,19:04:31,0,gaurav,1447977872027,no reason,NEGATIVE+neg
+2015-11-19,19:04:41,0,sree,1447977881873,plan 1 is the best because plan 1 it is the most economical one,PLAN+GIVING_OPINION+PLAN1+pos
+2015-11-19,19:04:50,0,gaurav,1447977890144,plan 2,PLAN+PLAN2+neg
+2015-11-19,19:04:53,0,sree,1447977893217,plan 2 is hitty,PLAN+PLAN2+neg
+2015-11-19,19:04:53,0,gaurav,1447977893264,no reason,NEGATIVE+neg
+2015-11-19,19:04:53,0,BazaarAgent,1447977894608,"Hey gaurav, Can you evaluate plan 2 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,19:04:59,0,sree,1447977899352,reasons,neg
+2015-11-19,19:04:59,0,BazaarAgent,1447977900613,"Hey sree, Can you evaluate plan 2 from your perspective of environmental friendliness and low startup cost ?",plan_reasoning
+2015-11-19,19:05:03,0,sree,1447977903815,yaya!,GROUP_BONDING+neg
+2015-11-19,19:05:09,0,gaurav,1447977909572,paln 2 ,neg
+2015-11-19,19:05:11,0,gaurav,1447977911815,no reason,NEGATIVE+neg
+2015-11-19,19:05:12,0,sree,1447977912895,I love you Bazaar!,POSITIVITY+neg
+2015-11-19,19:05:13,0,xu,1447977914178,plan 2 is teh best because it is envornmentally firendly and doesn't generate any pollutants,PLAN+GIVING_OPINION+PLAN2+pos
+2015-11-19,19:05:14,0,BazaarAgent,1447977914620,"Hey gaurav, Can you evaluate xu's plan from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,19:05:19,0,gaurav,1447977919542,plan 2 ,PLAN+PLAN2+neg
+2015-11-19,19:05:21,0,gaurav,1447977921705,no reason,NEGATIVE+neg
+2015-11-19,19:05:28,0,xu,1447977928972,plan3,PLAN+PLAN3+neg
+2015-11-19,19:05:30,0,gaurav,1447977930468,plan 2 is teh best because it is envornmentally firendly and doesn't generate any pollutants,PLAN+GIVING_OPINION+PLAN2+pos
+2015-11-19,19:05:30,0,BazaarAgent,1447977930626,"Hey xu, Can you evaluate gaurav's plan from your perspective of environmental friendliness and reliability ?",plan_reasoning
+2015-11-19,19:05:31,0,sree,1447977932132,because because is a conjunction,neg
+2015-11-19,19:05:39,0,BazaarAgent,1447977940632,"Hey xu, Can you evaluate plan 3 from your perspective of environmental friendliness and reliability ?",plan_reasoning
+2015-11-19,19:05:46,0,xu,1447977946603,plan 4,PLAN+PLAN4+neg
+2015-11-19,19:05:49,0,gaurav,1447977950185,"Hey xu, Can you evaluate gaurav's plan from your perspective of environmental friendliness and reliability ?",HELP_REQUEST+QUESTION+neg
+2015-11-19,19:05:51,0,xu,1447977951638,plan 3 is the best,PLAN+GIVING_OPINION+PLAN3+neg
+2015-11-19,19:05:51,0,BazaarAgent,1447977952643,"Hey xu, Can you evaluate plan 3 from your perspective of environmental friendliness and reliability ?",plan_reasoning
+2015-11-19,19:06:06,0,gaurav,1447977966787,plan 4 ,PLAN+PLAN4+neg
+2015-11-19,19:06:09,0,gaurav,1447977969227,no reason,NEGATIVE+neg
+2015-11-19,19:06:09,0,BazaarAgent,1447977970742,"Hey gaurav, Can you evaluate plan 4 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning

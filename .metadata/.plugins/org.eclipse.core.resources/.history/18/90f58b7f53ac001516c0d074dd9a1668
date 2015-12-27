@@ -1,0 +1,13 @@
+2015-07-16,11:17:50,0,VirtualCarolyn,1437059871401,"Welcome, test
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.",INTRODUCTION
+2015-07-16,11:17:50,0,VirtualCarolyn,1437059874038,...,...
+2015-07-16,11:18:21,0,test,1437059902427,weather,neg
+2015-07-16,11:18:41,0,test,1437059922140,low precipitation,PRECIPITATION+neg
+2015-07-16,11:19:13,0,test,1437059953505,happy,pos
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-07-16,11:22:36,0,VirtualCarolyn,1437060158811,...,...
+2015-07-16,11:22:45,0,VirtualCarolyn,1437060166876,"Welcome, ttt
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.",INTRODUCTION
+2015-07-16,11:23:01,0,ttt,1437060184480,sad cry bad,neg

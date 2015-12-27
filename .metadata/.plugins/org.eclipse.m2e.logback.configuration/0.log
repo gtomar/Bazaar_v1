@@ -1,0 +1,4 @@
+2015-12-26 23:07:23,114 [main] WARN  org.eclipse.equinox.logger - Both 'org.eclipse.bpmn2' and 'org.eclipse.papyrus.infra.core.sasheditor.di' register an extension parser for 'di' - org.eclipse.emf.ecore, id: 1294
+2015-12-26 23:07:23,115 [main] WARN  org.eclipse.equinox.logger - Both 'org.eclipse.bpmn2' and 'org.eclipse.papyrus.infra.core.sasheditor.di' register an extension parser for 'di' - org.eclipse.emf.ecore, id: 1294 - org.eclipse.m2e.logback.appender, id: 2230
+2015-12-26 23:07:23,117 [main] WARN  org.eclipse.equinox.logger - Both 'org.eclipse.fx.ide.css.ui' and 'org.eclipse.papyrus.infra.gmfdiag.css3.xtext.ui' register an extension parser for 'css' - org.eclipse.emf.ecore, id: 1294
+2015-12-26 23:07:23,117 [main] WARN  org.eclipse.equinox.logger - Both 'org.eclipse.fx.ide.css.ui' and 'org.eclipse.papyrus.infra.gmfdiag.css3.xtext.ui' register an extension parser for 'css' - org.eclipse.emf.ecore, id: 1294 - org.eclipse.m2e.logback.appender, id: 2230

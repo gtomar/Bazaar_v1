@@ -1,0 +1,138 @@
+<entry timestamp="2015-03-20#17:15:53" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2015-03-20#17:15:53" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2015-03-20#17:15:53" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2015-03-20#17:15:56" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher, class basilica2.social.listeners.StrategyScoreComputer, class basilica2.social.listeners.RuleBasedTriggerComputer, class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.myagent.listeners.Register]</entry>
+<entry timestamp="2015-03-20#17:15:56" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor, class basilica2.myagent.listeners.PromptActor]</entry>
+<entry timestamp="2015-03-20#17:15:57" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2015-03-20#17:15:57" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2015-03-20#17:16:04" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger</entry>
+<entry timestamp="2015-03-20#17:16:05" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to computer_room</entry>
+<entry timestamp="2015-03-20#17:16:05" user="NewAgentRunner" level="NORMAL"><launching room=computer_room/></entry>
+<entry timestamp="2015-03-20#17:16:05" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2015-03-20#17:16:05" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2015-03-20#17:16:05" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2015-03-20#17:16:05" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2015-03-20#17:16:05" user="AgentFactory" level="NORMAL">Components read. N=5</entry>
+<entry timestamp="2015-03-20#17:16:05" user="AgentFactory" level="NORMAL">Agent build. VirtualCarolyn_computer_room</entry>
+<entry timestamp="2015-03-20#17:16:05" user="NewAgentRunner" level="NORMAL">Adding agent VirtualCarolyn_computer_room</entry>
+<entry timestamp="2015-03-20#17:16:05" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2015-03-20#17:16:05" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2015-03-20#17:16:08" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2015-03-20#17:16:08" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2015-03-20#17:16:08" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for VirtualCarolyn_computer_room</entry>
+<entry timestamp="2015-03-20#17:16:08" user="NewAgentRunner" level="NORMAL">Agent added VirtualCarolyn_computer_room</entry>
+<entry timestamp="2015-03-20#17:16:20" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-03-20#17:16:20" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2015-03-20#17:16:20" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2015-03-20#17:16:20" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage initiate</entry>
+<entry timestamp="2015-03-20#17:16:20" user="PlanExecutor" level="NORMAL">Firing Stage 'body'</entry>
+<entry timestamp="2015-03-20#17:16:20" user="Step" level="NORMAL">Handlers for SHOW_IMAGE(whiteboard): [basilica2.agents.listeners.plan.WhiteboardStepHandler@61eed513]</entry>
+<entry timestamp="2015-03-20#17:16:20" user="WhiteboardStepHandler" level="NORMAL">whiteboard step image:SHOW_IMAGE</entry>
+<entry timestamp="2015-03-20#17:16:20" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-03-20#17:16:20" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-03-20#17:16:20" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on parts of a computer
+You can wait for another person to join or start discussing with me a part of the computer. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-03-20#17:16:22" user="" level="NORMAL">ACCEPTED! CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</entry>
+<entry timestamp="2015-03-20#17:16:25" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-03-20#17:16:25" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-03-20#17:17:16" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about MOUSE. If you want to discuss MOUSE with me say 'let's discuss MOUSE' TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-03-20#17:17:27" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-03-20#17:17:27" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-03-20#17:17:27" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-03-20#17:17:28" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Carolyn
+We have been discussing on topics like  [MOUSE]
+Please join in. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-03-20#17:17:52" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Will you like to discuss more on mouse? TUTOR</entry>
+<entry timestamp="2015-03-20#17:18:14" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about KEYBOARD. If you want to discuss KEYBOARD with me say 'let's discuss KEYBOARD' TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-03-20#17:18:26" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-03-20#17:18:28" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: A mouse is a small device used to point to and select items on your computer screen. 
+               Although mice come in many shapes, the typical mouse does look a bit like an actual mouse. 
+               It's small, oblong, and connected to the system unit by a long wire that resembles a tail. 
+               Some newer mice are wireless.|How many buttons a mouse has? TUTOR</entry>
+<entry timestamp="2015-03-20#17:18:55" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-03-20#17:18:55" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-03-20#17:18:55" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-03-20#17:18:55" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-03-20#17:18:56" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, C
+We have been discussing on topics like  [MOUSE, KEYBOARD]
+Please join in. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-03-20#17:19:00" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 4</entry>
+<entry timestamp="2015-03-20#17:19:00" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 4</entry>
+<entry timestamp="2015-03-20#17:19:00" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 4</entry>
+<entry timestamp="2015-03-20#17:19:00" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 4</entry>
+<entry timestamp="2015-03-20#17:19:00" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 4</entry>
+<entry timestamp="2015-03-20#17:19:02" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Blah
+We have been discussing on topics like  [MOUSE, KEYBOARD]
+Please join in. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-03-20#17:19:06" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Well done! A mouse usually has two buttons: A primary button (usually the left button) and 
+					a secondary button.|Let's move on.|When you move the mouse with your hand, what does appear on the screen? TUTOR</entry>
+<entry timestamp="2015-03-20#17:19:38" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Sounds good... When you move the mouse with your hand, 
+					a pointer on your screen moves in the same direction.|Okay - you can now continue discussing other parts. TUTOR</entry>
+<entry timestamp="2015-03-20#17:19:38" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-03-20#17:19:43" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-03-20#17:19:43" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-03-20#17:20:07" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 4</entry>
+<entry timestamp="2015-03-20#17:20:07" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 4</entry>
+<entry timestamp="2015-03-20#17:20:07" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 4</entry>
+<entry timestamp="2015-03-20#17:20:14" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Will you like to discuss more on keyboard? TUTOR</entry>
+<entry timestamp="2015-03-20#17:20:21" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-03-20#17:20:21" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-03-20#17:20:28" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about MOUSE. If you want to discuss MOUSE with me say 'let's discuss MOUSE' TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-03-20#17:20:43" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-03-20#17:20:47" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-03-20#17:20:47" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-03-20#17:20:47" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-03-20#17:20:48" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, D
+We have been discussing on topics like  [MOUSE, KEYBOARD]
+Please join in. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-03-20#17:21:01" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-03-20#17:21:01" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-03-20#17:21:01" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-03-20#17:21:01" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-03-20#17:21:02" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, rachel
+We have been discussing on topics like  [MOUSE, KEYBOARD]
+Please join in. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-03-20#17:21:31" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-03-20#17:21:31" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-03-20#17:21:31" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-03-20#17:22:14" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: I am waiting for your response to start. Please ask for help if you are stuck. TUTOR</entry>
+<entry timestamp="2015-03-20#17:22:41" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-03-20#17:22:41" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-03-20#17:22:41" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-03-20#17:22:42" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Jaime
+We are just starting the discussion on parts of computer. Can one of you start talking about a part of the computer ? INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-03-20#17:23:26" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-03-20#17:23:26" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-03-20#17:23:26" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-03-20#17:23:26" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-03-20#17:23:26" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Fred
+We are just starting the discussion on parts of computer. Can one of you start talking about a part of the computer ? INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-03-20#17:23:32" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about MOUSE. If you want to discuss MOUSE with me say 'let's discuss MOUSE' TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-03-20#17:24:56" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-03-20#17:24:56" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-03-20#17:24:58" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-03-20#17:25:14" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about KEYBOARD. If you want to discuss KEYBOARD with me say 'let's discuss KEYBOARD' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-03-20#17:25:16" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Okay - you can continue discussing other parts. TUTOR</entry>
+<entry timestamp="2015-03-20#17:29:15" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about MONITOR. If you want to discuss MONITOR with me say 'let's discuss MONITOR' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-03-20#17:33:15" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about CPU. If you want to discuss CPU with me say 'let's discuss CPU' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-03-20#20:36:01" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-03-20#21:08:56" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about MOUSE. If you want to discuss MOUSE with me say 'let's discuss MOUSE' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-03-20#21:14:45" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2015-03-20#21:14:45" user="NewAgentRunner" level="NORMAL">Operation started</entry>

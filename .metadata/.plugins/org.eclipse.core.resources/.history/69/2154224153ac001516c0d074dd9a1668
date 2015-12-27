@@ -1,0 +1,1943 @@
+Fri Nov 28 16:12:15 EST 2014
+no DISPLAY variable set. Using DISPLAY=:0.0...
+Java HotSpot(TM) 64-Bit Server VM warning: Using incremental CMS is deprecated and will likely be removed in a future release
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/bayesianLogisticRegression/bayesianLogisticRegression.jar is already in the CLASSPATH
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/chiSquaredAttributeEval/chiSquaredAttributeEval.jar is already in the CLASSPATH
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/LibLINEAR/lib/liblinear-1.8.jar is already in the CLASSPATH
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/LibLINEAR/LibLINEAR.jar is already in the CLASSPATH
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/LibSVM/lib/libsvm.jar is already in the CLASSPATH
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/LibSVM/LibSVM.jar is already in the CLASSPATH
+Refreshing GOE props...
+[KnowledgeFlow] Loading properties and plugins...
+[KnowledgeFlow] Initializing KF...
+Sun Nov 30 23:23:52 EST 2014
+no DISPLAY variable set. Using DISPLAY=:0.0...
+Java HotSpot(TM) 64-Bit Server VM warning: Using incremental CMS is deprecated and will likely be removed in a future release
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/bayesianLogisticRegression/bayesianLogisticRegression.jar is already in the CLASSPATH
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/chiSquaredAttributeEval/chiSquaredAttributeEval.jar is already in the CLASSPATH
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/LibLINEAR/lib/liblinear-1.8.jar is already in the CLASSPATH
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/LibLINEAR/LibLINEAR.jar is already in the CLASSPATH
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/LibSVM/lib/libsvm.jar is already in the CLASSPATH
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/LibSVM/LibSVM.jar is already in the CLASSPATH
+Refreshing GOE props...
+[KnowledgeFlow] Loading properties and plugins...
+[KnowledgeFlow] Initializing KF...
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 18 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 7 has a blank text field in column Anonymized Image Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 5 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 18 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 5 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 7 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 22 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 7 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 22 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 11 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 11 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 9 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 26 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 23 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 23 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 9 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 26 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 27 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 27 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 13 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 31 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 13 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 31 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 39 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 39 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 54 has a blank text field in column Anonymized Image Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 54 has a blank text field in column Badge Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 54 has a blank text field in column Irrelevant Sentence Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 54 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 54 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 21 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 54 has a blank text field in column User ID Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 43 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 58 has a blank text field in column Anonymized Image Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 58 has a blank text field in column Badge Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 58 has a blank text field in column Irrelevant Sentence Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 58 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 58 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 58 has a blank text field in column User ID Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 62 has a blank text field in column Anonymized Image Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 21 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 43 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 62 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 62 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 62 has a blank text field in column User ID Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 29 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 59 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 66 has a blank text field in column Irrelevant Sentence Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 59 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 29 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 66 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 66 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 67 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 66 has a blank text field in column User ID Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 37 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 70 has a blank text field in column Anonymized Image Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 67 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 37 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 70 has a blank text field in column Badge Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 67 has a blank text field in column User ID Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 41 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 41 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 70 has a blank text field in column Irrelevant Sentence Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 53 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 70 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 53 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 70 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 87 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 70 has a blank text field in column User ID Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 87 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 87 has a blank text field in column User ID Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 4 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 4 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 8 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 8 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 69 has a blank text field in column Badge Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 69 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 69 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 32 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 85 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 32 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 85 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 44 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 44 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 60 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 60 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 64 has a blank text field in column Badge Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 64 has a blank text field in column Irrelevant Sentence Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 64 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 64 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 64 has a blank text field in column User ID Shown?
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 68 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 68 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 80 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 80 has a blank text field in column Selected helpers
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 84 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:42:28 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 84 has a blank text field in column Selected helpers
+saving 1grams (FEATURE_TABLE)
+REx: making new chooser 
+REx: returning chooser for filter [LightSide Feature Table XML: [features.xml], CSV: [features.csv, csv, CSV], ARFF (Weka): [features.arff, arff, ARFF]]
+[LightSide Feature Table XML: [features.xml], CSV: [features.csv, csv, CSV], ARFF (Weka): [features.arff, arff, ARFF], com.apple.laf.AquaFileChooserUI$AcceptAllFileFilter@665d2400]
+REx: selected file is 1grams.features.xml
+REx: showing dialog
+REx: final selected file is /Users/researcher/Downloads/LightSide_2.3.1_20141107/saved/1grams.features.xml
+Wrote XML recipe for 1grams.table.side to /Users/researcher/Downloads/LightSide_2.3.1_20141107/saved/1grams.features.xml
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 7 has a blank text field in column Anonymized Image Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 5 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 7 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 7 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 5 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 18 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 9 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 9 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 11 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 11 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 13 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 13 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 18 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 23 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 23 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 21 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 21 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 27 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 27 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 29 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 22 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 22 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 29 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 31 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 31 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 26 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 26 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 39 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 39 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 37 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 37 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 41 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 41 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 43 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 43 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 53 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 53 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 54 has a blank text field in column Anonymized Image Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 54 has a blank text field in column Badge Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 54 has a blank text field in column Irrelevant Sentence Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 54 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 54 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 54 has a blank text field in column User ID Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 69 has a blank text field in column Badge Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 69 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 69 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 59 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 59 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 58 has a blank text field in column Anonymized Image Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 58 has a blank text field in column Badge Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 58 has a blank text field in column Irrelevant Sentence Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 58 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 58 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 58 has a blank text field in column User ID Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 62 has a blank text field in column Anonymized Image Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 67 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 85 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 62 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 67 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 62 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 62 has a blank text field in column User ID Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 66 has a blank text field in column Irrelevant Sentence Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 85 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 66 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 67 has a blank text field in column User ID Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 4 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 4 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 66 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 66 has a blank text field in column User ID Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 70 has a blank text field in column Anonymized Image Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 70 has a blank text field in column Badge Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 70 has a blank text field in column Irrelevant Sentence Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 70 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 8 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 70 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 87 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 70 has a blank text field in column User ID Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 8 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 87 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 87 has a blank text field in column User ID Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 32 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 32 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 44 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 44 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 60 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 60 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 64 has a blank text field in column Badge Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 64 has a blank text field in column Irrelevant Sentence Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 64 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 64 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 64 has a blank text field in column User ID Shown?
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 68 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 68 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 80 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 80 has a blank text field in column Selected helpers
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 84 has a blank text field in column Number of helpers selected
+Nov 30, 2014 11:45:00 PM plugins.features.BasicFeatures extractFeaturesOnce
+WARNING: Document 84 has a blank text field in column Selected helpers
+saving 1grams_1 (FEATURE_TABLE)
+REx: returning chooser for filter [LightSide Feature Table XML: [features.xml], CSV: [features.csv, csv, CSV], ARFF (Weka): [features.arff, arff, ARFF]]
+[LightSide Feature Table XML: [features.xml], CSV: [features.csv, csv, CSV], ARFF (Weka): [features.arff, arff, ARFF], com.apple.laf.AquaFileChooserUI$AcceptAllFileFilter@665d2400]
+REx: selected file is 1grams_1.features.xml
+REx: showing dialog
+REx: final selected file is /Users/researcher/Downloads/LightSide_2.3.1_20141107/saved/1grams_1.features.arff
+Ensuring that attributes have unique ASCII names...
+java.io.IOException: Failed to read recipe as XML : /Users/researcher/Downloads/LightSide_2.3.1_20141107/saved/1grams_1.features.arff
+	at edu.cmu.side.recipe.converters.ConverterControl.loadRecipe(ConverterControl.java:115)
+	at edu.cmu.side.recipe.converters.ConverterControl.loadRecipe(ConverterControl.java:69)
+	at edu.cmu.side.view.generic.GenericLoadPanel$5.doInBackground(GenericLoadPanel.java:438)
+	at edu.cmu.side.view.generic.GenericLoadPanel$5.doInBackground(GenericLoadPanel.java:432)
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at javax.swing.SwingWorker.run(SwingWorker.java:334)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.thoughtworks.xstream.mapper.CannotResolveClassException: COMMA
+	at com.thoughtworks.xstream.mapper.DefaultMapper.realClass(DefaultMapper.java:56)
+	at com.thoughtworks.xstream.mapper.MapperWrapper.realClass(MapperWrapper.java:30)
+	at com.thoughtworks.xstream.mapper.DynamicProxyMapper.realClass(DynamicProxyMapper.java:55)
+	at com.thoughtworks.xstream.mapper.MapperWrapper.realClass(MapperWrapper.java:30)
+	at com.thoughtworks.xstream.mapper.PackageAliasingMapper.realClass(PackageAliasingMapper.java:88)
+	at com.thoughtworks.xstream.mapper.MapperWrapper.realClass(MapperWrapper.java:30)
+	at com.thoughtworks.xstream.mapper.ClassAliasingMapper.realClass(ClassAliasingMapper.java:79)
+	at com.thoughtworks.xstream.mapper.MapperWrapper.realClass(MapperWrapper.java:30)
+	at com.thoughtworks.xstream.mapper.MapperWrapper.realClass(MapperWrapper.java:30)
+	at com.thoughtworks.xstream.mapper.MapperWrapper.realClass(MapperWrapper.java:30)
+	at com.thoughtworks.xstream.mapper.MapperWrapper.realClass(MapperWrapper.java:30)
+	at com.thoughtworks.xstream.mapper.MapperWrapper.realClass(MapperWrapper.java:30)
+	at com.thoughtworks.xstream.mapper.MapperWrapper.realClass(MapperWrapper.java:30)
+	at com.thoughtworks.xstream.mapper.ArrayMapper.realClass(ArrayMapper.java:74)
+	at com.thoughtworks.xstream.mapper.MapperWrapper.realClass(MapperWrapper.java:30)
+	at com.thoughtworks.xstream.mapper.MapperWrapper.realClass(MapperWrapper.java:30)
+	at com.thoughtworks.xstream.mapper.MapperWrapper.realClass(MapperWrapper.java:30)
+	at com.thoughtworks.xstream.mapper.MapperWrapper.realClass(MapperWrapper.java:30)
+	at com.thoughtworks.xstream.mapper.MapperWrapper.realClass(MapperWrapper.java:30)
+	at com.thoughtworks.xstream.mapper.MapperWrapper.realClass(MapperWrapper.java:30)
+	at com.thoughtworks.xstream.mapper.MapperWrapper.realClass(MapperWrapper.java:30)
+	at com.thoughtworks.xstream.mapper.CachingMapper.realClass(CachingMapper.java:45)
+	at com.thoughtworks.xstream.core.util.HierarchicalStreams.readClassType(HierarchicalStreams.java:29)
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.start(TreeUnmarshaller.java:133)
+	at com.thoughtworks.xstream.core.AbstractTreeMarshallingStrategy.unmarshal(AbstractTreeMarshallingStrategy.java:32)
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1058)
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1042)
+	at com.thoughtworks.xstream.XStream.fromXML(XStream.java:913)
+	at edu.cmu.side.recipe.converters.ConverterControl.readFromXML(ConverterControl.java:130)
+	at edu.cmu.side.recipe.converters.ConverterControl.loadRecipe(ConverterControl.java:97)
+	... 9 more
+java.io.IOException: Failed to read recipe as ZIPPED_XML : /Users/researcher/Downloads/LightSide_2.3.1_20141107/saved/1grams_1.features.arff
+	at edu.cmu.side.recipe.converters.ConverterControl.loadRecipe(ConverterControl.java:115)
+	at edu.cmu.side.recipe.converters.ConverterControl.loadRecipe(ConverterControl.java:69)
+	at edu.cmu.side.view.generic.GenericLoadPanel$5.doInBackground(GenericLoadPanel.java:438)
+	at edu.cmu.side.view.generic.GenericLoadPanel$5.doInBackground(GenericLoadPanel.java:432)
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at javax.swing.SwingWorker.run(SwingWorker.java:334)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.NullPointerException
+	at edu.cmu.side.recipe.converters.ConverterControl.streamInZippedXML(ConverterControl.java:233)
+	at edu.cmu.side.recipe.converters.ConverterControl.readFromZippedXML(ConverterControl.java:180)
+	at edu.cmu.side.recipe.converters.ConverterControl.loadRecipe(ConverterControl.java:101)
+	... 9 more
+java.io.IOException: Failed to read recipe as SERIALIZED : /Users/researcher/Downloads/LightSide_2.3.1_20141107/saved/1grams_1.features.arff
+	at edu.cmu.side.recipe.converters.ConverterControl.loadRecipe(ConverterControl.java:115)
+	at edu.cmu.side.recipe.converters.ConverterControl.loadRecipe(ConverterControl.java:69)
+	at edu.cmu.side.view.generic.GenericLoadPanel$5.doInBackground(GenericLoadPanel.java:438)
+	at edu.cmu.side.view.generic.GenericLoadPanel$5.doInBackground(GenericLoadPanel.java:432)
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at javax.swing.SwingWorker.run(SwingWorker.java:334)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.io.StreamCorruptedException: invalid stream header: 4072656C
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:806)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:299)
+	at edu.cmu.side.recipe.converters.ConverterControl.loadRecipe(ConverterControl.java:105)
+	... 9 more
+java.util.concurrent.ExecutionException: java.io.IOException: Couldn't load recipe in any format: /Users/researcher/Downloads/LightSide_2.3.1_20141107/saved/1grams_1.features.arff
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at javax.swing.SwingWorker.get(SwingWorker.java:602)
+	at edu.cmu.side.view.generic.GenericLoadPanel$5.done(GenericLoadPanel.java:448)
+	at javax.swing.SwingWorker$5.run(SwingWorker.java:737)
+	at javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.run(SwingWorker.java:832)
+	at sun.swing.AccumulativeRunnable.run(AccumulativeRunnable.java:112)
+	at javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.actionPerformed(SwingWorker.java:842)
+	at javax.swing.Timer.fireActionPerformed(Timer.java:313)
+	at javax.swing.Timer$DoPostEvent.run(Timer.java:245)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:744)
+	at java.awt.EventQueue.access$400(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:697)
+	at java.awt.EventQueue$3.run(EventQueue.java:691)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:714)
+	at edu.cmu.side.view.util.EventQueueProxy.dispatchEvent(EventQueueProxy.java:12)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.IOException: Couldn't load recipe in any format: /Users/researcher/Downloads/LightSide_2.3.1_20141107/saved/1grams_1.features.arff
+	at edu.cmu.side.recipe.converters.ConverterControl.loadRecipe(ConverterControl.java:75)
+	at edu.cmu.side.view.generic.GenericLoadPanel$5.doInBackground(GenericLoadPanel.java:438)
+	at edu.cmu.side.view.generic.GenericLoadPanel$5.doInBackground(GenericLoadPanel.java:432)
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at javax.swing.SwingWorker.run(SwingWorker.java:334)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.io.IOException: Failed to read recipe as SERIALIZED : /Users/researcher/Downloads/LightSide_2.3.1_20141107/saved/1grams_1.features.arff
+	at edu.cmu.side.recipe.converters.ConverterControl.loadRecipe(ConverterControl.java:115)
+	at edu.cmu.side.recipe.converters.ConverterControl.loadRecipe(ConverterControl.java:69)
+	... 8 more
+Caused by: java.io.StreamCorruptedException: invalid stream header: 4072656C
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:806)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:299)
+	at edu.cmu.side.recipe.converters.ConverterControl.loadRecipe(ConverterControl.java:105)
+	... 9 more
+Sun Nov 30 23:45:49 EST 2014
+no DISPLAY variable set. Using DISPLAY=:0.0...
+Java HotSpot(TM) 64-Bit Server VM warning: Using incremental CMS is deprecated and will likely be removed in a future release
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/bayesianLogisticRegression/bayesianLogisticRegression.jar is already in the CLASSPATH
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/chiSquaredAttributeEval/chiSquaredAttributeEval.jar is already in the CLASSPATH
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/LibLINEAR/lib/liblinear-1.8.jar is already in the CLASSPATH
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/LibLINEAR/LibLINEAR.jar is already in the CLASSPATH
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/LibSVM/lib/libsvm.jar is already in the CLASSPATH
+URL file:/Users/researcher/Downloads/LightSide_2.3.1_20141107/wekafiles/packages/LibSVM/LibSVM.jar is already in the CLASSPATH
+Refreshing GOE props...
+[KnowledgeFlow] Loading properties and plugins...
+[KnowledgeFlow] Initializing KF...
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:49:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:00 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:00 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:00 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:00 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:00 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:02 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:02 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:02 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:02 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:02 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:02 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:02 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:02 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:02 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:03 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:03 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:03 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:03 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:03 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:03 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:03 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:03 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:03 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:03 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:03 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:04 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:04 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:04 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:04 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:04 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:04 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:04 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:04 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:04 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:04 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:04 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:05 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:05 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:05 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:05 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:05 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:05 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:05 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:05 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:05 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:05 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:05 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:05 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:06 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:06 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:06 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:06 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:06 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:06 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:07 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:07 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:07 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:07 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:07 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:07 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:08 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:08 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:08 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:08 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:08 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:08 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:08 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:08 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:08 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:08 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:08 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:09 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:09 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:09 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:09 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:09 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:09 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:09 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:10 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:10 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:10 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:10 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:10 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:11 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:11 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:11 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:11 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:11 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:11 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:12 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:12 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:12 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:12 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:12 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:12 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:13 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:13 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:13 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:13 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:13 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:14 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:14 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:14 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:14 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:14 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:15 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:15 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:15 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:15 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:15 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:15 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:15 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:15 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:15 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:16 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:16 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:16 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:16 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:16 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:16 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:16 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:16 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:17 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:17 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:17 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:17 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:17 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:17 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:17 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:17 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:17 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:17 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:18 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:18 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:18 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:18 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:18 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:18 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:18 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:18 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:19 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:19 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:19 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:19 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:19 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:19 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:19 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:19 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:19 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:19 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:19 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:19 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:20 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:20 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:20 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:20 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:20 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:20 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:21 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:21 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:21 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:21 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:22 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:22 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:22 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:22 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:22 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:22 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:22 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:22 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:22 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:23 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:23 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:23 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:23 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:24 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:24 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:24 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:25 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:25 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:25 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:25 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:25 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:26 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:26 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:26 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:26 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:26 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:26 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:26 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:27 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:27 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:27 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:27 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:27 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:27 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:27 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:28 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:28 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:28 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:29 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:29 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:29 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:29 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:29 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:29 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:30 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:30 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:30 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:30 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:30 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:30 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:30 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:30 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:30 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:30 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:31 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:31 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:31 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:31 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:31 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:31 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:32 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:32 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:32 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:33 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:33 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:33 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:33 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:33 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:33 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:33 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:33 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:34 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:34 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:34 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:34 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:34 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:34 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:34 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:34 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:35 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:35 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:35 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:35 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:35 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:35 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:35 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:35 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:35 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:35 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:36 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:36 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:36 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:36 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:36 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:36 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:36 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:36 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:36 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:37 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:37 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:37 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:37 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:37 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:37 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:38 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:38 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:38 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:38 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:38 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:38 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:38 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:38 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:38 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:38 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:38 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:39 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:39 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:39 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:39 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:39 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:39 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:40 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:40 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:40 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:41 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:41 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:41 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:41 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:41 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:42 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:42 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:42 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:42 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:42 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:42 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:42 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:43 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:43 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:43 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:43 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:43 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:43 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:43 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:43 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:45 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:45 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:45 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:45 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:46 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:46 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:46 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:46 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:46 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:46 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:46 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:47 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:47 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:47 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:47 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:47 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:47 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:47 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:47 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:47 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:48 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:48 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:48 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:49 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:49 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:49 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:49 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:49 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:49 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:49 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:49 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:49 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:49 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:50 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:50 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:50 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:50 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:50 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:50 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:50 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:50 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:50 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:51 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:51 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:51 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:51 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:51 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:51 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:51 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:51 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:52 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:52 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:52 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:52 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:52 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:52 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:52 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:52 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:52 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:52 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:52 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:53 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:53 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:53 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:53 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:53 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:53 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:53 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:53 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:53 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:53 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:53 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:53 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:54 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:54 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:54 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:54 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:54 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:54 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:54 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:55 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:55 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:55 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:55 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:55 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:55 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:55 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:56 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:57 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:58 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:50:59 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:00 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:00 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:00 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:00 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:00 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:00 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:00 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:00 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:01 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:02 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:02 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:02 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:02 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Nov 30, 2014 11:51:02 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+saving features (FEATURE_TABLE)
+REx: making new chooser 
+REx: returning chooser for filter [LightSide Feature Table XML: [features.xml], CSV: [features.csv, csv, CSV], ARFF (Weka): [features.arff, arff, ARFF]]
+[LightSide Feature Table XML: [features.xml], CSV: [features.csv, csv, CSV], ARFF (Weka): [features.arff, arff, ARFF], com.apple.laf.AquaFileChooserUI$AcceptAllFileFilter@52e1a5dd]
+REx: selected file is features.features.xml
+REx: showing dialog
+REx: final selected file is /Users/researcher/Downloads/LightSide_2.3.1_20141107/saved/features.features.arff
+Dec 01, 2014 12:03:05 AM edu.cmu.side.control.BuildModelControl$BuildModelTask doTask
+INFO: Training new model.
+Ensuring that attributes have unique ASCII names...

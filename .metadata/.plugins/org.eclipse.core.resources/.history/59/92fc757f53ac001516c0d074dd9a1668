@@ -1,0 +1,61 @@
+<entry timestamp="2015-04-21#13:43:33" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2015-04-21#13:43:33" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2015-04-21#13:43:33" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2015-04-21#13:43:33" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher, class basilica2.social.listeners.StrategyScoreComputer, class basilica2.social.listeners.RuleBasedTriggerComputer, class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.myagent.listeners.Register]</entry>
+<entry timestamp="2015-04-21#13:43:33" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor, class basilica2.myagent.listeners.PromptActor]</entry>
+<entry timestamp="2015-04-21#13:43:33" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2015-04-21#13:43:33" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2015-04-21#13:43:34" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger</entry>
+<entry timestamp="2015-04-21#13:43:35" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger</entry>
+<entry timestamp="2015-04-21#13:43:36" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger revoice</entry>
+<entry timestamp="2015-04-21#13:43:36" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger revoice explain</entry>
+<entry timestamp="2015-04-21#13:43:37" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger revoice explain agree</entry>
+<entry timestamp="2015-04-21#13:43:37" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger say_more revoice explain agree</entry>
+<entry timestamp="2015-04-21#13:43:42" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to meteorology</entry>
+<entry timestamp="2015-04-21#13:43:42" user="NewAgentRunner" level="NORMAL"><launching room=meteorology/></entry>
+<entry timestamp="2015-04-21#13:43:42" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2015-04-21#13:43:42" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2015-04-21#13:43:42" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2015-04-21#13:43:42" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2015-04-21#13:43:42" user="AgentFactory" level="NORMAL">Components read. N=5</entry>
+<entry timestamp="2015-04-21#13:43:42" user="AgentFactory" level="NORMAL">Agent build. VirtualCarolyn_meteorology</entry>
+<entry timestamp="2015-04-21#13:43:42" user="NewAgentRunner" level="NORMAL">Adding agent VirtualCarolyn_meteorology</entry>
+<entry timestamp="2015-04-21#13:43:42" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2015-04-21#13:43:42" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2015-04-21#13:43:43" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2015-04-21#13:43:43" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2015-04-21#13:43:43" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#13:43:43" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2015-04-21#13:43:43" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2015-04-21#13:43:43" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage initiate</entry>
+<entry timestamp="2015-04-21#13:43:43" user="PlanExecutor" level="NORMAL">Firing Stage 'body'</entry>
+<entry timestamp="2015-04-21#13:43:43" user="Step" level="NORMAL">Handlers for SHOW_IMAGE(whiteboard): [basilica2.agents.listeners.plan.WhiteboardStepHandler@63167bb8]</entry>
+<entry timestamp="2015-04-21#13:43:43" user="WhiteboardStepHandler" level="NORMAL">whiteboard step image:SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#13:43:43" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#13:43:43" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-21#13:43:43" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-04-21#13:43:43" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for VirtualCarolyn_meteorology</entry>
+<entry timestamp="2015-04-21#13:43:43" user="NewAgentRunner" level="NORMAL">Agent added VirtualCarolyn_meteorology</entry>
+<entry timestamp="2015-04-21#13:43:45" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#13:43:47" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#13:43:48" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#13:43:48" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-21#13:43:49" user="" level="NORMAL">rejected! Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION</entry>
+<entry timestamp="2015-04-21#13:43:49" user="" level="NORMAL">ACCEPTED! CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</entry>
+<entry timestamp="2015-04-21#13:43:53" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'ASK QUESTIONS ABOUT - low pressure temperature' TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#13:44:09" user="" level="NORMAL">accepted. Hold-the-floor Event for AGREE_CANDIDATE check.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#13:44:11" user="" level="NORMAL">accepted. Hold-the-floor Event for SAY_MORE_CANDIDATE check.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#13:44:29" user="" level="NORMAL">accepted. Hold-the-floor Event for AGREE_CANDIDATE check.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#13:44:49" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Thanks, Gaurav. Do the rest of you agree or disagree with that idea? Why, or why not?  AT_MOVE+Gaurav+AGREE_DISAGREE</entry>
+<entry timestamp="2015-04-21#13:49:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-04-21#13:49:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>

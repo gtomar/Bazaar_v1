@@ -1,0 +1,4368 @@
+<entry timestamp="2015-04-21#13:55:09" user="FactoryBuiltAgent" level="NORMAL">CONFIGURING AGENT VirtualCarolyn_meteorology</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.AGENT" level="NORMAL"><created>VirtualCarolyn_meteorology</created></entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.stateMemory" level="NORMAL"><created>stateMemory</created></entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.client" level="NORMAL"><created>client</created></entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.client" level="NORMAL">Property read: socket_url =	http://erebor.lti.cs.cmu.edu:8015</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.ccActor" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.ccActor" level="NORMAL"><created>ccActor</created></entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.ccActor" level="NORMAL">Property read: typingScale =	null</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><created>inputCoordinator</created></entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL"><created>outputCoordinator</created></entry>
+<entry timestamp="2015-04-21#13:55:09" user="(client->inputCoordinator)" level="INFO">Connection initialized. Id=1429638909541</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.client" level="INFO">Outgoing connection added from client to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Inward connection added from inputCoordinator to client</entry>
+<entry timestamp="2015-04-21#13:55:09" user="(inputCoordinator->inputCoordinator)" level="INFO">Connection initialized. Id=1429638909541</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:09" user="(inputCoordinator->outputCoordinator)" level="INFO">Connection initialized. Id=1429638909541</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to outputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Inward connection added from outputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:09" user="(outputCoordinator->client)" level="INFO">Connection initialized. Id=1429638909541</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Outgoing connection added from outputCoordinator to client</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.client" level="INFO">Inward connection added from client to outputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.AGENT" level="NORMAL"><initialized>VirtualCarolyn_meteorology</initialized></entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Observer Added:stateMemory.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.ccActor" level="INFO">Observer Added:ccActor.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.client" level="INFO">Observer Added:client.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-21#13:55:09" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.edge</entry>
+<entry timestamp="2015-04-21#13:55:09" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.edge</entry>
+<entry timestamp="2015-04-21#13:55:09" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.edge</entry>
+<entry timestamp="2015-04-21#13:55:09" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.edge</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Observer Added:stateMemory.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.ccActor" level="INFO">Observer Added:ccActor.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.client" level="INFO">Observer Added:client.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-21#13:55:09" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.panel</entry>
+<entry timestamp="2015-04-21#13:55:09" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.panel</entry>
+<entry timestamp="2015-04-21#13:55:09" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.panel</entry>
+<entry timestamp="2015-04-21#13:55:09" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.panel</entry>
+<entry timestamp="2015-04-21#13:55:09" user="AgreeDisagreeActor" level="WARNING">agree condition: true</entry>
+<entry timestamp="2015-04-21#13:55:09" user="AskForExplanationActor" level="WARNING">explain_other condition: false</entry>
+<entry timestamp="2015-04-21#13:55:09" user="RevoiceActor" level="WARNING">revoice condition: true</entry>
+<entry timestamp="2015-04-21#13:55:09" user="SayMoreActor" level="WARNING">say_more condition: true</entry>
+<entry timestamp="2015-04-21#13:55:09" user="PlanExecutor" level="NORMAL"><configuration planfile="plans/plan_steps.xml"></entry>
+<entry timestamp="2015-04-21#13:55:09" user="PlanExecutor" level="ERROR">PlanExecutor: Can't do that...java.io.IOException: No such file or directory</entry>
+<entry timestamp="2015-04-21#13:55:09" user="PlanExecutor" level="ERROR">Error while reading Status File (java.io.FileNotFoundException: planstatus/VirtualCarolyn_meteorology.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></commit></entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.AGENT" level="NORMAL"><starting>Initializing each component</starting></entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.stateMemory" level="NORMAL"><initialized>stateMemory</initialized></entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.ccActor" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.ccActor" level="NORMAL"><initialized>ccActor</initialized></entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.client" level="NORMAL"><initialized>client</initialized></entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL"><initialized>outputCoordinator</initialized></entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><initialized>inputCoordinator</initialized></entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.AGENT" level="NORMAL"><starting>All components initialized</starting></entry>
+<entry timestamp="2015-04-21#13:55:09" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-21#13:55:09" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-21#13:55:10" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-21#13:55:10" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Observer Added:frame1. 3 Observers now.</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Gaurav is now PRESENT</processing></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Gaurav is now PRESENT</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-21#13:55:10" user="PlanExecutor" level="NORMAL">Plan: <stage name="initiate" timeout="0">set</stage></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-21#13:55:10" user="PlanExecutor" level="ERROR">Error while updating Status File (java.io.FileNotFoundException: planstatus/VirtualCarolyn_meteorology.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-04-21#13:55:10" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Gaurav is now PRESENT]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Timmy is now PRESENT</processing></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Timmy is now PRESENT</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-04-21#13:55:10" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:10" user="PlanExecutor" level="ERROR">Error while updating Status File (java.io.FileNotFoundException: planstatus/VirtualCarolyn_meteorology.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Timmy is now PRESENT]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Germán is now PRESENT</processing></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Germán is now PRESENT</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-04-21#13:55:10" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Germán is now PRESENT]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-21#13:55:10" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: VirtualCarolyn is now PRESENT</processing></entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: VirtualCarolyn is now PRESENT</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: VirtualCarolyn is now PRESENT]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-21#13:55:10" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Queue: [CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg, Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION, Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION, Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpgbelief*priority: 1.0*1.0=1.0</entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTIONbelief*priority: 1.0*1000000.0=1000000.0</entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTIONbelief*priority: 1.0*1000000.0=1000000.0</entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTIONbelief*priority: 1.0*1000000.0=1000000.0</entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-21#13:55:11" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION</processing></entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-21#13:55:11" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. </processing></entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. </entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:11" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. ]</entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-21#13:55:11" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Queue: [CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg, Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION, Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: INTRODUCTION: CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpgbelief*priority: 0.0*1.0=1.0</entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: INTRODUCTION: Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION</entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTIONbelief*priority: 0.0*611200.0=611200.0</entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: INTRODUCTION: Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION</entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTIONbelief*priority: 0.0*611600.0=611600.0</entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-21#13:55:13" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION</processing></entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-21#13:55:13" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? </processing></entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? </entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:13" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? ]</entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-21#13:55:13" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-21#13:55:15" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Queue: [CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg, Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-21#13:55:15" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: INTRODUCTION: CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</entry>
+<entry timestamp="2015-04-21#13:55:15" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpgbelief*priority: 0.0*1.0=1.0</entry>
+<entry timestamp="2015-04-21#13:55:15" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO"><broadcasting>Whiteboard Event on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-21#13:55:15" user="(outputCoordinator->client)" level="INFO">Communicate Whiteboard Event from outputCoordinator to client</entry>
+<entry timestamp="2015-04-21#13:55:15" user="VirtualCarolyn_meteorology.client" level="INFO"><queued name="Whiteboard Event" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-21#13:55:15" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:15" user="VirtualCarolyn_meteorology.client" level="INFO"><processing name="Whiteboard Event" from="outputCoordinator">CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</processing></entry>
+<entry timestamp="2015-04-21#13:55:15" user="VirtualCarolyn_meteorology.client" level="INFO"><processed name="Whiteboard Event" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-21#13:55:15" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>Whiteboard Event on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-21#13:55:15" user="(client->inputCoordinator)" level="INFO">Communicate Whiteboard Event from client to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:15" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="Whiteboard Event" from="client"></queued></entry>
+<entry timestamp="2015-04-21#13:55:15" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:15" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="Whiteboard Event" from="client">CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</processing></entry>
+<entry timestamp="2015-04-21#13:55:15" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</entry>
+<entry timestamp="2015-04-21#13:55:15" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg]</entry>
+<entry timestamp="2015-04-21#13:55:15" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-21#13:55:15" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-21#13:55:15" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="Whiteboard Event" from="client"></processed></entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-21#13:55:22" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Timmy: low pressure and temperature </processing></entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Timmy: low pressure and temperature </entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:22" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-04-21#13:55:22" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Timmy: low pressure and temperature LP+TEMPERATURE]</entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUTlow pressure temperature' and I will ask some questions on it. TOPIC_ELICITATION]</entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUTlow pressure temperature' and I will ask some questions on it. TOPIC_ELICITATION]</entry>
+<entry timestamp="2015-04-21#13:55:22" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUTlow pressure temperature' and I will ask some questions on it. TOPIC_ELICITATION]</entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: INTRODUCTION: Message from VirtualCarolyn: I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUTlow pressure temperature' and I will ask some questions on it. TOPIC_ELICITATION</entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUTlow pressure temperature' and I will ask some questions on it. TOPIC_ELICITATIONbelief*priority: 0.0*1000000.0=1000000.0</entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-21#13:55:23" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUTlow pressure temperature' and I will ask some questions on it. TOPIC_ELICITATION</processing></entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-21#13:55:23" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUTlow pressure temperature' and I will ask some questions on it. </processing></entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUTlow pressure temperature' and I will ask some questions on it. </entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:23" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUTlow pressure temperature' and I will ask some questions on it. ]</entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-21#13:55:23" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-21#13:55:29" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-21#13:55:29" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:29" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-21#13:55:29" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:29" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Gaurav: let's discuss Discussion
+
+VirtualCarolyn has joined the discussion.5:07:32 PM
+
+Gaurav has joined the discussion.5:08:11 PM
+
+Timmy has joined the discussion.5:08:13 PM
+
+VirtualCarolyn5:08:13 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on parts of a computer
+You can wait for another person to join or start discussing with me a part of the computer.
+
+VirtualCarolyn5:08:15 PM
+Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a part of the computer ?
+
+VirtualCarolynhas shared an image.5:08:17 PM
+
+Timmy5:08:45 PM
+I'm interested in talking more about cold fronts
+
+Timmy5:09:02 PM
+cold
+
+VirtualCarolyn has disconnected.5:09:14 PM
+
+Timmy5:09:14 PM
+I'm interested in talking cf
+
+Timmy has disconnected.5:09:45 PM
+
+Gaurav has disconnected.5:12:37 PM
+
+Gaurav has joined the discussion.5:12:55 PM
+
+VirtualCarolyn has joined the discussion.5:13:21 PM
+
+VirtualCarolyn5:13:22 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolynhas shared an image.5:13:24 PM
+
+Timmy has joined the discussion.5:13:30 PM
+
+VirtualCarolyn5:13:30 PM
+Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+Timmy5:13:45 PM
+Sure let's talk about cold front
+
+VirtualCarolyn5:13:48 PM
+I noticed that you are talking about WF_TEMPERATURE. If you want to discuss WF_TEMPERATURE with me say 'let's discuss WF_TEMPERATURE'
+
+VirtualCarolyn5:13:51 PM
+I noticed that you are talking about CF_TEMPERATURE. If you want to discuss CF_TEMPERATURE with me say 'let's discuss CF_TEMPERATURE'
+
+VirtualCarolyn5:13:53 PM
+Ok
+
+Timmy5:14:26 PM
+cf
+
+VirtualCarolyn has disconnected.5:15:09 PM
+
+Timmy5:15:09 PM
+let's discuss WFTEMPERATURE
+
+VirtualCarolyn has joined the discussion.5:15:42 PM
+
+VirtualCarolyn5:15:43 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn5:15:45 PM
+Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+VirtualCarolynhas shared an image.5:15:47 PM
+
+Gaurav5:15:56 PM
+let's discuss cold front
+
+Timmy5:16:24 PM
+cold front and temperature
+
+VirtualCarolyn5:16:25 PM
+I noticed that you are talking about WF_TEMPERATURE. If you want to discuss WF_TEMPERATURE with me say 'let's discuss WF_TEMPERATURE'
+
+VirtualCarolyn5:16:27 PM
+I noticed that you are talking about CF_TEMPERATURE. If you want to discuss CF_TEMPERATURE with me say 'let's discuss CF_TEMPERATURE'
+
+VirtualCarolyn has disconnected.5:19:20 PM
+
+VirtualCarolyn has joined the discussion.5:19:51 PM
+
+VirtualCarolyn5:19:52 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn5:19:54 PM
+Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+VirtualCarolynhas shared an image.5:19:56 PM
+
+Timmy5:20:03 PM
+let's talk about cold front
+
+Gaurav5:20:16 PM
+yes timmy can you explain what is it
+
+VirtualCarolyn5:20:22 PM
+You can figure this out as a team!
+
+Timmy5:20:41 PM
+sure. a cold front brings coolers temperatures
+
+VirtualCarolyn5:20:42 PM
+I noticed that you are talking about CF_TEMPERATURE. If you want to discuss CF_TEMPERATURE with me say 'let's discuss CF_TEMPERATURE'
+
+Gaurav5:21:04 PM
+let's discuss CF_TEMPERATURE
+
+VirtualCarolyn5:21:04 PM
+Thanks, Timmy. Do the rest of you agree or disagree with that idea? Why, or why not? 
+
+VirtualCarolyn5:21:06 PM
+Okay, Timmy. Can you say a little more about that?
+
+Gaurav5:23:28 PM
+let's discuss about cf and temperature
+
+VirtualCarolyn5:23:51 PM
+Okay, Gaurav. Can you say a little more about that?
+
+Gaurav5:24:14 PM
+let's discuss cold front and temperature
+
+VirtualCarolyn5:24:15 PM
+
+               Will you like to answer some questions related to cold front and temperature ?
+        
+
+Gaurav5:24:23 PM
+yes
+
+VirtualCarolyn5:24:25 PM
+Let's get started.
+
+VirtualCarolyn5:24:27 PM
+Introduction
+
+VirtualCarolyn5:24:27 PM
+Where is the temperature cooler in regards to a Cold front?
+
+VirtualCarolyn5:24:37 PM
+Okay, Gaurav. Can you say a little more about that?
+
+Timmy5:24:37 PM
+in front of the cold front
+
+VirtualCarolyn5:24:41 PM
+That is incorrect.
+
+VirtualCarolyn5:24:41 PM
+Remember that temperature fronts indicate the temperature behind the front. Where is 
+         the temperature cooler in regards to a Low front?
+
+Timmy5:25:00 PM
+In front
+
+VirtualCarolyn5:25:07 PM
+The temperature cooler behind in regards to a Low front
+
+VirtualCarolyn5:25:07 PM
+Let's move on to other topics.
+
+VirtualCarolyn5:25:07 PM
+When warm and cold fronts meet, there is likely to be a Low Pressure center. That 
+         means the temperature at these intersections is… ?
+
+Timmy5:25:24 PM
+cooler
+
+Gaurav5:25:25 PM
+high
+
+VirtualCarolyn5:25:27 PM
+That is correct.
+
+VirtualCarolyn5:25:27 PM
+Let's move on to other topics.
+
+Germán has joined the discussion.5:26:29 PM
+
+VirtualCarolyn5:26:31 PM
+Welcome, Germán
+We have been discussing on topics like  [CF_TEMPERATURE]
+Please join in.
+
+Germán5:27:03 PM
+ok, ready 
+
+Gaurav5:27:28 PM
+let's talk about precipitation
+
+Gaurav5:27:44 PM
+german will you like to say something about it
+
+VirtualCarolyn5:27:49 PM
+:-)
+
+VirtualCarolyn5:28:05 PM
+You can discuss about LP_PRECIPITATION. If you want to discuss LP_PRECIPITATION with me say 'let's discuss LP_PRECIPITATION'
+
+VirtualCarolyn5:28:07 PM
+Do you have any thoughts, Germán?
+
+Germán5:29:09 PM
+let's discuss LP_PRECIPITATION
+
+VirtualCarolyn5:29:11 PM
+
+               Will you like to answer some questions related to low pressure and precipitation ?
+        
+
+Timmy5:29:19 PM
+yes
+
+VirtualCarolyn5:29:21 PM
+Let's get started.
+
+VirtualCarolyn5:29:23 PM
+Introduction
+
+VirtualCarolyn5:29:23 PM
+Where does the air move in a low pressure center?
+
+Timmy5:29:28 PM
+upward
+
+VirtualCarolyn5:29:31 PM
+That is correct.
+
+VirtualCarolyn5:29:31 PM
+When air is pushed upward, what happens to it?
+
+Germán5:29:42 PM
+does the air get cooler?
+
+VirtualCarolyn5:29:47 PM
+Can you rephrase your response?
+
+VirtualCarolyn5:29:47 PM
+When air is pushed upward, what happens to it?
+
+Germán5:30:00 PM
+it gets cooler
+
+VirtualCarolyn5:30:01 PM
+That is incorrect.
+
+VirtualCarolyn5:30:01 PM
+When air rises, it is introduced to higher pressure and cooler 
+           temperatures. What happens to air under high pressure and cooler temperatures?
+
+Germán5:30:59 PM
+the air is pushed down
+
+VirtualCarolyn5:31:01 PM
+When air rises and it is introduced to higher pressure and cooler 
+           temperatures, it gets condensed.
+
+VirtualCarolyn5:31:01 PM
+What is the result of air condensing?
+
+Germán5:31:26 PM
+precipitation
+
+VirtualCarolyn5:31:27 PM
+Can you rephrase your response?
+
+VirtualCarolyn5:31:27 PM
+What is the result of air condensing?
+
+Germán5:31:38 PM
+the result of air condensing is precipitation
+
+VirtualCarolyn5:31:43 PM
+That is incorrect.
+
+VirtualCarolyn5:31:43 PM
+When water vapor condenses, it goes from being a gas to being a liquid. What is the result of air condensing in low pressure centers?
+
+VirtualCarolyn5:32:05 PM
+You can discuss about LP_TEMPERATURE. If you want to discuss LP_TEMPERATURE with me say 'let's discuss LP_TEMPERATURE'
+
+VirtualCarolyn5:32:07 PM
+hey Gaurav, are you still with us?
+
+Gaurav5:32:14 PM
+yes I am
+
+VirtualCarolyn5:32:19 PM
+Can you rephrase your response?
+
+VirtualCarolyn5:32:19 PM
+When water vapor condenses, it goes from being a gas to being a liquid. What is the result of air condensing in low pressure centers?
+
+Timmy5:32:29 PM
+moisture and clouds
+
+VirtualCarolyn5:32:35 PM
+That is correct.
+
+VirtualCarolyn5:32:35 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is...?
+
+Gaurav5:32:49 PM
+high
+
+VirtualCarolyn5:32:55 PM
+That is correct.
+
+VirtualCarolyn5:32:55 PM
+Let's move on to other topics.
+
+Germán5:33:20 PM
+ok
+
+Gaurav5:33:32 PM
+high temperature warm front
+
+VirtualCarolyn5:33:33 PM
+I noticed that you are talking about WF_TEMPERATURE. If you want to discuss WF_TEMPERATURE with me say 'let's discuss WF_TEMPERATURE'
+
+Gaurav5:33:50 PM
+let's discuss warm front and temperature
+
+VirtualCarolyn5:33:51 PM
+
+               Will you like to answer some questions related to warm front and temperature ?
+        
+
+Gaurav5:34:05 PM
+yes
+
+VirtualCarolyn5:34:07 PM
+Let's get started.
+
+Germán5:35:07 PM
+ok
+
+Germán5:36:31 PM
+so i think warm front is when massive warm air replaces cold air
+
+Gaurav5:37:09 PM
+Virtual carolyn let's discuss warm front and temperature
+
+Gaurav5:39:32 PM
+ok i think some issue with warm front and temperature script
+
+Gaurav5:39:44 PM
+we should talk about something else
+
+Gaurav5:39:51 PM
+Timmy any ideas ?
+
+Timmy5:40:05 PM
+cold front and wind direction
+
+Gaurav5:40:25 PM
+i think script broke we need to start again
+
+Gaurav5:40:32 PM
+i am restarting agent
+
+VirtualCarolyn has disconnected.5:40:35 PM
+
+Germán5:40:47 PM
+ok
+
+VirtualCarolyn has joined the discussion.6:01:37 PM
+
+VirtualCarolyn6:01:39 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+Gaurav has disconnected.6:01:40 PM
+
+VirtualCarolyn6:01:41 PM
+Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+VirtualCarolynhas shared an image.6:01:43 PM
+
+Gaurav has joined the discussion.6:01:48 PM
+
+VirtualCarolyn6:01:49 PM
+Welcome, Gaurav
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+Timmy6:02:05 PM
+Hello
+
+Germán has disconnected.6:02:15 PM
+
+Germán has joined the discussion.6:02:26 PM
+
+VirtualCarolyn6:02:27 PM
+Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+Timmy6:02:32 PM
+cold front and precipitation
+
+VirtualCarolyn6:02:33 PM
+I noticed that you are talking about CF_PRECIPITATION. If you want to discuss CF_PRECIPITATION with me say 'let's discuss CF_PRECIPITATION'
+
+Timmy6:02:45 PM
+let's discuss CF_PRECIPITATION
+
+Timmy6:02:56 PM
+let's discuss cf and precipitation
+
+VirtualCarolyn6:02:57 PM
+
+               Will you like to answer some questions related to cold front and precipitation ?
+        
+
+Timmy6:03:00 PM
+yes
+
+VirtualCarolyn6:03:01 PM
+Let's get started.
+
+Timmy6:03:57 PM
+cold front and temperature
+
+VirtualCarolyn has disconnected.6:04:15 PM
+
+VirtualCarolyn has joined the discussion.6:04:26 PM
+
+VirtualCarolyn6:04:28 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn6:04:30 PM
+Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+VirtualCarolynhas shared an image.6:04:32 PM
+
+Timmy6:04:37 PM
+cold front and temperature
+
+VirtualCarolyn6:04:38 PM
+I noticed that you are talking about CF_TEMPERATURE. If you want to discuss CF_TEMPERATURE with me say 'let's discuss CF_TEMPERATURE'
+
+Timmy6:04:50 PM
+let's discuss cf and temperature
+
+VirtualCarolyn6:04:52 PM
+
+               Will you like to answer some questions related to cold front and temperature ?
+        
+
+Timmy6:04:57 PM
+yes
+
+VirtualCarolyn6:04:58 PM
+Let's get started.
+
+VirtualCarolyn6:05:00 PM
+Introduction
+
+VirtualCarolyn6:05:00 PM
+Where is the temperature cooler in regards to a Cold front?
+
+Timmy6:05:04 PM
+in front
+
+VirtualCarolyn6:05:08 PM
+That is incorrect.
+
+VirtualCarolyn6:05:08 PM
+Remember that temperature fronts indicate the temperature behind the front. Where is 
+         the temperature cooler in regards to a Low front?
+
+Timmy6:05:13 PM
+behind
+
+VirtualCarolyn6:05:14 PM
+Do you agree or disagree with Timmy? Why, or why not?
+
+VirtualCarolyn6:05:16 PM
+Okay, Timmy. Can you explain that a bit more?
+
+VirtualCarolyn6:05:18 PM
+That is correct.
+
+VirtualCarolyn6:05:18 PM
+Let's move on to other topics.
+
+VirtualCarolyn6:05:18 PM
+When warm and cold fronts meet, there is likely to be a Low Pressure center. That 
+         means the temperature at these intersections is… ?
+
+Timmy6:05:30 PM
+cooler
+
+VirtualCarolyn6:05:34 PM
+That is correct.
+
+VirtualCarolyn6:05:34 PM
+Let's move on to other topics.
+
+Timmy6:05:52 PM
+cold front and precipitation
+
+VirtualCarolyn6:05:54 PM
+I noticed that you are talking about CF_PRECIPITATION. If you want to discuss CF_PRECIPITATION with me say 'let's discuss CF_PRECIPITATION'
+
+Timmy6:06:01 PM
+let's discuss cf and precipitation
+
+VirtualCarolyn6:06:02 PM
+
+               Will you like to answer some questions related to cold front and precipitation ?
+        
+
+Timmy6:06:04 PM
+yes
+
+VirtualCarolyn6:06:06 PM
+Let's get started.
+
+VirtualCarolyn has disconnected.6:07:43 PM
+
+VirtualCarolyn has joined the discussion.6:08:14 PM
+
+VirtualCarolyn6:08:15 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn6:08:17 PM
+Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+VirtualCarolynhas shared an image.6:08:19 PM
+
+Timmy6:08:25 PM
+cold front and precipitation
+
+VirtualCarolyn6:08:28 PM
+I noticed that you are talking about CF_PRECIPITATION. If you want to discuss CF_PRECIPITATION with me say 'let's discuss CF_PRECIPITATION'
+
+Timmy6:08:37 PM
+let's discuss cf and precipitation
+
+VirtualCarolyn6:08:40 PM
+
+               Will you like to answer some questions related to cold front and precipitation ?
+        
+
+Timmy6:08:42 PM
+yes
+
+VirtualCarolyn6:08:44 PM
+Let's get started.
+
+VirtualCarolyn6:08:46 PM
+Introduction
+
+VirtualCarolyn6:08:46 PM
+Where is the chance of precipitation higher in regards to a cold front?
+
+Timmy6:09:09 PM
+in front
+
+VirtualCarolyn6:09:14 PM
+That is incorrect.
+
+VirtualCarolyn6:09:14 PM
+There are usually Low Pressure centers behind cold fronts and High pressure 
+          centers in front of cold fronts. Where is the chance of precipitation higher?
+
+Timmy6:09:24 PM
+tuna
+
+VirtualCarolyn6:09:30 PM
+Can you rephrase your response?
+
+VirtualCarolyn6:09:30 PM
+There are usually Low Pressure centers behind cold fronts and High pressure 
+          centers in front of cold fronts. Where is the chance of precipitation higher?
+
+Timmy6:09:43 PM
+i dont know
+
+Timmy6:10:22 PM
+behind
+
+VirtualCarolyn has disconnected.6:11:46 PM
+
+VirtualCarolyn has joined the discussion.6:12:21 PM
+
+VirtualCarolyn6:12:22 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn6:12:24 PM
+Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+VirtualCarolynhas shared an image.6:12:26 PM
+
+Timmy6:12:34 PM
+cold front wind direction
+
+VirtualCarolyn6:12:38 PM
+:-)
+
+Timmy6:12:57 PM
+cf and wind direction
+
+Germán has disconnected.6:13:35 PM
+
+VirtualCarolyn has disconnected.6:13:41 PM
+
+Germán has joined the discussion.6:13:42 PM
+
+VirtualCarolyn has joined the discussion.6:13:56 PM
+
+VirtualCarolyn6:13:57 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn6:13:59 PM
+Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+VirtualCarolynhas shared an image.6:14:01 PM
+
+Timmy6:14:15 PM
+Hello. Let's discuss low pressure and temperature
+
+VirtualCarolyn6:14:19 PM
+I noticed that you are talking about LP_TEMPERATURE. If you want to discuss LP_TEMPERATURE with me say 'let's discuss LP_TEMPERATURE'
+
+VirtualCarolyn6:14:21 PM
+
+               Will you like to answer some questions related to low pressure and temperature ?
+        
+
+Timmy6:14:26 PM
+yes
+
+VirtualCarolyn6:14:28 PM
+Let's get started.
+
+VirtualCarolyn6:14:30 PM
+Let's see how much you know about low pressure and temperature.
+
+VirtualCarolyn6:14:30 PM
+Where is the air concentrated in a low pressure center?
+
+Timmy6:14:36 PM
+i don't know
+
+VirtualCarolyn6:14:38 PM
+Can you rephrase your response?
+
+VirtualCarolyn6:14:38 PM
+Where is the air concentrated in a low pressure center?
+
+Timmy6:14:43 PM
+i'm not sure
+
+VirtualCarolyn6:14:44 PM
+What do you think about Timmy's idea? Can you say why you agree with it, or why you don't?
+
+VirtualCarolyn6:14:46 PM
+Alright
+
+Timmy6:15:07 PM
+low in the atmosphere
+
+VirtualCarolyn has disconnected.6:15:15 PM
+
+VirtualCarolyn has joined the discussion.6:15:29 PM
+
+VirtualCarolyn6:15:31 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn6:15:33 PM
+Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+VirtualCarolynhas shared an image.6:15:35 PM
+
+Timmy6:15:40 PM
+low pressure and wind direction
+
+VirtualCarolyn6:15:43 PM
+I noticed that you are talking about LP_WINDDIRECTION. If you want to discuss LP_WINDDIRECTION with me say 'let's discuss LP_WINDDIRECTION'
+
+VirtualCarolyn6:15:45 PM
+:-)
+
+Timmy6:15:51 PM
+let's discuss lp and wind direction
+
+VirtualCarolyn6:15:53 PM
+
+               Will you like to answer some questions related to low pressure and wind direction ?
+        
+
+Timmy6:15:56 PM
+yes
+
+VirtualCarolyn6:15:57 PM
+Let's get started.
+
+VirtualCarolyn6:15:59 PM
+Let's see how much you know about low pressure and wind direction.
+
+VirtualCarolyn6:15:59 PM
+How strong are winds around a low pressure center?
+
+Germán6:16:07 PM
+i don't know
+
+VirtualCarolyn6:16:13 PM
+Can you rephrase your response?
+
+VirtualCarolyn6:16:13 PM
+How strong are winds around a low pressure center?
+
+Timmy6:16:16 PM
+strong
+
+VirtualCarolyn6:16:17 PM
+That is correct.
+
+VirtualCarolyn6:16:17 PM
+What direction does the wind blow around a low pressure center?
+
+Timmy6:16:23 PM
+counter-clockwise
+
+VirtualCarolyn6:16:27 PM
+Wind blows counter-clockwide around low pressure centers
+
+VirtualCarolyn6:16:27 PM
+Let's move on to other topics.
+
+Germán6:16:56 PM
+warm fronts
+
+Timmy6:16:57 PM
+okay let's discuss lp and temperature
+
+VirtualCarolyn6:16:59 PM
+I noticed that you are talking about LP_TEMPERATURE. If you want to discuss LP_TEMPERATURE with me say 'let's discuss LP_TEMPERATURE'
+
+VirtualCarolyn6:17:01 PM
+
+               Will you like to answer some questions related to low pressure and temperature ?
+        
+
+VirtualCarolyn6:17:03 PM
+Let's get started.
+
+VirtualCarolyn6:17:05 PM
+Let's see how much you know about low pressure and temperature.
+
+VirtualCarolyn6:17:05 PM
+Where is the air concentrated in a low pressure center?
+
+Timmy6:17:13 PM
+low in the atmosphere
+
+VirtualCarolyn6:17:19 PM
+That is correct.
+
+VirtualCarolyn6:17:19 PM
+Let's move on to other topics.
+
+VirtualCarolyn6:17:19 PM
+Since the air has concentrated lower in the atmosphere, the temperature is most likely…?
+
+Timmy6:17:28 PM
+high
+
+VirtualCarolyn6:17:29 PM
+That is incorrect.
+
+VirtualCarolyn6:17:29 PM
+Warm air rises and cool air sinks. In a low pressure center, the temperture is most likely...?
+
+Timmy6:17:35 PM
+cool
+
+VirtualCarolyn6:17:39 PM
+That is correct.
+
+VirtualCarolyn6:17:39 PM
+Let's move on to other topics.
+
+Timmy has disconnected.6:18:07 PM
+
+VirtualCarolyn6:19:43 PM
+What do you think, Gaurav?
+
+VirtualCarolyn6:23:41 PM
+You can discuss about LP_PRECIPITATION. If you want to discuss LP_PRECIPITATION with me say 'let's discuss LP_PRECIPITATION'
+
+VirtualCarolyn6:23:43 PM
+Let's stick to this.
+
+VirtualCarolyn6:27:41 PM
+You can discuss about HP_PRECIPITATION. If you want to discuss HP_PRECIPITATION with me say 'let's discuss HP_PRECIPITATION'
+
+VirtualCarolyn6:31:41 PM
+You can discuss about HP_TEMPERATURE. If you want to discuss HP_TEMPERATURE with me say 'let's discuss HP_TEMPERATURE'
+
+VirtualCarolyn6:35:41 PM
+You can discuss about HP_WINDDIRECTION. If you want to discuss HP_WINDDIRECTION with me say 'let's discuss HP_WINDDIRECTION'
+
+VirtualCarolyn6:35:43 PM
+I can't do this on my own :-)
+
+VirtualCarolyn6:39:42 PM
+You can discuss about CF_PRECIPITATION. If you want to discuss CF_PRECIPITATION with me say 'let's discuss CF_PRECIPITATION'
+
+VirtualCarolyn has disconnected.6:39:47 PM
+
+Germán has disconnected.7:00:20 PM
+
+Germán has joined the discussion.7:01:27 PM
+
+Gaurav has disconnected.7:10:37 PM
+
+Guest 689352816 has joined the discussion.7:40:37 PM
+
+Guest 689352816 has disconnected.7:43:25 PM
+
+Gaurav has joined the discussion.11:18:22 PM
+
+Gaurav has disconnected.11:18:30 PM
+
+Gaurav has joined the discussion.11:19:06 PM
+
+Gaurav has joined the discussion.11:54:04 PM
+
+Gaurav has disconnected.11:58:08 PM
+
+Gaurav has joined the discussion.11:58:17 PM
+
+Gaurav has joined the discussion.11:59:23 PM
+
+Gaurav has disconnected.11:59:40 PM
+
+Timmy has joined the discussion.5:14:32 PM
+
+VirtualCarolyn has joined the discussion.5:15:09 PM
+
+VirtualCarolyn5:15:10 PM
+Welcome, Timmy
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolynhas shared an image.5:15:13 PM
+
+german has joined the discussion.5:15:13 PM
+
+VirtualCarolyn5:15:15 PM
+Welcome, german
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+Timmy5:15:17 PM
+Hey!
+
+Timmy5:15:26 PM
+cold front
+
+Timmy5:15:32 PM
+cold front and precipitation
+
+VirtualCarolyn5:15:35 PM
+I noticed that you are talking about CF_PRECIPITATION. If you want to discuss CF_PRECIPITATION with me say 'let's discuss CF_PRECIPITATION'
+
+Timmy5:15:44 PM
+let's discuss cf and precipitation
+
+VirtualCarolyn5:15:47 PM
+
+               Will you like to answer some questions related to cold front and precipitation ?
+        
+
+Timmy5:15:52 PM
+yes
+
+VirtualCarolyn5:15:53 PM
+Let's get started.
+
+VirtualCarolyn5:15:55 PM
+Introduction
+
+VirtualCarolyn5:15:55 PM
+Where is the chance of precipitation higher in regards to a cold front?
+
+Timmy5:15:57 PM
+tuna
+
+VirtualCarolyn5:15:59 PM
+Can you rephrase your response?
+
+VirtualCarolyn5:15:59 PM
+Where is the chance of precipitation higher in regards to a cold front?
+
+Timmy5:16:18 PM
+dont know
+
+VirtualCarolyn5:23:19 PM
+You can discuss about LP_PRECIPITATION. If you want to discuss LP_PRECIPITATION with me say 'let's discuss LP_PRECIPITATION'
+
+Timmy5:26:26 PM
+let's discuss lp and precipitation
+
+Timmy has disconnected.5:26:42 PM
+
+VirtualCarolyn5:27:19 PM
+You can discuss about LP_TEMPERATURE. If you want to discuss LP_TEMPERATURE with me say 'let's discuss LP_TEMPERATURE'
+
+german has disconnected.5:29:39 PM
+
+VirtualCarolyn5:31:19 PM
+You can discuss about LP_PRECIPITATION. If you want to discuss LP_PRECIPITATION with me say 'let's discuss LP_PRECIPITATION'
+
+VirtualCarolyn has disconnected.7:28:08 PM
+
+VirtualCarolyn has joined the discussion.7:28:31 PM
+
+Gaurav has joined the discussion.7:29:35 PM
+
+VirtualCarolyn7:29:36 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolynhas shared an image.7:29:38 PM
+
+Gaurav7:29:48 PM
+low pressure precipitation
+
+VirtualCarolyn7:29:50 PM
+I noticed that you are talking about LP_PRECIPITATION. If you want to discuss LP_PRECIPITATION with me say 'let's discuss LP_PRECIPITATION'
+
+VirtualCarolyn has disconnected.7:30:02 PM
+
+VirtualCarolyn has joined the discussion.7:33:19 PM
+
+VirtualCarolyn7:33:21 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolynhas shared an image.7:33:23 PM
+
+Gaurav7:33:34 PM
+low pressure precipitation
+
+VirtualCarolyn7:33:35 PM
+I noticed that you are talking about low pressure precipitation. If you want to discuss low pressure precipitation with me say 'let's discuss low pressure precipitation'
+
+Gaurav7:33:50 PM
+let's discuss low pressure precipitation
+
+VirtualCarolyn7:33:53 PM
+
+               Will you like to answer some questions related to low pressure and precipitation ?
+        
+
+Gaurav7:33:56 PM
+yes
+
+VirtualCarolyn7:33:57 PM
+Let's get started.
+
+VirtualCarolyn7:33:59 PM
+Let's see how much you know about low pressure and precipitation.
+
+VirtualCarolyn7:33:59 PM
+Where does the air move in a low pressure center?
+
+Gaurav7:34:15 PM
+upward
+
+VirtualCarolyn7:34:17 PM
+That is correct.
+
+VirtualCarolyn7:34:17 PM
+When air is pushed upward, what happens to it?
+
+Gaurav7:34:22 PM
+tuna
+
+VirtualCarolyn7:34:27 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:34:27 PM
+When air is pushed upward, what happens to it?
+
+Gaurav7:34:34 PM
+tuna
+
+VirtualCarolyn7:34:39 PM
+That is incorrect.
+
+VirtualCarolyn7:34:39 PM
+When air rises, it is introduced to higher pressure and cooler 
+           temperatures. What happens to air under high pressure and cooler temperatures?
+
+Gaurav7:35:07 PM
+i donno
+
+VirtualCarolyn7:35:09 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:35:09 PM
+When air rises, it is introduced to higher pressure and cooler 
+           temperatures. What happens to air under high pressure and cooler temperatures?
+
+Gaurav7:35:21 PM
+i donno
+
+VirtualCarolyn7:35:25 PM
+When air rises and it is introduced to higher pressure and cooler 
+           temperatures, it gets condensed.
+
+VirtualCarolyn7:35:25 PM
+What is the result of air condensing?
+
+Gaurav7:35:45 PM
+i donno
+
+VirtualCarolyn7:35:49 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:35:49 PM
+What is the result of air condensing?
+
+Gaurav7:35:55 PM
+i donno
+
+VirtualCarolyn7:36:01 PM
+That is incorrect.
+
+VirtualCarolyn7:36:01 PM
+When water vapor condenses, it goes from being a gas to being a liquid. What is the result of air condensing in low pressure centers?
+
+VirtualCarolyn7:37:01 PM
+When air condenses, the result is more moisture and clouds.
+
+VirtualCarolyn7:37:01 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is...?
+
+Gaurav7:37:18 PM
+i donno
+
+VirtualCarolyn7:37:21 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:37:21 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is...?
+
+Gaurav7:37:31 PM
+i donno
+
+VirtualCarolyn7:37:35 PM
+That is incorrect.
+
+VirtualCarolyn7:37:35 PM
+Rain is the result of air condensing into clouds. When there is more moisture and clouds, the chance of precipitation is...?
+
+Gaurav7:37:51 PM
+low
+
+VirtualCarolyn7:37:57 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is higher.
+
+VirtualCarolyn7:37:57 PM
+Let's move on to other topics.
+
+VirtualCarolyn7:41:35 PM
+You can discuss about low pressure temperature. If you want to discuss low pressure temperature with me say 'let's discuss low pressure temperature'
+
+tt has joined the discussion.7:42:10 PM
+
+VirtualCarolyn7:42:11 PM
+Welcome, tt
+We have been discussing on topics like  [low pressure precipitation, low pressure temperature]
+Please join in.
+
+VirtualCarolyn7:45:35 PM
+You can discuss about high pressure precipitation. If you want to discuss high pressure precipitation with me say 'let's discuss high pressure precipitation'
+
+VirtualCarolyn has disconnected.7:46:11 PM
+
+VirtualCarolyn has joined the discussion.7:46:47 PM
+
+VirtualCarolyn7:46:49 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn7:46:51 PM
+Welcome, tt
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.7:46:53 PM
+
+Gaurav7:47:53 PM
+low pressure precipitation
+
+VirtualCarolyn7:47:55 PM
+I noticed that you are talking about low pressure precipitation. If you want to discuss low pressure precipitation with me say 'let's discuss low pressure precipitation'
+
+Gaurav7:48:01 PM
+let's discuss low pressure precipitation
+
+VirtualCarolyn7:48:05 PM
+
+               Will you like to answer some questions related to low pressure and precipitation ?
+        
+
+Gaurav7:48:07 PM
+yes
+
+VirtualCarolyn7:48:09 PM
+Let's get started.
+
+VirtualCarolyn7:48:11 PM
+Let's see how much you know about low pressure and precipitation.
+
+VirtualCarolyn7:48:11 PM
+Where does the air move in a low pressure center?
+
+Gaurav7:48:18 PM
+upward
+
+VirtualCarolyn7:48:23 PM
+That is correct.
+
+VirtualCarolyn7:48:23 PM
+When air is pushed upward, what happens to it?
+
+Gaurav7:48:42 PM
+condenses
+
+VirtualCarolyn7:48:45 PM
+That is correct.
+
+VirtualCarolyn7:48:45 PM
+What is the result of air condensing?
+
+Gaurav7:48:50 PM
+i donno
+
+VirtualCarolyn7:48:55 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:48:55 PM
+What is the result of air condensing?
+
+Gaurav7:49:04 PM
+i donno
+
+VirtualCarolyn7:49:09 PM
+That is incorrect.
+
+VirtualCarolyn7:49:09 PM
+When water vapor condenses, it goes from being a gas to being a liquid. What is the result of air condensing in low pressure centers?
+
+Gaurav7:49:40 PM
+i donno
+
+VirtualCarolyn7:49:45 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:49:45 PM
+When water vapor condenses, it goes from being a gas to being a liquid. What is the result of air condensing in low pressure centers?
+
+Gaurav7:49:55 PM
+i donno
+
+VirtualCarolyn7:50:01 PM
+When air condenses, the result is more moisture and clouds.
+
+VirtualCarolyn7:50:01 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is...?
+
+Gaurav7:50:16 PM
+i donno
+
+VirtualCarolyn7:50:21 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:50:21 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is...?
+
+Gaurav7:50:27 PM
+i donno
+
+VirtualCarolyn7:50:31 PM
+That is incorrect.
+
+VirtualCarolyn7:50:31 PM
+Rain is the result of air condensing into clouds. When there is more moisture and clouds, the chance of precipitation is...?
+
+Gaurav7:50:38 PM
+i donno
+
+VirtualCarolyn7:50:41 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:50:41 PM
+Rain is the result of air condensing into clouds. When there is more moisture and clouds, the chance of precipitation is...?
+
+Gaurav7:50:45 PM
+i donno
+
+VirtualCarolyn7:50:47 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is higher.
+
+VirtualCarolyn7:50:47 PM
+Let's move on to other topics.
+
+tt has disconnected.7:50:55 PM
+
+jhjh has joined the discussion.7:50:58 PM
+
+VirtualCarolyn7:50:59 PM
+Welcome, jhjh
+We have been discussing on topics like  [low pressure precipitation]
+Please join in.
+
+jhjh7:51:29 PM
+high precipitation temperature
+
+jhjh7:52:07 PM
+high pressure temperature
+
+VirtualCarolyn7:52:09 PM
+I noticed that you are talking about high pressure temperature. If you want to discuss high pressure temperature with me say 'let's discuss high pressure temperature'
+
+jhjh7:52:16 PM
+'let's discuss high pressure temperature'
+
+VirtualCarolyn7:52:19 PM
+
+               Will you like to answer some questions related to high pressure and temperature ?
+        
+
+jhjh7:52:22 PM
+yes
+
+VirtualCarolyn7:52:23 PM
+Let's get started.
+
+VirtualCarolyn7:52:25 PM
+Let's see how much you know about high pressure and temperature.
+
+VirtualCarolyn7:52:25 PM
+Where is the air concentrated in a high pressure center?
+
+jhjh7:52:30 PM
+middle
+
+VirtualCarolyn7:52:33 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:52:33 PM
+Where is the air concentrated in a high pressure center?
+
+jhjh has disconnected.7:52:44 PM
+
+ghgh has joined the discussion.7:52:45 PM
+
+VirtualCarolyn7:52:47 PM
+Welcome, ghgh
+Can any one of you provide a summary of our discussion till now toghgh
+
+Gaurav7:52:55 PM
+middle
+
+VirtualCarolyn7:52:59 PM
+That is incorrect.
+
+VirtualCarolyn7:52:59 PM
+High pressure centers are named after where there is a concentration of air in the atmosphere. Where in the the atmosphere is the concentration of a high pressure system?
+
+ghgh has disconnected.7:53:23 PM
+
+Gaurav7:53:31 PM
+i donno
+
+VirtualCarolyn7:53:35 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:53:35 PM
+High pressure centers are named after where there is a concentration of air in the atmosphere. Where in the the atmosphere is the concentration of a high pressure system?
+
+vfgf has joined the discussion.7:53:44 PM
+
+VirtualCarolyn7:53:45 PM
+Welcome, vfgf
+We have been discussing on topics like  [low pressure precipitation, high pressure temperature]
+Please join in.
+
+Gaurav7:53:56 PM
+i think we have discussed a lot till now
+
+VirtualCarolyn7:53:59 PM
+The concentration of air in a high pressure center is high in altitude
+
+VirtualCarolyn7:53:59 PM
+Let's move on to other topics.
+
+VirtualCarolyn7:53:59 PM
+Since the air has concentrated higher in the atmosphere, the temperature is most likely…?
+
+VirtualCarolyn has disconnected.7:54:22 PM
+
+VirtualCarolyn has joined the discussion.7:55:36 PM
+
+VirtualCarolyn7:55:37 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn7:55:39 PM
+Welcome, vfgf
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.7:55:41 PM
+
+Gaurav7:56:00 PM
+low precipitation temperature
+
+Gaurav7:56:15 PM
+low pressure temperature
+
+VirtualCarolyn7:56:17 PM
+I noticed that you are talking about low pressure temperature. If you want to discuss low pressure temperature with me say 'let's discuss low pressure temperature'
+
+Gaurav7:56:49 PM
+let's discuss low pressure temperature
+
+VirtualCarolyn7:56:51 PM
+
+               Will you like to answer some questions related to low pressure and temperature ?
+        
+
+Gaurav7:56:56 PM
+yes
+
+VirtualCarolyn7:56:57 PM
+Let's get started.
+
+VirtualCarolyn7:56:59 PM
+Let's see how much you know about low pressure and temperature.
+
+VirtualCarolyn7:56:59 PM
+Where is the air concentrated in a low pressure center?
+
+Gaurav7:57:16 PM
+i donno
+
+VirtualCarolyn7:57:17 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:57:17 PM
+Where is the air concentrated in a low pressure center?
+
+hhh has joined the discussion.7:57:28 PM
+
+VirtualCarolyn7:57:29 PM
+Welcome, hhh
+We have been discussing on topics like  [low pressure temperature]
+Please join in.
+
+hhh7:57:49 PM
+i think we discussed
+
+VirtualCarolyn7:57:53 PM
+That is incorrect.
+
+VirtualCarolyn7:57:53 PM
+Low pressure centers are named after where there is a concentration of air in the atmosphere. Where in the the atmosphere is the concentration of a Low pressure system?
+
+VirtualCarolyn7:58:53 PM
+The concentration of air in a low pressure center is low in altitude
+
+VirtualCarolyn7:58:53 PM
+Let's move on to other topics.
+
+VirtualCarolyn7:58:53 PM
+Since the air has concentrated lower in the atmosphere, the temperature is most likely…?
+
+VirtualCarolyn7:59:53 PM
+That is incorrect.
+
+VirtualCarolyn7:59:53 PM
+Warm air rises and cool air sinks. In a low pressure center, the temperture is most likely...?
+
+hhh has disconnected.8:00:14 PM
+
+fggfgf has joined the discussion.8:00:23 PM
+
+VirtualCarolyn8:00:23 PM
+Welcome, fggfgf
+We have been discussing on topics like  [low pressure temperature]
+Please join in.
+
+VirtualCarolyn8:00:53 PM
+Since the air has concentrated lower in the atmosphere, the temperature is most likely cooler.
+
+VirtualCarolyn8:00:53 PM
+Let's move on to other topics.
+
+VirtualCarolyn8:04:01 PM
+You can discuss about low pressure precipitation. If you want to discuss low pressure precipitation with me say 'let's discuss low pressure precipitation'
+
+jhjhhjhj has joined the discussion.8:04:22 PM
+
+VirtualCarolyn8:04:23 PM
+Welcome, jhjhhjhj
+We have been discussing on topics like  [low pressure temperature]
+Please join in.
+
+VirtualCarolyn8:08:01 PM
+You can discuss about high pressure precipitation. If you want to discuss high pressure precipitation with me say 'let's discuss high pressure precipitation'
+
+VirtualCarolyn has disconnected.8:09:26 PM
+
+VirtualCarolyn has joined the discussion.8:09:37 PM
+
+VirtualCarolyn8:09:38 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn8:09:40 PM
+Welcome, jhjhhjhj
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.8:09:42 PM
+
+jhjhhjhj8:10:09 PM
+high pressure temperature
+
+VirtualCarolyn8:10:10 PM
+I noticed that you are talking about high pressure temperature. If you want to discuss high pressure temperature with me say 'let's discuss high pressure temperature'
+
+jhjhhjhj8:10:17 PM
+let's discuss high pressure temperature
+
+VirtualCarolyn8:10:18 PM
+
+               Will you like to answer some questions related to high pressure and temperature ?
+        
+
+vfgf has disconnected.8:10:20 PM
+
+fggfgf has disconnected.8:10:20 PM
+
+Gaurav8:10:26 PM
+yes
+
+VirtualCarolyn8:10:26 PM
+Let's get started.
+
+VirtualCarolyn8:10:28 PM
+Let's see how much you know about high pressure and temperature.
+
+VirtualCarolyn8:10:28 PM
+Where is the air concentrated in a high pressure center?
+
+Gaurav8:10:33 PM
+middle
+
+VirtualCarolyn8:10:36 PM
+Can you rephrase your response?
+
+VirtualCarolyn8:10:36 PM
+Where is the air concentrated in a high pressure center?
+
+jhjhhjhj8:10:42 PM
+below
+
+VirtualCarolyn8:10:48 PM
+That is incorrect.
+
+VirtualCarolyn8:10:48 PM
+High pressure centers are named after where there is a concentration of air in the atmosphere. Where in the the atmosphere is the concentration of a high pressure system?
+
+hgghghgh has joined the discussion.8:11:04 PM
+
+hgghghgh has disconnected.8:11:05 PM
+
+Gaurav8:11:12 PM
+i donno
+
+VirtualCarolyn8:11:19 PM
+Can you rephrase your response?
+
+VirtualCarolyn8:11:19 PM
+High pressure centers are named after where there is a concentration of air in the atmosphere. Where in the the atmosphere is the concentration of a high pressure system?
+
+fgfgfggh has joined the discussion.8:11:21 PM
+
+VirtualCarolyn8:11:23 PM
+Welcome, fgfgfggh
+We have been discussing on topics like  [high pressure temperature]
+Please join in.
+
+VirtualCarolyn8:11:25 PM
+Welcome, jhjhhjhj
+We have been discussing on topics like  [high pressure temperature]
+Please join in.
+
+fgfgfggh8:11:36 PM
+hi
+
+VirtualCarolyn8:11:39 PM
+The concentration of air in a high pressure center is high in altitude
+
+VirtualCarolyn8:11:39 PM
+Let's move on to other topics.
+
+VirtualCarolyn8:11:39 PM
+Since the air has concentrated higher in the atmosphere, the temperature is most likely…?
+
+VirtualCarolyn has disconnected.8:12:16 PM
+
+jhjhhjhj has disconnected.9:39:57 PM
+
+Gaurav has disconnected.9:39:57 PM
+
+fgfgfggh has disconnected.9:49:03 PM
+
+germán has joined the discussion.6:00:51 AM
+
+germán6:01:10 AM
+direction of the wind
+
+germán has disconnected.6:10:55 AM
+
+VirtualCarolyn has joined the discussion.1:19:19 PM
+
+Timmy has joined the discussion.1:19:44 PM
+
+VirtualCarolyn1:19:45 PM
+Welcome, Timmy
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolynhas shared an image.1:19:47 PM
+
+Gaurav has joined the discussion.1:19:55 PM
+
+VirtualCarolyn1:19:57 PM
+Welcome, Gaurav
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+germán has joined the discussion.1:20:03 PM
+
+VirtualCarolyn1:20:03 PM
+Welcome, germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+Gaurav1:20:16 PM
+low pressure precipitation
+
+VirtualCarolyn1:20:19 PM
+I noticed that you are talking about low pressure precipitation. If you want to discuss low pressure precipitation with me say 'let's discuss low pressure precipitation'
+
+Gaurav1:20:27 PM
+Thanks. But can you send the confirmation mail. I need it for my visa.
+
+Gaurav1:20:42 PM
+'let's discuss low pressure precipitation
+
+germán1:20:42 PM
+let's discuss low pressure precipitation
+
+VirtualCarolyn1:20:43 PM
+
+               Will you like to answer some questions related to low pressure and precipitation ?
+        
+
+germán1:20:46 PM
+yes
+
+VirtualCarolyn1:20:47 PM
+Let's get started.
+
+VirtualCarolyn1:20:49 PM
+Let's see how much you know about low pressure and precipitation.
+
+VirtualCarolyn1:20:49 PM
+Where does the air move in a low pressure center?
+
+Timmy1:20:58 PM
+don't know
+
+VirtualCarolyn1:21:03 PM
+Can you rephrase your response?
+
+VirtualCarolyn1:21:03 PM
+Where does the air move in a low pressure center?
+
+Gaurav1:21:07 PM
+donno
+
+VirtualCarolyn1:21:09 PM
+That is incorrect.
+
+VirtualCarolyn1:21:09 PM
+When the air pressure is at a lower level in the atmosphere, where 
+       would the air be pushed?
+
+germán1:21:16 PM
+upwards
+
+VirtualCarolyn1:21:19 PM
+That is correct.
+
+VirtualCarolyn1:21:19 PM
+When air is pushed upward, what happens to it?
+
+Gaurav1:21:23 PM
+condenses
+
+VirtualCarolyn1:21:29 PM
+What is the result of air condensing?
+
+VirtualCarolyn1:21:29 PM
+That is correct.
+
+Gaurav1:21:38 PM
+it's become heavy hehehe
+
+VirtualCarolyn1:21:45 PM
+Can you rephrase your response?
+
+VirtualCarolyn1:21:45 PM
+What is the result of air condensing?
+
+Gaurav1:21:52 PM
+you must know
+
+VirtualCarolyn1:21:55 PM
+That is incorrect.
+
+VirtualCarolyn1:21:55 PM
+When water vapor condenses, it goes from being a gas to being a liquid. What is the result of air condensing in low pressure centers?
+
+VirtualCarolyn1:22:55 PM
+When air condenses, the result is more moisture and clouds.
+
+VirtualCarolyn1:22:55 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is...?
+
+VirtualCarolyn1:23:55 PM
+That is incorrect.
+
+VirtualCarolyn1:23:55 PM
+Rain is the result of air condensing into clouds. When there is more moisture and clouds, the chance of precipitation is...?
+
+VirtualCarolyn1:24:55 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is higher.
+
+VirtualCarolyn1:24:55 PM
+Let's move on to other topics.
+
+Timmy1:26:24 PM
+okay
+
+Timmy has disconnected.1:26:31 PM
+
+VirtualCarolyn has disconnected.1:26:33 PM
+
+Gaurav has disconnected.1:26:36 PM
+
+germán has disconnected.1:26:40 PM
+
+VirtualCarolyn has joined the discussion.1:36:22 PM
+
+Gaurav has joined the discussion.1:36:30 PM
+
+VirtualCarolyn1:36:31 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+Timmy has joined the discussion.1:36:32 PM
+
+VirtualCarolyn1:36:33 PM
+Welcome, Timmy
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.1:36:35 PM
+
+Germán has joined the discussion.1:36:37 PM
+
+VirtualCarolyn1:36:39 PM
+Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+Gaurav1:36:42 PM
+low pressure temperature
+
+VirtualCarolyn1:36:43 PM
+I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'ASK QUESTIONS ABOUT - low pressure temperature'
+
+Gaurav1:36:53 PM
+'ASK QUESTIONS ABOUT - low pressure temperature
+
+Germán1:36:53 PM
+ask me a question
+
+VirtualCarolyn has disconnected.1:37:18 PM
+
+Timmy has disconnected.1:37:40 PM
+
+VirtualCarolyn has joined the discussion.1:38:21 PM
+
+VirtualCarolyn1:38:22 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn1:38:24 PM
+Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+Timmy has joined the discussion.1:38:25 PM
+
+VirtualCarolyn1:38:26 PM
+Welcome, Timmy
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.1:38:28 PM
+
+Timmy1:38:34 PM
+low pressure and temperature
+
+Germán has disconnected.1:38:34 PM
+
+VirtualCarolyn1:38:34 PM
+I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'ASK QUESTIONS ABOUT - low pressure temperature'
+
+Gaurav1:38:42 PM
+ASK QUESTIONS ABOUT - low pressure temperature
+
+Germán has joined the discussion.1:38:43 PM
+
+VirtualCarolyn1:38:46 PM
+Welcome, Germán
+We have been discussing on topics like  [low pressure temperature]
+Please join in.
+
+Timmy1:39:12 PM
+ask questions about low pressure and temperature
+
+Timmy1:39:31 PM
+Ask questions
+
+VirtualCarolyn has disconnected.1:40:09 PM
+
+VirtualCarolyn has joined the discussion.1:40:27 PM
+
+VirtualCarolyn1:40:28 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn1:40:30 PM
+Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.1:40:32 PM
+
+Gaurav1:41:00 PM
+low pressure temperature
+
+VirtualCarolyn1:41:02 PM
+I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'ASK QUESTIONS ABOUT - low pressure temperature'
+
+Gaurav1:41:10 PM
+'ASK QUESTIONS ABOUT - low pressure temperature'
+
+Germán has disconnected.1:41:25 PM
+
+VirtualCarolyn1:41:32 PM
+Do you agree or disagree with Gaurav? Why, or why not?
+
+VirtualCarolyn1:41:34 PM
+Can you say more about that, Gaurav?
+
+Gaurav1:41:42 PM
+ASK QUESTIONS ABOUT - low pressure temperature
+
+Germán has joined the discussion.1:41:46 PM
+
+VirtualCarolyn1:41:46 PM
+Welcome, Germán
+We have been discussing on topics like  [low pressure temperature]
+Please join in.
+
+Gaurav1:41:58 PM
+ASK QUESTION
+
+Gaurav1:42:19 PM
+low pressure
+
+Gaurav1:42:30 PM
+Ask question
+
+VirtualCarolyn has disconnected.1:42:46 PM
+
+VirtualCarolyn has joined the discussion.1:43:43 PM
+
+VirtualCarolyn1:43:45 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn1:43:47 PM
+Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.1:43:49 PM
+
+Gaurav1:43:50 PM
+low pressure temperature
+
+VirtualCarolyn1:43:53 PM
+I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'ASK QUESTIONS ABOUT - low pressure temperature'
+
+Gaurav1:44:07 PM
+let's discuss  low pressure temperature
+
+Gaurav1:44:26 PM
+ask question about  low pressure temperature
+
+VirtualCarolyn1:44:49 PM
+Thanks, Gaurav. Do the rest of you agree or disagree with that idea? Why, or why not? 
+
+Gaurav1:45:19 PM
+gaurav singh tomar
+
+Germán has disconnected.1:49:28 PM
+
+VirtualCarolyn has disconnected.1:49:32 PM
+
+Germán has joined the discussion.1:49:41 PM
+
+Timmy has disconnected.1:51:29 PM
+
+Timmy has joined the discussion.1:51:36 PM
+
+VirtualCarolyn has joined the discussion.1:52:19 PM
+
+VirtualCarolyn1:52:21 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn1:52:23 PM
+Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.1:52:25 PM
+
+Gaurav1:52:27 PM
+low pressure temperature
+
+VirtualCarolyn1:52:29 PM
+I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUTlow pressure temperature' and I will ask some questions on it.
+
+Gaurav1:52:38 PM
+Let's discuss low pressure temperature
+
+VirtualCarolyn1:52:41 PM
+
+               Will you like to answer some questions related to low pressure and temperature ?
+        
+
+Gaurav1:52:43 PM
+yes
+
+VirtualCarolyn1:52:45 PM
+Let's get started.
+
+VirtualCarolyn1:52:47 PM
+Let's see how much you know about low pressure and temperature.
+
+VirtualCarolyn1:52:47 PM
+Where is the air concentrated in a low pressure center?
+
+Gaurav1:52:53 PM
+i donno
+
+VirtualCarolyn1:52:55 PM
+Can you rephrase your response?
+
+VirtualCarolyn1:52:55 PM
+Where is the air concentrated in a low pressure center?
+
+Gaurav1:53:00 PM
+i donno
+
+VirtualCarolyn1:53:03 PM
+Do you agree or disagree with Gaurav? Why, or why not?
+
+VirtualCarolyn1:53:05 PM
+That is incorrect.
+
+VirtualCarolyn1:53:05 PM
+I did not understand your answer, maybe you can try rephrasing. Where in the the atmosphere is the concentration of a low pressure system?
+
+VirtualCarolyn1:54:05 PM
+That is incorrect. The concentration of air in a low pressure center is low in altitude
+
+VirtualCarolyn1:54:05 PM
+Let's move on to other topics.
+
+VirtualCarolyn1:54:05 PM
+Since the air has concentrated lower in the atmosphere, the temperature is most likely…?
+
+VirtualCarolyn has disconnected.1:54:28 PM
+
+VirtualCarolyn has joined the discussion.1:55:10 PM
+
+VirtualCarolyn1:55:11 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn1:55:13 PM
+Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.1:55:15 PM
+
+Timmy1:55:22 PM
+low pressure and temperature </processing></entry>
+<entry timestamp="2015-04-21#13:55:29" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Gaurav: let's discuss Discussion
+
+VirtualCarolyn has joined the discussion.5:07:32 PM
+
+Gaurav has joined the discussion.5:08:11 PM
+
+Timmy has joined the discussion.5:08:13 PM
+
+VirtualCarolyn5:08:13 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on parts of a computer
+You can wait for another person to join or start discussing with me a part of the computer.
+
+VirtualCarolyn5:08:15 PM
+Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a part of the computer ?
+
+VirtualCarolynhas shared an image.5:08:17 PM
+
+Timmy5:08:45 PM
+I'm interested in talking more about cold fronts
+
+Timmy5:09:02 PM
+cold
+
+VirtualCarolyn has disconnected.5:09:14 PM
+
+Timmy5:09:14 PM
+I'm interested in talking cf
+
+Timmy has disconnected.5:09:45 PM
+
+Gaurav has disconnected.5:12:37 PM
+
+Gaurav has joined the discussion.5:12:55 PM
+
+VirtualCarolyn has joined the discussion.5:13:21 PM
+
+VirtualCarolyn5:13:22 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolynhas shared an image.5:13:24 PM
+
+Timmy has joined the discussion.5:13:30 PM
+
+VirtualCarolyn5:13:30 PM
+Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+Timmy5:13:45 PM
+Sure let's talk about cold front
+
+VirtualCarolyn5:13:48 PM
+I noticed that you are talking about WF_TEMPERATURE. If you want to discuss WF_TEMPERATURE with me say 'let's discuss WF_TEMPERATURE'
+
+VirtualCarolyn5:13:51 PM
+I noticed that you are talking about CF_TEMPERATURE. If you want to discuss CF_TEMPERATURE with me say 'let's discuss CF_TEMPERATURE'
+
+VirtualCarolyn5:13:53 PM
+Ok
+
+Timmy5:14:26 PM
+cf
+
+VirtualCarolyn has disconnected.5:15:09 PM
+
+Timmy5:15:09 PM
+let's discuss WFTEMPERATURE
+
+VirtualCarolyn has joined the discussion.5:15:42 PM
+
+VirtualCarolyn5:15:43 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn5:15:45 PM
+Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+VirtualCarolynhas shared an image.5:15:47 PM
+
+Gaurav5:15:56 PM
+let's discuss cold front
+
+Timmy5:16:24 PM
+cold front and temperature
+
+VirtualCarolyn5:16:25 PM
+I noticed that you are talking about WF_TEMPERATURE. If you want to discuss WF_TEMPERATURE with me say 'let's discuss WF_TEMPERATURE'
+
+VirtualCarolyn5:16:27 PM
+I noticed that you are talking about CF_TEMPERATURE. If you want to discuss CF_TEMPERATURE with me say 'let's discuss CF_TEMPERATURE'
+
+VirtualCarolyn has disconnected.5:19:20 PM
+
+VirtualCarolyn has joined the discussion.5:19:51 PM
+
+VirtualCarolyn5:19:52 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn5:19:54 PM
+Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+VirtualCarolynhas shared an image.5:19:56 PM
+
+Timmy5:20:03 PM
+let's talk about cold front
+
+Gaurav5:20:16 PM
+yes timmy can you explain what is it
+
+VirtualCarolyn5:20:22 PM
+You can figure this out as a team!
+
+Timmy5:20:41 PM
+sure. a cold front brings coolers temperatures
+
+VirtualCarolyn5:20:42 PM
+I noticed that you are talking about CF_TEMPERATURE. If you want to discuss CF_TEMPERATURE with me say 'let's discuss CF_TEMPERATURE'
+
+Gaurav5:21:04 PM
+let's discuss CF_TEMPERATURE
+
+VirtualCarolyn5:21:04 PM
+Thanks, Timmy. Do the rest of you agree or disagree with that idea? Why, or why not? 
+
+VirtualCarolyn5:21:06 PM
+Okay, Timmy. Can you say a little more about that?
+
+Gaurav5:23:28 PM
+let's discuss about cf and temperature
+
+VirtualCarolyn5:23:51 PM
+Okay, Gaurav. Can you say a little more about that?
+
+Gaurav5:24:14 PM
+let's discuss cold front and temperature
+
+VirtualCarolyn5:24:15 PM
+
+               Will you like to answer some questions related to cold front and temperature ?
+        
+
+Gaurav5:24:23 PM
+yes
+
+VirtualCarolyn5:24:25 PM
+Let's get started.
+
+VirtualCarolyn5:24:27 PM
+Introduction
+
+VirtualCarolyn5:24:27 PM
+Where is the temperature cooler in regards to a Cold front?
+
+VirtualCarolyn5:24:37 PM
+Okay, Gaurav. Can you say a little more about that?
+
+Timmy5:24:37 PM
+in front of the cold front
+
+VirtualCarolyn5:24:41 PM
+That is incorrect.
+
+VirtualCarolyn5:24:41 PM
+Remember that temperature fronts indicate the temperature behind the front. Where is 
+         the temperature cooler in regards to a Low front?
+
+Timmy5:25:00 PM
+In front
+
+VirtualCarolyn5:25:07 PM
+The temperature cooler behind in regards to a Low front
+
+VirtualCarolyn5:25:07 PM
+Let's move on to other topics.
+
+VirtualCarolyn5:25:07 PM
+When warm and cold fronts meet, there is likely to be a Low Pressure center. That 
+         means the temperature at these intersections is… ?
+
+Timmy5:25:24 PM
+cooler
+
+Gaurav5:25:25 PM
+high
+
+VirtualCarolyn5:25:27 PM
+That is correct.
+
+VirtualCarolyn5:25:27 PM
+Let's move on to other topics.
+
+Germán has joined the discussion.5:26:29 PM
+
+VirtualCarolyn5:26:31 PM
+Welcome, Germán
+We have been discussing on topics like  [CF_TEMPERATURE]
+Please join in.
+
+Germán5:27:03 PM
+ok, ready 
+
+Gaurav5:27:28 PM
+let's talk about precipitation
+
+Gaurav5:27:44 PM
+german will you like to say something about it
+
+VirtualCarolyn5:27:49 PM
+:-)
+
+VirtualCarolyn5:28:05 PM
+You can discuss about LP_PRECIPITATION. If you want to discuss LP_PRECIPITATION with me say 'let's discuss LP_PRECIPITATION'
+
+VirtualCarolyn5:28:07 PM
+Do you have any thoughts, Germán?
+
+Germán5:29:09 PM
+let's discuss LP_PRECIPITATION
+
+VirtualCarolyn5:29:11 PM
+
+               Will you like to answer some questions related to low pressure and precipitation ?
+        
+
+Timmy5:29:19 PM
+yes
+
+VirtualCarolyn5:29:21 PM
+Let's get started.
+
+VirtualCarolyn5:29:23 PM
+Introduction
+
+VirtualCarolyn5:29:23 PM
+Where does the air move in a low pressure center?
+
+Timmy5:29:28 PM
+upward
+
+VirtualCarolyn5:29:31 PM
+That is correct.
+
+VirtualCarolyn5:29:31 PM
+When air is pushed upward, what happens to it?
+
+Germán5:29:42 PM
+does the air get cooler?
+
+VirtualCarolyn5:29:47 PM
+Can you rephrase your response?
+
+VirtualCarolyn5:29:47 PM
+When air is pushed upward, what happens to it?
+
+Germán5:30:00 PM
+it gets cooler
+
+VirtualCarolyn5:30:01 PM
+That is incorrect.
+
+VirtualCarolyn5:30:01 PM
+When air rises, it is introduced to higher pressure and cooler 
+           temperatures. What happens to air under high pressure and cooler temperatures?
+
+Germán5:30:59 PM
+the air is pushed down
+
+VirtualCarolyn5:31:01 PM
+When air rises and it is introduced to higher pressure and cooler 
+           temperatures, it gets condensed.
+
+VirtualCarolyn5:31:01 PM
+What is the result of air condensing?
+
+Germán5:31:26 PM
+precipitation
+
+VirtualCarolyn5:31:27 PM
+Can you rephrase your response?
+
+VirtualCarolyn5:31:27 PM
+What is the result of air condensing?
+
+Germán5:31:38 PM
+the result of air condensing is precipitation
+
+VirtualCarolyn5:31:43 PM
+That is incorrect.
+
+VirtualCarolyn5:31:43 PM
+When water vapor condenses, it goes from being a gas to being a liquid. What is the result of air condensing in low pressure centers?
+
+VirtualCarolyn5:32:05 PM
+You can discuss about LP_TEMPERATURE. If you want to discuss LP_TEMPERATURE with me say 'let's discuss LP_TEMPERATURE'
+
+VirtualCarolyn5:32:07 PM
+hey Gaurav, are you still with us?
+
+Gaurav5:32:14 PM
+yes I am
+
+VirtualCarolyn5:32:19 PM
+Can you rephrase your response?
+
+VirtualCarolyn5:32:19 PM
+When water vapor condenses, it goes from being a gas to being a liquid. What is the result of air condensing in low pressure centers?
+
+Timmy5:32:29 PM
+moisture and clouds
+
+VirtualCarolyn5:32:35 PM
+That is correct.
+
+VirtualCarolyn5:32:35 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is...?
+
+Gaurav5:32:49 PM
+high
+
+VirtualCarolyn5:32:55 PM
+That is correct.
+
+VirtualCarolyn5:32:55 PM
+Let's move on to other topics.
+
+Germán5:33:20 PM
+ok
+
+Gaurav5:33:32 PM
+high temperature warm front
+
+VirtualCarolyn5:33:33 PM
+I noticed that you are talking about WF_TEMPERATURE. If you want to discuss WF_TEMPERATURE with me say 'let's discuss WF_TEMPERATURE'
+
+Gaurav5:33:50 PM
+let's discuss warm front and temperature
+
+VirtualCarolyn5:33:51 PM
+
+               Will you like to answer some questions related to warm front and temperature ?
+        
+
+Gaurav5:34:05 PM
+yes
+
+VirtualCarolyn5:34:07 PM
+Let's get started.
+
+Germán5:35:07 PM
+ok
+
+Germán5:36:31 PM
+so i think warm front is when massive warm air replaces cold air
+
+Gaurav5:37:09 PM
+Virtual carolyn let's discuss warm front and temperature
+
+Gaurav5:39:32 PM
+ok i think some issue with warm front and temperature script
+
+Gaurav5:39:44 PM
+we should talk about something else
+
+Gaurav5:39:51 PM
+Timmy any ideas ?
+
+Timmy5:40:05 PM
+cold front and wind direction
+
+Gaurav5:40:25 PM
+i think script broke we need to start again
+
+Gaurav5:40:32 PM
+i am restarting agent
+
+VirtualCarolyn has disconnected.5:40:35 PM
+
+Germán5:40:47 PM
+ok
+
+VirtualCarolyn has joined the discussion.6:01:37 PM
+
+VirtualCarolyn6:01:39 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+Gaurav has disconnected.6:01:40 PM
+
+VirtualCarolyn6:01:41 PM
+Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+VirtualCarolynhas shared an image.6:01:43 PM
+
+Gaurav has joined the discussion.6:01:48 PM
+
+VirtualCarolyn6:01:49 PM
+Welcome, Gaurav
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+Timmy6:02:05 PM
+Hello
+
+Germán has disconnected.6:02:15 PM
+
+Germán has joined the discussion.6:02:26 PM
+
+VirtualCarolyn6:02:27 PM
+Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+Timmy6:02:32 PM
+cold front and precipitation
+
+VirtualCarolyn6:02:33 PM
+I noticed that you are talking about CF_PRECIPITATION. If you want to discuss CF_PRECIPITATION with me say 'let's discuss CF_PRECIPITATION'
+
+Timmy6:02:45 PM
+let's discuss CF_PRECIPITATION
+
+Timmy6:02:56 PM
+let's discuss cf and precipitation
+
+VirtualCarolyn6:02:57 PM
+
+               Will you like to answer some questions related to cold front and precipitation ?
+        
+
+Timmy6:03:00 PM
+yes
+
+VirtualCarolyn6:03:01 PM
+Let's get started.
+
+Timmy6:03:57 PM
+cold front and temperature
+
+VirtualCarolyn has disconnected.6:04:15 PM
+
+VirtualCarolyn has joined the discussion.6:04:26 PM
+
+VirtualCarolyn6:04:28 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn6:04:30 PM
+Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+VirtualCarolynhas shared an image.6:04:32 PM
+
+Timmy6:04:37 PM
+cold front and temperature
+
+VirtualCarolyn6:04:38 PM
+I noticed that you are talking about CF_TEMPERATURE. If you want to discuss CF_TEMPERATURE with me say 'let's discuss CF_TEMPERATURE'
+
+Timmy6:04:50 PM
+let's discuss cf and temperature
+
+VirtualCarolyn6:04:52 PM
+
+               Will you like to answer some questions related to cold front and temperature ?
+        
+
+Timmy6:04:57 PM
+yes
+
+VirtualCarolyn6:04:58 PM
+Let's get started.
+
+VirtualCarolyn6:05:00 PM
+Introduction
+
+VirtualCarolyn6:05:00 PM
+Where is the temperature cooler in regards to a Cold front?
+
+Timmy6:05:04 PM
+in front
+
+VirtualCarolyn6:05:08 PM
+That is incorrect.
+
+VirtualCarolyn6:05:08 PM
+Remember that temperature fronts indicate the temperature behind the front. Where is 
+         the temperature cooler in regards to a Low front?
+
+Timmy6:05:13 PM
+behind
+
+VirtualCarolyn6:05:14 PM
+Do you agree or disagree with Timmy? Why, or why not?
+
+VirtualCarolyn6:05:16 PM
+Okay, Timmy. Can you explain that a bit more?
+
+VirtualCarolyn6:05:18 PM
+That is correct.
+
+VirtualCarolyn6:05:18 PM
+Let's move on to other topics.
+
+VirtualCarolyn6:05:18 PM
+When warm and cold fronts meet, there is likely to be a Low Pressure center. That 
+         means the temperature at these intersections is… ?
+
+Timmy6:05:30 PM
+cooler
+
+VirtualCarolyn6:05:34 PM
+That is correct.
+
+VirtualCarolyn6:05:34 PM
+Let's move on to other topics.
+
+Timmy6:05:52 PM
+cold front and precipitation
+
+VirtualCarolyn6:05:54 PM
+I noticed that you are talking about CF_PRECIPITATION. If you want to discuss CF_PRECIPITATION with me say 'let's discuss CF_PRECIPITATION'
+
+Timmy6:06:01 PM
+let's discuss cf and precipitation
+
+VirtualCarolyn6:06:02 PM
+
+               Will you like to answer some questions related to cold front and precipitation ?
+        
+
+Timmy6:06:04 PM
+yes
+
+VirtualCarolyn6:06:06 PM
+Let's get started.
+
+VirtualCarolyn has disconnected.6:07:43 PM
+
+VirtualCarolyn has joined the discussion.6:08:14 PM
+
+VirtualCarolyn6:08:15 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn6:08:17 PM
+Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+VirtualCarolynhas shared an image.6:08:19 PM
+
+Timmy6:08:25 PM
+cold front and precipitation
+
+VirtualCarolyn6:08:28 PM
+I noticed that you are talking about CF_PRECIPITATION. If you want to discuss CF_PRECIPITATION with me say 'let's discuss CF_PRECIPITATION'
+
+Timmy6:08:37 PM
+let's discuss cf and precipitation
+
+VirtualCarolyn6:08:40 PM
+
+               Will you like to answer some questions related to cold front and precipitation ?
+        
+
+Timmy6:08:42 PM
+yes
+
+VirtualCarolyn6:08:44 PM
+Let's get started.
+
+VirtualCarolyn6:08:46 PM
+Introduction
+
+VirtualCarolyn6:08:46 PM
+Where is the chance of precipitation higher in regards to a cold front?
+
+Timmy6:09:09 PM
+in front
+
+VirtualCarolyn6:09:14 PM
+That is incorrect.
+
+VirtualCarolyn6:09:14 PM
+There are usually Low Pressure centers behind cold fronts and High pressure 
+          centers in front of cold fronts. Where is the chance of precipitation higher?
+
+Timmy6:09:24 PM
+tuna
+
+VirtualCarolyn6:09:30 PM
+Can you rephrase your response?
+
+VirtualCarolyn6:09:30 PM
+There are usually Low Pressure centers behind cold fronts and High pressure 
+          centers in front of cold fronts. Where is the chance of precipitation higher?
+
+Timmy6:09:43 PM
+i dont know
+
+Timmy6:10:22 PM
+behind
+
+VirtualCarolyn has disconnected.6:11:46 PM
+
+VirtualCarolyn has joined the discussion.6:12:21 PM
+
+VirtualCarolyn6:12:22 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn6:12:24 PM
+Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+VirtualCarolynhas shared an image.6:12:26 PM
+
+Timmy6:12:34 PM
+cold front wind direction
+
+VirtualCarolyn6:12:38 PM
+:-)
+
+Timmy6:12:57 PM
+cf and wind direction
+
+Germán has disconnected.6:13:35 PM
+
+VirtualCarolyn has disconnected.6:13:41 PM
+
+Germán has joined the discussion.6:13:42 PM
+
+VirtualCarolyn has joined the discussion.6:13:56 PM
+
+VirtualCarolyn6:13:57 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn6:13:59 PM
+Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+VirtualCarolynhas shared an image.6:14:01 PM
+
+Timmy6:14:15 PM
+Hello. Let's discuss low pressure and temperature
+
+VirtualCarolyn6:14:19 PM
+I noticed that you are talking about LP_TEMPERATURE. If you want to discuss LP_TEMPERATURE with me say 'let's discuss LP_TEMPERATURE'
+
+VirtualCarolyn6:14:21 PM
+
+               Will you like to answer some questions related to low pressure and temperature ?
+        
+
+Timmy6:14:26 PM
+yes
+
+VirtualCarolyn6:14:28 PM
+Let's get started.
+
+VirtualCarolyn6:14:30 PM
+Let's see how much you know about low pressure and temperature.
+
+VirtualCarolyn6:14:30 PM
+Where is the air concentrated in a low pressure center?
+
+Timmy6:14:36 PM
+i don't know
+
+VirtualCarolyn6:14:38 PM
+Can you rephrase your response?
+
+VirtualCarolyn6:14:38 PM
+Where is the air concentrated in a low pressure center?
+
+Timmy6:14:43 PM
+i'm not sure
+
+VirtualCarolyn6:14:44 PM
+What do you think about Timmy's idea? Can you say why you agree with it, or why you don't?
+
+VirtualCarolyn6:14:46 PM
+Alright
+
+Timmy6:15:07 PM
+low in the atmosphere
+
+VirtualCarolyn has disconnected.6:15:15 PM
+
+VirtualCarolyn has joined the discussion.6:15:29 PM
+
+VirtualCarolyn6:15:31 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn6:15:33 PM
+Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+VirtualCarolynhas shared an image.6:15:35 PM
+
+Timmy6:15:40 PM
+low pressure and wind direction
+
+VirtualCarolyn6:15:43 PM
+I noticed that you are talking about LP_WINDDIRECTION. If you want to discuss LP_WINDDIRECTION with me say 'let's discuss LP_WINDDIRECTION'
+
+VirtualCarolyn6:15:45 PM
+:-)
+
+Timmy6:15:51 PM
+let's discuss lp and wind direction
+
+VirtualCarolyn6:15:53 PM
+
+               Will you like to answer some questions related to low pressure and wind direction ?
+        
+
+Timmy6:15:56 PM
+yes
+
+VirtualCarolyn6:15:57 PM
+Let's get started.
+
+VirtualCarolyn6:15:59 PM
+Let's see how much you know about low pressure and wind direction.
+
+VirtualCarolyn6:15:59 PM
+How strong are winds around a low pressure center?
+
+Germán6:16:07 PM
+i don't know
+
+VirtualCarolyn6:16:13 PM
+Can you rephrase your response?
+
+VirtualCarolyn6:16:13 PM
+How strong are winds around a low pressure center?
+
+Timmy6:16:16 PM
+strong
+
+VirtualCarolyn6:16:17 PM
+That is correct.
+
+VirtualCarolyn6:16:17 PM
+What direction does the wind blow around a low pressure center?
+
+Timmy6:16:23 PM
+counter-clockwise
+
+VirtualCarolyn6:16:27 PM
+Wind blows counter-clockwide around low pressure centers
+
+VirtualCarolyn6:16:27 PM
+Let's move on to other topics.
+
+Germán6:16:56 PM
+warm fronts
+
+Timmy6:16:57 PM
+okay let's discuss lp and temperature
+
+VirtualCarolyn6:16:59 PM
+I noticed that you are talking about LP_TEMPERATURE. If you want to discuss LP_TEMPERATURE with me say 'let's discuss LP_TEMPERATURE'
+
+VirtualCarolyn6:17:01 PM
+
+               Will you like to answer some questions related to low pressure and temperature ?
+        
+
+VirtualCarolyn6:17:03 PM
+Let's get started.
+
+VirtualCarolyn6:17:05 PM
+Let's see how much you know about low pressure and temperature.
+
+VirtualCarolyn6:17:05 PM
+Where is the air concentrated in a low pressure center?
+
+Timmy6:17:13 PM
+low in the atmosphere
+
+VirtualCarolyn6:17:19 PM
+That is correct.
+
+VirtualCarolyn6:17:19 PM
+Let's move on to other topics.
+
+VirtualCarolyn6:17:19 PM
+Since the air has concentrated lower in the atmosphere, the temperature is most likely…?
+
+Timmy6:17:28 PM
+high
+
+VirtualCarolyn6:17:29 PM
+That is incorrect.
+
+VirtualCarolyn6:17:29 PM
+Warm air rises and cool air sinks. In a low pressure center, the temperture is most likely...?
+
+Timmy6:17:35 PM
+cool
+
+VirtualCarolyn6:17:39 PM
+That is correct.
+
+VirtualCarolyn6:17:39 PM
+Let's move on to other topics.
+
+Timmy has disconnected.6:18:07 PM
+
+VirtualCarolyn6:19:43 PM
+What do you think, Gaurav?
+
+VirtualCarolyn6:23:41 PM
+You can discuss about LP_PRECIPITATION. If you want to discuss LP_PRECIPITATION with me say 'let's discuss LP_PRECIPITATION'
+
+VirtualCarolyn6:23:43 PM
+Let's stick to this.
+
+VirtualCarolyn6:27:41 PM
+You can discuss about HP_PRECIPITATION. If you want to discuss HP_PRECIPITATION with me say 'let's discuss HP_PRECIPITATION'
+
+VirtualCarolyn6:31:41 PM
+You can discuss about HP_TEMPERATURE. If you want to discuss HP_TEMPERATURE with me say 'let's discuss HP_TEMPERATURE'
+
+VirtualCarolyn6:35:41 PM
+You can discuss about HP_WINDDIRECTION. If you want to discuss HP_WINDDIRECTION with me say 'let's discuss HP_WINDDIRECTION'
+
+VirtualCarolyn6:35:43 PM
+I can't do this on my own :-)
+
+VirtualCarolyn6:39:42 PM
+You can discuss about CF_PRECIPITATION. If you want to discuss CF_PRECIPITATION with me say 'let's discuss CF_PRECIPITATION'
+
+VirtualCarolyn has disconnected.6:39:47 PM
+
+Germán has disconnected.7:00:20 PM
+
+Germán has joined the discussion.7:01:27 PM
+
+Gaurav has disconnected.7:10:37 PM
+
+Guest 689352816 has joined the discussion.7:40:37 PM
+
+Guest 689352816 has disconnected.7:43:25 PM
+
+Gaurav has joined the discussion.11:18:22 PM
+
+Gaurav has disconnected.11:18:30 PM
+
+Gaurav has joined the discussion.11:19:06 PM
+
+Gaurav has joined the discussion.11:54:04 PM
+
+Gaurav has disconnected.11:58:08 PM
+
+Gaurav has joined the discussion.11:58:17 PM
+
+Gaurav has joined the discussion.11:59:23 PM
+
+Gaurav has disconnected.11:59:40 PM
+
+Timmy has joined the discussion.5:14:32 PM
+
+VirtualCarolyn has joined the discussion.5:15:09 PM
+
+VirtualCarolyn5:15:10 PM
+Welcome, Timmy
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolynhas shared an image.5:15:13 PM
+
+german has joined the discussion.5:15:13 PM
+
+VirtualCarolyn5:15:15 PM
+Welcome, german
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ?
+
+Timmy5:15:17 PM
+Hey!
+
+Timmy5:15:26 PM
+cold front
+
+Timmy5:15:32 PM
+cold front and precipitation
+
+VirtualCarolyn5:15:35 PM
+I noticed that you are talking about CF_PRECIPITATION. If you want to discuss CF_PRECIPITATION with me say 'let's discuss CF_PRECIPITATION'
+
+Timmy5:15:44 PM
+let's discuss cf and precipitation
+
+VirtualCarolyn5:15:47 PM
+
+               Will you like to answer some questions related to cold front and precipitation ?
+        
+
+Timmy5:15:52 PM
+yes
+
+VirtualCarolyn5:15:53 PM
+Let's get started.
+
+VirtualCarolyn5:15:55 PM
+Introduction
+
+VirtualCarolyn5:15:55 PM
+Where is the chance of precipitation higher in regards to a cold front?
+
+Timmy5:15:57 PM
+tuna
+
+VirtualCarolyn5:15:59 PM
+Can you rephrase your response?
+
+VirtualCarolyn5:15:59 PM
+Where is the chance of precipitation higher in regards to a cold front?
+
+Timmy5:16:18 PM
+dont know
+
+VirtualCarolyn5:23:19 PM
+You can discuss about LP_PRECIPITATION. If you want to discuss LP_PRECIPITATION with me say 'let's discuss LP_PRECIPITATION'
+
+Timmy5:26:26 PM
+let's discuss lp and precipitation
+
+Timmy has disconnected.5:26:42 PM
+
+VirtualCarolyn5:27:19 PM
+You can discuss about LP_TEMPERATURE. If you want to discuss LP_TEMPERATURE with me say 'let's discuss LP_TEMPERATURE'
+
+german has disconnected.5:29:39 PM
+
+VirtualCarolyn5:31:19 PM
+You can discuss about LP_PRECIPITATION. If you want to discuss LP_PRECIPITATION with me say 'let's discuss LP_PRECIPITATION'
+
+VirtualCarolyn has disconnected.7:28:08 PM
+
+VirtualCarolyn has joined the discussion.7:28:31 PM
+
+Gaurav has joined the discussion.7:29:35 PM
+
+VirtualCarolyn7:29:36 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolynhas shared an image.7:29:38 PM
+
+Gaurav7:29:48 PM
+low pressure precipitation
+
+VirtualCarolyn7:29:50 PM
+I noticed that you are talking about LP_PRECIPITATION. If you want to discuss LP_PRECIPITATION with me say 'let's discuss LP_PRECIPITATION'
+
+VirtualCarolyn has disconnected.7:30:02 PM
+
+VirtualCarolyn has joined the discussion.7:33:19 PM
+
+VirtualCarolyn7:33:21 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolynhas shared an image.7:33:23 PM
+
+Gaurav7:33:34 PM
+low pressure precipitation
+
+VirtualCarolyn7:33:35 PM
+I noticed that you are talking about low pressure precipitation. If you want to discuss low pressure precipitation with me say 'let's discuss low pressure precipitation'
+
+Gaurav7:33:50 PM
+let's discuss low pressure precipitation
+
+VirtualCarolyn7:33:53 PM
+
+               Will you like to answer some questions related to low pressure and precipitation ?
+        
+
+Gaurav7:33:56 PM
+yes
+
+VirtualCarolyn7:33:57 PM
+Let's get started.
+
+VirtualCarolyn7:33:59 PM
+Let's see how much you know about low pressure and precipitation.
+
+VirtualCarolyn7:33:59 PM
+Where does the air move in a low pressure center?
+
+Gaurav7:34:15 PM
+upward
+
+VirtualCarolyn7:34:17 PM
+That is correct.
+
+VirtualCarolyn7:34:17 PM
+When air is pushed upward, what happens to it?
+
+Gaurav7:34:22 PM
+tuna
+
+VirtualCarolyn7:34:27 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:34:27 PM
+When air is pushed upward, what happens to it?
+
+Gaurav7:34:34 PM
+tuna
+
+VirtualCarolyn7:34:39 PM
+That is incorrect.
+
+VirtualCarolyn7:34:39 PM
+When air rises, it is introduced to higher pressure and cooler 
+           temperatures. What happens to air under high pressure and cooler temperatures?
+
+Gaurav7:35:07 PM
+i donno
+
+VirtualCarolyn7:35:09 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:35:09 PM
+When air rises, it is introduced to higher pressure and cooler 
+           temperatures. What happens to air under high pressure and cooler temperatures?
+
+Gaurav7:35:21 PM
+i donno
+
+VirtualCarolyn7:35:25 PM
+When air rises and it is introduced to higher pressure and cooler 
+           temperatures, it gets condensed.
+
+VirtualCarolyn7:35:25 PM
+What is the result of air condensing?
+
+Gaurav7:35:45 PM
+i donno
+
+VirtualCarolyn7:35:49 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:35:49 PM
+What is the result of air condensing?
+
+Gaurav7:35:55 PM
+i donno
+
+VirtualCarolyn7:36:01 PM
+That is incorrect.
+
+VirtualCarolyn7:36:01 PM
+When water vapor condenses, it goes from being a gas to being a liquid. What is the result of air condensing in low pressure centers?
+
+VirtualCarolyn7:37:01 PM
+When air condenses, the result is more moisture and clouds.
+
+VirtualCarolyn7:37:01 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is...?
+
+Gaurav7:37:18 PM
+i donno
+
+VirtualCarolyn7:37:21 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:37:21 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is...?
+
+Gaurav7:37:31 PM
+i donno
+
+VirtualCarolyn7:37:35 PM
+That is incorrect.
+
+VirtualCarolyn7:37:35 PM
+Rain is the result of air condensing into clouds. When there is more moisture and clouds, the chance of precipitation is...?
+
+Gaurav7:37:51 PM
+low
+
+VirtualCarolyn7:37:57 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is higher.
+
+VirtualCarolyn7:37:57 PM
+Let's move on to other topics.
+
+VirtualCarolyn7:41:35 PM
+You can discuss about low pressure temperature. If you want to discuss low pressure temperature with me say 'let's discuss low pressure temperature'
+
+tt has joined the discussion.7:42:10 PM
+
+VirtualCarolyn7:42:11 PM
+Welcome, tt
+We have been discussing on topics like  [low pressure precipitation, low pressure temperature]
+Please join in.
+
+VirtualCarolyn7:45:35 PM
+You can discuss about high pressure precipitation. If you want to discuss high pressure precipitation with me say 'let's discuss high pressure precipitation'
+
+VirtualCarolyn has disconnected.7:46:11 PM
+
+VirtualCarolyn has joined the discussion.7:46:47 PM
+
+VirtualCarolyn7:46:49 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn7:46:51 PM
+Welcome, tt
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.7:46:53 PM
+
+Gaurav7:47:53 PM
+low pressure precipitation
+
+VirtualCarolyn7:47:55 PM
+I noticed that you are talking about low pressure precipitation. If you want to discuss low pressure precipitation with me say 'let's discuss low pressure precipitation'
+
+Gaurav7:48:01 PM
+let's discuss low pressure precipitation
+
+VirtualCarolyn7:48:05 PM
+
+               Will you like to answer some questions related to low pressure and precipitation ?
+        
+
+Gaurav7:48:07 PM
+yes
+
+VirtualCarolyn7:48:09 PM
+Let's get started.
+
+VirtualCarolyn7:48:11 PM
+Let's see how much you know about low pressure and precipitation.
+
+VirtualCarolyn7:48:11 PM
+Where does the air move in a low pressure center?
+
+Gaurav7:48:18 PM
+upward
+
+VirtualCarolyn7:48:23 PM
+That is correct.
+
+VirtualCarolyn7:48:23 PM
+When air is pushed upward, what happens to it?
+
+Gaurav7:48:42 PM
+condenses
+
+VirtualCarolyn7:48:45 PM
+That is correct.
+
+VirtualCarolyn7:48:45 PM
+What is the result of air condensing?
+
+Gaurav7:48:50 PM
+i donno
+
+VirtualCarolyn7:48:55 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:48:55 PM
+What is the result of air condensing?
+
+Gaurav7:49:04 PM
+i donno
+
+VirtualCarolyn7:49:09 PM
+That is incorrect.
+
+VirtualCarolyn7:49:09 PM
+When water vapor condenses, it goes from being a gas to being a liquid. What is the result of air condensing in low pressure centers?
+
+Gaurav7:49:40 PM
+i donno
+
+VirtualCarolyn7:49:45 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:49:45 PM
+When water vapor condenses, it goes from being a gas to being a liquid. What is the result of air condensing in low pressure centers?
+
+Gaurav7:49:55 PM
+i donno
+
+VirtualCarolyn7:50:01 PM
+When air condenses, the result is more moisture and clouds.
+
+VirtualCarolyn7:50:01 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is...?
+
+Gaurav7:50:16 PM
+i donno
+
+VirtualCarolyn7:50:21 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:50:21 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is...?
+
+Gaurav7:50:27 PM
+i donno
+
+VirtualCarolyn7:50:31 PM
+That is incorrect.
+
+VirtualCarolyn7:50:31 PM
+Rain is the result of air condensing into clouds. When there is more moisture and clouds, the chance of precipitation is...?
+
+Gaurav7:50:38 PM
+i donno
+
+VirtualCarolyn7:50:41 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:50:41 PM
+Rain is the result of air condensing into clouds. When there is more moisture and clouds, the chance of precipitation is...?
+
+Gaurav7:50:45 PM
+i donno
+
+VirtualCarolyn7:50:47 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is higher.
+
+VirtualCarolyn7:50:47 PM
+Let's move on to other topics.
+
+tt has disconnected.7:50:55 PM
+
+jhjh has joined the discussion.7:50:58 PM
+
+VirtualCarolyn7:50:59 PM
+Welcome, jhjh
+We have been discussing on topics like  [low pressure precipitation]
+Please join in.
+
+jhjh7:51:29 PM
+high precipitation temperature
+
+jhjh7:52:07 PM
+high pressure temperature
+
+VirtualCarolyn7:52:09 PM
+I noticed that you are talking about high pressure temperature. If you want to discuss high pressure temperature with me say 'let's discuss high pressure temperature'
+
+jhjh7:52:16 PM
+'let's discuss high pressure temperature'
+
+VirtualCarolyn7:52:19 PM
+
+               Will you like to answer some questions related to high pressure and temperature ?
+        
+
+jhjh7:52:22 PM
+yes
+
+VirtualCarolyn7:52:23 PM
+Let's get started.
+
+VirtualCarolyn7:52:25 PM
+Let's see how much you know about high pressure and temperature.
+
+VirtualCarolyn7:52:25 PM
+Where is the air concentrated in a high pressure center?
+
+jhjh7:52:30 PM
+middle
+
+VirtualCarolyn7:52:33 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:52:33 PM
+Where is the air concentrated in a high pressure center?
+
+jhjh has disconnected.7:52:44 PM
+
+ghgh has joined the discussion.7:52:45 PM
+
+VirtualCarolyn7:52:47 PM
+Welcome, ghgh
+Can any one of you provide a summary of our discussion till now toghgh
+
+Gaurav7:52:55 PM
+middle
+
+VirtualCarolyn7:52:59 PM
+That is incorrect.
+
+VirtualCarolyn7:52:59 PM
+High pressure centers are named after where there is a concentration of air in the atmosphere. Where in the the atmosphere is the concentration of a high pressure system?
+
+ghgh has disconnected.7:53:23 PM
+
+Gaurav7:53:31 PM
+i donno
+
+VirtualCarolyn7:53:35 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:53:35 PM
+High pressure centers are named after where there is a concentration of air in the atmosphere. Where in the the atmosphere is the concentration of a high pressure system?
+
+vfgf has joined the discussion.7:53:44 PM
+
+VirtualCarolyn7:53:45 PM
+Welcome, vfgf
+We have been discussing on topics like  [low pressure precipitation, high pressure temperature]
+Please join in.
+
+Gaurav7:53:56 PM
+i think we have discussed a lot till now
+
+VirtualCarolyn7:53:59 PM
+The concentration of air in a high pressure center is high in altitude
+
+VirtualCarolyn7:53:59 PM
+Let's move on to other topics.
+
+VirtualCarolyn7:53:59 PM
+Since the air has concentrated higher in the atmosphere, the temperature is most likely…?
+
+VirtualCarolyn has disconnected.7:54:22 PM
+
+VirtualCarolyn has joined the discussion.7:55:36 PM
+
+VirtualCarolyn7:55:37 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn7:55:39 PM
+Welcome, vfgf
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.7:55:41 PM
+
+Gaurav7:56:00 PM
+low precipitation temperature
+
+Gaurav7:56:15 PM
+low pressure temperature
+
+VirtualCarolyn7:56:17 PM
+I noticed that you are talking about low pressure temperature. If you want to discuss low pressure temperature with me say 'let's discuss low pressure temperature'
+
+Gaurav7:56:49 PM
+let's discuss low pressure temperature
+
+VirtualCarolyn7:56:51 PM
+
+               Will you like to answer some questions related to low pressure and temperature ?
+        
+
+Gaurav7:56:56 PM
+yes
+
+VirtualCarolyn7:56:57 PM
+Let's get started.
+
+VirtualCarolyn7:56:59 PM
+Let's see how much you know about low pressure and temperature.
+
+VirtualCarolyn7:56:59 PM
+Where is the air concentrated in a low pressure center?
+
+Gaurav7:57:16 PM
+i donno
+
+VirtualCarolyn7:57:17 PM
+Can you rephrase your response?
+
+VirtualCarolyn7:57:17 PM
+Where is the air concentrated in a low pressure center?
+
+hhh has joined the discussion.7:57:28 PM
+
+VirtualCarolyn7:57:29 PM
+Welcome, hhh
+We have been discussing on topics like  [low pressure temperature]
+Please join in.
+
+hhh7:57:49 PM
+i think we discussed
+
+VirtualCarolyn7:57:53 PM
+That is incorrect.
+
+VirtualCarolyn7:57:53 PM
+Low pressure centers are named after where there is a concentration of air in the atmosphere. Where in the the atmosphere is the concentration of a Low pressure system?
+
+VirtualCarolyn7:58:53 PM
+The concentration of air in a low pressure center is low in altitude
+
+VirtualCarolyn7:58:53 PM
+Let's move on to other topics.
+
+VirtualCarolyn7:58:53 PM
+Since the air has concentrated lower in the atmosphere, the temperature is most likely…?
+
+VirtualCarolyn7:59:53 PM
+That is incorrect.
+
+VirtualCarolyn7:59:53 PM
+Warm air rises and cool air sinks. In a low pressure center, the temperture is most likely...?
+
+hhh has disconnected.8:00:14 PM
+
+fggfgf has joined the discussion.8:00:23 PM
+
+VirtualCarolyn8:00:23 PM
+Welcome, fggfgf
+We have been discussing on topics like  [low pressure temperature]
+Please join in.
+
+VirtualCarolyn8:00:53 PM
+Since the air has concentrated lower in the atmosphere, the temperature is most likely cooler.
+
+VirtualCarolyn8:00:53 PM
+Let's move on to other topics.
+
+VirtualCarolyn8:04:01 PM
+You can discuss about low pressure precipitation. If you want to discuss low pressure precipitation with me say 'let's discuss low pressure precipitation'
+
+jhjhhjhj has joined the discussion.8:04:22 PM
+
+VirtualCarolyn8:04:23 PM
+Welcome, jhjhhjhj
+We have been discussing on topics like  [low pressure temperature]
+Please join in.
+
+VirtualCarolyn8:08:01 PM
+You can discuss about high pressure precipitation. If you want to discuss high pressure precipitation with me say 'let's discuss high pressure precipitation'
+
+VirtualCarolyn has disconnected.8:09:26 PM
+
+VirtualCarolyn has joined the discussion.8:09:37 PM
+
+VirtualCarolyn8:09:38 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn8:09:40 PM
+Welcome, jhjhhjhj
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.8:09:42 PM
+
+jhjhhjhj8:10:09 PM
+high pressure temperature
+
+VirtualCarolyn8:10:10 PM
+I noticed that you are talking about high pressure temperature. If you want to discuss high pressure temperature with me say 'let's discuss high pressure temperature'
+
+jhjhhjhj8:10:17 PM
+let's discuss high pressure temperature
+
+VirtualCarolyn8:10:18 PM
+
+               Will you like to answer some questions related to high pressure and temperature ?
+        
+
+vfgf has disconnected.8:10:20 PM
+
+fggfgf has disconnected.8:10:20 PM
+
+Gaurav8:10:26 PM
+yes
+
+VirtualCarolyn8:10:26 PM
+Let's get started.
+
+VirtualCarolyn8:10:28 PM
+Let's see how much you know about high pressure and temperature.
+
+VirtualCarolyn8:10:28 PM
+Where is the air concentrated in a high pressure center?
+
+Gaurav8:10:33 PM
+middle
+
+VirtualCarolyn8:10:36 PM
+Can you rephrase your response?
+
+VirtualCarolyn8:10:36 PM
+Where is the air concentrated in a high pressure center?
+
+jhjhhjhj8:10:42 PM
+below
+
+VirtualCarolyn8:10:48 PM
+That is incorrect.
+
+VirtualCarolyn8:10:48 PM
+High pressure centers are named after where there is a concentration of air in the atmosphere. Where in the the atmosphere is the concentration of a high pressure system?
+
+hgghghgh has joined the discussion.8:11:04 PM
+
+hgghghgh has disconnected.8:11:05 PM
+
+Gaurav8:11:12 PM
+i donno
+
+VirtualCarolyn8:11:19 PM
+Can you rephrase your response?
+
+VirtualCarolyn8:11:19 PM
+High pressure centers are named after where there is a concentration of air in the atmosphere. Where in the the atmosphere is the concentration of a high pressure system?
+
+fgfgfggh has joined the discussion.8:11:21 PM
+
+VirtualCarolyn8:11:23 PM
+Welcome, fgfgfggh
+We have been discussing on topics like  [high pressure temperature]
+Please join in.
+
+VirtualCarolyn8:11:25 PM
+Welcome, jhjhhjhj
+We have been discussing on topics like  [high pressure temperature]
+Please join in.
+
+fgfgfggh8:11:36 PM
+hi
+
+VirtualCarolyn8:11:39 PM
+The concentration of air in a high pressure center is high in altitude
+
+VirtualCarolyn8:11:39 PM
+Let's move on to other topics.
+
+VirtualCarolyn8:11:39 PM
+Since the air has concentrated higher in the atmosphere, the temperature is most likely…?
+
+VirtualCarolyn has disconnected.8:12:16 PM
+
+jhjhhjhj has disconnected.9:39:57 PM
+
+Gaurav has disconnected.9:39:57 PM
+
+fgfgfggh has disconnected.9:49:03 PM
+
+germán has joined the discussion.6:00:51 AM
+
+germán6:01:10 AM
+direction of the wind
+
+germán has disconnected.6:10:55 AM
+
+VirtualCarolyn has joined the discussion.1:19:19 PM
+
+Timmy has joined the discussion.1:19:44 PM
+
+VirtualCarolyn1:19:45 PM
+Welcome, Timmy
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolynhas shared an image.1:19:47 PM
+
+Gaurav has joined the discussion.1:19:55 PM
+
+VirtualCarolyn1:19:57 PM
+Welcome, Gaurav
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+germán has joined the discussion.1:20:03 PM
+
+VirtualCarolyn1:20:03 PM
+Welcome, germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+Gaurav1:20:16 PM
+low pressure precipitation
+
+VirtualCarolyn1:20:19 PM
+I noticed that you are talking about low pressure precipitation. If you want to discuss low pressure precipitation with me say 'let's discuss low pressure precipitation'
+
+Gaurav1:20:27 PM
+Thanks. But can you send the confirmation mail. I need it for my visa.
+
+Gaurav1:20:42 PM
+'let's discuss low pressure precipitation
+
+germán1:20:42 PM
+let's discuss low pressure precipitation
+
+VirtualCarolyn1:20:43 PM
+
+               Will you like to answer some questions related to low pressure and precipitation ?
+        
+
+germán1:20:46 PM
+yes
+
+VirtualCarolyn1:20:47 PM
+Let's get started.
+
+VirtualCarolyn1:20:49 PM
+Let's see how much you know about low pressure and precipitation.
+
+VirtualCarolyn1:20:49 PM
+Where does the air move in a low pressure center?
+
+Timmy1:20:58 PM
+don't know
+
+VirtualCarolyn1:21:03 PM
+Can you rephrase your response?
+
+VirtualCarolyn1:21:03 PM
+Where does the air move in a low pressure center?
+
+Gaurav1:21:07 PM
+donno
+
+VirtualCarolyn1:21:09 PM
+That is incorrect.
+
+VirtualCarolyn1:21:09 PM
+When the air pressure is at a lower level in the atmosphere, where 
+       would the air be pushed?
+
+germán1:21:16 PM
+upwards
+
+VirtualCarolyn1:21:19 PM
+That is correct.
+
+VirtualCarolyn1:21:19 PM
+When air is pushed upward, what happens to it?
+
+Gaurav1:21:23 PM
+condenses
+
+VirtualCarolyn1:21:29 PM
+What is the result of air condensing?
+
+VirtualCarolyn1:21:29 PM
+That is correct.
+
+Gaurav1:21:38 PM
+it's become heavy hehehe
+
+VirtualCarolyn1:21:45 PM
+Can you rephrase your response?
+
+VirtualCarolyn1:21:45 PM
+What is the result of air condensing?
+
+Gaurav1:21:52 PM
+you must know
+
+VirtualCarolyn1:21:55 PM
+That is incorrect.
+
+VirtualCarolyn1:21:55 PM
+When water vapor condenses, it goes from being a gas to being a liquid. What is the result of air condensing in low pressure centers?
+
+VirtualCarolyn1:22:55 PM
+When air condenses, the result is more moisture and clouds.
+
+VirtualCarolyn1:22:55 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is...?
+
+VirtualCarolyn1:23:55 PM
+That is incorrect.
+
+VirtualCarolyn1:23:55 PM
+Rain is the result of air condensing into clouds. When there is more moisture and clouds, the chance of precipitation is...?
+
+VirtualCarolyn1:24:55 PM
+Since there is more moisture and clouds, the chance of precipitation in a low pressure center is higher.
+
+VirtualCarolyn1:24:55 PM
+Let's move on to other topics.
+
+Timmy1:26:24 PM
+okay
+
+Timmy has disconnected.1:26:31 PM
+
+VirtualCarolyn has disconnected.1:26:33 PM
+
+Gaurav has disconnected.1:26:36 PM
+
+germán has disconnected.1:26:40 PM
+
+VirtualCarolyn has joined the discussion.1:36:22 PM
+
+Gaurav has joined the discussion.1:36:30 PM
+
+VirtualCarolyn1:36:31 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+Timmy has joined the discussion.1:36:32 PM
+
+VirtualCarolyn1:36:33 PM
+Welcome, Timmy
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.1:36:35 PM
+
+Germán has joined the discussion.1:36:37 PM
+
+VirtualCarolyn1:36:39 PM
+Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+Gaurav1:36:42 PM
+low pressure temperature
+
+VirtualCarolyn1:36:43 PM
+I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'ASK QUESTIONS ABOUT - low pressure temperature'
+
+Gaurav1:36:53 PM
+'ASK QUESTIONS ABOUT - low pressure temperature
+
+Germán1:36:53 PM
+ask me a question
+
+VirtualCarolyn has disconnected.1:37:18 PM
+
+Timmy has disconnected.1:37:40 PM
+
+VirtualCarolyn has joined the discussion.1:38:21 PM
+
+VirtualCarolyn1:38:22 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn1:38:24 PM
+Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+Timmy has joined the discussion.1:38:25 PM
+
+VirtualCarolyn1:38:26 PM
+Welcome, Timmy
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.1:38:28 PM
+
+Timmy1:38:34 PM
+low pressure and temperature
+
+Germán has disconnected.1:38:34 PM
+
+VirtualCarolyn1:38:34 PM
+I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'ASK QUESTIONS ABOUT - low pressure temperature'
+
+Gaurav1:38:42 PM
+ASK QUESTIONS ABOUT - low pressure temperature
+
+Germán has joined the discussion.1:38:43 PM
+
+VirtualCarolyn1:38:46 PM
+Welcome, Germán
+We have been discussing on topics like  [low pressure temperature]
+Please join in.
+
+Timmy1:39:12 PM
+ask questions about low pressure and temperature
+
+Timmy1:39:31 PM
+Ask questions
+
+VirtualCarolyn has disconnected.1:40:09 PM
+
+VirtualCarolyn has joined the discussion.1:40:27 PM
+
+VirtualCarolyn1:40:28 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn1:40:30 PM
+Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.1:40:32 PM
+
+Gaurav1:41:00 PM
+low pressure temperature
+
+VirtualCarolyn1:41:02 PM
+I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'ASK QUESTIONS ABOUT - low pressure temperature'
+
+Gaurav1:41:10 PM
+'ASK QUESTIONS ABOUT - low pressure temperature'
+
+Germán has disconnected.1:41:25 PM
+
+VirtualCarolyn1:41:32 PM
+Do you agree or disagree with Gaurav? Why, or why not?
+
+VirtualCarolyn1:41:34 PM
+Can you say more about that, Gaurav?
+
+Gaurav1:41:42 PM
+ASK QUESTIONS ABOUT - low pressure temperature
+
+Germán has joined the discussion.1:41:46 PM
+
+VirtualCarolyn1:41:46 PM
+Welcome, Germán
+We have been discussing on topics like  [low pressure temperature]
+Please join in.
+
+Gaurav1:41:58 PM
+ASK QUESTION
+
+Gaurav1:42:19 PM
+low pressure
+
+Gaurav1:42:30 PM
+Ask question
+
+VirtualCarolyn has disconnected.1:42:46 PM
+
+VirtualCarolyn has joined the discussion.1:43:43 PM
+
+VirtualCarolyn1:43:45 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn1:43:47 PM
+Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.1:43:49 PM
+
+Gaurav1:43:50 PM
+low pressure temperature
+
+VirtualCarolyn1:43:53 PM
+I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'ASK QUESTIONS ABOUT - low pressure temperature'
+
+Gaurav1:44:07 PM
+let's discuss  low pressure temperature
+
+Gaurav1:44:26 PM
+ask question about  low pressure temperature
+
+VirtualCarolyn1:44:49 PM
+Thanks, Gaurav. Do the rest of you agree or disagree with that idea? Why, or why not? 
+
+Gaurav1:45:19 PM
+gaurav singh tomar
+
+Germán has disconnected.1:49:28 PM
+
+VirtualCarolyn has disconnected.1:49:32 PM
+
+Germán has joined the discussion.1:49:41 PM
+
+Timmy has disconnected.1:51:29 PM
+
+Timmy has joined the discussion.1:51:36 PM
+
+VirtualCarolyn has joined the discussion.1:52:19 PM
+
+VirtualCarolyn1:52:21 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn1:52:23 PM
+Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.1:52:25 PM
+
+Gaurav1:52:27 PM
+low pressure temperature
+
+VirtualCarolyn1:52:29 PM
+I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUTlow pressure temperature' and I will ask some questions on it.
+
+Gaurav1:52:38 PM
+Let's discuss low pressure temperature
+
+VirtualCarolyn1:52:41 PM
+
+               Will you like to answer some questions related to low pressure and temperature ?
+        
+
+Gaurav1:52:43 PM
+yes
+
+VirtualCarolyn1:52:45 PM
+Let's get started.
+
+VirtualCarolyn1:52:47 PM
+Let's see how much you know about low pressure and temperature.
+
+VirtualCarolyn1:52:47 PM
+Where is the air concentrated in a low pressure center?
+
+Gaurav1:52:53 PM
+i donno
+
+VirtualCarolyn1:52:55 PM
+Can you rephrase your response?
+
+VirtualCarolyn1:52:55 PM
+Where is the air concentrated in a low pressure center?
+
+Gaurav1:53:00 PM
+i donno
+
+VirtualCarolyn1:53:03 PM
+Do you agree or disagree with Gaurav? Why, or why not?
+
+VirtualCarolyn1:53:05 PM
+That is incorrect.
+
+VirtualCarolyn1:53:05 PM
+I did not understand your answer, maybe you can try rephrasing. Where in the the atmosphere is the concentration of a low pressure system?
+
+VirtualCarolyn1:54:05 PM
+That is incorrect. The concentration of air in a low pressure center is low in altitude
+
+VirtualCarolyn1:54:05 PM
+Let's move on to other topics.
+
+VirtualCarolyn1:54:05 PM
+Since the air has concentrated lower in the atmosphere, the temperature is most likely…?
+
+VirtualCarolyn has disconnected.1:54:28 PM
+
+VirtualCarolyn has joined the discussion.1:55:10 PM
+
+VirtualCarolyn1:55:11 PM
+Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.
+
+VirtualCarolyn1:55:13 PM
+Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ?
+
+VirtualCarolynhas shared an image.1:55:15 PM
+
+Timmy1:55:22 PM
+low pressure and temperature </entry>
+<entry timestamp="2015-04-21#13:55:29" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:29" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-21#13:55:29" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:29" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">SOCIAL_TRIGGER_EVENT</dispatching></entry>
+<entry timestamp="2015-04-21#13:55:29" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate SOCIAL_TRIGGER_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-21#13:55:29" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-21#13:55:29" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-21#13:55:29" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:29" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-21#13:55:29" user="SocialController" level="NORMAL">ratio 0.0, req=Gaurav,</entry>
+<entry timestamp="2015-04-21#13:55:29" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>

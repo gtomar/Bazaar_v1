@@ -1,0 +1,150 @@
+<entry timestamp="2015-05-12#17:34:18" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2015-05-12#17:34:18" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2015-05-12#17:34:19" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2015-05-12#17:34:21" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher, class basilica2.social.listeners.StrategyScoreComputer, class basilica2.social.listeners.RuleBasedTriggerComputer, class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.myagent.listeners.Register]</entry>
+<entry timestamp="2015-05-12#17:34:21" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor, class basilica2.myagent.listeners.PromptActor]</entry>
+<entry timestamp="2015-05-12#17:34:24" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2015-05-12#17:34:24" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2015-05-12#17:34:28" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger</entry>
+<entry timestamp="2015-05-12#17:34:30" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger</entry>
+<entry timestamp="2015-05-12#17:34:31" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger revoice</entry>
+<entry timestamp="2015-05-12#17:34:31" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger revoice explain</entry>
+<entry timestamp="2015-05-12#17:34:32" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger revoice explain agree</entry>
+<entry timestamp="2015-05-12#17:34:32" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger say_more revoice explain agree</entry>
+<entry timestamp="2015-05-12#17:34:36" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to demo</entry>
+<entry timestamp="2015-05-12#17:34:36" user="NewAgentRunner" level="NORMAL"><launching room=demo/></entry>
+<entry timestamp="2015-05-12#17:34:36" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2015-05-12#17:34:36" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2015-05-12#17:34:36" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2015-05-12#17:34:36" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2015-05-12#17:34:36" user="AgentFactory" level="NORMAL">Components read. N=5</entry>
+<entry timestamp="2015-05-12#17:34:36" user="AgentFactory" level="NORMAL">Agent build. VirtualCarolyn_demo</entry>
+<entry timestamp="2015-05-12#17:34:36" user="NewAgentRunner" level="NORMAL">Adding agent VirtualCarolyn_demo</entry>
+<entry timestamp="2015-05-12#17:34:36" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2015-05-12#17:34:36" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2015-05-12#17:34:42" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2015-05-12#17:34:42" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2015-05-12#17:34:42" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for VirtualCarolyn_demo</entry>
+<entry timestamp="2015-05-12#17:34:42" user="NewAgentRunner" level="NORMAL">Agent added VirtualCarolyn_demo</entry>
+<entry timestamp="2015-05-12#17:35:48" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-05-12#17:35:48" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2015-05-12#17:35:48" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2015-05-12#17:35:48" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage initiate</entry>
+<entry timestamp="2015-05-12#17:35:48" user="PlanExecutor" level="NORMAL">Firing Stage 'body'</entry>
+<entry timestamp="2015-05-12#17:35:48" user="Step" level="NORMAL">Handlers for ...(prompt): [basilica2.agents.listeners.plan.PromptStepHandler@795bca46]</entry>
+<entry timestamp="2015-05-12#17:35:48" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-05-12#17:35:48" user="PromptStepHandler" level="NORMAL">starting 0.4 second prompt delay</entry>
+<entry timestamp="2015-05-12#17:35:49" user="PromptStepHandler" level="NORMAL">ending 0.4 second prompt delay</entry>
+<entry timestamp="2015-05-12#17:35:49" user="PlanExecutor" level="NORMAL">starting 120 second delay timer for ...</entry>
+<entry timestamp="2015-05-12#17:35:50" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Fred
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#17:35:52" user="" level="NORMAL">accepted. Message from VirtualCarolyn: ... ....
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#17:37:34" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-05-12#17:37:34" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-05-12#17:37:34" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#17:37:49" user="PlanExecutor" level="NORMAL">PLAN: current step done: ...</entry>
+<entry timestamp="2015-05-12#17:37:49" user="Step" level="NORMAL">Handlers for SHOW_IMAGE(whiteboard): [basilica2.agents.listeners.plan.WhiteboardStepHandler@78b44cf3]</entry>
+<entry timestamp="2015-05-12#17:37:49" user="WhiteboardStepHandler" level="NORMAL">whiteboard step image:SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#17:37:49" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#17:37:50" user="" level="NORMAL">ACCEPTED! CREATE whiteboard-image http://i59.tinypic.com/5ap2co.png</entry>
+<entry timestamp="2015-05-12#17:37:54" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#17:37:54" user="Step" level="NORMAL">Handlers for QUESTION1(prompt): [basilica2.agents.listeners.plan.PromptStepHandler@795bca46]</entry>
+<entry timestamp="2015-05-12#17:37:54" user="PromptStepHandler" level="NORMAL">starting 7.8999999999999995 second prompt delay</entry>
+<entry timestamp="2015-05-12#17:37:54" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Also discuss among yourselves where all of you would expect to find the coolest temperatures over the area of the map on left of your screen. QUESTION1.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#17:38:02" user="PromptStepHandler" level="NORMAL">ending 7.8999999999999995 second prompt delay</entry>
+<entry timestamp="2015-05-12#17:38:02" user="PlanExecutor" level="NORMAL">starting 600 second delay timer for QUESTION1</entry>
+<entry timestamp="2015-05-12#17:40:30" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about low pressure precipitation. If you want to check your knowledge on low pressure precipitation with me say 'LET'S DISCUSS ABOUT low pressure precipitation' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#17:44:10" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUT low pressure temperature' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#17:48:02" user="PlanExecutor" level="NORMAL">PLAN: current step done: QUESTION1</entry>
+<entry timestamp="2015-05-12#17:48:02" user="Step" level="NORMAL">Handlers for SHOW_IMAGE(whiteboard): [basilica2.agents.listeners.plan.WhiteboardStepHandler@78b44cf3]</entry>
+<entry timestamp="2015-05-12#17:48:02" user="WhiteboardStepHandler" level="NORMAL">whiteboard step image:SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#17:48:02" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#17:48:02" user="" level="NORMAL">ACCEPTED! CREATE whiteboard-image http://i59.tinypic.com/5ap2co.png</entry>
+<entry timestamp="2015-05-12#17:48:07" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#17:48:07" user="Step" level="NORMAL">Handlers for QUESTION2(prompt): [basilica2.agents.listeners.plan.PromptStepHandler@795bca46]</entry>
+<entry timestamp="2015-05-12#17:48:07" user="PromptStepHandler" level="NORMAL">starting 8.2 second prompt delay</entry>
+<entry timestamp="2015-05-12#17:48:08" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Also discuss among yourselves where all of you would expect to find the highest atmospheric pressure over the area of the map on left of your screen. QUESTION2.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#17:48:10" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about high pressure precipitation. If you want to check your knowledge on high pressure precipitation with me say 'LET'S DISCUSS ABOUT high pressure precipitation' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#17:48:15" user="PromptStepHandler" level="NORMAL">ending 8.2 second prompt delay</entry>
+<entry timestamp="2015-05-12#17:48:15" user="PlanExecutor" level="NORMAL">starting 600 second delay timer for QUESTION2</entry>
+<entry timestamp="2015-05-12#17:52:10" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about low pressure wind direction. If you want to check your knowledge on low pressure wind direction with me say 'LET'S DISCUSS ABOUT low pressure wind direction' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#17:56:10" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about high pressure temperature. If you want to check your knowledge on high pressure temperature with me say 'LET'S DISCUSS ABOUT high pressure temperature' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#17:58:15" user="PlanExecutor" level="NORMAL">PLAN: current step done: QUESTION2</entry>
+<entry timestamp="2015-05-12#17:58:15" user="Step" level="NORMAL">Handlers for SHOW_IMAGE(whiteboard): [basilica2.agents.listeners.plan.WhiteboardStepHandler@78b44cf3]</entry>
+<entry timestamp="2015-05-12#17:58:15" user="WhiteboardStepHandler" level="NORMAL">whiteboard step image:SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#17:58:15" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#17:58:16" user="" level="NORMAL">ACCEPTED! CREATE whiteboard-image http://i59.tinypic.com/5ap2co.png</entry>
+<entry timestamp="2015-05-12#17:58:20" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#17:58:20" user="Step" level="NORMAL">Handlers for QUESTION3(prompt): [basilica2.agents.listeners.plan.PromptStepHandler@795bca46]</entry>
+<entry timestamp="2015-05-12#17:58:20" user="PromptStepHandler" level="NORMAL">starting 8.2 second prompt delay</entry>
+<entry timestamp="2015-05-12#17:58:20" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Also discuss among yourselves where all of you would expect to find the lowest atmospheric pressure over the area of the map on left of your screen. QUESTION3.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#17:58:28" user="PromptStepHandler" level="NORMAL">ending 8.2 second prompt delay</entry>
+<entry timestamp="2015-05-12#17:58:28" user="PlanExecutor" level="NORMAL">starting 600 second delay timer for QUESTION3</entry>
+<entry timestamp="2015-05-12#18:00:11" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about high pressure wind direction. If you want to check your knowledge on high pressure wind direction with me say 'LET'S DISCUSS ABOUT high pressure wind direction' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#18:04:09" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about cold front precipitation. If you want to check your knowledge on cold front precipitation with me say 'LET'S DISCUSS ABOUT cold front precipitation' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#18:08:09" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about cold front temperature. If you want to check your knowledge on cold front temperature with me say 'LET'S DISCUSS ABOUT cold front temperature' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#18:08:28" user="PlanExecutor" level="NORMAL">PLAN: current step done: QUESTION3</entry>
+<entry timestamp="2015-05-12#18:08:28" user="Step" level="NORMAL">Handlers for SHOW_IMAGE(whiteboard): [basilica2.agents.listeners.plan.WhiteboardStepHandler@78b44cf3]</entry>
+<entry timestamp="2015-05-12#18:08:28" user="WhiteboardStepHandler" level="NORMAL">whiteboard step image:SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#18:08:28" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#18:08:29" user="" level="NORMAL">ACCEPTED! CREATE whiteboard-image http://i59.tinypic.com/5ap2co.png</entry>
+<entry timestamp="2015-05-12#18:08:33" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#18:08:33" user="Step" level="NORMAL">Handlers for QUESTION4(prompt): [basilica2.agents.listeners.plan.PromptStepHandler@795bca46]</entry>
+<entry timestamp="2015-05-12#18:08:33" user="PromptStepHandler" level="NORMAL">starting 9.1 second prompt delay</entry>
+<entry timestamp="2015-05-12#18:08:35" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Also discuss among yourselves where all of you would expect precipitation to occur in regards to the warm front over the area of the map on left of your screen. QUESTION4.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#18:08:42" user="PromptStepHandler" level="NORMAL">ending 9.1 second prompt delay</entry>
+<entry timestamp="2015-05-12#18:08:42" user="PlanExecutor" level="NORMAL">starting 600 second delay timer for QUESTION4</entry>
+<entry timestamp="2015-05-12#18:12:09" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about cold front wind direction. If you want to check your knowledge on cold front wind direction with me say 'LET'S DISCUSS ABOUT cold front wind direction' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#18:16:09" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about warm front wind direction. If you want to check your knowledge on warm front wind direction with me say 'LET'S DISCUSS ABOUT warm front wind direction' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#18:18:42" user="PlanExecutor" level="NORMAL">PLAN: current step done: QUESTION4</entry>
+<entry timestamp="2015-05-12#18:18:42" user="Step" level="NORMAL">Handlers for SHOW_IMAGE(whiteboard): [basilica2.agents.listeners.plan.WhiteboardStepHandler@78b44cf3]</entry>
+<entry timestamp="2015-05-12#18:18:42" user="WhiteboardStepHandler" level="NORMAL">whiteboard step image:SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#18:18:42" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#18:18:43" user="" level="NORMAL">ACCEPTED! CREATE whiteboard-image http://i59.tinypic.com/5ap2co.png</entry>
+<entry timestamp="2015-05-12#18:18:47" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#18:18:47" user="Step" level="NORMAL">Handlers for QUESTION5(prompt): [basilica2.agents.listeners.plan.PromptStepHandler@795bca46]</entry>
+<entry timestamp="2015-05-12#18:18:47" user="PromptStepHandler" level="NORMAL">starting 9.1 second prompt delay</entry>
+<entry timestamp="2015-05-12#18:18:49" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Also discuss among yourselves where all of you would expect precipitation to occur in regards to the cold front over the area of the map on left of your screen. QUESTION5.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#18:18:56" user="PromptStepHandler" level="NORMAL">ending 9.1 second prompt delay</entry>
+<entry timestamp="2015-05-12#18:18:56" user="PlanExecutor" level="NORMAL">starting 600 second delay timer for QUESTION5</entry>
+<entry timestamp="2015-05-12#18:20:09" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about warm front precipitation. If you want to check your knowledge on warm front precipitation with me say 'LET'S DISCUSS ABOUT warm front precipitation' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#18:24:09" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about warm front temperature. If you want to check your knowledge on warm front temperature with me say 'LET'S DISCUSS ABOUT warm front temperature' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#18:28:56" user="PlanExecutor" level="NORMAL">PLAN: current step done: QUESTION5</entry>
+<entry timestamp="2015-05-12#18:28:56" user="Step" level="NORMAL">Handlers for SHOW_IMAGE(whiteboard): [basilica2.agents.listeners.plan.WhiteboardStepHandler@78b44cf3]</entry>
+<entry timestamp="2015-05-12#18:28:56" user="WhiteboardStepHandler" level="NORMAL">whiteboard step image:SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#18:28:56" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#18:28:57" user="" level="NORMAL">ACCEPTED! CREATE whiteboard-image http://i59.tinypic.com/5ap2co.png</entry>
+<entry timestamp="2015-05-12#18:29:01" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-05-12#18:29:01" user="Step" level="NORMAL">Handlers for QUESTION6(prompt): [basilica2.agents.listeners.plan.PromptStepHandler@795bca46]</entry>
+<entry timestamp="2015-05-12#18:29:01" user="PromptStepHandler" level="NORMAL">starting 8.5 second prompt delay</entry>
+<entry timestamp="2015-05-12#18:29:03" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Also discuss among yourselves where all of you would expect expect the highest wind speeds to occur over the area of the map on left of your screen. QUESTION6.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-05-12#18:29:10" user="PromptStepHandler" level="NORMAL">ending 8.5 second prompt delay</entry>
+<entry timestamp="2015-05-12#18:29:10" user="PlanExecutor" level="NORMAL">starting 600 second delay timer for QUESTION6</entry>
+<entry timestamp="2015-05-12#18:39:10" user="PlanExecutor" level="NORMAL">PLAN: current step done: QUESTION6</entry>
+<entry timestamp="2015-05-12#18:39:10" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-05-12#19:24:11" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about low pressure precipitation. If you want to check your knowledge on low pressure precipitation with me say 'LET'S DISCUSS ABOUT low pressure precipitation' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>

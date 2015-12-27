@@ -1,0 +1,20 @@
+Nov 10, 2015 5:18:19 PM edu.cmu.side.recipe.Predictor main
+INFO: loading predictor from saved/reasoning_model.xml
+URL file:/usr0/home/gtomar/Dropbox/workspace/MTurkAgent/runtime/LightSide_2.3.1_20141107/wekafiles/packages/bayesianLogisticRegression/bayesianLogisticRegression.jar is already in the CLASSPATH
+URL file:/usr0/home/gtomar/Dropbox/workspace/MTurkAgent/runtime/LightSide_2.3.1_20141107/wekafiles/packages/LibLINEAR/LibLINEAR.jar is already in the CLASSPATH
+URL file:/usr0/home/gtomar/Dropbox/workspace/MTurkAgent/runtime/LightSide_2.3.1_20141107/wekafiles/packages/LibLINEAR/lib/liblinear-1.8.jar is already in the CLASSPATH
+URL file:/usr0/home/gtomar/Dropbox/workspace/MTurkAgent/runtime/LightSide_2.3.1_20141107/wekafiles/packages/chiSquaredAttributeEval/chiSquaredAttributeEval.jar is already in the CLASSPATH
+URL file:/usr0/home/gtomar/Dropbox/workspace/MTurkAgent/runtime/LightSide_2.3.1_20141107/wekafiles/packages/LibSVM/LibSVM.jar is already in the CLASSPATH
+URL file:/usr0/home/gtomar/Dropbox/workspace/MTurkAgent/runtime/LightSide_2.3.1_20141107/wekafiles/packages/LibSVM/lib/libsvm.jar is already in the CLASSPATH
+Refreshing GOE props...
+[KnowledgeFlow] Loading properties and plugins...
+[KnowledgeFlow] Initializing KF...
+java.lang.IllegalStateException: There is no text column named 'chat' in this data set.
+	at edu.cmu.side.model.data.DocumentList.setTextColumn(DocumentList.java:662)
+	at edu.cmu.side.model.data.DocumentList.setTextColumns(DocumentList.java:648)
+	at edu.cmu.side.recipe.Chef.prepareDocumentList(Chef.java:216)
+	at edu.cmu.side.recipe.Chef.followSimmerSteps(Chef.java:130)
+	at edu.cmu.side.recipe.Chef.followRecipe(Chef.java:166)
+	at edu.cmu.side.recipe.Predictor.predict(Predictor.java:231)
+	at edu.cmu.side.recipe.Predictor.prettyPredict(Predictor.java:274)
+	at edu.cmu.side.recipe.Predictor.main(Predictor.java:403)

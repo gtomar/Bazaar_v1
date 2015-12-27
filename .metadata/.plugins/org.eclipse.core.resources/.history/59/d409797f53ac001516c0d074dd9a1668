@@ -1,0 +1,42 @@
+<entry timestamp="2015-07-15#16:20:12" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2015-07-15#16:20:12" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2015-07-15#16:20:12" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2015-07-15#16:20:12" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher, class basilica2.social.listeners.StrategyScoreComputer, class basilica2.social.listeners.RuleBasedTriggerComputer, class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.myagent.listeners.Register]</entry>
+<entry timestamp="2015-07-15#16:20:12" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor, class basilica2.myagent.listeners.PromptActor]</entry>
+<entry timestamp="2015-07-15#16:20:13" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2015-07-15#16:20:13" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2015-07-15#16:20:15" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger</entry>
+<entry timestamp="2015-07-15#16:20:17" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to Test01</entry>
+<entry timestamp="2015-07-15#16:20:17" user="NewAgentRunner" level="NORMAL"><launching room=Test01/></entry>
+<entry timestamp="2015-07-15#16:20:17" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2015-07-15#16:20:17" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2015-07-15#16:20:17" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2015-07-15#16:20:17" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2015-07-15#16:20:17" user="AgentFactory" level="NORMAL">Components read. N=5</entry>
+<entry timestamp="2015-07-15#16:20:17" user="AgentFactory" level="NORMAL">Agent build. VirtualCarolyn_Test01</entry>
+<entry timestamp="2015-07-15#16:20:17" user="NewAgentRunner" level="NORMAL">Adding agent VirtualCarolyn_Test01</entry>
+<entry timestamp="2015-07-15#16:20:17" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2015-07-15#16:20:17" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2015-07-15#16:20:18" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2015-07-15#16:20:18" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2015-07-15#16:20:18" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for VirtualCarolyn_Test01</entry>
+<entry timestamp="2015-07-15#16:20:18" user="NewAgentRunner" level="NORMAL">Agent added VirtualCarolyn_Test01</entry>
+<entry timestamp="2015-07-15#16:20:21" user="VirtualCarolyn_Test01 Wizard" level="INFO">displaying wizard UI for VirtualCarolyn_Test01</entry>
+<entry timestamp="2015-07-15#16:20:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-07-15#16:20:28" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2015-07-15#16:20:28" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2015-07-15#16:20:28" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage initiate</entry>
+<entry timestamp="2015-07-15#16:20:28" user="PlanExecutor" level="NORMAL">Firing Stage 'body'</entry>
+<entry timestamp="2015-07-15#16:20:28" user="Step" level="NORMAL">Handlers for ...(prompt): [basilica2.agents.listeners.plan.PromptStepHandler@3185a34]</entry>
+<entry timestamp="2015-07-15#16:20:28" user="PromptStepHandler" level="NORMAL">starting 0.4 second prompt delay</entry>
+<entry timestamp="2015-07-15#16:20:28" user="PromptStepHandler" level="NORMAL">ending 0.4 second prompt delay</entry>
+<entry timestamp="2015-07-15#16:20:28" user="PlanExecutor" level="NORMAL">starting 300 second delay timer for ...</entry>
+<entry timestamp="2015-07-15#16:20:30" user="" level="NORMAL">accepted. Message from VirtualCarolyn: ... ....
+Starting blockout countdown... </entry>
+<entry timestamp="2015-07-15#16:21:26" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: (s1) low pressure temperature WIZARD</entry>
+<entry timestamp="2015-07-15#16:21:28" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUT low pressure temperature' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-07-15#16:23:26" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about low pressure precipitation. If you want to check your knowledge on low pressure precipitation with me say 'LET'S DISCUSS ABOUT low pressure precipitation' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-07-15#16:24:54" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2015-07-15#16:24:54" user="NewAgentRunner" level="NORMAL">Operation started</entry>

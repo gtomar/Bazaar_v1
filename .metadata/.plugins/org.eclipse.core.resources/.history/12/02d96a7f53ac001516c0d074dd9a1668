@@ -1,0 +1,25 @@
+2015-11-19,21:30:25,0,BazaarAgent,1447986627338,"Welcome, gaurav
+",INTRODUCTION
+2015-11-19,21:30:35,0,BazaarAgent,1447986637387,"Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.",Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.
+2015-11-19,21:31:20,0,gaurav,1447986681667,option 2,PLAN+PLAN2+neg
+2015-11-19,21:31:23,0,gaurav,1447986683829,no reason,NEGATIVE+neg
+2015-11-19,21:31:23,0,BazaarAgent,1447986685419,"Hey gaurav, Can you evaluate plan 2 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,21:31:29,0,BazaarAgent,1447986689425,"Welcome, xu
+",INTRODUCTION
+2015-11-19,21:31:46,0,gaurav,1447986706370,plan 2 ,PLAN+PLAN2+neg
+2015-11-19,21:31:49,0,gaurav,1447986709735,no reason,NEGATIVE+neg
+2015-11-19,21:31:49,0,BazaarAgent,1447986711443,"Hey gaurav, Can you evaluate plan 2 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,21:33:21,0,BazaarAgent,1447986803475,It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.,POKING
+2015-11-19,21:33:47,0,gaurav,1447986827609,option one,PLAN+PLAN1+neg
+2015-11-19,21:33:54,0,BazaarAgent,1447986835488,"Welcome, sree
+",INTRODUCTION
+2015-11-19,21:33:55,0,gaurav,1447986836093,no reason,NEGATIVE+neg
+2015-11-19,21:33:56,0,BazaarAgent,1447986837490,"Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ?",plan_reasoning
+2015-11-19,21:33:58,0,xu,1447986838869,option2,PLAN+PLAN2+neg
+2015-11-19,21:34:39,0,xu,1447986879565,option3,PLAN+PLAN4+PLAN3+neg
+2015-11-19,21:34:41,0,xu,1447986881737,reas,neg
+2015-11-19,21:34:41,0,BazaarAgent,1447986883511,"Hey xu, Can you evaluate plan 3 from your perspective of environmental friendliness and low startup cost ?",plan_reasoning
+2015-11-19,21:36:21,0,BazaarAgent,1447986981545,It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.,POKING
+2015-11-19,21:37:21,0,BazaarAgent,1447987043570,It looks like no one is using the chat. Use this space to discuss and come to a consensus about the suggested plan while writing the proposal.,POKING

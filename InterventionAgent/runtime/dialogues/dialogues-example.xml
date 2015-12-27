@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dialogs>
+
+    <dialog concept="dialog" scenario="scenario-dialog">
+    	
+        <intro>
+               Are you ready?
+        </intro>
+        <accept annotation="AFFIRMATIVE">Let's get started.</accept>
+        <cancel annotation="NEGATIVE">Okay. Let's move on to the next step.</cancel>                
+        
+    </dialog>    
+</dialogs>

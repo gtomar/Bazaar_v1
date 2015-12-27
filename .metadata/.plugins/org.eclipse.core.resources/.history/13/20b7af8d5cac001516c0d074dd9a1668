@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dialogs>
+  
+    <dialog concept="WF_TEMPERATURE" scenario="scenario-wf_temperature" description="warm front temperature">
+    	
+        <intro>
+               Will you like to answer some questions related to warm front and temperature ?
+        </intro>
+        <accept annotation="AFFIRMATIVE">Let's get started.</accept>
+        <cancel annotation="NEGATIVE">Okay - you can continue discussing other topics.</cancel>                
+        
+    </dialog>    
+</dialogs>

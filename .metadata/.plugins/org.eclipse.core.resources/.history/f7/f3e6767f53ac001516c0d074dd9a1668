@@ -1,0 +1,375 @@
+<entry timestamp="2015-04-21#19:59:06" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2015-04-21#19:59:06" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2015-04-21#19:59:06" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2015-04-21#19:59:07" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher, class basilica2.social.listeners.StrategyScoreComputer, class basilica2.social.listeners.RuleBasedTriggerComputer, class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.myagent.listeners.Register]</entry>
+<entry timestamp="2015-04-21#19:59:07" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor, class basilica2.myagent.listeners.PromptActor]</entry>
+<entry timestamp="2015-04-21#19:59:07" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2015-04-21#19:59:07" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2015-04-21#19:59:08" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger</entry>
+<entry timestamp="2015-04-21#19:59:10" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger</entry>
+<entry timestamp="2015-04-21#19:59:11" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger revoice</entry>
+<entry timestamp="2015-04-21#19:59:11" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger revoice explain</entry>
+<entry timestamp="2015-04-21#19:59:12" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger revoice explain agree</entry>
+<entry timestamp="2015-04-21#19:59:13" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger say_more revoice explain agree</entry>
+<entry timestamp="2015-04-21#19:59:18" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to us1</entry>
+<entry timestamp="2015-04-21#19:59:18" user="NewAgentRunner" level="NORMAL"><launching room=us1/></entry>
+<entry timestamp="2015-04-21#19:59:18" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2015-04-21#19:59:18" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2015-04-21#19:59:18" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2015-04-21#19:59:18" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2015-04-21#19:59:18" user="AgentFactory" level="NORMAL">Components read. N=5</entry>
+<entry timestamp="2015-04-21#19:59:18" user="AgentFactory" level="NORMAL">Agent build. VirtualCarolyn_us1</entry>
+<entry timestamp="2015-04-21#19:59:18" user="NewAgentRunner" level="NORMAL">Adding agent VirtualCarolyn_us1</entry>
+<entry timestamp="2015-04-21#19:59:18" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2015-04-21#19:59:18" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2015-04-21#19:59:19" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2015-04-21#19:59:19" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2015-04-21#19:59:19" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for VirtualCarolyn_us1</entry>
+<entry timestamp="2015-04-21#19:59:19" user="NewAgentRunner" level="NORMAL">Agent added VirtualCarolyn_us1</entry>
+<entry timestamp="2015-04-21#19:59:19" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#19:59:19" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2015-04-21#19:59:19" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2015-04-21#19:59:19" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage initiate</entry>
+<entry timestamp="2015-04-21#19:59:19" user="PlanExecutor" level="NORMAL">Firing Stage 'body'</entry>
+<entry timestamp="2015-04-21#19:59:19" user="Step" level="NORMAL">Handlers for SHOW_IMAGE(whiteboard): [basilica2.agents.listeners.plan.WhiteboardStepHandler@6ea70a98]</entry>
+<entry timestamp="2015-04-21#19:59:19" user="WhiteboardStepHandler" level="NORMAL">whiteboard step image:SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#19:59:19" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#19:59:20" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Germán
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#19:59:23" user="" level="NORMAL">ACCEPTED! CREATE whiteboard-image http://i62.tinypic.com/1ggo6c.png</entry>
+<entry timestamp="2015-04-21#19:59:24" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#19:59:24" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-21#19:59:42" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#19:59:42" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#19:59:43" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#19:59:50" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#19:59:50" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-21#19:59:50" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-21#19:59:51" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:00:06" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-21#20:00:24" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#20:00:25" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Germán
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:00:25" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#20:01:27" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#20:01:27" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#20:01:29" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Leah
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:01:53" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-21#20:01:53" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-21#20:01:53" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-21#20:01:55" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:02:16" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-04-21#20:02:17" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-04-21#20:02:17" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-04-21#20:02:17" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:02:17" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-04-21#20:02:21" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 4</entry>
+<entry timestamp="2015-04-21#20:02:21" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 4</entry>
+<entry timestamp="2015-04-21#20:02:21" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 4</entry>
+<entry timestamp="2015-04-21#20:02:21" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 4</entry>
+<entry timestamp="2015-04-21#20:02:21" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Gaurav
+We are just starting the discussion on metereological concepts. Can one of you start talking about a metereological concept. ? INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:02:21" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 4</entry>
+<entry timestamp="2015-04-21#20:03:15" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUT low pressure temperature' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:03:17" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about cold front temperature. If you want to check your knowledge on cold front temperature with me say 'LET'S DISCUSS ABOUT cold front temperature' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:03:39" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to cold front and temperature ?
+         TUTOR</entry>
+<entry timestamp="2015-04-21#20:03:41" user="" level="NORMAL">accepted. Hold-the-floor Event for AGREE_CANDIDATE check.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:03:43" user="" level="NORMAL">accepted. Hold-the-floor Event for AGREE_CANDIDATE check.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:03:45" user="" level="NORMAL">rejected! Hold-the-floor Event for SAY_MORE_CANDIDATE check</entry>
+<entry timestamp="2015-04-21#20:03:51" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-21#20:03:53" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's see how much you know about cold fronts and temperature.|Where is the temperature cooler in regards to a Cold front? TUTOR</entry>
+<entry timestamp="2015-04-21#20:03:55" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Can you rephrase your response?|Where is the temperature cooler in regards to a Cold front? TUTOR</entry>
+<entry timestamp="2015-04-21#20:04:01" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Do you agree or disagree with Germán? Why, or why not? AT_MOVE+Germán+AGREE_DISAGREE</entry>
+<entry timestamp="2015-04-21#20:04:03" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Can you weigh in on what Leah said? Do you agree or disagree? Why? AT_MOVE+Leah+AGREE_DISAGREE</entry>
+<entry timestamp="2015-04-21#20:04:11" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect.|I did not understand your answer. Where is the temperature cooler in regards to a Cold front? TUTOR</entry>
+<entry timestamp="2015-04-21#20:04:25" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. The temperature is cooler behind a cold front.|Let's move on to other question.|When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the temperature at these intersections is… ? TUTOR</entry>
+<entry timestamp="2015-04-21#20:04:37" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Can you rephrase your response?|When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the temperature at these intersections is… ? TUTOR</entry>
+<entry timestamp="2015-04-21#20:04:47" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. Since cold air sinks and low pressure centers are concentrations of air low in the atmosphere, the temperature is most likely cooler.|Let's move on to other topic. TUTOR</entry>
+<entry timestamp="2015-04-21#20:04:47" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#20:04:52" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#20:04:52" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-21#20:05:00" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 4</entry>
+<entry timestamp="2015-04-21#20:05:00" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 4</entry>
+<entry timestamp="2015-04-21#20:05:00" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 4</entry>
+<entry timestamp="2015-04-21#20:05:00" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 5</entry>
+<entry timestamp="2015-04-21#20:05:00" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 5</entry>
+<entry timestamp="2015-04-21#20:05:00" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 5</entry>
+<entry timestamp="2015-04-21#20:05:01" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, iris
+Can any one of you provide a summary of our discussion till now to iris INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:05:29" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:05:29" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:05:29" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:05:29" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:05:29" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:05:29" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:05:29" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:05:31" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Arka
+We have been discussing on topics like  [low pressure temperature, cold front temperature]
+Please join in. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:06:06" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:06" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:06" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:06" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:06" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:06" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:06" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:06" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:07" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Oliver
+We have been discussing on topics like  [low pressure temperature, cold front temperature]
+Please join in. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:06:18" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:18" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:18" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:18" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:18" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:18" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:23" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:06:23" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:06:23" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:06:23" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:06:23" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:06:23" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:23" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:23" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:25" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Guest 689357075
+We have been discussing on topics like  [low pressure temperature, cold front temperature]
+Please join in. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:06:25" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:25" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:25" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:25" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:25" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:25" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:06:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:06:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:06:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:06:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:06:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:29" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:06:29" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Guest 689357096
+We have been discussing on topics like  [low pressure temperature, cold front temperature]
+Please join in. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:06:43" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about warm front temperature. If you want to check your knowledge on warm front temperature with me say 'LET'S DISCUSS ABOUT warm front temperature' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:06:45" user="" level="NORMAL">accepted. Hold-the-floor Event for SAY_MORE_CANDIDATE check.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:07:05" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Can you say more about that, Leah? SAY_MORE+AT_MOVE+Leah</entry>
+<entry timestamp="2015-04-21#20:07:50" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:07:50" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:07:50" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:07:50" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:07:50" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:07:50" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:07:50" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:07:50" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:07:50" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:07:51" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Keith M
+We have been discussing on topics like  [low pressure temperature, cold front temperature, warm front temperature]
+Please join in. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:08:20" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:08:20" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:08:20" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:08:20" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:08:20" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:08:20" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:08:20" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:08:20" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:08:20" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:08:20" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:08:21" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, diyiy
+We have been discussing on topics like  [low pressure temperature, cold front temperature, warm front temperature]
+Please join in. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:09:23" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about low pressure precipitation. If you want to check your knowledge on low pressure precipitation with me say 'LET'S DISCUSS ABOUT low pressure precipitation' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:09:41" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to low pressure and precipitation ?
+         TUTOR</entry>
+<entry timestamp="2015-04-21#20:09:47" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-21#20:09:49" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's see how much you know about low pressure and precipitation.|Where does the air move in a low pressure center? TUTOR</entry>
+<entry timestamp="2015-04-21#20:09:58" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:09:58" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:09:58" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:09:58" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:09:58" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:09:58" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 10</entry>
+<entry timestamp="2015-04-21#20:09:58" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 10</entry>
+<entry timestamp="2015-04-21#20:09:58" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 10</entry>
+<entry timestamp="2015-04-21#20:09:58" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 10</entry>
+<entry timestamp="2015-04-21#20:09:58" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 10</entry>
+<entry timestamp="2015-04-21#20:09:58" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 10</entry>
+<entry timestamp="2015-04-21#20:09:59" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Carolyn
+Can any one of you provide a summary of our discussion till now to Carolyn INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:10:01" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Can you rephrase your response?|Where does the air move in a low pressure center? TUTOR</entry>
+<entry timestamp="2015-04-21#20:10:11" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect.|I did not understand your answer. Where does the air move in a low pressure center? TUTOR</entry>
+<entry timestamp="2015-04-21#20:10:17" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Can you rephrase your response?|I did not understand your answer. Where does the air move in a low pressure center? TUTOR</entry>
+<entry timestamp="2015-04-21#20:10:21" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect. When the air pressure is at a lower level in the atmosphere, the air will be pushed upward.|When air is pushed upward, how does it change in density? TUTOR</entry>
+<entry timestamp="2015-04-21#20:10:33" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Can you rephrase your response?|When air is pushed upward, how does it change in density? TUTOR</entry>
+<entry timestamp="2015-04-21#20:10:43" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect.|I did not understand your answer. When air is pushed upward, how does it change in density? TUTOR</entry>
+<entry timestamp="2015-04-21#20:10:57" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. Air condenses under higher pressures and cooler temperatures.|What is the result of air condensing on moisture and clouds? TUTOR</entry>
+<entry timestamp="2015-04-21#20:11:03" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Can you rephrase your response?|What is the result of air condensing on moisture and clouds? TUTOR</entry>
+<entry timestamp="2015-04-21#20:11:21" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about cold front precipitation. If you want to check your knowledge on cold front precipitation with me say 'LET'S DISCUSS ABOUT cold front precipitation' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:11:23" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect.|I did not understand your answer. What is the result of air condensing on moisture and clouds? TUTOR</entry>
+<entry timestamp="2015-04-21#20:11:29" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Can you rephrase your response?|I did not understand your answer. What is the result of air condensing on moisture and clouds? TUTOR</entry>
+<entry timestamp="2015-04-21#20:11:39" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect. When air condenses, the result is more moisture and clouds.|Since there is more moisture and clouds, the chance of precipitation in a low pressure center is...? TUTOR</entry>
+<entry timestamp="2015-04-21#20:11:49" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. Since there is more moisture and clouds, the chance of precipitation in a low pressure center is higher.|Let's move on to other topic. TUTOR</entry>
+<entry timestamp="2015-04-21#20:11:49" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#20:11:54" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#20:11:54" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-21#20:12:01" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to cold front and precipitation ?
+         TUTOR</entry>
+<entry timestamp="2015-04-21#20:12:03" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-21#20:12:05" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's see how much you know about cold fronts and precipitation.|Where is the chance of precipitation higher in regards to a cold front? TUTOR</entry>
+<entry timestamp="2015-04-21#20:12:09" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Can you rephrase your response?|Where is the chance of precipitation higher in regards to a cold front? TUTOR</entry>
+<entry timestamp="2015-04-21#20:12:19" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. The chance of precipitation is higher behind a cold front.|When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the chance of precipitation at these intersections is…? TUTOR</entry>
+<entry timestamp="2015-04-21#20:12:23" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Can you rephrase your response?|When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the chance of precipitation at these intersections is…? TUTOR</entry>
+<entry timestamp="2015-04-21#20:12:29" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect.|I did not understand your answer. When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the chance of precipitation at these intersections is…? TUTOR</entry>
+<entry timestamp="2015-04-21#20:12:31" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 10</entry>
+<entry timestamp="2015-04-21#20:12:31" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 10</entry>
+<entry timestamp="2015-04-21#20:12:31" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 10</entry>
+<entry timestamp="2015-04-21#20:12:31" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 10</entry>
+<entry timestamp="2015-04-21#20:12:31" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 10</entry>
+<entry timestamp="2015-04-21#20:12:31" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 10</entry>
+<entry timestamp="2015-04-21#20:12:31" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 10</entry>
+<entry timestamp="2015-04-21#20:12:31" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 10</entry>
+<entry timestamp="2015-04-21#20:12:31" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 10</entry>
+<entry timestamp="2015-04-21#20:12:43" user="" level="NORMAL">accepted. Hold-the-floor Event for SAY_MORE_CANDIDATE check.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:12:45" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect. When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the chance of precipitation at these intersections is higher.|Let's move on to other topic. TUTOR</entry>
+<entry timestamp="2015-04-21#20:12:45" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#20:12:48" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:12:48" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:12:48" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:12:48" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:12:48" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:12:48" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:12:48" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:12:48" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 9</entry>
+<entry timestamp="2015-04-21#20:12:50" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#20:12:50" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-21#20:13:30" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:13:30" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:13:30" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:13:30" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:13:30" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:13:30" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:13:30" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:13:34" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:13:34" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:13:34" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:13:34" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:13:34" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:13:34" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:13:38" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:13:38" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:13:38" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:13:38" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:13:38" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:13:39" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 5</entry>
+<entry timestamp="2015-04-21#20:13:39" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 5</entry>
+<entry timestamp="2015-04-21#20:13:39" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 5</entry>
+<entry timestamp="2015-04-21#20:13:39" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:13:39" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:13:39" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:13:39" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:13:39" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Germán
+We have been discussing on topics like  [low pressure precipitation, low pressure temperature, cold front precipitation, cold front temperature, warm front temperature]
+Please join in. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:15:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:15:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 6</entry>
+<entry timestamp="2015-04-21#20:15:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:15:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:15:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:15:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:15:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:15:28" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:15:29" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Gaurav
+We have been discussing on topics like  [low pressure precipitation, low pressure temperature, cold front precipitation, cold front temperature, warm front temperature]
+Please join in. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:15:54" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:15:54" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:15:54" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:15:54" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:15:54" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:15:54" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:15:54" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:15:54" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:15:54" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:15:55" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Bowen Zhu
+We have been discussing on topics like  [low pressure precipitation, low pressure temperature, cold front precipitation, cold front temperature, warm front temperature]
+Please join in. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:16:51" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about low pressure wind direction. If you want to check your knowledge on low pressure wind direction with me say 'LET'S DISCUSS ABOUT low pressure wind direction' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:17:11" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to low pressure and wind direction ?
+         TUTOR</entry>
+<entry timestamp="2015-04-21#20:17:17" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-21#20:17:19" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's see how much you know about low pressure and wind direction.|How strong are winds around a low pressure center? TUTOR</entry>
+<entry timestamp="2015-04-21#20:17:31" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. Winds are strong around a low pressure center.|What direction does the wind blow around a low pressure center? TUTOR</entry>
+<entry timestamp="2015-04-21#20:17:37" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Can you rephrase your response?|What direction does the wind blow around a low pressure center? TUTOR</entry>
+<entry timestamp="2015-04-21#20:17:41" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect.|I did not understand your answer. What direction does the wind blow around a low pressure center? TUTOR</entry>
+<entry timestamp="2015-04-21#20:17:53" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect. Wind blows counter-clockwise around low pressure centers|Let's move on to other topic. TUTOR</entry>
+<entry timestamp="2015-04-21#20:17:53" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#20:17:58" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#20:17:58" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-21#20:19:37" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:19:37" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:19:37" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:19:37" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:19:37" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:19:37" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:19:37" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 8</entry>
+<entry timestamp="2015-04-21#20:19:59" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:19:59" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:19:59" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:19:59" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:19:59" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:19:59" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 7</entry>
+<entry timestamp="2015-04-21#20:21:23" user="VirtualCarolyn_us1 Wizard" level="INFO">displaying wizard UI for VirtualCarolyn_us1</entry>
+<entry timestamp="2015-04-21#20:21:37" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: There are still topics left to be discussed. WIZARD</entry>
+<entry timestamp="2015-04-21#20:22:15" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about high pressure precipitation. If you want to check your knowledge on high pressure precipitation with me say 'LET'S DISCUSS ABOUT high pressure precipitation' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#20:22:37" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to high pressure and precipitation ?
+         TUTOR</entry>
+<entry timestamp="2015-04-21#20:22:41" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-21#20:23:53" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Where does the air move in a high pressure center? WIZARD</entry>
+<entry timestamp="2015-04-21#20:24:29" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. Air moves downward in a high pressure center. WIZARD</entry>
+<entry timestamp="2015-04-21#20:25:55" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: I need to reset myself there was some problem with the script. Sorry. You can continue discussing after that if you want to. WIZARD</entry>

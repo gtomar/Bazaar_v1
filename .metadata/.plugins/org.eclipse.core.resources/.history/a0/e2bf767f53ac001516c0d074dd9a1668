@@ -1,0 +1,206 @@
+<entry timestamp="2015-04-21#17:12:36" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2015-04-21#17:12:36" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2015-04-21#17:12:36" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2015-04-21#17:12:36" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher, class basilica2.social.listeners.StrategyScoreComputer, class basilica2.social.listeners.RuleBasedTriggerComputer, class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.myagent.listeners.Register]</entry>
+<entry timestamp="2015-04-21#17:12:36" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor, class basilica2.myagent.listeners.PromptActor]</entry>
+<entry timestamp="2015-04-21#17:12:37" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2015-04-21#17:12:37" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2015-04-21#17:12:39" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger</entry>
+<entry timestamp="2015-04-21#17:12:40" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger</entry>
+<entry timestamp="2015-04-21#17:12:40" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger revoice</entry>
+<entry timestamp="2015-04-21#17:12:41" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger revoice explain</entry>
+<entry timestamp="2015-04-21#17:12:41" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger revoice explain agree</entry>
+<entry timestamp="2015-04-21#17:12:42" user="ConditionAgentUI" level="NORMAL">Conditions set to participation tutorial_trigger say_more revoice explain agree</entry>
+<entry timestamp="2015-04-21#17:12:48" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to meteorology</entry>
+<entry timestamp="2015-04-21#17:12:48" user="NewAgentRunner" level="NORMAL"><launching room=meteorology/></entry>
+<entry timestamp="2015-04-21#17:12:48" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2015-04-21#17:12:48" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2015-04-21#17:12:48" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2015-04-21#17:12:48" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2015-04-21#17:12:48" user="AgentFactory" level="NORMAL">Components read. N=5</entry>
+<entry timestamp="2015-04-21#17:12:48" user="AgentFactory" level="NORMAL">Agent build. VirtualCarolyn_meteorology</entry>
+<entry timestamp="2015-04-21#17:12:48" user="NewAgentRunner" level="NORMAL">Adding agent VirtualCarolyn_meteorology</entry>
+<entry timestamp="2015-04-21#17:12:48" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2015-04-21#17:12:48" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2015-04-21#17:12:49" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2015-04-21#17:12:49" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2015-04-21#17:12:49" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#17:12:49" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2015-04-21#17:12:49" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2015-04-21#17:12:49" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage initiate</entry>
+<entry timestamp="2015-04-21#17:12:49" user="PlanExecutor" level="NORMAL">Firing Stage 'body'</entry>
+<entry timestamp="2015-04-21#17:12:49" user="Step" level="NORMAL">Handlers for SHOW_IMAGE(whiteboard): [basilica2.agents.listeners.plan.WhiteboardStepHandler@4d45222c]</entry>
+<entry timestamp="2015-04-21#17:12:49" user="WhiteboardStepHandler" level="NORMAL">whiteboard step image:SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#17:12:49" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#17:12:49" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for VirtualCarolyn_meteorology</entry>
+<entry timestamp="2015-04-21#17:12:49" user="NewAgentRunner" level="NORMAL">Agent added VirtualCarolyn_meteorology</entry>
+<entry timestamp="2015-04-21#17:12:51" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#17:12:53" user="" level="NORMAL">ACCEPTED! CREATE whiteboard-image http://i62.tinypic.com/1ggo6c.png</entry>
+<entry timestamp="2015-04-21#17:12:54" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#17:12:54" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-21#17:13:02" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#17:13:02" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#17:13:03" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:35:21" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#18:35:21" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#18:35:22" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Arka
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:37:06" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about cold front precipitation. If you want to check your knowledge on cold front precipitation with me say 'LET'S DISCUSS ABOUT cold front precipitation' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:37:24" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to cold front and precipitation ?
+         TUTOR</entry>
+<entry timestamp="2015-04-21#18:37:28" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-21#18:37:30" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's see how much you know about cold fronts and precipitation.|Where is the chance of precipitation higher in regards to a cold front? TUTOR</entry>
+<entry timestamp="2015-04-21#18:38:28" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect.|I did not understand your answer. Where is the chance of precipitation higher in regards to a cold front? TUTOR</entry>
+<entry timestamp="2015-04-21#18:38:38" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. Since Low Pressure centers push air upward which condenses to form moisture and clouds, and low pressure centers are usually behind cold fronts, the chance of precipitation is higher behind a cold front.|When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the chance of precipitation at these intersections is…? TUTOR</entry>
+<entry timestamp="2015-04-21#18:39:00" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. Since Low Pressure centers push air upward which condenses to form moisture and clouds, and low pressure centers are usually found at intersections of cold fronts and warm fronts, the chance of precipitation is higher at these intersections.|Let's move on to other topic. TUTOR</entry>
+<entry timestamp="2015-04-21#18:39:00" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#18:39:05" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#18:39:05" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-21#18:39:44" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about warm front precipitation. If you want to check your knowledge on warm front precipitation with me say 'LET'S DISCUSS ABOUT warm front precipitation' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:39:58" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to warm front and precipitation ?
+         TUTOR</entry>
+<entry timestamp="2015-04-21#18:40:02" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-21#18:40:04" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's see how much you know about cold fronts and precipitation.|Where is the chance of precipitation higher in regards to a warm front? TUTOR</entry>
+<entry timestamp="2015-04-21#18:40:16" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect.|There are usually Low Pressure centers in front of warm fronts and High pressure enters behind warm fronts. Where is the chance of precipitation higher? TUTOR</entry>
+<entry timestamp="2015-04-21#18:40:58" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. That is correct. Since High Pressure centers push air downwards which expands and forms less moisture and clouds, and high pressure centers are usually behind warm fronts, the chance of precipitation is higher behind a warm front.|Let's move on to other question.|When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the chance of precipitation at these intersections is…? TUTOR</entry>
+<entry timestamp="2015-04-21#18:41:14" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. Since Low Pressure centers push air upward which condenses to form moisture and clouds, and low pressure centers are usually found at intersections of cold fronts and warm fronts, the chance of precipitation is higher at these intersections.|Let's move on to other topic. TUTOR</entry>
+<entry timestamp="2015-04-21#18:41:14" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#18:41:19" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#18:41:19" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-21#18:41:30" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about cold front wind direction. If you want to check your knowledge on cold front wind direction with me say 'LET'S DISCUSS ABOUT cold front wind direction' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:41:40" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to cold front and wind direction ?
+         TUTOR</entry>
+<entry timestamp="2015-04-21#18:41:46" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-21#18:41:48" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's see how much you know about cold fronts, warm fronts and wind direction.|When warm and cold fronts meet, there is likely to be a Low Pressure center. What is the strength of the winds at these intersections? TUTOR</entry>
+<entry timestamp="2015-04-21#18:42:02" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect. The wind is strong at these intersections.|When warm and cold fronts meet, there is likely to be a Low Pressure center. What is the direction of the winds at these intersections? TUTOR</entry>
+<entry timestamp="2015-04-21#18:43:02" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect.|I did not understand your answer. When warm and cold fronts meet, there is likely to be a Low Pressure center. What is the direction of the winds at these intersections? TUTOR</entry>
+<entry timestamp="2015-04-21#18:43:24" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#18:43:24" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#18:43:24" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Arka
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:43:46" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about cold front wind direction. If you want to check your knowledge on cold front wind direction with me say 'LET'S DISCUSS ABOUT cold front wind direction' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:43:48" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Can you rephrase your response?|I did not understand your answer. When warm and cold fronts meet, there is likely to be a Low Pressure center. What is the direction of the winds at these intersections? TUTOR</entry>
+<entry timestamp="2015-04-21#18:44:02" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: The wind direction is counter-clockwise at these intersections.|Let's move on to other topic. TUTOR</entry>
+<entry timestamp="2015-04-21#18:44:03" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#18:44:08" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#18:44:08" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-21#18:45:21" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about warm front wind direction. If you want to check your knowledge on warm front wind direction with me say 'LET'S DISCUSS ABOUT warm front wind direction' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:45:31" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to warm front and wind direction ?
+         TUTOR</entry>
+<entry timestamp="2015-04-21#18:45:39" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-21#18:45:41" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's see how much you know about cold fronts, warm fronts and wind direction.|When warm and cold fronts meet, there is likely to be a Low Pressure center. What is the strength of the winds at these intersections? TUTOR</entry>
+<entry timestamp="2015-04-21#18:46:05" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. The wind direction is strong at these intersections.|When warm and cold fronts meet, there is likely to be a Low Pressure center. What is the direction of the winds at these intersections? TUTOR</entry>
+<entry timestamp="2015-04-21#18:46:15" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: The wind direction is counter-clockwise at these intersections.|Let's move on to other topic. TUTOR</entry>
+<entry timestamp="2015-04-21#18:46:15" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#18:46:20" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#18:46:20" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-21#18:46:35" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about cold front temperature. If you want to check your knowledge on cold front temperature with me say 'LET'S DISCUSS ABOUT cold front temperature' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:46:43" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to cold front and temperature ?
+         TUTOR</entry>
+<entry timestamp="2015-04-21#18:46:45" user="" level="NORMAL">accepted. Hold-the-floor Event for AGREE_CANDIDATE check.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:46:47" user="" level="NORMAL">accepted. Hold-the-floor Event for SAY_MORE_CANDIDATE check.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:46:57" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-21#18:46:59" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's see how much you know about cold fronts and temperature.|Where is the temperature cooler in regards to a Cold front? TUTOR</entry>
+<entry timestamp="2015-04-21#18:47:05" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Do you agree or disagree with Arka? Why, or why not? Arka+AT_MOVE+AGREE_DISAGREE</entry>
+<entry timestamp="2015-04-21#18:47:07" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Okay, Arka. Can you explain that a bit more? Arka+SAY_MORE+AT_MOVE</entry>
+<entry timestamp="2015-04-21#18:47:55" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#18:47:55" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#18:47:57" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Arka
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:47:59" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect.|I did not understand your answer. Where is the temperature cooler in regards to a Cold front? TUTOR</entry>
+<entry timestamp="2015-04-21#18:48:21" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. The temperature is cooler behind a cold front.|Let's move on to other question.|When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the temperature at these intersections is… ? TUTOR</entry>
+<entry timestamp="2015-04-21#18:48:37" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect.|Low pressure centers represent air concentrated lower in the atmosphere. That means the temperature of this air is most likely...? TUTOR</entry>
+<entry timestamp="2015-04-21#18:48:47" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. Since cold air sinks and low pressure centers are concentrations of air low in the atmosphere, the temperature is most likely cooler.|Let's move on to other topic. TUTOR</entry>
+<entry timestamp="2015-04-21#18:48:47" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#18:48:52" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#18:48:52" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-21#18:49:07" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about cold front wind direction. If you want to check your knowledge on cold front wind direction with me say 'LET'S DISCUSS ABOUT cold front wind direction' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:49:15" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to cold front and wind direction ?
+         TUTOR</entry>
+<entry timestamp="2015-04-21#18:49:37" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-21#18:49:39" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's see how much you know about cold fronts, warm fronts and wind direction.|When warm and cold fronts meet, there is likely to be a Low Pressure center. What is the strength of the winds at these intersections? TUTOR</entry>
+<entry timestamp="2015-04-21#18:50:16" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#18:50:16" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-21#18:50:16" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-21#18:50:17" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Gaurav
+Can any one of you provide a summary of our discussion till now toGaurav INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:50:19" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect. The wind is strong at these intersections.|When warm and cold fronts meet, there is likely to be a Low Pressure center. What is the direction of the winds at these intersections? TUTOR</entry>
+<entry timestamp="2015-04-21#18:50:53" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Can you rephrase your response?|When warm and cold fronts meet, there is likely to be a Low Pressure center. What is the direction of the winds at these intersections? TUTOR</entry>
+<entry timestamp="2015-04-21#18:51:17" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect.|I did not understand your answer. When warm and cold fronts meet, there is likely to be a Low Pressure center. What is the direction of the winds at these intersections? TUTOR</entry>
+<entry timestamp="2015-04-21#18:51:33" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: The wind direction is counter-clockwise at these intersections.|Let's move on to other topic. TUTOR</entry>
+<entry timestamp="2015-04-21#18:51:33" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#18:51:38" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#18:51:38" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-21#18:51:47" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about warm front precipitation. If you want to check your knowledge on warm front precipitation with me say 'LET'S DISCUSS ABOUT warm front precipitation' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:51:55" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to warm front and precipitation ?
+         TUTOR</entry>
+<entry timestamp="2015-04-21#18:51:59" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-21#18:52:01" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's see how much you know about cold fronts and precipitation.|Where is the chance of precipitation higher in regards to a warm front? TUTOR</entry>
+<entry timestamp="2015-04-21#18:52:15" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. The chance of precipitation is higher in front of a warm front.|Let's move on to other question.|When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the chance of precipitation at these intersections is…? TUTOR</entry>
+<entry timestamp="2015-04-21#18:52:25" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect.|In a low pressure center the air moves upwards. When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the chance of precipitation at these intersections is…? TUTOR</entry>
+<entry timestamp="2015-04-21#18:52:35" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. Since Low Pressure centers push air upward which condenses to form moisture and clouds, and low pressure centers are usually found at intersections of cold fronts and warm fronts, the chance of precipitation is higher at these intersections.|Let's move on to other topic. TUTOR</entry>
+<entry timestamp="2015-04-21#18:52:35" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#18:52:35" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-21#18:52:40" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#18:52:40" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-21#18:52:41" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-21#18:52:41" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-21#18:52:41" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-21#18:52:43" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Gaurav
+We have been discussing on topics like  [cold front wind direction, warm front precipitation]
+Please join in. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:53:05" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about cold front precipitation. If you want to check your knowledge on cold front precipitation with me say 'LET'S DISCUSS ABOUT cold front precipitation' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:53:15" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to cold front and precipitation ?
+         TUTOR</entry>
+<entry timestamp="2015-04-21#18:53:27" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-21#18:53:29" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's see how much you know about cold fronts and precipitation.|Where is the chance of precipitation higher in regards to a cold front? TUTOR</entry>
+<entry timestamp="2015-04-21#18:53:37" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. The chance of precipitation is higher behind a cold front.|When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the chance of precipitation at these intersections is…? TUTOR</entry>
+<entry timestamp="2015-04-21#18:53:53" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect.|In a low pressure center the air moves upwards. When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the chance of precipitation at these intersections is…? TUTOR</entry>
+<entry timestamp="2015-04-21#18:54:03" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Can you rephrase your response?|In a low pressure center the air moves upwards. When warm and cold fronts meet, there is likely to be a Low Pressure center. That means the chance of precipitation at these intersections is…? TUTOR</entry>
+<entry timestamp="2015-04-21#18:54:19" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct. Since Low Pressure centers push air upward which condenses to form moisture and clouds, and low pressure centers are usually found at intersections of cold fronts and warm fronts, the chance of precipitation is higher at these intersections.|Let's move on to other topic. TUTOR</entry>
+<entry timestamp="2015-04-21#18:54:19" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#18:54:24" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-21#18:54:24" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-21#18:54:49" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about warm front temperature. If you want to check your knowledge on warm front temperature with me say 'LET'S DISCUSS ABOUT warm front temperature' and I will ask some questions on it. TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-21#18:55:15" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to warm front and temperature ?
+         TUTOR</entry>
+<entry timestamp="2015-04-21#18:55:17" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: I am waiting for your response to start. Please ask for help if you are stuck. TUTOR</entry>
+<entry timestamp="2015-04-21#18:55:19" user="" level="NORMAL">rejected! Hold-the-floor Event for SAY_MORE_CANDIDATE check</entry>
+<entry timestamp="2015-04-21#18:55:19" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-21#18:55:21" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's see how much you know about cold fronts and temperature.|Where is the temperature warmer in regards to a Warm front? TUTOR</entry>
+<entry timestamp="2015-04-21#18:55:29" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Can you rephrase your response?|Where is the temperature warmer in regards to a Warm front? TUTOR</entry>

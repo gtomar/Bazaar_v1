@@ -1,0 +1,98 @@
+<entry timestamp="2015-04-19#18:15:22" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2015-04-19#18:15:22" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2015-04-19#18:15:22" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2015-04-19#18:15:22" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher, class basilica2.social.listeners.StrategyScoreComputer, class basilica2.social.listeners.RuleBasedTriggerComputer, class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.myagent.listeners.Register]</entry>
+<entry timestamp="2015-04-19#18:15:22" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor, class basilica2.myagent.listeners.PromptActor]</entry>
+<entry timestamp="2015-04-19#18:15:22" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2015-04-19#18:15:22" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2015-04-19#18:15:23" user="ConditionAgentUI" level="NORMAL">Conditions set to tutorial_trigger</entry>
+<entry timestamp="2015-04-19#18:15:24" user="ConditionAgentUI" level="NORMAL">Conditions set to social tutorial_trigger</entry>
+<entry timestamp="2015-04-19#18:15:24" user="ConditionAgentUI" level="NORMAL">Conditions set to participation social tutorial_trigger</entry>
+<entry timestamp="2015-04-19#18:15:25" user="ConditionAgentUI" level="NORMAL">Conditions set to participation social tutorial_trigger revoice</entry>
+<entry timestamp="2015-04-19#18:15:25" user="ConditionAgentUI" level="NORMAL">Conditions set to participation social tutorial_trigger revoice explain</entry>
+<entry timestamp="2015-04-19#18:15:26" user="ConditionAgentUI" level="NORMAL">Conditions set to participation social tutorial_trigger revoice explain agree</entry>
+<entry timestamp="2015-04-19#18:15:26" user="ConditionAgentUI" level="NORMAL">Conditions set to participation social tutorial_trigger say_more revoice explain agree</entry>
+<entry timestamp="2015-04-19#18:15:29" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to meteorology</entry>
+<entry timestamp="2015-04-19#18:15:29" user="NewAgentRunner" level="NORMAL"><launching room=meteorology/></entry>
+<entry timestamp="2015-04-19#18:15:29" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2015-04-19#18:15:29" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2015-04-19#18:15:29" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2015-04-19#18:15:29" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2015-04-19#18:15:29" user="AgentFactory" level="NORMAL">Components read. N=5</entry>
+<entry timestamp="2015-04-19#18:15:29" user="AgentFactory" level="NORMAL">Agent build. VirtualCarolyn_meteorology</entry>
+<entry timestamp="2015-04-19#18:15:29" user="NewAgentRunner" level="NORMAL">Adding agent VirtualCarolyn_meteorology</entry>
+<entry timestamp="2015-04-19#18:15:29" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2015-04-19#18:15:29" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2015-04-19#18:15:29" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2015-04-19#18:15:29" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2015-04-19#18:15:29" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for VirtualCarolyn_meteorology</entry>
+<entry timestamp="2015-04-19#18:15:29" user="NewAgentRunner" level="NORMAL">Agent added VirtualCarolyn_meteorology</entry>
+<entry timestamp="2015-04-19#18:15:29" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-04-19#18:15:29" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2015-04-19#18:15:29" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2015-04-19#18:15:29" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage initiate</entry>
+<entry timestamp="2015-04-19#18:15:29" user="PlanExecutor" level="NORMAL">Firing Stage 'body'</entry>
+<entry timestamp="2015-04-19#18:15:29" user="Step" level="NORMAL">Handlers for SHOW_IMAGE(whiteboard): [basilica2.agents.listeners.plan.WhiteboardStepHandler@22762e43]</entry>
+<entry timestamp="2015-04-19#18:15:29" user="WhiteboardStepHandler" level="NORMAL">whiteboard step image:SHOW_IMAGE</entry>
+<entry timestamp="2015-04-19#18:15:29" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-19#18:15:29" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-04-19#18:15:29" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-04-19#18:15:31" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-19#18:15:33" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-19#18:15:34" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-19#18:15:34" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-19#18:15:35" user="" level="NORMAL">rejected! Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTION</entry>
+<entry timestamp="2015-04-19#18:15:35" user="" level="NORMAL">ACCEPTED! CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</entry>
+<entry timestamp="2015-04-19#18:15:43" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about LP_WINDDIRECTION. If you want to discuss LP_WINDDIRECTION with me say 'let's discuss LP_WINDDIRECTION' TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-19#18:15:45" user="" level="NORMAL">accepted. Message from VirtualCarolyn: :-) SMILE+SOCIAL.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-19#18:15:53" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to low pressure and wind direction ?
+         TUTOR</entry>
+<entry timestamp="2015-04-19#18:15:57" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-19#18:15:59" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's see how much you know about low pressure and wind direction.|How strong are winds around a low pressure center? TUTOR</entry>
+<entry timestamp="2015-04-19#18:16:13" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Can you rephrase your response?|How strong are winds around a low pressure center? TUTOR</entry>
+<entry timestamp="2015-04-19#18:16:17" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct.|What direction does the wind blow around a low pressure center? TUTOR</entry>
+<entry timestamp="2015-04-19#18:16:27" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Wind blows counter-clockwide around low pressure centers|Let's move on to other topics. TUTOR</entry>
+<entry timestamp="2015-04-19#18:16:27" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-19#18:16:32" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-19#18:16:32" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-19#18:16:59" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I noticed that you are talking about LP_TEMPERATURE. If you want to discuss LP_TEMPERATURE with me say 'let's discuss LP_TEMPERATURE' TOPIC_ELICITATION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-19#18:17:01" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: 
+               Will you like to answer some questions related to low pressure and temperature ?
+         TUTOR</entry>
+<entry timestamp="2015-04-19#18:17:03" user="" level="NORMAL">rejected! Hold-the-floor Event for SAY_MORE_CANDIDATE check</entry>
+<entry timestamp="2015-04-19#18:17:03" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-19#18:17:05" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: Let's see how much you know about low pressure and temperature.|Where is the air concentrated in a low pressure center? TUTOR</entry>
+<entry timestamp="2015-04-19#18:17:19" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct.|Let's move on to other topics.|Since the air has concentrated lower in the atmosphere, the temperature is most likely…? TUTOR</entry>
+<entry timestamp="2015-04-19#18:17:29" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is incorrect.|Warm air rises and cool air sinks. In a low pressure center, the temperture is most likely...? TUTOR</entry>
+<entry timestamp="2015-04-19#18:17:39" user="" level="NORMAL">ACCEPTED! Message from VirtualCarolyn: That is correct.|Let's move on to other topics. TUTOR</entry>
+<entry timestamp="2015-04-19#18:17:39" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for SHOW_IMAGE</entry>
+<entry timestamp="2015-04-19#18:17:44" user="PlanExecutor" level="NORMAL">PLAN: current step done: SHOW_IMAGE</entry>
+<entry timestamp="2015-04-19#18:17:44" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2015-04-19#18:18:07" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-04-19#18:18:07" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-04-19#18:19:43" user="" level="NORMAL">accepted. Message from VirtualCarolyn: What do you think, Gaurav? ENCOURAGE_INDIVIDUAL+SOCIAL.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-19#18:23:41" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about LP_PRECIPITATION. If you want to discuss LP_PRECIPITATION with me say 'let's discuss LP_PRECIPITATION' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-19#18:23:43" user="" level="NORMAL">accepted. Message from VirtualCarolyn: Let's stick to this. SOCIAL+ENCOURAGE_GROUP.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-19#18:27:41" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about HP_PRECIPITATION. If you want to discuss HP_PRECIPITATION with me say 'let's discuss HP_PRECIPITATION' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-19#18:31:41" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about HP_TEMPERATURE. If you want to discuss HP_TEMPERATURE with me say 'let's discuss HP_TEMPERATURE' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-19#18:35:41" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about HP_WINDDIRECTION. If you want to discuss HP_WINDDIRECTION with me say 'let's discuss HP_WINDDIRECTION' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-19#18:35:43" user="" level="NORMAL">accepted. Message from VirtualCarolyn: I can't do this on my own :-) SOCIAL+ENCOURAGE_GROUP.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-04-19#18:39:42" user="" level="NORMAL">accepted. Message from VirtualCarolyn: You can discuss about CF_PRECIPITATION. If you want to discuss CF_PRECIPITATION with me say 'let's discuss CF_PRECIPITATION' TOPIC_PROMPTED.
+Starting blockout countdown... </entry>

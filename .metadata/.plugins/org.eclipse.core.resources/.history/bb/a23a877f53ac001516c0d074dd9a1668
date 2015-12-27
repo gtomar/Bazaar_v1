@@ -1,0 +1,698 @@
+<entry timestamp="2015-11-13#23:48:12" user="FactoryBuiltAgent" level="NORMAL">CONFIGURING AGENT VirtualCarolyn_mc_mooc_week7_test08</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.AGENT" level="NORMAL"><created>VirtualCarolyn_mc_mooc_week7_test08</created></entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="NORMAL"><created>stateMemory</created></entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="NORMAL"><created>client</created></entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="NORMAL">Property read: socket_url =	http://bazaar.lti.cs.cmu.edu:80</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.ccActor" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.ccActor" level="NORMAL"><created>ccActor</created></entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.ccActor" level="NORMAL">Property read: typingScale =	null</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL"><created>inputCoordinator</created></entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL"><created>outputCoordinator</created></entry>
+<entry timestamp="2015-11-13#23:48:12" user="(client->inputCoordinator)" level="INFO">Connection initialized. Id=1447476492180</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Outgoing connection added from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Inward connection added from inputCoordinator to client</entry>
+<entry timestamp="2015-11-13#23:48:12" user="(inputCoordinator->inputCoordinator)" level="INFO">Connection initialized. Id=1447476492180</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:48:12" user="(inputCoordinator->outputCoordinator)" level="INFO">Connection initialized. Id=1447476492180</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to outputCoordinator</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Inward connection added from outputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:48:12" user="(outputCoordinator->client)" level="INFO">Connection initialized. Id=1447476492180</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Outgoing connection added from outputCoordinator to client</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Inward connection added from client to outputCoordinator</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.AGENT" level="NORMAL"><initialized>VirtualCarolyn_mc_mooc_week7_test08</initialized></entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Observer Added:stateMemory.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.ccActor" level="INFO">Observer Added:ccActor.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Observer Added:client.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-11-13#23:48:12" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.edge</entry>
+<entry timestamp="2015-11-13#23:48:12" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.edge</entry>
+<entry timestamp="2015-11-13#23:48:12" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.edge</entry>
+<entry timestamp="2015-11-13#23:48:12" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.edge</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Observer Added:stateMemory.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.ccActor" level="INFO">Observer Added:ccActor.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Observer Added:client.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-11-13#23:48:12" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.panel</entry>
+<entry timestamp="2015-11-13#23:48:12" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.panel</entry>
+<entry timestamp="2015-11-13#23:48:12" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.panel</entry>
+<entry timestamp="2015-11-13#23:48:12" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.panel</entry>
+<entry timestamp="2015-11-13#23:48:12" user="AgreeDisagreeActor" level="WARNING">agree condition: false</entry>
+<entry timestamp="2015-11-13#23:48:12" user="AskForExplanationActor" level="WARNING">explain_other condition: false</entry>
+<entry timestamp="2015-11-13#23:48:12" user="RevoiceActor" level="WARNING">revoice condition: false</entry>
+<entry timestamp="2015-11-13#23:48:12" user="SayMoreActor" level="WARNING">say_more condition: false</entry>
+<entry timestamp="2015-11-13#23:48:12" user="PlanExecutor" level="NORMAL"><configuration planfile="plans/plan_steps.xml"></entry>
+<entry timestamp="2015-11-13#23:48:12" user="PlanExecutor" level="ERROR">PlanExecutor: Can't do that...java.io.IOException: No such file or directory</entry>
+<entry timestamp="2015-11-13#23:48:12" user="PlanExecutor" level="ERROR">Error while reading Status File (java.io.FileNotFoundException: planstatus/VirtualCarolyn_mc_mooc_week7_test08.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></commit></entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.AGENT" level="NORMAL"><starting>Initializing each component</starting></entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="NORMAL"><initialized>stateMemory</initialized></entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.ccActor" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.ccActor" level="NORMAL"><initialized>ccActor</initialized></entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="NORMAL"><initialized>client</initialized></entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL"><initialized>outputCoordinator</initialized></entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL"><initialized>inputCoordinator</initialized></entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.AGENT" level="NORMAL"><starting>All components initialized</starting></entry>
+<entry timestamp="2015-11-13#23:48:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Observer Added:frame2. 3 Observers now.</entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:48:13" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: test is now PRESENT</processing></entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: test is now PRESENT</entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></retrieve></entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: test is now PRESENT]</entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:48:13" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: VirtualCarolyn is now PRESENT</processing></entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: VirtualCarolyn is now PRESENT</entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: VirtualCarolyn is now PRESENT]</entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:48:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:48:49" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:48:49" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:48:49" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:48:49" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:48:49" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: test is now ABSENT</processing></entry>
+<entry timestamp="2015-11-13#23:48:49" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: test is now ABSENT</entry>
+<entry timestamp="2015-11-13#23:48:49" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:48:49" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="false" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:48:49" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: test is now ABSENT]</entry>
+<entry timestamp="2015-11-13#23:48:49" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:48:49" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:48:49" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:48:51" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:48:51" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:48:51" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:48:51" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:48:51" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: test is now PRESENT</processing></entry>
+<entry timestamp="2015-11-13#23:48:51" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: test is now PRESENT</entry>
+<entry timestamp="2015-11-13#23:48:51" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="false" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:48:51" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:48:51" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: test is now PRESENT]</entry>
+<entry timestamp="2015-11-13#23:48:51" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:48:51" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:48:51" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:48:52" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: test is now PRESENT</processing></entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: test is now PRESENT</entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-11-13#23:48:52" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: test is now PRESENT]</entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: Welcome, test
+ INTRODUCTION]</entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: Welcome, test
+ INTRODUCTION]</entry>
+<entry timestamp="2015-11-13#23:48:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-11-13#23:48:54" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: Welcome, test
+ INTRODUCTION]</entry>
+<entry timestamp="2015-11-13#23:48:54" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Welcome, test
+ INTRODUCTIONbelief*priority: 1.0*1000000.0=1000000.0</entry>
+<entry timestamp="2015-11-13#23:48:54" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:48:54" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-11-13#23:48:54" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-11-13#23:48:54" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:48:54" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Welcome, test
+ INTRODUCTION</processing></entry>
+<entry timestamp="2015-11-13#23:48:54" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-11-13#23:49:03" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:49:03" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:49:03" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:49:03" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:49:03" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Welcome, test
+ </processing></entry>
+<entry timestamp="2015-11-13#23:49:03" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Welcome, test
+ </entry>
+<entry timestamp="2015-11-13#23:49:03" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:49:03" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:49:03" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-13#23:49:03" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:49:03" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Welcome, test
+ ]</entry>
+<entry timestamp="2015-11-13#23:49:03" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:49:03" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:49:03" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:50:12" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:50:12" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:50:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:50:12" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:50:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from test: plan4 </processing></entry>
+<entry timestamp="2015-11-13#23:50:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from test: plan4 </entry>
+<entry timestamp="2015-11-13#23:50:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:50:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:50:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:50:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:50:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:50:12" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-13#23:50:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:50:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from test: plan4 PLAN]</entry>
+<entry timestamp="2015-11-13#23:50:19" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:50:19" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:50:28" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:50:28" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:50:28" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:50:28" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:50:28" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:50:28" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from test: because it is good </processing></entry>
+<entry timestamp="2015-11-13#23:50:28" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from test: because it is good </entry>
+<entry timestamp="2015-11-13#23:50:28" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:50:28" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:50:28" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:50:28" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">SOCIAL_TRIGGER_EVENT</dispatching></entry>
+<entry timestamp="2015-11-13#23:50:28" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate SOCIAL_TRIGGER_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:50:28" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-11-13#23:50:28" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:50:28" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:50:28" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:50:28" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-13#23:50:28" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-11-13#23:50:29" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from test: because it is good POSITIVITY+GIVING_OPINION]</entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"><socialtrigger from="RULES" score="1.0" /></processing></entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: <socialtrigger from="RULES" score="1.0" /></entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [<socialtrigger from="RULES" score="1.0" />]</entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: test, can you say more about why you chose this plan? plan_reasoning]</entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: test, can you say more about why you chose this plan? plan_reasoning]</entry>
+<entry timestamp="2015-11-13#23:50:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-11-13#23:50:30" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: test, can you say more about why you chose this plan? plan_reasoning]</entry>
+<entry timestamp="2015-11-13#23:50:30" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: test, can you say more about why you chose this plan? plan_reasoningbelief*priority: 0.375*1000000.0=1000000.0</entry>
+<entry timestamp="2015-11-13#23:50:30" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:50:30" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-11-13#23:50:30" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-11-13#23:50:30" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:50:30" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: test, can you say more about why you chose this plan? plan_reasoning</processing></entry>
+<entry timestamp="2015-11-13#23:50:30" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-11-13#23:50:43" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:50:43" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:50:43" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:50:43" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:50:43" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: test, can you say more about why you chose this plan? </processing></entry>
+<entry timestamp="2015-11-13#23:50:43" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: test, can you say more about why you chose this plan? </entry>
+<entry timestamp="2015-11-13#23:50:43" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:50:43" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:50:43" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-13#23:50:43" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:50:43" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: test, can you say more about why you chose this plan? ]</entry>
+<entry timestamp="2015-11-13#23:50:43" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:50:43" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:50:43" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:51:02" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:51:02" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:51:02" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:51:02" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:51:02" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from test: i agree because it is good </processing></entry>
+<entry timestamp="2015-11-13#23:51:02" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from test: i agree because it is good </entry>
+<entry timestamp="2015-11-13#23:51:02" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:51:02" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:51:02" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:51:02" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">SOCIAL_TRIGGER_EVENT</dispatching></entry>
+<entry timestamp="2015-11-13#23:51:02" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate SOCIAL_TRIGGER_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:51:02" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-11-13#23:51:02" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:51:02" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:51:02" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:51:02" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-13#23:51:02" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:51:04" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from test: i agree because it is good POSITIVITY+GIVING_OPINION+GIVING_ORIENTATION+AGREE]</entry>
+<entry timestamp="2015-11-13#23:51:04" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:51:04" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:51:04" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:51:04" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"><socialtrigger from="RULES" score="1.0" /></processing></entry>
+<entry timestamp="2015-11-13#23:51:04" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: <socialtrigger from="RULES" score="1.0" /></entry>
+<entry timestamp="2015-11-13#23:51:04" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [<socialtrigger from="RULES" score="1.0" />]</entry>
+<entry timestamp="2015-11-13#23:51:04" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:51:04" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:51:04" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:51:52" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from test: kk </processing></entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from test: kk </entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:51:52" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-11-13#23:51:52" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from test: kk ]</entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: test, can you elaborate on why you agree? agree_reasoning]</entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: test, can you elaborate on why you agree? agree_reasoning]</entry>
+<entry timestamp="2015-11-13#23:51:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-11-13#23:51:54" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: test, can you elaborate on why you agree? agree_reasoning]</entry>
+<entry timestamp="2015-11-13#23:51:54" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: test, can you elaborate on why you agree? agree_reasoningbelief*priority: 0.140625*1000000.0=1000000.0</entry>
+<entry timestamp="2015-11-13#23:51:54" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:51:54" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-11-13#23:51:54" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-11-13#23:51:54" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:51:54" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: test, can you elaborate on why you agree? agree_reasoning</processing></entry>
+<entry timestamp="2015-11-13#23:51:54" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-11-13#23:51:58" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:51:58" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:51:58" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:51:58" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:51:58" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: test, can you elaborate on why you agree? </processing></entry>
+<entry timestamp="2015-11-13#23:51:58" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: test, can you elaborate on why you agree? </entry>
+<entry timestamp="2015-11-13#23:51:58" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:51:58" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:51:58" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-13#23:51:58" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:51:58" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: test, can you elaborate on why you agree? ]</entry>
+<entry timestamp="2015-11-13#23:51:58" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:51:58" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:51:58" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:52:12" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from test: i disagree  </processing></entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from test: i disagree  </entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">SOCIAL_TRIGGER_EVENT</dispatching></entry>
+<entry timestamp="2015-11-13#23:52:12" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate SOCIAL_TRIGGER_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:52:12" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from test: i disagree  CHALLENGE_CONTRIBUTION+GIVING_ORIENTATION+DISAGREE]</entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"><socialtrigger from="RULES" score="1.0" /></processing></entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: <socialtrigger from="RULES" score="1.0" /></entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [<socialtrigger from="RULES" score="1.0" />]</entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-11-13#23:52:12" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:52:16" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:52:16" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:52:16" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:52:16" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:52:16" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from test: It's still over budget and plan 1 puts into effect wase disposal </processing></entry>
+<entry timestamp="2015-11-13#23:52:16" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from test: It's still over budget and plan 1 puts into effect wase disposal </entry>
+<entry timestamp="2015-11-13#23:52:16" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:52:16" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:52:16" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:52:16" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:52:16" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-13#23:52:16" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:52:19" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-11-13#23:52:19" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:52:19" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-11-13#23:52:19" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:52:19" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from test: It's still over budget and plan 1 puts into effect wase disposal PLAN]</entry>
+<entry timestamp="2015-11-13#23:52:19" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:52:19" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:52:19" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:52:19" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-11-13#23:52:19" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-11-13#23:52:19" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-11-13#23:52:19" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: test, do you have any reasons to disagree? disagree_reasoning]</entry>
+<entry timestamp="2015-11-13#23:52:19" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: test, do you have any reasons to disagree? disagree_reasoning]</entry>
+<entry timestamp="2015-11-13#23:52:19" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-11-13#23:52:20" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: test, do you have any reasons to disagree? disagree_reasoning]</entry>
+<entry timestamp="2015-11-13#23:52:20" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: test, do you have any reasons to disagree? disagree_reasoningbelief*priority: 0.052734375*1000000.0=1000000.0</entry>
+<entry timestamp="2015-11-13#23:52:20" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:52:20" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-11-13#23:52:20" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-11-13#23:52:20" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:52:20" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: test, do you have any reasons to disagree? disagree_reasoning</processing></entry>
+<entry timestamp="2015-11-13#23:52:20" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-11-13#23:52:24" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:52:24" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:52:24" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:52:24" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:52:24" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: test, do you have any reasons to disagree? </processing></entry>
+<entry timestamp="2015-11-13#23:52:24" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: test, do you have any reasons to disagree? </entry>
+<entry timestamp="2015-11-13#23:52:24" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:52:24" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:52:24" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-13#23:52:24" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:52:24" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: test, do you have any reasons to disagree? ]</entry>
+<entry timestamp="2015-11-13#23:52:24" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:52:24" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:52:24" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:52:52" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:52:52" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:52:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:52:52" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:52:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from test: It's still over budget and plan 1 puts into effect wase disposal </processing></entry>
+<entry timestamp="2015-11-13#23:52:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from test: It's still over budget and plan 1 puts into effect wase disposal </entry>
+<entry timestamp="2015-11-13#23:52:52" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:52:52" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:52:52" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:52:52" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:52:52" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-13#23:52:52" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:52:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from test: It's still over budget and plan 1 puts into effect wase disposal PLAN]</entry>
+<entry timestamp="2015-11-13#23:52:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:52:52" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:52:52" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:54:13" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:54:29" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:54:29" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:54:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:54:29" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:54:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from test: the problem with plan 1 is double the heavy metal toxicity </processing></entry>
+<entry timestamp="2015-11-13#23:54:29" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from test: the problem with plan 1 is double the heavy metal toxicity </entry>
+<entry timestamp="2015-11-13#23:54:29" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:54:29" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:54:29" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:54:29" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:54:29" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-13#23:54:29" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:54:31" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-11-13#23:54:31" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:54:31" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-11-13#23:54:31" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:54:31" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from test: the problem with plan 1 is double the heavy metal toxicity PLAN]</entry>
+<entry timestamp="2015-11-13#23:54:31" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:54:31" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:54:31" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:54:31" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-11-13#23:54:31" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-11-13#23:54:31" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-11-13#23:54:31" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: test, can you say more about why you chose this plan? plan_reasoning]</entry>
+<entry timestamp="2015-11-13#23:54:31" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: test, can you say more about why you chose this plan? plan_reasoning]</entry>
+<entry timestamp="2015-11-13#23:54:31" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-11-13#23:54:32" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: test, can you say more about why you chose this plan? plan_reasoning]</entry>
+<entry timestamp="2015-11-13#23:54:32" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: test, can you say more about why you chose this plan? plan_reasoningbelief*priority: 0.019775390625*1000000.0=1000000.0</entry>
+<entry timestamp="2015-11-13#23:54:32" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:54:32" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-11-13#23:54:32" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-11-13#23:54:32" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:54:32" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: test, can you say more about why you chose this plan? plan_reasoning</processing></entry>
+<entry timestamp="2015-11-13#23:54:32" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-11-13#23:54:54" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-13#23:54:54" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:54:54" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-13#23:54:54" user="VirtualCarolyn_mc_mooc_week7_test08.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:54:54" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: test, can you say more about why you chose this plan? </processing></entry>
+<entry timestamp="2015-11-13#23:54:54" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: test, can you say more about why you chose this plan? </entry>
+<entry timestamp="2015-11-13#23:54:54" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:54:54" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:54:54" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-13#23:54:54" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:54:54" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: test, can you say more about why you chose this plan? ]</entry>
+<entry timestamp="2015-11-13#23:54:54" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:54:54" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:54:54" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-13#23:56:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">DORMANT_GROUP_EVENT</dispatching></entry>
+<entry timestamp="2015-11-13#23:56:13" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate DORMANT_GROUP_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-13#23:56:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><queued name="DORMANT_GROUP_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-11-13#23:56:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-11-13#23:56:13" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:56:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processing name="DORMANT_GROUP_EVENT" from="inputCoordinator"><dormantGroup/></processing></entry>
+<entry timestamp="2015-11-13#23:56:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">InputCoordinator received event: <dormantGroup/></entry>
+<entry timestamp="2015-11-13#23:56:13" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-13#23:56:13" user="VirtualCarolyn_mc_mooc_week7_test08.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="test" name="test" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-13#23:56:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Preprocessing: [<dormantGroup/>]</entry>
+<entry timestamp="2015-11-13#23:56:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-13#23:56:13" user="VirtualCarolyn_mc_mooc_week7_test08.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-13#23:56:13" user="VirtualCarolyn_mc_mooc_week7_test08.inputCoordinator" level="INFO"><processed name="DORMANT_GROUP_EVENT" from="inputCoordinator"></processed></entry>

@@ -1,0 +1,72 @@
+2015-11-16,00:06:35,0,VirtualCarolyn,1447650396930,"Welcome, Sree S
+",INTRODUCTION
+2015-11-16,00:06:39,0,VirtualCarolyn,1447650400951,"Welcome, gaurav
+",INTRODUCTION
+2015-11-16,00:06:45,0,VirtualCarolyn,1447650406961,"Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.",Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.
+2015-11-16,00:07:14,0,VirtualCarolyn,1447650434988,"Welcome, xu
+",INTRODUCTION
+2015-11-16,00:07:20,0,xu,1447650442549,hi,neg
+2015-11-16,00:07:22,0,Sree S,1447650442733,Hello everyone!,neg
+2015-11-16,00:07:29,0,gaurav,1447650449681,lets start,GIVING_OPINION+neg
+2015-11-16,00:07:39,0,xu,1447650463712,"Hi, I'm happy to be in this group!",neg
+2015-11-16,00:07:44,0,Sree S,1447650466245,I am trying to display reasoning in this sentence because I am sleepy.,AFFIRMATIVE+neg
+2015-11-16,00:07:58,0,xu,1447650478753,I support plan 2,PLAN+neg
+2015-11-16,00:08:14,0,xu,1447650494617,I suport plan2.,PLAN+neg
+2015-11-16,00:08:14,0,VirtualCarolyn,1447650495043,"xu, can you say more about why you chose this plan?",plan_reasoning
+2015-11-16,00:08:21,0,Sree S,1447650501215,Nice.,POSITIVITY+neg
+2015-11-16,00:08:32,0,gaurav,1447650513233,It's still over budget and plan 1 puts into effect wase disposal,PLAN+pos
+2015-11-16,00:08:33,0,VirtualCarolyn,1447650515064,"gaurav, thanks for your explanation, that makes the argument very clear.",REASONING_APPRECIATION
+2015-11-16,00:08:37,0,xu,1447650520248,"@Gaurav, it seems plan2 works, but plan 2 doesn't work?",PLAN+GIVING_OPINION+QUESTION+neg
+2015-11-16,00:08:43,0,xu,1447650523546,I propose plan 2.,PLAN+neg
+2015-11-16,00:08:44,0,Sree S,1447650524285,2 messages is being done.. ,TEASING+neg
+2015-11-16,00:08:43,0,VirtualCarolyn,1447650525077,"xu, can you say more about why you chose this plan?",plan_reasoning
+2015-11-16,00:08:49,0,xu,1447650529878,"oh, it works ",neg
+2015-11-16,00:08:57,0,Sree S,1447650537350,"No, it checks for 2 messages.",TEASING+NEGATIVE+neg
+2015-11-16,00:09:02,0,xu,1447650542133,"oh, yeah!",AFFIRMATIVE+neg
+2015-11-16,00:09:04,0,xu,1447650544902,I forgot!,neg
+2015-11-16,00:09:07,0,Sree S,1447650547577,Do we want that?,QUESTION+neg
+2015-11-16,00:09:10,0,gaurav,1447650550175,I disagree with  Sree,CHALLENGE_CONTRIBUTION+GIVING_ORIENTATION+DISAGREE+neg
+2015-11-16,00:09:13,0,Sree S,1447650553189,LOL.,SMILES+neg
+2015-11-16,00:09:15,0,xu,1447650556192,I agree with plan 2.,PLAN+GIVING_ORIENTATION+AGREE+neg
+2015-11-16,00:09:16,0,VirtualCarolyn,1447650557117,"gaurav, do you have any reasons to disagree?",disagree_reasoning
+2015-11-16,00:09:22,0,VirtualCarolyn,1447650563124,"gaurav, would you like to talk about which plan you prefer?",PLAN_ELICITATION
+2015-11-16,00:09:24,0,gaurav,1447650565074,because sree is amd,neg
+2015-11-16,00:09:36,0,xu,1447650577055,Because this is the most economical one.,GIVING_OPINION+pos
+2015-11-16,00:09:37,0,VirtualCarolyn,1447650577138,"xu, thanks for your explanation, that makes the argument very clear.",REASONING_APPRECIATION
+2015-11-16,00:09:42,0,Sree S,1447650582864,Haha nice.,SMILES+POSITIVITY+neg
+2015-11-16,00:09:59,0,xu,1447650600224,"another questions, gaurav said disagree, but it didn't check 2 messages",TEASING+GIVING_OPINION+GIVING_ORIENTATION+DISAGREE+neg
+2015-11-16,00:10:16,0,xu,1447650616484,and asked why,neg
+2015-11-16,00:10:19,0,Sree S,1447650619559,"Nuclear energy is nit necessarily the cleanest, not is the cheapest in terms of initial cost. Only running costs are low.",NEGATIVE+pos
+2015-11-16,00:10:19,0,VirtualCarolyn,1447650621179,"xu, do you have any reasons to disagree?",disagree_reasoning
+2015-11-16,00:10:35,0,Sree S,1447650635467,I think it check 2 messages only for plan,TEASING+GIVING_OPINION+neg
+2015-11-16,00:10:39,0,Sree S,1447650639533,right Gaurav?,QUESTION+neg
+2015-11-16,00:10:49,0,xu,1447650650236,I disagree because that solution would result in damage to the environment.,CHALLENGE_CONTRIBUTION+GIVING_ORIENTATION+DISAGREE+EXPLANATION_CONTRIBUTION+neg
+2015-11-16,00:10:52,0,gaurav,1447650652970,disagree regular expression need to improve,GIVING_ORIENTATION+HELP_REQUEST+DISAGREE+neg
+2015-11-16,00:10:52,0,VirtualCarolyn,1447650653232,"xu, do you have any reasons to disagree?",disagree_reasoning
+2015-11-16,00:10:58,0,Sree S,1447650659151,no no. it is correct.,GIVING_OPINION+NEGATIVE+neg
+2015-11-16,00:11:06,0,Sree S,1447650666332,Xu wrote disgree in her sentence,neg
+2015-11-16,00:11:12,0,xu,1447650672797,"here, I had reasoning.",neg
+2015-11-16,00:11:22,0,VirtualCarolyn,1447650683264,"gaurav, would you like to talk about which plan you prefer?",PLAN_ELICITATION
+2015-11-16,00:11:35,0,xu,1447650695612,I disagree because.. but it asked whether I have reasons to disagree.,CHALLENGE_CONTRIBUTION+GIVING_OPINION+GIVING_ORIENTATION+DISAGREE+neg
+2015-11-16,00:11:37,0,Sree S,1447650698910,right. one case where it wasn't detected.,neg
+2015-11-16,00:12:01,0,VirtualCarolyn,1447650721298,You have 5 minutes remaining to come to a consensus about which plan to select and why.,You have 5 minutes remaining to come to a consensus about which plan to select and why.
+2015-11-16,00:12:05,0,Sree S,1447650725639,it said reasons to disagree in response to your comment about Gaurav siagreeing,GIVING_ORIENTATION+DISAGREE+neg
+2015-11-16,00:12:05,0,VirtualCarolyn,1447650727306,"xu, do you have any reasons to disagree?",disagree_reasoning
+2015-11-16,00:12:13,0,Sree S,1447650733334,see,neg
+2015-11-16,00:12:31,0,xu,1447650752213,I propose plan 2 because it doesn't have any pollutants.,PLAN+neg
+2015-11-16,00:12:37,0,gaurav,1447650757649,regular expressions need to improve,HELP_REQUEST+neg
+2015-11-16,00:12:47,0,Sree S,1447650767921,I think everything is working ok.. regex are working correctly Gaurav,GIVING_OPINION+AFFIRMATIVE+neg
+2015-11-16,00:12:48,0,xu,1447650768368,yes.,AFFIRMATIVE+neg
+2015-11-16,00:13:02,0,Sree S,1447650783406,we are saying disagree/agree while referring to each other's comments.,GIVING_ORIENTATION+AFFIRMATIVE+DISAGREE+neg
+2015-11-16,00:13:03,0,VirtualCarolyn,1447650785360,"xu, can you say more about why you chose this plan?",plan_reasoning
+2015-11-16,00:13:12,0,gaurav,1447650793185,i mean just mentioning word disagree shud not generate prompt,GIVING_ORIENTATION+DISAGREE+NEGATIVE+neg
+2015-11-16,00:13:22,0,VirtualCarolyn,1447650803452,"gaurav, would you like to talk about which plan you prefer?",PLAN_ELICITATION
+2015-11-16,00:13:26,0,Sree S,1447650806273,that's the way it was right?,QUESTION+PREDICTION_CONTRIBUTION+neg
+2015-11-16,00:13:40,0,xu,1447650820598,mentioning disagree should generate a prompt to ask why disagreed?,GIVING_ORIENTATION+DISAGREE+QUESTION+neg
+2015-11-16,00:13:40,0,VirtualCarolyn,1447650821471,"gaurav, do you have any reasons to disagree?",disagree_reasoning
+2015-11-16,00:13:46,0,VirtualCarolyn,1447650827479,And now we’re done.,And now we’re done.
+2015-11-16,00:13:50,0,gaurav,1447650830650,"i am speaking still its saying gaurav, would you like to talk about which plan you prefer?
+",POSITIVITY+AFFIRMATIVE+QUESTION+neg
+2015-11-16,00:13:52,0,Sree S,1447650832918,I thoight agent leaves..,neg

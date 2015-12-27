@@ -1,0 +1,13 @@
+2015-11-11,14:18:17,0,VirtualCarolyn,1447269498478,...,...
+2015-11-11,14:18:38,0,test,1447269518206,plan4,PLAN+java.lang.NullPointerException
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-11-11,14:19:22,0,VirtualCarolyn,1447269564077,...,...
+2015-11-11,14:19:28,0,test,1447269568537,plan4,PLAN+java.lang.NullPointerException
+2015-11-11,14:19:45,0,test,1447269585602,i agree,GIVING_ORIENTATION+AGREE
+2015-11-11,14:21:15,0,test,1447269678655,It's still over budget and plan 1 puts into effect wase disposal,PLAN
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-11-11,14:28:51,0,VirtualCarolyn,1447270132864,...,...
+2015-11-11,14:33:57,0,VirtualCarolyn,1447270437158,Also discuss among yourselves where all of you would expect to find the coolest temperatures over the area of the map on right of your screen.,QUESTION1
+2015-11-11,14:34:12,0,test,1447270454500,It's still over budget and plan 1 puts into effect wase disposal,PLAN+java.lang.NullPointerException
+2015-11-11,14:34:52,0,test,1447270493584,"It is inexpensive, low polluting, and has the highest percentage of
+renewables",GIVING_OPINION

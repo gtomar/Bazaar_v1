@@ -1,0 +1,913 @@
+<entry timestamp="2015-04-19#18:13:55" user="FactoryBuiltAgent" level="NORMAL">CONFIGURING AGENT VirtualCarolyn_meteorology</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.AGENT" level="NORMAL"><created>VirtualCarolyn_meteorology</created></entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.stateMemory" level="NORMAL"><created>stateMemory</created></entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.client" level="NORMAL"><created>client</created></entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.client" level="NORMAL">Property read: socket_url =	http://erebor.lti.cs.cmu.edu:8015</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.ccActor" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.ccActor" level="NORMAL"><created>ccActor</created></entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.ccActor" level="NORMAL">Property read: typingScale =	null</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><created>inputCoordinator</created></entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL"><created>outputCoordinator</created></entry>
+<entry timestamp="2015-04-19#18:13:55" user="(client->inputCoordinator)" level="INFO">Connection initialized. Id=1429481635651</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.client" level="INFO">Outgoing connection added from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Inward connection added from inputCoordinator to client</entry>
+<entry timestamp="2015-04-19#18:13:55" user="(inputCoordinator->inputCoordinator)" level="INFO">Connection initialized. Id=1429481635651</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:13:55" user="(inputCoordinator->outputCoordinator)" level="INFO">Connection initialized. Id=1429481635651</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to outputCoordinator</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Inward connection added from outputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:13:55" user="(outputCoordinator->client)" level="INFO">Connection initialized. Id=1429481635651</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Outgoing connection added from outputCoordinator to client</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.client" level="INFO">Inward connection added from client to outputCoordinator</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.AGENT" level="NORMAL"><initialized>VirtualCarolyn_meteorology</initialized></entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Observer Added:stateMemory.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.ccActor" level="INFO">Observer Added:ccActor.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.client" level="INFO">Observer Added:client.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-19#18:13:55" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.edge</entry>
+<entry timestamp="2015-04-19#18:13:55" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.edge</entry>
+<entry timestamp="2015-04-19#18:13:55" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.edge</entry>
+<entry timestamp="2015-04-19#18:13:55" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.edge</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Observer Added:stateMemory.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.ccActor" level="INFO">Observer Added:ccActor.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.client" level="INFO">Observer Added:client.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-19#18:13:55" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-19#18:13:55" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.panel</entry>
+<entry timestamp="2015-04-19#18:13:55" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.panel</entry>
+<entry timestamp="2015-04-19#18:13:55" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.panel</entry>
+<entry timestamp="2015-04-19#18:13:55" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.panel</entry>
+<entry timestamp="2015-04-19#18:13:55" user="AgreeDisagreeActor" level="WARNING">agree condition: true</entry>
+<entry timestamp="2015-04-19#18:13:55" user="AskForExplanationActor" level="WARNING">explain_other condition: false</entry>
+<entry timestamp="2015-04-19#18:13:55" user="RevoiceActor" level="WARNING">revoice condition: true</entry>
+<entry timestamp="2015-04-19#18:13:55" user="SayMoreActor" level="WARNING">say_more condition: true</entry>
+<entry timestamp="2015-04-19#18:13:56" user="PlanExecutor" level="NORMAL"><configuration planfile="plans/plan_steps.xml"></entry>
+<entry timestamp="2015-04-19#18:13:56" user="PlanExecutor" level="ERROR">PlanExecutor: Can't do that...java.io.IOException: No such file or directory</entry>
+<entry timestamp="2015-04-19#18:13:56" user="PlanExecutor" level="ERROR">Error while reading Status File (java.io.FileNotFoundException: planstatus/VirtualCarolyn_meteorology.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></commit></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.AGENT" level="NORMAL"><starting>Initializing each component</starting></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.stateMemory" level="NORMAL"><initialized>stateMemory</initialized></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.ccActor" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.ccActor" level="NORMAL"><initialized>ccActor</initialized></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.client" level="NORMAL"><initialized>client</initialized></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL"><initialized>outputCoordinator</initialized></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><initialized>inputCoordinator</initialized></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.AGENT" level="NORMAL"><starting>All components initialized</starting></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:13:56" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:13:56" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Observer Added:frame1. 3 Observers now.</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:13:56" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Gaurav is now PRESENT</processing></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Gaurav is now PRESENT</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></retrieve></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:13:56" user="PlanExecutor" level="NORMAL">Plan: <stage name="initiate" timeout="0">set</stage></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:13:56" user="PlanExecutor" level="ERROR">Error while updating Status File (java.io.FileNotFoundException: planstatus/VirtualCarolyn_meteorology.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:13:56" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:13:56" user="PlanExecutor" level="ERROR">Error while updating Status File (java.io.FileNotFoundException: planstatus/VirtualCarolyn_meteorology.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Gaurav is now PRESENT]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Timmy is now PRESENT</processing></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Timmy is now PRESENT</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-04-19#18:13:56" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Timmy is now PRESENT]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Germán is now PRESENT</processing></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Germán is now PRESENT</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-04-19#18:13:56" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Germán is now PRESENT]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:13:56" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: VirtualCarolyn is now PRESENT</processing></entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: VirtualCarolyn is now PRESENT</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: VirtualCarolyn is now PRESENT]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:13:56" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Queue: [CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg, Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION, Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTION, Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpgbelief*priority: 1.0*1.0=1.0</entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTIONbelief*priority: 1.0*1000000.0=1000000.0</entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTIONbelief*priority: 1.0*1000000.0=1000000.0</entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTIONbelief*priority: 1.0*1000000.0=1000000.0</entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:13:57" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. INTRODUCTION</processing></entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:13:57" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. </processing></entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. </entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:13:57" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept. ]</entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:13:57" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Queue: [CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg, Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTION, Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: INTRODUCTION: CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpgbelief*priority: 0.0*1.0=1.0</entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: INTRODUCTION: Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTION</entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTIONbelief*priority: 0.0*604000.0=604000.0</entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: INTRODUCTION: Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTION</entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTIONbelief*priority: 0.0*604800.0=604800.0</entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:13:59" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTION</processing></entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:13:59" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? </processing></entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? </entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:13:59" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Welcome, Germán
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? ]</entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:13:59" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:14:01" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Queue: [CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg, Message from VirtualCarolyn: Welcome, Timmy
+We are just starting the discussion on parts of computer. Can one of you start talking about a a metereological concept. ? INTRODUCTION]</entry>
+<entry timestamp="2015-04-19#18:14:01" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: INTRODUCTION: CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</entry>
+<entry timestamp="2015-04-19#18:14:01" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpgbelief*priority: 0.0*1.0=1.0</entry>
+<entry timestamp="2015-04-19#18:14:01" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO"><broadcasting>Whiteboard Event on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:01" user="(outputCoordinator->client)" level="INFO">Communicate Whiteboard Event from outputCoordinator to client</entry>
+<entry timestamp="2015-04-19#18:14:01" user="VirtualCarolyn_meteorology.client" level="INFO"><queued name="Whiteboard Event" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:14:01" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:01" user="VirtualCarolyn_meteorology.client" level="INFO"><processing name="Whiteboard Event" from="outputCoordinator">CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</processing></entry>
+<entry timestamp="2015-04-19#18:14:01" user="VirtualCarolyn_meteorology.client" level="INFO"><processed name="Whiteboard Event" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:14:01" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>Whiteboard Event on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:01" user="(client->inputCoordinator)" level="INFO">Communicate Whiteboard Event from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:01" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="Whiteboard Event" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:14:01" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:01" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="Whiteboard Event" from="client">CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</processing></entry>
+<entry timestamp="2015-04-19#18:14:01" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</entry>
+<entry timestamp="2015-04-19#18:14:01" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg]</entry>
+<entry timestamp="2015-04-19#18:14:01" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:01" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:01" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="Whiteboard Event" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:14:15" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:15" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:15" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:14:15" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:15" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Timmy: Hello. Let's discuss low pressure and temperature </processing></entry>
+<entry timestamp="2015-04-19#18:14:15" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Timmy: Hello. Let's discuss low pressure and temperature </entry>
+<entry timestamp="2015-04-19#18:14:15" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:15" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:15" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:15" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:15" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:15" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-19#18:14:15" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:18" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-04-19#18:14:18" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:18" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:14:18" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:18" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Do Tutoring concept=LP_TEMPERATURE, Message from Timmy: Hello. Let's discuss low pressure and temperature TOPIC_REQUEST+LP+SAY_MORE_CANDIDATE+AGREE_CANDIDATE+TEMPERATURE]</entry>
+<entry timestamp="2015-04-19#18:14:18" user="AgreeDisagreeActor" level="NORMAL">Timmy'sAGREE_CANDIDATE ratio is 0.0</entry>
+<entry timestamp="2015-04-19#18:14:18" user="AgreeDisagreeActor" level="NORMAL">received AGREE_CANDIDATE event</entry>
+<entry timestamp="2015-04-19#18:14:18" user="AgreeDisagreeActor" level="NORMAL">no previous match for intermolecular forces all add together and influence the boiling point</entry>
+<entry timestamp="2015-04-19#18:14:18" user="AgreeDisagreeActor" level="NORMAL">AT check starting...</entry>
+<entry timestamp="2015-04-19#18:14:18" user="SayMoreActor" level="NORMAL">Timmy SAY_MORE_CANDIDATE ratio is NaN</entry>
+<entry timestamp="2015-04-19#18:14:18" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[Hold-the-floor Event for AGREE_CANDIDATE check]</entry>
+<entry timestamp="2015-04-19#18:14:18" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Hold-the-floor Event for AGREE_CANDIDATE check]</entry>
+<entry timestamp="2015-04-19#18:14:18" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:14:18" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-04-19#18:14:18" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-04-19#18:14:18" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-04-19#18:14:18" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: I noticed that you are talking about LP_TEMPERATURE. If you want to discuss LP_TEMPERATURE with me say 'let's discuss LP_TEMPERATURE' TOPIC_ELICITATION]</entry>
+<entry timestamp="2015-04-19#18:14:18" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: I noticed that you are talking about LP_TEMPERATURE. If you want to discuss LP_TEMPERATURE with me say 'let's discuss LP_TEMPERATURE' TOPIC_ELICITATION]</entry>
+<entry timestamp="2015-04-19#18:14:18" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: 
+               Will you like to answer some questions related to low pressure and temperature ?
+         TUTOR, Hold-the-floor Event for AGREE_CANDIDATE check, Message from VirtualCarolyn: I noticed that you are talking about LP_TEMPERATURE. If you want to discuss LP_TEMPERATURE with me say 'let's discuss LP_TEMPERATURE' TOPIC_ELICITATION]</entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: 
+               Will you like to answer some questions related to low pressure and temperature ?
+         TUTORbelief*priority: 0.2109375*0.75=0.75</entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Hold-the-floor Event for AGREE_CANDIDATE checkbelief*priority: 0.2109375*0.46565994156873364=0.46565994156873364</entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: I noticed that you are talking about LP_TEMPERATURE. If you want to discuss LP_TEMPERATURE with me say 'let's discuss LP_TEMPERATURE' TOPIC_ELICITATIONbelief*priority: 0.2109375*1000000.0=1000000.0</entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:19" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: I noticed that you are talking about LP_TEMPERATURE. If you want to discuss LP_TEMPERATURE with me say 'let's discuss LP_TEMPERATURE' TOPIC_ELICITATION</processing></entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:19" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: I noticed that you are talking about LP_TEMPERATURE. If you want to discuss LP_TEMPERATURE with me say 'let's discuss LP_TEMPERATURE' </processing></entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: I noticed that you are talking about LP_TEMPERATURE. If you want to discuss LP_TEMPERATURE with me say 'let's discuss LP_TEMPERATURE' </entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:19" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: I noticed that you are talking about LP_TEMPERATURE. If you want to discuss LP_TEMPERATURE with me say 'let's discuss LP_TEMPERATURE' ]</entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:19" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: 
+               Will you like to answer some questions related to low pressure and temperature ?
+         TUTOR, Hold-the-floor Event for AGREE_CANDIDATE check]</entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: TOPIC_ELICITATION: Message from VirtualCarolyn: 
+               Will you like to answer some questions related to low pressure and temperature ?
+         TUTOR</entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: 
+               Will you like to answer some questions related to low pressure and temperature ?
+         TUTORbelief*priority: 0.0*0.75=0.75</entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: TOPIC_ELICITATION: Hold-the-floor Event for AGREE_CANDIDATE check</entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Hold-the-floor Event for AGREE_CANDIDATE checkbelief*priority: 0.0*0.3993499658893459=0.3993499658893459</entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:21" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: 
+               Will you like to answer some questions related to low pressure and temperature ?
+         TUTOR</processing></entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:21" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: 
+               Will you like to answer some questions related to low pressure and temperature ?
+         </processing></entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: 
+               Will you like to answer some questions related to low pressure and temperature ?
+         </entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:21" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: 
+               Will you like to answer some questions related to low pressure and temperature ?
+         ]</entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:21" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:14:23" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Queue: [Hold-the-floor Event for AGREE_CANDIDATE check]</entry>
+<entry timestamp="2015-04-19#18:14:23" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: TUTOR_DIALOG: Hold-the-floor Event for AGREE_CANDIDATE check</entry>
+<entry timestamp="2015-04-19#18:14:23" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Hold-the-floor Event for AGREE_CANDIDATE checkbelief*priority: 0.0*0.026076956727849085=0.026076956727849085</entry>
+<entry timestamp="2015-04-19#18:14:23" user="AgreeDisagreeActor" level="NORMAL">Counting to 20.0 before checking for AGREE_DISAGREE opportunity</entry>
+<entry timestamp="2015-04-19#18:14:23" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO"><broadcasting>AGREE_CANDIDATE check on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:23" user="(outputCoordinator->client)" level="INFO">Communicate AGREE_CANDIDATE check from outputCoordinator to client</entry>
+<entry timestamp="2015-04-19#18:14:23" user="VirtualCarolyn_meteorology.client" level="INFO"><queued name="AGREE_CANDIDATE check" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:14:23" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:23" user="VirtualCarolyn_meteorology.client" level="INFO"><processing name="AGREE_CANDIDATE check" from="outputCoordinator">Hold-the-floor Event for AGREE_CANDIDATE check</processing></entry>
+<entry timestamp="2015-04-19#18:14:23" user="VirtualCarolyn_meteorology.client" level="INFO"><processed name="AGREE_CANDIDATE check" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:26" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Timmy: yes </processing></entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Timmy: yes </entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:26" user="SocialController" level="NORMAL">ratio 0.0, ans=Timmy,</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Timmy: yes AFFIRMATIVE]</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTORING_STARTED_EVENT</dispatching></entry>
+<entry timestamp="2015-04-19#18:14:26" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTORING_STARTED_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="TUTORING_STARTED_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="TUTORING_STARTED_EVENT" from="inputCoordinator">TutoringStartedEvent: scenario=scenario-lp_temperature, concept=LP_TEMPERATURE</processing></entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: TutoringStartedEvent: scenario=scenario-lp_temperature, concept=LP_TEMPERATURE</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [TutoringStartedEvent: scenario=scenario-lp_temperature, concept=LP_TEMPERATURE]</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2015-04-19#18:14:26" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="TUTORING_STARTED_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (2):
+{
+	Let's see how much you know about low pressure and temperature.
+	Where is the air concentrated in a low pressure center?
+}</processing></entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (2):
+{
+	Let's see how much you know about low pressure and temperature.
+	Where is the air concentrated in a low pressure center?
+}</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (2):
+{
+	Let's see how much you know about low pressure and temperature.
+	Where is the air concentrated in a low pressure center?
+}]</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:26" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:14:27" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: Let's get started. TUTOR, Message from VirtualCarolyn: Let's see how much you know about low pressure and temperature.|Where is the air concentrated in a low pressure center? TUTOR]</entry>
+<entry timestamp="2015-04-19#18:14:27" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: AccountableTalk: Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-19#18:14:27" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Let's get started. TUTORbelief*priority: 0.0*0.75=0.75</entry>
+<entry timestamp="2015-04-19#18:14:27" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: AccountableTalk: Message from VirtualCarolyn: Let's see how much you know about low pressure and temperature.|Where is the air concentrated in a low pressure center? TUTOR</entry>
+<entry timestamp="2015-04-19#18:14:27" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Let's see how much you know about low pressure and temperature.|Where is the air concentrated in a low pressure center? TUTORbelief*priority: 0.0*0.75=0.75</entry>
+<entry timestamp="2015-04-19#18:14:27" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:27" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-19#18:14:27" user="VirtualCarolyn_meteorology.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:14:27" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:27" user="VirtualCarolyn_meteorology.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Let's get started. TUTOR</processing></entry>
+<entry timestamp="2015-04-19#18:14:28" user="VirtualCarolyn_meteorology.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:14:28" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:28" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:28" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:14:28" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:28" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Let's get started. </processing></entry>
+<entry timestamp="2015-04-19#18:14:28" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Let's get started. </entry>
+<entry timestamp="2015-04-19#18:14:28" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:28" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:28" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-19#18:14:28" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:28" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Let's get started. ]</entry>
+<entry timestamp="2015-04-19#18:14:28" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:28" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:28" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:14:29" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: Let's see how much you know about low pressure and temperature.|Where is the air concentrated in a low pressure center? TUTOR]</entry>
+<entry timestamp="2015-04-19#18:14:29" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: AccountableTalk: Message from VirtualCarolyn: Let's see how much you know about low pressure and temperature.|Where is the air concentrated in a low pressure center? TUTOR</entry>
+<entry timestamp="2015-04-19#18:14:29" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Let's see how much you know about low pressure and temperature.|Where is the air concentrated in a low pressure center? TUTORbelief*priority: 0.0*0.75=0.75</entry>
+<entry timestamp="2015-04-19#18:14:29" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:29" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-19#18:14:29" user="VirtualCarolyn_meteorology.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:14:29" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:29" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:29" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-19#18:14:29" user="VirtualCarolyn_meteorology.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:14:29" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Let's see how much you know about low pressure and temperature. TUTOR</processing></entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Where is the air concentrated in a low pressure center? TUTOR</processing></entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:30" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:30" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Let's see how much you know about low pressure and temperature. </processing></entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Let's see how much you know about low pressure and temperature. </entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:30" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Let's see how much you know about low pressure and temperature. ]</entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Where is the air concentrated in a low pressure center? </processing></entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Where is the air concentrated in a low pressure center? </entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:30" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Where is the air concentrated in a low pressure center? ]</entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:30" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:14:36" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:36" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:36" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:14:36" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:36" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Timmy: i don't know </processing></entry>
+<entry timestamp="2015-04-19#18:14:36" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Timmy: i don't know </entry>
+<entry timestamp="2015-04-19#18:14:36" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors/episodes/VirtualCarolyn_meteorology.episodes.txt (No such file or directory))</entry>
+<entry timestamp="2015-04-19#18:14:36" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:36" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:36" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:36" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:36" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-19#18:14:36" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:36" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Timmy: i don't know HELP]</entry>
+<entry timestamp="2015-04-19#18:14:36" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:36" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:36" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:14:36" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:36" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:37" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: Can you rephrase your response?|Where is the air concentrated in a low pressure center? TUTOR]</entry>
+<entry timestamp="2015-04-19#18:14:37" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: AccountableTalk: Message from VirtualCarolyn: Can you rephrase your response?|Where is the air concentrated in a low pressure center? TUTOR</entry>
+<entry timestamp="2015-04-19#18:14:37" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Can you rephrase your response?|Where is the air concentrated in a low pressure center? TUTORbelief*priority: 0.0*0.75=0.75</entry>
+<entry timestamp="2015-04-19#18:14:37" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:37" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-19#18:14:37" user="VirtualCarolyn_meteorology.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:14:37" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:37" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:37" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-19#18:14:37" user="VirtualCarolyn_meteorology.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:14:37" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Can you rephrase your response? TUTOR</processing></entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Where is the air concentrated in a low pressure center? TUTOR</processing></entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:38" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:38" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Can you rephrase your response? </processing></entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Can you rephrase your response? </entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:38" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Can you rephrase your response? ]</entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Where is the air concentrated in a low pressure center? </processing></entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Where is the air concentrated in a low pressure center? </entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:38" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Where is the air concentrated in a low pressure center? ]</entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:38" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:43" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Timmy: i'm not sure </processing></entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Timmy: i'm not sure </entry>
+<entry timestamp="2015-04-19#18:14:43" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors/episodes/VirtualCarolyn_meteorology.episodes.txt (No such file or directory))</entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">SOCIAL_TRIGGER_EVENT</dispatching></entry>
+<entry timestamp="2015-04-19#18:14:43" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate SOCIAL_TRIGGER_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:43" user="SocialController" level="NORMAL">ratio 0.0, ans=Timmy,</entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Timmy: i'm not sure GIVING_OPINION+AFFIRMATIVE+HELP+NEGATIVE]</entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"><socialtrigger from="RULES" score="1.0" /></processing></entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: <socialtrigger from="RULES" score="1.0" /></entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [<socialtrigger from="RULES" score="1.0" />]</entry>
+<entry timestamp="2015-04-19#18:14:43" user="SocialController" level="NORMAL">received social trigger event <socialtrigger from="RULES" score="1.0" /></entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:14:43" user="AgreeDisagreeActor" level="NORMAL">checking for AGREE_DISAGREE opportunity</entry>
+<entry timestamp="2015-04-19#18:14:43" user="AgreeDisagreeActor" level="NORMAL">proposing AGREE_DISAGREE move...</entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: What do you think about Timmy's idea? Can you say why you agree with it, or why you don't? Timmy+AT_MOVE+AGREE_DISAGREE]</entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: TUTOR_DIALOG: Message from VirtualCarolyn: What do you think about Timmy's idea? Can you say why you agree with it, or why you don't? Timmy+AT_MOVE+AGREE_DISAGREE</entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: What do you think about Timmy's idea? Can you say why you agree with it, or why you don't? Timmy+AT_MOVE+AGREE_DISAGREEbelief*priority: 0.0*1.0=1.0</entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:43" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:14:43" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:44" user="VirtualCarolyn_meteorology.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: What do you think about Timmy's idea? Can you say why you agree with it, or why you don't? Timmy+AT_MOVE+AGREE_DISAGREE</processing></entry>
+<entry timestamp="2015-04-19#18:14:44" user="VirtualCarolyn_meteorology.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:14:44" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:44" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:44" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:14:44" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:44" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: What do you think about Timmy's idea? Can you say why you agree with it, or why you don't? </processing></entry>
+<entry timestamp="2015-04-19#18:14:44" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: What do you think about Timmy's idea? Can you say why you agree with it, or why you don't? </entry>
+<entry timestamp="2015-04-19#18:14:44" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:44" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:44" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-19#18:14:44" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:44" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: What do you think about Timmy's idea? Can you say why you agree with it, or why you don't? ]</entry>
+<entry timestamp="2015-04-19#18:14:44" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:44" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:44" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:45" user="SocialController" level="INFO">Roulette: Id=2a Share=0.0</entry>
+<entry timestamp="2015-04-19#18:14:45" user="SocialController" level="INFO">Roulette: Id=2b Share=0.0</entry>
+<entry timestamp="2015-04-19#18:14:45" user="SocialController" level="INFO">Roulette: Id=2f Share=0.0</entry>
+<entry timestamp="2015-04-19#18:14:45" user="SocialController" level="INFO">Roulette: Id=2g Share=0.0</entry>
+<entry timestamp="2015-04-19#18:14:45" user="SocialController" level="INFO">Roulette: Id=4a Share=0.0</entry>
+<entry timestamp="2015-04-19#18:14:45" user="SocialController" level="INFO">Roulette: Id=4b Share=0.25</entry>
+<entry timestamp="2015-04-19#18:14:45" user="SocialController" level="INFO">Roulette: Id=6 Share=0.0</entry>
+<entry timestamp="2015-04-19#18:14:45" user="SocialController" level="INFO">Roulette: Id=7 Share=0.0</entry>
+<entry timestamp="2015-04-19#18:14:45" user="SocialController" level="INFO">Roulette: Only 4b has share</entry>
+<entry timestamp="2015-04-19#18:14:45" user="SocialController" level="NORMAL">proposing social prompt: SHOW_COMPREHENSION_APPROVAL</entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: Alright SHOW_COMPREHENSION_APPROVAL+SOCIAL]</entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal not allowed by Source: AccountableTalk: Message from VirtualCarolyn: Alright SHOW_COMPREHENSION_APPROVAL+SOCIAL</entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Alright SHOW_COMPREHENSION_APPROVAL+SOCIALbelief*priority: 0.0*0.1=0.1</entry>
+<entry timestamp="2015-04-19#18:14:45" user="SocialController" level="NORMAL">accepted social prompt: SHOW_COMPREHENSION_APPROVAL</entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:45" user="SocialController" level="NORMAL">1/11 social turns = 0.09090909090909091</entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">SOCIAL_TURN_PERFORMED_EVENT</dispatching></entry>
+<entry timestamp="2015-04-19#18:14:45" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate SOCIAL_TURN_PERFORMED_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="SOCIAL_TURN_PERFORMED_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:45" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="SOCIAL_TURN_PERFORMED_EVENT" from="inputCoordinator"><socialturnperformed/></processing></entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: <socialturnperformed/></entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [<socialturnperformed/>]</entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:45" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="SOCIAL_TURN_PERFORMED_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:14:46" user="VirtualCarolyn_meteorology.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Alright SHOW_COMPREHENSION_APPROVAL+SOCIAL</processing></entry>
+<entry timestamp="2015-04-19#18:14:46" user="VirtualCarolyn_meteorology.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:14:46" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:14:46" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:46" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:14:46" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:46" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Alright </processing></entry>
+<entry timestamp="2015-04-19#18:14:46" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Alright </entry>
+<entry timestamp="2015-04-19#18:14:46" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:46" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:14:46" user="SocialController" level="NORMAL">ratio 0.09090909090909091, </entry>
+<entry timestamp="2015-04-19#18:14:46" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:14:46" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Alright ]</entry>
+<entry timestamp="2015-04-19#18:14:46" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:46" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:46" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-19#18:14:47" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2015-04-19#18:14:47" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:14:47" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-19#18:14:47" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:14:47" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (0):
+{
+}</processing></entry>
+<entry timestamp="2015-04-19#18:14:47" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (0):
+{
+}</entry>
+<entry timestamp="2015-04-19#18:14:47" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (0):
+{
+}]</entry>
+<entry timestamp="2015-04-19#18:14:47" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:14:47" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:14:47" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-19#18:15:07" user="VirtualCarolyn_meteorology.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-19#18:15:07" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-19#18:15:07" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-19#18:15:07" user="VirtualCarolyn_meteorology.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-19#18:15:07" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Timmy: low in the atmosphere </processing></entry>
+<entry timestamp="2015-04-19#18:15:07" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Timmy: low in the atmosphere </entry>
+<entry timestamp="2015-04-19#18:15:07" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors/episodes/VirtualCarolyn_meteorology.episodes.txt (No such file or directory))</entry>
+<entry timestamp="2015-04-19#18:15:07" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:15:07" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:15:07" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:15:07" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-19#18:15:07" user="SocialController" level="NORMAL">ratio 0.09090909090909091, </entry>
+<entry timestamp="2015-04-19#18:15:07" user="VirtualCarolyn_meteorology.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" />	<student id="Timmy" name="Timmy" role="UNASSIGNED" present="true" />	<student id="Germán" name="Germán" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-19#18:15:07" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Timmy: low in the atmosphere ]</entry>
+<entry timestamp="2015-04-19#18:15:07" user="VirtualCarolyn_meteorology.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-19#18:15:07" user="VirtualCarolyn_meteorology.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-19#18:15:07" user="VirtualCarolyn_meteorology.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>

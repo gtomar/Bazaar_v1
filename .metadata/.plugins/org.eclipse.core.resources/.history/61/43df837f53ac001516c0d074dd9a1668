@@ -1,0 +1,1100 @@
+<entry timestamp="2015-04-15#23:34:53" user="FactoryBuiltAgent" level="NORMAL">CONFIGURING AGENT VirtualCarolyn_computer_parts</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.AGENT" level="NORMAL"><created>VirtualCarolyn_computer_parts</created></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.stateMemory" level="NORMAL"><created>stateMemory</created></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.client" level="NORMAL"><created>client</created></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.client" level="NORMAL">Property read: socket_url =	http://erebor.lti.cs.cmu.edu:8015</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.ccActor" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.ccActor" level="NORMAL"><created>ccActor</created></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.ccActor" level="NORMAL">Property read: typingScale =	null</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL"><created>inputCoordinator</created></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL"><created>outputCoordinator</created></entry>
+<entry timestamp="2015-04-15#23:34:53" user="(client->inputCoordinator)" level="INFO">Connection initialized. Id=1429155293150</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.client" level="INFO">Outgoing connection added from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Inward connection added from inputCoordinator to client</entry>
+<entry timestamp="2015-04-15#23:34:53" user="(inputCoordinator->inputCoordinator)" level="INFO">Connection initialized. Id=1429155293150</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:34:53" user="(inputCoordinator->outputCoordinator)" level="INFO">Connection initialized. Id=1429155293150</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to outputCoordinator</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Inward connection added from outputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:34:53" user="(outputCoordinator->client)" level="INFO">Connection initialized. Id=1429155293150</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Outgoing connection added from outputCoordinator to client</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.client" level="INFO">Inward connection added from client to outputCoordinator</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.AGENT" level="NORMAL"><initialized>VirtualCarolyn_computer_parts</initialized></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Observer Added:stateMemory.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.ccActor" level="INFO">Observer Added:ccActor.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.client" level="INFO">Observer Added:client.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-04-15#23:34:53" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.edge</entry>
+<entry timestamp="2015-04-15#23:34:53" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.edge</entry>
+<entry timestamp="2015-04-15#23:34:53" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.edge</entry>
+<entry timestamp="2015-04-15#23:34:53" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.edge</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Observer Added:stateMemory.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.ccActor" level="INFO">Observer Added:ccActor.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.client" level="INFO">Observer Added:client.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-04-15#23:34:53" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.panel</entry>
+<entry timestamp="2015-04-15#23:34:53" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.panel</entry>
+<entry timestamp="2015-04-15#23:34:53" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.panel</entry>
+<entry timestamp="2015-04-15#23:34:53" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.panel</entry>
+<entry timestamp="2015-04-15#23:34:53" user="AgreeDisagreeActor" level="WARNING">agree condition: false</entry>
+<entry timestamp="2015-04-15#23:34:53" user="AskForExplanationActor" level="WARNING">explain_other condition: false</entry>
+<entry timestamp="2015-04-15#23:34:53" user="RevoiceActor" level="WARNING">revoice condition: false</entry>
+<entry timestamp="2015-04-15#23:34:53" user="SayMoreActor" level="WARNING">say_more condition: false</entry>
+<entry timestamp="2015-04-15#23:34:53" user="PlanExecutor" level="NORMAL"><configuration planfile="plans/plan_steps.xml"></entry>
+<entry timestamp="2015-04-15#23:34:53" user="PlanExecutor" level="ERROR">PlanExecutor: Can't do that...java.io.IOException: No such file or directory</entry>
+<entry timestamp="2015-04-15#23:34:53" user="PlanExecutor" level="ERROR">Error while reading Status File (java.io.FileNotFoundException: planstatus/VirtualCarolyn_computer_parts.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></commit></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.AGENT" level="NORMAL"><starting>Initializing each component</starting></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.stateMemory" level="NORMAL"><initialized>stateMemory</initialized></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.ccActor" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.ccActor" level="NORMAL"><initialized>ccActor</initialized></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.client" level="NORMAL"><initialized>client</initialized></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL"><initialized>outputCoordinator</initialized></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL"><initialized>inputCoordinator</initialized></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.AGENT" level="NORMAL"><starting>All components initialized</starting></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:34:53" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Observer Added:frame1. 3 Observers now.</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Wen is now PRESENT</processing></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Wen is now PRESENT</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></retrieve></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:34:53" user="PlanExecutor" level="NORMAL">Plan: <stage name="initiate" timeout="0">set</stage></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:34:53" user="PlanExecutor" level="ERROR">Error while updating Status File (java.io.FileNotFoundException: planstatus/VirtualCarolyn_computer_parts.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-04-15#23:34:53" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Wen is now PRESENT]</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: Welcome, Wen
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on parts of a computer
+You can wait for another person to join or start discussing with me a part of the computer. INTRODUCTION]</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: Welcome, Wen
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on parts of a computer
+You can wait for another person to join or start discussing with me a part of the computer. INTRODUCTION]</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:34:53" user="PlanExecutor" level="ERROR">Error while updating Status File (java.io.FileNotFoundException: planstatus/VirtualCarolyn_computer_parts.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:34:53" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: VirtualCarolyn is now PRESENT</processing></entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: VirtualCarolyn is now PRESENT</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: VirtualCarolyn is now PRESENT]</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:34:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Queue: [CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg, Message from VirtualCarolyn: Welcome, Wen
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on parts of a computer
+You can wait for another person to join or start discussing with me a part of the computer. INTRODUCTION]</entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpgbelief*priority: 1.0*1.0=1.0</entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Welcome, Wen
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on parts of a computer
+You can wait for another person to join or start discussing with me a part of the computer. INTRODUCTIONbelief*priority: 1.0*1000000.0=1000000.0</entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:34:55" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Welcome, Wen
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on parts of a computer
+You can wait for another person to join or start discussing with me a part of the computer. INTRODUCTION</processing></entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:34:55" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Welcome, Wen
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on parts of a computer
+You can wait for another person to join or start discussing with me a part of the computer. </processing></entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Welcome, Wen
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on parts of a computer
+You can wait for another person to join or start discussing with me a part of the computer. </entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:34:55" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Welcome, Wen
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on parts of a computer
+You can wait for another person to join or start discussing with me a part of the computer. ]</entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:34:55" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:34:57" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Queue: [CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg]</entry>
+<entry timestamp="2015-04-15#23:34:57" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal not allowed by Source: INTRODUCTION: CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</entry>
+<entry timestamp="2015-04-15#23:34:57" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpgbelief*priority: 0.0*1.0=1.0</entry>
+<entry timestamp="2015-04-15#23:34:57" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO"><broadcasting>Whiteboard Event on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:34:57" user="(outputCoordinator->client)" level="INFO">Communicate Whiteboard Event from outputCoordinator to client</entry>
+<entry timestamp="2015-04-15#23:34:57" user="VirtualCarolyn_computer_parts.client" level="INFO"><queued name="Whiteboard Event" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:34:57" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:34:57" user="VirtualCarolyn_computer_parts.client" level="INFO"><processing name="Whiteboard Event" from="outputCoordinator">CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</processing></entry>
+<entry timestamp="2015-04-15#23:34:57" user="VirtualCarolyn_computer_parts.client" level="INFO"><processed name="Whiteboard Event" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:34:57" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>Whiteboard Event on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:34:57" user="(client->inputCoordinator)" level="INFO">Communicate Whiteboard Event from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:34:57" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="Whiteboard Event" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:34:57" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:34:57" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="Whiteboard Event" from="client">CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</processing></entry>
+<entry timestamp="2015-04-15#23:34:57" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg</entry>
+<entry timestamp="2015-04-15#23:34:57" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [CREATE whiteboard-image http://www.ittrainingnepal.com/img/image/_42_article_slc.jpg]</entry>
+<entry timestamp="2015-04-15#23:34:57" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:34:57" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:34:57" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="Whiteboard Event" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:35:22" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:35:22" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:35:22" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:35:22" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:22" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Wen: Hello </processing></entry>
+<entry timestamp="2015-04-15#23:35:22" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Wen: Hello </entry>
+<entry timestamp="2015-04-15#23:35:22" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:22" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:22" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:35:22" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:22" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:22" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:35:22" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:35:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Wen: Hello ]</entry>
+<entry timestamp="2015-04-15#23:35:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:35:23" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:35:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:35:32" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:35:32" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:35:32" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:35:32" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:32" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Gaurav: hello </processing></entry>
+<entry timestamp="2015-04-15#23:35:32" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Gaurav: hello </entry>
+<entry timestamp="2015-04-15#23:35:32" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:32" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:35:32" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:32" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:35:32" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:32" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:32" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:35:32" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:35:32" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Gaurav: hello ]</entry>
+<entry timestamp="2015-04-15#23:35:32" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:35:32" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:35:32" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:35:43" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Gaurav: let's discuss MOUSE </processing></entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Gaurav: let's discuss MOUSE </entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:43" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-04-15#23:35:43" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Do Tutoring concept=MOUSE, Message from Gaurav: let's discuss MOUSE MOUSE+TOPIC_REQUEST]</entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from VirtualCarolyn: I noticed that you are talking about MOUSE. If you want to discuss MOUSE with me say 'let's discuss MOUSE' TOPIC_ELICITATION]</entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from VirtualCarolyn: I noticed that you are talking about MOUSE. If you want to discuss MOUSE with me say 'let's discuss MOUSE' TOPIC_ELICITATION]</entry>
+<entry timestamp="2015-04-15#23:35:43" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: Will you like to discuss more on mouse? TUTOR, Message from VirtualCarolyn: I noticed that you are talking about MOUSE. If you want to discuss MOUSE with me say 'let's discuss MOUSE' TOPIC_ELICITATION]</entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Will you like to discuss more on mouse? TUTORbelief*priority: 0.5625*0.75=0.75</entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: I noticed that you are talking about MOUSE. If you want to discuss MOUSE with me say 'let's discuss MOUSE' TOPIC_ELICITATIONbelief*priority: 0.5625*1000000.0=1000000.0</entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:35:45" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: I noticed that you are talking about MOUSE. If you want to discuss MOUSE with me say 'let's discuss MOUSE' TOPIC_ELICITATION</processing></entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:35:45" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: I noticed that you are talking about MOUSE. If you want to discuss MOUSE with me say 'let's discuss MOUSE' </processing></entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: I noticed that you are talking about MOUSE. If you want to discuss MOUSE with me say 'let's discuss MOUSE' </entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:45" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: I noticed that you are talking about MOUSE. If you want to discuss MOUSE with me say 'let's discuss MOUSE' ]</entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:35:45" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: Will you like to discuss more on mouse? TUTOR]</entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal not allowed by Source: TOPIC_ELICITATION: Message from VirtualCarolyn: Will you like to discuss more on mouse? TUTOR</entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Will you like to discuss more on mouse? TUTORbelief*priority: 0.0*0.75=0.75</entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:35:47" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Will you like to discuss more on mouse? TUTOR</processing></entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:35:47" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Will you like to discuss more on mouse? </processing></entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Will you like to discuss more on mouse? </entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:47" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Will you like to discuss more on mouse? ]</entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:35:47" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:35:49" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Gaurav: yes </processing></entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Gaurav: yes </entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:49" user="SocialController" level="NORMAL">ratio 0.0, ans=Gaurav,</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Gaurav: yes AFFIRMATIVE]</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTORING_STARTED_EVENT</dispatching></entry>
+<entry timestamp="2015-04-15#23:35:49" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTORING_STARTED_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="TUTORING_STARTED_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="TUTORING_STARTED_EVENT" from="inputCoordinator">TutoringStartedEvent: scenario=scenario-mouse, concept=MOUSE</processing></entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: TutoringStartedEvent: scenario=scenario-mouse, concept=MOUSE</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [TutoringStartedEvent: scenario=scenario-mouse, concept=MOUSE]</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2015-04-15#23:35:49" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="TUTORING_STARTED_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (2):
+{
+	A mouse is a small device used to point to and select items on your computer screen. 
+               Although mice come in many shapes, the typical mouse does look a bit like an actual mouse. 
+               It's small, oblong, and connected to the system unit by a long wire that resembles a tail. 
+               Some newer mice are wireless.
+	How many buttons a mouse has?
+}</processing></entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (2):
+{
+	A mouse is a small device used to point to and select items on your computer screen. 
+               Although mice come in many shapes, the typical mouse does look a bit like an actual mouse. 
+               It's small, oblong, and connected to the system unit by a long wire that resembles a tail. 
+               Some newer mice are wireless.
+	How many buttons a mouse has?
+}</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (2):
+{
+	A mouse is a small device used to point to and select items on your computer screen. 
+               Although mice come in many shapes, the typical mouse does look a bit like an actual mouse. 
+               It's small, oblong, and connected to the system unit by a long wire that resembles a tail. 
+               Some newer mice are wireless.
+	How many buttons a mouse has?
+}]</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:35:49" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: Let's get started. TUTOR, Message from VirtualCarolyn: A mouse is a small device used to point to and select items on your computer screen. 
+               Although mice come in many shapes, the typical mouse does look a bit like an actual mouse. 
+               It's small, oblong, and connected to the system unit by a long wire that resembles a tail. 
+               Some newer mice are wireless.|How many buttons a mouse has? TUTOR]</entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal not allowed by Source: TOPIC_ELICITATION: Message from VirtualCarolyn: Let's get started. TUTOR</entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: Let's get started. TUTORbelief*priority: 0.0*0.75=0.75</entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal not allowed by Source: TOPIC_ELICITATION: Message from VirtualCarolyn: A mouse is a small device used to point to and select items on your computer screen. 
+               Although mice come in many shapes, the typical mouse does look a bit like an actual mouse. 
+               It's small, oblong, and connected to the system unit by a long wire that resembles a tail. 
+               Some newer mice are wireless.|How many buttons a mouse has? TUTOR</entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: A mouse is a small device used to point to and select items on your computer screen. 
+               Although mice come in many shapes, the typical mouse does look a bit like an actual mouse. 
+               It's small, oblong, and connected to the system unit by a long wire that resembles a tail. 
+               Some newer mice are wireless.|How many buttons a mouse has? TUTORbelief*priority: 0.0*0.75=0.75</entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:35:51" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Let's get started. TUTOR</processing></entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:35:51" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Let's get started. </processing></entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Let's get started. </entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:51" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Let's get started. ]</entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:35:51" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: A mouse is a small device used to point to and select items on your computer screen. 
+               Although mice come in many shapes, the typical mouse does look a bit like an actual mouse. 
+               It's small, oblong, and connected to the system unit by a long wire that resembles a tail. 
+               Some newer mice are wireless.|How many buttons a mouse has? TUTOR]</entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal not allowed by Source: TOPIC_ELICITATION: Message from VirtualCarolyn: A mouse is a small device used to point to and select items on your computer screen. 
+               Although mice come in many shapes, the typical mouse does look a bit like an actual mouse. 
+               It's small, oblong, and connected to the system unit by a long wire that resembles a tail. 
+               Some newer mice are wireless.|How many buttons a mouse has? TUTOR</entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: A mouse is a small device used to point to and select items on your computer screen. 
+               Although mice come in many shapes, the typical mouse does look a bit like an actual mouse. 
+               It's small, oblong, and connected to the system unit by a long wire that resembles a tail. 
+               Some newer mice are wireless.|How many buttons a mouse has? TUTORbelief*priority: 0.0*0.75=0.75</entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:35:53" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:35:53" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: A mouse is a small device used to point to and select items on your computer screen. 
+               Although mice come in many shapes, the typical mouse does look a bit like an actual mouse. 
+               It's small, oblong, and connected to the system unit by a long wire that resembles a tail. 
+               Some newer mice are wireless. TUTOR</processing></entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: How many buttons a mouse has? TUTOR</processing></entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:35:53" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:35:53" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: A mouse is a small device used to point to and select items on your computer screen. 
+               Although mice come in many shapes, the typical mouse does look a bit like an actual mouse. 
+               It's small, oblong, and connected to the system unit by a long wire that resembles a tail. 
+               Some newer mice are wireless. </processing></entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: A mouse is a small device used to point to and select items on your computer screen. 
+               Although mice come in many shapes, the typical mouse does look a bit like an actual mouse. 
+               It's small, oblong, and connected to the system unit by a long wire that resembles a tail. 
+               Some newer mice are wireless. </entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:53" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: A mouse is a small device used to point to and select items on your computer screen. 
+               Although mice come in many shapes, the typical mouse does look a bit like an actual mouse. 
+               It's small, oblong, and connected to the system unit by a long wire that resembles a tail. 
+               Some newer mice are wireless. ]</entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: How many buttons a mouse has? </processing></entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: How many buttons a mouse has? </entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:53" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: How many buttons a mouse has? ]</entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:35:53" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:35:56" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:35:56" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:35:56" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:35:56" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:35:56" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Gaurav: I donno </processing></entry>
+<entry timestamp="2015-04-15#23:35:56" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Gaurav: I donno </entry>
+<entry timestamp="2015-04-15#23:35:56" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors/episodes/VirtualCarolyn_computer_parts.episodes.txt (No such file or directory))</entry>
+<entry timestamp="2015-04-15#23:35:56" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:56" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:35:56" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:56" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:35:56" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:35:56" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:35:56" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Gaurav: I donno ]</entry>
+<entry timestamp="2015-04-15#23:35:56" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:35:56" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:35:56" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:35:59" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:35:59" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: I am waiting for your response to start. Please ask for help if you are stuck.|How many buttons a mouse has? TUTOR]</entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: I am waiting for your response to start. Please ask for help if you are stuck.|How many buttons a mouse has? TUTORbelief*priority: 0.3747188203066406*0.75=0.75</entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:36:01" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:36:01" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: I am waiting for your response to start. Please ask for help if you are stuck. TUTOR</processing></entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: How many buttons a mouse has? TUTOR</processing></entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:36:01" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:36:01" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: I am waiting for your response to start. Please ask for help if you are stuck. </processing></entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: I am waiting for your response to start. Please ask for help if you are stuck. </entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:36:01" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: I am waiting for your response to start. Please ask for help if you are stuck. ]</entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: How many buttons a mouse has? </processing></entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: How many buttons a mouse has? </entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:36:01" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: How many buttons a mouse has? ]</entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:36:01" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:36:21" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:36:21" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:36:21" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:36:21" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:36:21" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Gaurav: i donno </processing></entry>
+<entry timestamp="2015-04-15#23:36:21" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Gaurav: i donno </entry>
+<entry timestamp="2015-04-15#23:36:21" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors/episodes/VirtualCarolyn_computer_parts.episodes.txt (No such file or directory))</entry>
+<entry timestamp="2015-04-15#23:36:21" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:36:21" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:36:21" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:36:21" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:36:21" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:36:21" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:36:21" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Gaurav: i donno ]</entry>
+<entry timestamp="2015-04-15#23:36:21" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:36:21" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:36:21" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2015-04-15#23:36:25" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: No! It's not correct. A mouse usually has two buttons: A primary button (usually the left button) and 
+					a secondary button. Many mice also have a wheel between the two buttons, 
+					which allows you to scroll smoothly through screens of information.|Let's move on.|When you move the mouse with your hand, what does appear on the screen? TUTOR]</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: No! It's not correct. A mouse usually has two buttons: A primary button (usually the left button) and 
+					a secondary button. Many mice also have a wheel between the two buttons, 
+					which allows you to scroll smoothly through screens of information.|Let's move on.|When you move the mouse with your hand, what does appear on the screen? TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:36:25" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:36:25" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:36:25" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (3):
+{
+	No! It's not correct. A mouse usually has two buttons: A primary button (usually the left button) and 
+					a secondary button. Many mice also have a wheel between the two buttons, 
+					which allows you to scroll smoothly through screens of information.
+	Let's move on.
+	When you move the mouse with your hand, what does appear on the screen?
+}</processing></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (3):
+{
+	No! It's not correct. A mouse usually has two buttons: A primary button (usually the left button) and 
+					a secondary button. Many mice also have a wheel between the two buttons, 
+					which allows you to scroll smoothly through screens of information.
+	Let's move on.
+	When you move the mouse with your hand, what does appear on the screen?
+}</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (3):
+{
+	No! It's not correct. A mouse usually has two buttons: A primary button (usually the left button) and 
+					a secondary button. Many mice also have a wheel between the two buttons, 
+					which allows you to scroll smoothly through screens of information.
+	Let's move on.
+	When you move the mouse with your hand, what does appear on the screen?
+}]</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: No! It's not correct. A mouse usually has two buttons: A primary button (usually the left button) and 
+					a secondary button. Many mice also have a wheel between the two buttons, 
+					which allows you to scroll smoothly through screens of information. TUTOR</processing></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Let's move on. TUTOR</processing></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: When you move the mouse with your hand, what does appear on the screen? TUTOR</processing></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:36:25" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:36:25" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:36:25" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: No! It's not correct. A mouse usually has two buttons: A primary button (usually the left button) and 
+					a secondary button. Many mice also have a wheel between the two buttons, 
+					which allows you to scroll smoothly through screens of information. </processing></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: No! It's not correct. A mouse usually has two buttons: A primary button (usually the left button) and 
+					a secondary button. Many mice also have a wheel between the two buttons, 
+					which allows you to scroll smoothly through screens of information. </entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:36:25" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: No! It's not correct. A mouse usually has two buttons: A primary button (usually the left button) and 
+					a secondary button. Many mice also have a wheel between the two buttons, 
+					which allows you to scroll smoothly through screens of information. ]</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Let's move on. </processing></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Let's move on. </entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:36:25" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Let's move on. ]</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: When you move the mouse with your hand, what does appear on the screen? </processing></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: When you move the mouse with your hand, what does appear on the screen? </entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:36:25" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: When you move the mouse with your hand, what does appear on the screen? ]</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:36:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:37:25" user="TutorTurnWatcher" level="NORMAL"><timedout id="RESPONSE_TIMEOUT" /></entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">MOVE_ON_EVENT</dispatching></entry>
+<entry timestamp="2015-04-15#23:37:25" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate MOVE_ON_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MOVE_ON_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MOVE_ON_EVENT" from="inputCoordinator"><moveOn/></processing></entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: <moveOn/></entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [<moveOn/>]</entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2015-04-15#23:37:25" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MOVE_ON_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (2):
+{
+	No! It's not correct. When you move the mouse with your hand, 
+					a pointer on your screen moves in the same direction.
+	Okay - you can now continue discussing other parts.
+}</processing></entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (2):
+{
+	No! It's not correct. When you move the mouse with your hand, 
+					a pointer on your screen moves in the same direction.
+	Okay - you can now continue discussing other parts.
+}</entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (2):
+{
+	No! It's not correct. When you move the mouse with your hand, 
+					a pointer on your screen moves in the same direction.
+	Okay - you can now continue discussing other parts.
+}]</entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:37:25" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Queue: [Message from VirtualCarolyn: No! It's not correct. When you move the mouse with your hand, 
+					a pointer on your screen moves in the same direction.|Okay - you can now continue discussing other parts. TUTOR]</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Proposal Message from VirtualCarolyn: No! It's not correct. When you move the mouse with your hand, 
+					a pointer on your screen moves in the same direction.|Okay - you can now continue discussing other parts. TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">DONE_TUTORING_EVENT</dispatching></entry>
+<entry timestamp="2015-04-15#23:37:27" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate DONE_TUTORING_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="DONE_TUTORING_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:37:27" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:37:27" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: No! It's not correct. When you move the mouse with your hand, 
+					a pointer on your screen moves in the same direction. TUTOR</processing></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from VirtualCarolyn: Okay - you can now continue discussing other parts. TUTOR</processing></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:37:27" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-04-15#23:37:27" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="DONE_TUTORING_EVENT" from="inputCoordinator">Done Tutoring concept MOUSE</processing></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Done Tutoring concept MOUSE</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Done Tutoring concept MOUSE]</entry>
+<entry timestamp="2015-04-15#23:37:27" user="PlanExecutor" level="NORMAL">received step done event for DONE_TUTORING_EVENT</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="DONE_TUTORING_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: No! It's not correct. When you move the mouse with your hand, 
+					a pointer on your screen moves in the same direction. </processing></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: No! It's not correct. When you move the mouse with your hand, 
+					a pointer on your screen moves in the same direction. </entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:37:27" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: No! It's not correct. When you move the mouse with your hand, 
+					a pointer on your screen moves in the same direction. ]</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from VirtualCarolyn: Okay - you can now continue discussing other parts. </processing></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from VirtualCarolyn: Okay - you can now continue discussing other parts. </entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:37:27" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from VirtualCarolyn: Okay - you can now continue discussing other parts. ]</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:37:27" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-04-15#23:37:43" user="TutorActor" level="NORMAL">Timeout for MOUSE:null</entry>
+<entry timestamp="2015-04-15#23:39:22" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">DORMANT_STUDENT_EVENT</dispatching></entry>
+<entry timestamp="2015-04-15#23:39:22" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate DORMANT_STUDENT_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:39:22" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="DORMANT_STUDENT_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:39:22" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:39:22" user="ActivityTracker" level="NORMAL">Wen is dormant (1 turns vs student max 5)</entry>
+<entry timestamp="2015-04-15#23:39:22" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:39:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="DORMANT_STUDENT_EVENT" from="inputCoordinator"><dormantStudent name="Wen"/></processing></entry>
+<entry timestamp="2015-04-15#23:39:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: <dormantStudent name="Wen"/></entry>
+<entry timestamp="2015-04-15#23:39:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:39:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:39:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [<dormantStudent name="Wen"/>]</entry>
+<entry timestamp="2015-04-15#23:39:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:39:23" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:39:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="DORMANT_STUDENT_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:43:22" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">DORMANT_GROUP_EVENT</dispatching></entry>
+<entry timestamp="2015-04-15#23:43:22" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate DORMANT_GROUP_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:43:22" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="DORMANT_GROUP_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:43:22" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:43:22" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:43:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="DORMANT_GROUP_EVENT" from="inputCoordinator"><dormantGroup/></processing></entry>
+<entry timestamp="2015-04-15#23:43:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: <dormantGroup/></entry>
+<entry timestamp="2015-04-15#23:43:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:43:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:43:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [<dormantGroup/>]</entry>
+<entry timestamp="2015-04-15#23:43:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:43:23" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:43:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="DORMANT_GROUP_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:47:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">DORMANT_GROUP_EVENT</dispatching></entry>
+<entry timestamp="2015-04-15#23:47:23" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate DORMANT_GROUP_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:47:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="DORMANT_GROUP_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:47:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:47:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:47:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="DORMANT_GROUP_EVENT" from="inputCoordinator"><dormantGroup/></processing></entry>
+<entry timestamp="2015-04-15#23:47:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: <dormantGroup/></entry>
+<entry timestamp="2015-04-15#23:47:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:47:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:47:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [<dormantGroup/>]</entry>
+<entry timestamp="2015-04-15#23:47:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:47:23" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:47:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="DORMANT_GROUP_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:51:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">DORMANT_GROUP_EVENT</dispatching></entry>
+<entry timestamp="2015-04-15#23:51:23" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate DORMANT_GROUP_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:51:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="DORMANT_GROUP_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:51:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:51:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:51:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="DORMANT_GROUP_EVENT" from="inputCoordinator"><dormantGroup/></processing></entry>
+<entry timestamp="2015-04-15#23:51:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: <dormantGroup/></entry>
+<entry timestamp="2015-04-15#23:51:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:51:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:51:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [<dormantGroup/>]</entry>
+<entry timestamp="2015-04-15#23:51:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:51:23" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:51:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="DORMANT_GROUP_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:55:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">DORMANT_GROUP_EVENT</dispatching></entry>
+<entry timestamp="2015-04-15#23:55:23" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate DORMANT_GROUP_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:55:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="DORMANT_GROUP_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:55:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:55:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:55:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="DORMANT_GROUP_EVENT" from="inputCoordinator"><dormantGroup/></processing></entry>
+<entry timestamp="2015-04-15#23:55:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: <dormantGroup/></entry>
+<entry timestamp="2015-04-15#23:55:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:55:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:55:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [<dormantGroup/>]</entry>
+<entry timestamp="2015-04-15#23:55:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:55:23" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:55:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="DORMANT_GROUP_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-15#23:59:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">DORMANT_GROUP_EVENT</dispatching></entry>
+<entry timestamp="2015-04-15#23:59:23" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate DORMANT_GROUP_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-15#23:59:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="DORMANT_GROUP_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-15#23:59:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-15#23:59:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:59:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="DORMANT_GROUP_EVENT" from="inputCoordinator"><dormantGroup/></processing></entry>
+<entry timestamp="2015-04-15#23:59:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: <dormantGroup/></entry>
+<entry timestamp="2015-04-15#23:59:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-15#23:59:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-15#23:59:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [<dormantGroup/>]</entry>
+<entry timestamp="2015-04-15#23:59:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-15#23:59:23" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-15#23:59:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="DORMANT_GROUP_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-04-16#00:03:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">DORMANT_GROUP_EVENT</dispatching></entry>
+<entry timestamp="2015-04-16#00:03:23" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate DORMANT_GROUP_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-04-16#00:03:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><queued name="DORMANT_GROUP_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-04-16#00:03:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-04-16#00:03:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-16#00:03:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processing name="DORMANT_GROUP_EVENT" from="inputCoordinator"><dormantGroup/></processing></entry>
+<entry timestamp="2015-04-16#00:03:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">InputCoordinator received event: <dormantGroup/></entry>
+<entry timestamp="2015-04-16#00:03:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-04-16#00:03:23" user="VirtualCarolyn_computer_parts.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="body" type="other" />
+	<Step name="SHOW_IMAGE" type="whiteboard"/>
+	<student id="Wen" name="Wen" role="UNASSIGNED" present="true" />	<student id="Gaurav" name="Gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-04-16#00:03:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Preprocessing: [<dormantGroup/>]</entry>
+<entry timestamp="2015-04-16#00:03:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-04-16#00:03:23" user="VirtualCarolyn_computer_parts.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-04-16#00:03:23" user="VirtualCarolyn_computer_parts.inputCoordinator" level="INFO"><processed name="DORMANT_GROUP_EVENT" from="inputCoordinator"></processed></entry>

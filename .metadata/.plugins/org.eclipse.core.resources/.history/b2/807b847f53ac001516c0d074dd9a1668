@@ -1,0 +1,155 @@
+2015-05-12,12:16:28,0,VirtualCarolyn,1431447390420,"Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.",INTRODUCTION
+2015-05-12,12:16:28,0,VirtualCarolyn,1431447392568,,
+2015-05-12,12:16:45,0,Gaurav,1431447405594,hello,
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-05-12,12:20:42,0,VirtualCarolyn,1431447644197,...,...
+2015-05-12,12:21:28,0,VirtualCarolyn,1431447690306,"Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.",INTRODUCTION
+2015-05-12,12:25:48,0,VirtualCarolyn,1431447948410,Also discuss among yourselves where all of you would expect to find the coolest temperatures over the area of the map on left of your screen.,QUESTION1
+2015-05-12,12:36:01,0,VirtualCarolyn,1431448562713,Also discuss among yourselves where all of you would expect to find the highest atmospheric pressure over the area of the map on left of your screen.,QUESTION2
+2015-05-12,12:46:14,0,VirtualCarolyn,1431449175162,Also discuss among yourselves where all of you would expect to find the lowest atmospheric pressure over the area of the map on left of your screen.,QUESTION3
+2015-05-12,12:56:27,0,VirtualCarolyn,1431449789497,Also discuss among yourselves where all of you would expect precipitation to occur in regards to the warm front over the area of the map on left of your screen.,QUESTION4
+2015-05-12,13:06:41,0,VirtualCarolyn,1431450403729,Also discuss among yourselves where all of you would expect precipitation to occur in regards to the cold front over the area of the map on left of your screen.,QUESTION5
+2015-05-12,13:16:56,0,VirtualCarolyn,1431451018007,Also discuss among yourselves where all of you would expect expect the highest wind speeds to occur over the area of the map on left of your screen.,QUESTION6
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-05-12,17:35:48,0,VirtualCarolyn,1431466550192,"Welcome, Fred
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.",INTRODUCTION
+2015-05-12,17:35:48,0,VirtualCarolyn,1431466552343,...,...
+2015-05-12,17:36:08,0,Fred,1431466573848,the weather is nice today,POSITIVITY
+2015-05-12,17:37:34,0,VirtualCarolyn,1431466654505,"Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.",INTRODUCTION
+2015-05-12,17:37:54,0,VirtualCarolyn,1431466674525,Also discuss among yourselves where all of you would expect to find the coolest temperatures over the area of the map on left of your screen.,QUESTION1
+2015-05-12,17:40:28,0,VirtualCarolyn,1431466830582,You can discuss about low pressure precipitation. If you want to check your knowledge on low pressure precipitation with me say 'LET'S DISCUSS ABOUT low pressure precipitation',TOPIC_PROMPTED
+2015-05-12,17:44:08,0,VirtualCarolyn,1431467050658,You can discuss about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUT low pressure temperature',TOPIC_PROMPTED
+2015-05-12,17:48:07,0,VirtualCarolyn,1431467288724,Also discuss among yourselves where all of you would expect to find the highest atmospheric pressure over the area of the map on left of your screen.,QUESTION2
+2015-05-12,17:48:08,0,VirtualCarolyn,1431467290727,You can discuss about high pressure precipitation. If you want to check your knowledge on high pressure precipitation with me say 'LET'S DISCUSS ABOUT high pressure precipitation',TOPIC_PROMPTED
+2015-05-12,17:52:08,0,VirtualCarolyn,1431467530813,You can discuss about low pressure wind direction. If you want to check your knowledge on low pressure wind direction with me say 'LET'S DISCUSS ABOUT low pressure wind direction',TOPIC_PROMPTED
+2015-05-12,17:56:08,0,VirtualCarolyn,1431467770892,You can discuss about high pressure temperature. If you want to check your knowledge on high pressure temperature with me say 'LET'S DISCUSS ABOUT high pressure temperature',TOPIC_PROMPTED
+2015-05-12,17:58:20,0,VirtualCarolyn,1431467900952,Also discuss among yourselves where all of you would expect to find the lowest atmospheric pressure over the area of the map on left of your screen.,QUESTION3
+2015-05-12,18:00:09,0,VirtualCarolyn,1431468011015,You can discuss about high pressure wind direction. If you want to check your knowledge on high pressure wind direction with me say 'LET'S DISCUSS ABOUT high pressure wind direction',TOPIC_PROMPTED
+2015-05-12,18:04:09,0,VirtualCarolyn,1431468249109,You can discuss about cold front precipitation. If you want to check your knowledge on cold front precipitation with me say 'LET'S DISCUSS ABOUT cold front precipitation',TOPIC_PROMPTED
+2015-05-12,18:08:09,0,VirtualCarolyn,1431468489199,You can discuss about cold front temperature. If you want to check your knowledge on cold front temperature with me say 'LET'S DISCUSS ABOUT cold front temperature',TOPIC_PROMPTED
+2015-05-12,18:08:33,0,VirtualCarolyn,1431468515212,Also discuss among yourselves where all of you would expect precipitation to occur in regards to the warm front over the area of the map on left of your screen.,QUESTION4
+2015-05-12,18:12:09,0,VirtualCarolyn,1431468729305,You can discuss about cold front wind direction. If you want to check your knowledge on cold front wind direction with me say 'LET'S DISCUSS ABOUT cold front wind direction',TOPIC_PROMPTED
+2015-05-12,18:16:09,0,VirtualCarolyn,1431468969387,You can discuss about warm front wind direction. If you want to check your knowledge on warm front wind direction with me say 'LET'S DISCUSS ABOUT warm front wind direction',TOPIC_PROMPTED
+2015-05-12,18:18:47,0,VirtualCarolyn,1431469129463,Also discuss among yourselves where all of you would expect precipitation to occur in regards to the cold front over the area of the map on left of your screen.,QUESTION5
+2015-05-12,18:20:09,0,VirtualCarolyn,1431469209492,You can discuss about warm front precipitation. If you want to check your knowledge on warm front precipitation with me say 'LET'S DISCUSS ABOUT warm front precipitation',TOPIC_PROMPTED
+2015-05-12,18:24:09,0,VirtualCarolyn,1431469449570,You can discuss about warm front temperature. If you want to check your knowledge on warm front temperature with me say 'LET'S DISCUSS ABOUT warm front temperature',TOPIC_PROMPTED
+2015-05-12,18:29:01,0,VirtualCarolyn,1431469743693,Also discuss among yourselves where all of you would expect expect the highest wind speeds to occur over the area of the map on left of your screen.,QUESTION6
+2015-05-12,19:24:09,0,VirtualCarolyn,1431473051185,You can discuss about low pressure precipitation. If you want to check your knowledge on low pressure precipitation with me say 'LET'S DISCUSS ABOUT low pressure precipitation',TOPIC_PROMPTED
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-05-13,12:20:03,0,VirtualCarolyn,1431534005294,"Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.",INTRODUCTION
+2015-05-13,12:20:03,0,VirtualCarolyn,1431534007352,...,...
+2015-05-13,12:20:55,0,Gaurav,1431534057401,I watched the video but did not understand why the temperature is coller in low pressure,GIVING_OPINION+LP+SAY_MORE_CANDIDATE+TEMPERATURE+NEGATIVE
+2015-05-13,12:21:17,0,VirtualCarolyn,1431534077449,I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUT low pressure temperature' and I will ask some questions on it.,TOPIC_ELICITATION
+2015-05-13,12:21:33,0,Gaurav,1431534095482,LET'S DISCUSS ABOUT low pressure temperature,TOPIC_REQUEST+LP+SAY_MORE_CANDIDATE+AGREE_CANDIDATE+TEMPERATURE+REVOICABLE
+2015-05-13,12:21:35,0,VirtualCarolyn,1431534097509,"
+               Will you like to answer some questions related to low pressure and temperature ?
+        ",TUTOR
+2015-05-13,12:21:41,0,Gaurav,1431534101283,yes,AFFIRMATIVE
+2015-05-13,12:21:41,0,VirtualCarolyn,1431534101514,Let's get started.,TUTOR
+2015-05-13,12:21:42,0,VirtualCarolyn,1431534103520,We can talk about low pressure and temperature in a little more detail.,TUTOR
+2015-05-13,12:21:42,0,VirtualCarolyn,1431534103527,Can you explain why the temperature is most likely cooler at a low pressure center?,TUTOR
+2015-05-13,12:21:48,0,Gaurav,1431534109047,no,CHALLENGE_CONTRIBUTION+NEGATIVE
+2015-05-13,12:22:05,0,Gaurav,1431534125279,may be condensation,GIVING_OPINION
+2015-05-13,12:22:08,0,VirtualCarolyn,1431534129585,Also discuss among yourselves where all of you would expect to find the coolest temperatures over the area of the map on left of your screen.,QUESTION1
+2015-05-13,12:22:25,0,Gaurav,1431534145791,it condenses,
+2015-05-13,12:22:28,0,VirtualCarolyn,1431534149601,It sounds like you could use some help.,TUTOR
+2015-05-13,12:22:28,0,VirtualCarolyn,1431534149604,"Sorry, I didn't understand you. Can you explain why the temperature is most likely cooler at a low pressure center?",TUTOR
+2015-05-13,12:22:38,0,Gaurav,1431534158248,No,CHALLENGE_CONTRIBUTION+NEGATIVE
+2015-05-13,12:22:46,0,Gaurav,1431534167029,Please help,CONFUSION+HELP_REQUEST+HELP
+2015-05-13,12:22:51,0,Gaurav,1431534171485,me,
+2015-05-13,12:22:54,0,Gaurav,1431534174238,here,
+2015-05-13,12:22:53,0,VirtualCarolyn,1431534175643,Let me help you out. Cold air sinks and low pressure is a concentration of air that is low in altitude. It is most likely then that this air is cooler.,TUTOR
+2015-05-13,12:22:53,0,VirtualCarolyn,1431534175653,Please feel free to continue discussing among yourselves.,TUTOR
+2015-05-13,12:23:56,0,VirtualCarolyn,1431534237687,You can discuss about low pressure precipitation. If you want to check your knowledge on low pressure precipitation with me say 'LET'S DISCUSS ABOUT low pressure precipitation',TOPIC_PROMPTED
+2015-05-13,12:24:00,0,VirtualCarolyn,1431534241690,"Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.",INTRODUCTION
+2015-05-13,12:24:08,0,Gaurav,1431534248722,low pressure temperature,LP+TEMPERATURE
+2015-05-13,12:24:28,0,VirtualCarolyn,1431534269713,I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUT low pressure temperature' and I will ask some questions on it.,TOPIC_ELICITATION
+2015-05-13,12:24:56,0,VirtualCarolyn,1431534297750,You can discuss about high pressure precipitation. If you want to check your knowledge on high pressure precipitation with me say 'LET'S DISCUSS ABOUT high pressure precipitation',TOPIC_PROMPTED
+2015-05-13,12:24:58,0,Gaurav,1431534298416,LET'S DISCUSS ABOUT low pressure temperature,TOPIC_REQUEST+LP+SAY_MORE_CANDIDATE+AGREE_CANDIDATE+TEMPERATURE+REVOICABLE
+2015-05-13,12:24:58,0,VirtualCarolyn,1431534299755,"
+               Will you like to answer some questions related to low pressure and temperature ?
+        ",TUTOR
+2015-05-13,12:25:32,0,Gaurav,1431534332900,yes,AFFIRMATIVE
+2015-05-13,12:25:32,0,VirtualCarolyn,1431534333784,Let's get started.,TUTOR
+2015-05-13,12:25:32,0,VirtualCarolyn,1431534335789,We can talk about low pressure and temperature in a little more detail.,TUTOR
+2015-05-13,12:25:32,0,VirtualCarolyn,1431534335792,Can you explain why the temperature is most likely cooler at a low pressure center?,TUTOR
+2015-05-13,12:25:55,0,VirtualCarolyn,1431534355822,"Welcome, K
+Can any one of you provide a summary of our discussion till now to K",INTRODUCTION
+2015-05-13,12:26:34,0,VirtualCarolyn,1431534395888,It sounds like you could use some help.,TUTOR
+2015-05-13,12:26:34,0,VirtualCarolyn,1431534395890,"Sorry, I didn't understand you. Can you explain why the temperature is most likely cooler at a low pressure center?",TUTOR
+2015-05-13,12:26:56,0,VirtualCarolyn,1431534417922,You can discuss about low pressure precipitation. If you want to check your knowledge on low pressure precipitation with me say 'LET'S DISCUSS ABOUT low pressure precipitation',TOPIC_PROMPTED
+2015-05-13,12:27:20,0,VirtualCarolyn,1431534441962,"Welcome, u
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.",INTRODUCTION
+2015-05-13,12:27:54,0,VirtualCarolyn,1431534476002,Let me help you out. Cold air sinks and low pressure is a concentration of air that is low in altitude. It is most likely then that this air is cooler.,TUTOR
+2015-05-13,12:27:54,0,VirtualCarolyn,1431534476007,Please feel free to continue discussing among yourselves.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-05-13,16:42:34,0,VirtualCarolyn,1431549755962,"Welcome, Gaurav
+I'm VirtualCarolyn. I'm here to have an interactive dialogue with you to assist you in your discussion on metereological concepts
+You can wait for another person to join or start discussing with me a metereological concept.",INTRODUCTION
+2015-05-13,16:42:34,0,VirtualCarolyn,1431549758075,...,...
+2015-05-13,16:43:07,0,Gaurav,1431549794189,I watched the video and the connection between low pressure and temperature was interesting.,LP+SAY_MORE_CANDIDATE+AGREE_CANDIDATE+TEMPERATURE
+2015-05-13,16:43:29,0,VirtualCarolyn,1431549810151,I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUT low pressure temperature' and I will ask some questions on it.,TOPIC_ELICITATION
+2015-05-13,16:43:57,0,Gaurav,1431549837925,yes let's discuss about low pressure temperature,TOPIC_REQUEST+AFFIRMATIVE+LP+SAY_MORE_CANDIDATE+AGREE_CANDIDATE+TEMPERATURE+REVOICABLE
+2015-05-13,16:43:57,0,VirtualCarolyn,1431549838184,"
+               Will you like to answer some questions related to low pressure and temperature ?
+        ",TUTOR
+2015-05-13,16:43:57,0,VirtualCarolyn,1431549840191,Let's get started.,TUTOR
+2015-05-13,16:43:58,0,VirtualCarolyn,1431549842197,We can talk about low pressure and temperature in a little more detail.,TUTOR
+2015-05-13,16:43:58,0,VirtualCarolyn,1431549842200,Can you explain why the temperature is most likely cooler at a low pressure center?,TUTOR
+2015-05-13,16:44:30,0,Gaurav,1431549871784,may be because low pressure is on higher altitude,GIVING_OPINION+LP
+2015-05-13,16:44:34,0,VirtualCarolyn,1431549874234,It sounds like you could use some help.,TUTOR
+2015-05-13,16:44:34,0,VirtualCarolyn,1431549874237,A low pressure center is a concentration of air which is low in altitude. Why might a low pressure center be associated with cooler temperatures?,TUTOR
+2015-05-13,16:44:55,0,Gaurav,1431549896071,oh ok I get it,AFFIRMATIVE
+2015-05-13,16:45:18,0,Gaurav,1431549919018,cool sir sinks and results in low pressure,LP+EXPLANATION_CONTRIBUTION+TEMPERATURE
+2015-05-13,16:45:34,0,VirtualCarolyn,1431549936310,Let me help you out. Cold air sinks and low pressure is a concentration of air that is low in altitude. It is most likely then that this air is cooler.,TUTOR
+2015-05-13,16:45:34,0,VirtualCarolyn,1431549936313,Please feel free to continue discussing among yourselves.,TUTOR
+2015-05-13,16:46:00,0,VirtualCarolyn,1431549962344,"Welcome, Keith M.
+We have been discussing on topics like  [low pressure temperature]
+Please join in.",INTRODUCTION
+2015-05-13,16:46:28,0,Keith M.,1431549990249,Oh good.  I had a question on the content in the video.,POSITIVITY
+2015-05-13,16:47:40,0,VirtualCarolyn,1431550060446,Also discuss among yourselves where all of you would expect to find the coolest temperatures over the area of the map on left of your screen.,QUESTION1
+2015-05-13,16:48:12,0,Keith M.,1431550094680,"It said that precipitation is not usually present following a warm front, but I think hot weather can be very stormy.  Can we discuss more about warm front precipitation?",WF+GIVING_OPINION+HELP_REQUEST+PRECIPITATION+TEMPERATURE+QUESTION+NEGATIVE
+2015-05-13,16:48:14,0,VirtualCarolyn,1431550096482,I noticed that you are talking about warm front precipitation. If you want to check your knowledge on warm front precipitation with me say 'LET'S DISCUSS ABOUT warm front precipitation' and I will ask some questions on it.,TOPIC_ELICITATION
+2015-05-13,16:48:14,0,VirtualCarolyn,1431550098489,I noticed that you are talking about warm front temperature. If you want to check your knowledge on warm front temperature with me say 'LET'S DISCUSS ABOUT warm front temperature' and I will ask some questions on it.,TOPIC_ELICITATION
+2015-05-13,16:48:41,0,Keith M.,1431550121618,Let's discuss about warm front temperature,WF+TOPIC_REQUEST+SAY_MORE_CANDIDATE+AGREE_CANDIDATE+TEMPERATURE+REVOICABLE
+2015-05-13,16:48:41,0,VirtualCarolyn,1431550122516,"
+               Will you like to answer some questions related to warm front and temperature ?
+        ",TUTOR
+2015-05-13,16:48:49,0,Keith M.,1431550129930,Great,
+2015-05-13,16:49:24,0,Keith M.,1431550164226,Let's get started,
+2015-05-13,16:49:33,0,Gaurav,1431550173135,yes,AFFIRMATIVE
+2015-05-13,16:49:33,0,VirtualCarolyn,1431550174575,Let's get started.,TUTOR
+2015-05-13,16:49:33,0,VirtualCarolyn,1431550176582,We can talk about cold fronts and temperature in a little more detail.,TUTOR
+2015-05-13,16:49:33,0,VirtualCarolyn,1431550176584,Can you explain why the temperature is warmer behind a warm front? Feel free to refer to points on the map.,TUTOR
+2015-05-13,16:50:20,0,Keith M.,1431550221469,The warm air is pushed down by the high pressure,HP
+2015-05-13,16:50:33,0,VirtualCarolyn,1431550234686,It sounds like you could use some help.,TUTOR
+2015-05-13,16:50:33,0,VirtualCarolyn,1431550234690,"Sorry, I didn't understand you. Can you explain why the temperature is cooler behind a cold front? Feel free to refer to points on the map.",TUTOR
+2015-05-13,16:51:27,0,Keith M.,1431550288294,Warm fronts replace cold air with warm air.  That's why the temperature is warmer.,WF+SAY_MORE_CANDIDATE+AGREE_CANDIDATE+EXPLANATION_CONTRIBUTION+TEMPERATURE+CF
+2015-05-13,16:51:28,0,VirtualCarolyn,1431550288762,I noticed that you are talking about cold front temperature. If you want to check your knowledge on cold front temperature with me say 'LET'S DISCUSS ABOUT cold front temperature' and I will ask some questions on it.,TOPIC_ELICITATION
+2015-05-13,16:51:30,0,VirtualCarolyn,1431550290766,"Let me help you out. A warm front is the beginning of a mass of warm air, that is warming the air up as it moves forward. This is why the warmest temperatures are behind a cold front.",TUTOR
+2015-05-13,16:51:30,0,VirtualCarolyn,1431550290768,Please feel free to continue discussing among yourselves.,TUTOR
+2015-05-13,16:53:07,0,VirtualCarolyn,1431550388882,You can discuss about low pressure precipitation. If you want to check your knowledge on low pressure precipitation with me say 'LET'S DISCUSS ABOUT low pressure precipitation',TOPIC_PROMPTED
+2015-05-13,16:53:28,0,Keith M.,1431550409545,Sure.  Let's discuss about low pressure precipitation.,GIVING_OPINION+TOPIC_REQUEST+AFFIRMATIVE+LP+PRECIPITATION
+2015-05-13,16:53:29,0,VirtualCarolyn,1431550410908,"
+               Will you like to answer some questions related to low pressure and precipitation ?
+        ",TUTOR
+2015-05-13,16:53:36,0,Keith M.,1431550417067,Yes,AFFIRMATIVE
+2015-05-13,16:53:37,0,VirtualCarolyn,1431550418917,Let's get started.,TUTOR
+2015-05-13,16:53:37,0,VirtualCarolyn,1431550420922,We can talk about low pressure and precipitation in a little more detail.,TUTOR
+2015-05-13,16:53:37,0,VirtualCarolyn,1431550420924,Can you explain why the chance of precipitation is most likely higher at a low pressure center?,TUTOR
+2015-05-13,16:54:37,0,VirtualCarolyn,1431550478982,It sounds like you could use some help.,TUTOR
+2015-05-13,16:54:37,0,VirtualCarolyn,1431550478985,"Sorry, I didn't understand you. In a low pressure center, the air is pushed upwards. Why do you think the chance of precipitation is higher at a low pressure center?",TUTOR
+2015-05-13,16:54:49,0,Keith M.,1431550489598,"The cold air is pushed upward, condensing and causing precipitation",PRECIPITATION+CF
+2015-05-13,16:54:49,0,VirtualCarolyn,1431550491000,I noticed that you are talking about cold front precipitation. If you want to check your knowledge on cold front precipitation with me say 'LET'S DISCUSS ABOUT cold front precipitation' and I will ask some questions on it.,TOPIC_ELICITATION

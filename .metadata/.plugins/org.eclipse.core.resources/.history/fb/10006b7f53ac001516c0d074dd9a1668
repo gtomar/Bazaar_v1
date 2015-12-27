@@ -1,0 +1,1205 @@
+<entry timestamp="2015-11-19#18:27:49" user="FactoryBuiltAgent" level="NORMAL">CONFIGURING AGENT BazaarAgent_mturktesttyty</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.AGENT" level="NORMAL"><created>BazaarAgent_mturktesttyty</created></entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.stateMemory" level="NORMAL"><created>stateMemory</created></entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.client" level="NORMAL"><created>client</created></entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.client" level="NORMAL">Property read: socket_url =	http://bazaar.lti.cs.cmu.edu:8000</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.ccActor" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.ccActor" level="NORMAL"><created>ccActor</created></entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.ccActor" level="NORMAL">Property read: typingScale =	null</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL"><created>inputCoordinator</created></entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL"><created>outputCoordinator</created></entry>
+<entry timestamp="2015-11-19#18:27:49" user="(client->inputCoordinator)" level="INFO">Connection initialized. Id=1447975669757</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.client" level="INFO">Outgoing connection added from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO">Inward connection added from inputCoordinator to client</entry>
+<entry timestamp="2015-11-19#18:27:49" user="(inputCoordinator->inputCoordinator)" level="INFO">Connection initialized. Id=1447975669757</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:27:49" user="(inputCoordinator->outputCoordinator)" level="INFO">Connection initialized. Id=1447975669757</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to outputCoordinator</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Inward connection added from outputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:27:49" user="(outputCoordinator->client)" level="INFO">Connection initialized. Id=1447975669757</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Outgoing connection added from outputCoordinator to client</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.client" level="INFO">Inward connection added from client to outputCoordinator</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.AGENT" level="NORMAL"><initialized>BazaarAgent_mturktesttyty</initialized></entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Observer Added:stateMemory.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.ccActor" level="INFO">Observer Added:ccActor.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.client" level="INFO">Observer Added:client.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2015-11-19#18:27:49" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.edge</entry>
+<entry timestamp="2015-11-19#18:27:49" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.edge</entry>
+<entry timestamp="2015-11-19#18:27:49" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.edge</entry>
+<entry timestamp="2015-11-19#18:27:49" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.edge</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Observer Added:stateMemory.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.ccActor" level="INFO">Observer Added:ccActor.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.client" level="INFO">Observer Added:client.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-11-19#18:27:49" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2015-11-19#18:27:49" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.panel</entry>
+<entry timestamp="2015-11-19#18:27:49" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.panel</entry>
+<entry timestamp="2015-11-19#18:27:49" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.panel</entry>
+<entry timestamp="2015-11-19#18:27:49" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.panel</entry>
+<entry timestamp="2015-11-19#18:27:50" user="AgreeDisagreeActor" level="WARNING">agree condition: false</entry>
+<entry timestamp="2015-11-19#18:27:50" user="AskForExplanationActor" level="WARNING">explain_other condition: false</entry>
+<entry timestamp="2015-11-19#18:27:50" user="RevoiceActor" level="WARNING">revoice condition: false</entry>
+<entry timestamp="2015-11-19#18:27:50" user="SayMoreActor" level="WARNING">say_more condition: false</entry>
+<entry timestamp="2015-11-19#18:27:50" user="PlanExecutor" level="NORMAL"><configuration planfile="plans/plan_steps.xml"></entry>
+<entry timestamp="2015-11-19#18:27:50" user="PlanExecutor" level="ERROR">PlanExecutor: Can't do that...java.io.IOException: No such file or directory</entry>
+<entry timestamp="2015-11-19#18:27:50" user="PlanExecutor" level="ERROR">Error while reading Status File (java.io.FileNotFoundException: planstatus/BazaarAgent_mturktesttyty.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></commit></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.AGENT" level="NORMAL"><starting>Initializing each component</starting></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.stateMemory" level="NORMAL"><initialized>stateMemory</initialized></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.ccActor" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.ccActor" level="NORMAL"><initialized>ccActor</initialized></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.client" level="NORMAL"><initialized>client</initialized></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL"><initialized>outputCoordinator</initialized></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL"><initialized>inputCoordinator</initialized></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.AGENT" level="NORMAL"><starting>All components initialized</starting></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:27:50" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: gaurav is now PRESENT</processing></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: gaurav is now PRESENT</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></retrieve></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:27:50" user="PlanExecutor" level="NORMAL">Plan: <stage name="initiate" timeout="10">set</stage></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-11-19#18:27:50" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: gaurav is now PRESENT]</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from BazaarAgent: Welcome, gaurav
+ INTRODUCTION]</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from BazaarAgent: Welcome, gaurav
+ INTRODUCTION]</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO">Observer Added:frame1. 3 Observers now.</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:27:50" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: BazaarAgent is now PRESENT</processing></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: BazaarAgent is now PRESENT</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: BazaarAgent is now PRESENT]</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:27:50" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:27:50" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: gaurav is now PRESENT</processing></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: gaurav is now PRESENT</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: gaurav is now PRESENT]</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: sree is now PRESENT</processing></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: sree is now PRESENT</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-11-19#18:27:50" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: sree is now PRESENT]</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from BazaarAgent: Welcome, sree
+ INTRODUCTION]</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from BazaarAgent: Welcome, sree
+ INTRODUCTION]</entry>
+<entry timestamp="2015-11-19#18:27:50" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:27:51" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: sree is now PRESENT</processing></entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: sree is now PRESENT</entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: sree is now PRESENT]</entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Proposal Queue: [Message from BazaarAgent: Welcome, gaurav
+ INTRODUCTION, Message from BazaarAgent: Welcome, sree
+ INTRODUCTION]</entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Proposal Message from BazaarAgent: Welcome, gaurav
+ INTRODUCTIONbelief*priority: 1.0*1000000.0=1000000.0</entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Proposal Message from BazaarAgent: Welcome, sree
+ INTRODUCTIONbelief*priority: 1.0*1000000.0=1000000.0</entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:27:51" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from BazaarAgent: Welcome, gaurav
+ INTRODUCTION</processing></entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:27:51" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from BazaarAgent: Welcome, gaurav
+ </processing></entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from BazaarAgent: Welcome, gaurav
+ </entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:27:51" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from BazaarAgent: Welcome, gaurav
+ ]</entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:27:51" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Proposal Queue: [Message from BazaarAgent: Welcome, sree
+ INTRODUCTION]</entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Proposal not allowed by Source: INTRODUCTION: Message from BazaarAgent: Welcome, sree
+ INTRODUCTION</entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Proposal Message from BazaarAgent: Welcome, sree
+ INTRODUCTIONbelief*priority: 0.0*862000.0=862000.0</entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:27:53" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from BazaarAgent: Welcome, sree
+ INTRODUCTION</processing></entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:27:53" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from BazaarAgent: Welcome, sree
+ </processing></entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from BazaarAgent: Welcome, sree
+ </entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:27:53" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from BazaarAgent: Welcome, sree
+ ]</entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:27:53" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:00" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:00" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:00" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:00" user="PlanExecutor" level="ERROR">Error while updating Status File (java.io.FileNotFoundException: planstatus/BazaarAgent_mturktesttyty.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Proposal Queue: [Message from BazaarAgent: Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor. Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.]</entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Proposal not allowed by Source: INTRODUCTION: Message from BazaarAgent: Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor. Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.</entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Proposal Message from BazaarAgent: Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor. Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.belief*priority: 0.0*0.75=0.75</entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:01" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from BazaarAgent: Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor. Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.</processing></entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:01" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from BazaarAgent: Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor. </processing></entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from BazaarAgent: Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor. </entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:01" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from BazaarAgent: Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor. ]</entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:01" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:02" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:02" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:02" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: gaurav is now PRESENT</processing></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: gaurav is now PRESENT</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: gaurav is now PRESENT]</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: sree is now PRESENT</processing></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: sree is now PRESENT</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: sree is now PRESENT]</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: xu is now PRESENT</processing></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: xu is now PRESENT</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: xu is now PRESENT]</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:02" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: xu is now PRESENT</processing></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: xu is now PRESENT</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: xu is now PRESENT]</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:02" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:03" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:03" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:03" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:03" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:03" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from gaurav: plan 3 </processing></entry>
+<entry timestamp="2015-11-19#18:28:03" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from gaurav: plan 3 </entry>
+<entry timestamp="2015-11-19#18:28:04" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:04" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:04" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:04" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:04" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:04" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:28:04" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:04" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from gaurav: plan 3 PLAN+PLAN3+neg]</entry>
+<entry timestamp="2015-11-19#18:28:04" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:04" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:04" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:09" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from sree: Wassup! </processing></entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from sree: Wassup! </entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:09" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from sree: Wassup! neg]</entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:09" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from xu: i propose plan 4 </processing></entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from xu: i propose plan 4 </entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:09" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:28:09" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:10" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from xu: i propose plan 4 PLAN+PLAN4+neg]</entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from gaurav: no reason </processing></entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from gaurav: no reason </entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:10" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-11-19#18:28:10" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from gaurav: no reason NEGATIVE+neg]</entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from BazaarAgent: Hey gaurav, Can you evaluate plan 3 from your perspective of carbon neutrality and economical in the long run ? plan_reasoning]</entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from BazaarAgent: Hey gaurav, Can you evaluate plan 3 from your perspective of carbon neutrality and economical in the long run ? plan_reasoning]</entry>
+<entry timestamp="2015-11-19#18:28:10" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Proposal Queue: [Message from BazaarAgent: Hey gaurav, Can you evaluate plan 3 from your perspective of carbon neutrality and economical in the long run ? plan_reasoning]</entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Proposal not allowed by Source: PromptStep: Message from BazaarAgent: Hey gaurav, Can you evaluate plan 3 from your perspective of carbon neutrality and economical in the long run ? plan_reasoning</entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Proposal Message from BazaarAgent: Hey gaurav, Can you evaluate plan 3 from your perspective of carbon neutrality and economical in the long run ? plan_reasoningbelief*priority: 0.0*1000000.0=1000000.0</entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:11" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from BazaarAgent: Hey gaurav, Can you evaluate plan 3 from your perspective of carbon neutrality and economical in the long run ? plan_reasoning</processing></entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:11" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from BazaarAgent: Hey gaurav, Can you evaluate plan 3 from your perspective of carbon neutrality and economical in the long run ? </processing></entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from BazaarAgent: Hey gaurav, Can you evaluate plan 3 from your perspective of carbon neutrality and economical in the long run ? </entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:11" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from BazaarAgent: Hey gaurav, Can you evaluate plan 3 from your perspective of carbon neutrality and economical in the long run ? ]</entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:11" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:25" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:25" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:25" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:25" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:25" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from gaurav: plan 1  </processing></entry>
+<entry timestamp="2015-11-19#18:28:25" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from gaurav: plan 1  </entry>
+<entry timestamp="2015-11-19#18:28:25" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:25" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:25" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:25" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:25" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:28:25" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:25" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from gaurav: plan 1  PLAN+PLAN1+neg]</entry>
+<entry timestamp="2015-11-19#18:28:25" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:25" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:25" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:28" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from gaurav: no reason </processing></entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from gaurav: no reason </entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:28" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-11-19#18:28:28" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from gaurav: no reason NEGATIVE+neg]</entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from BazaarAgent: Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ? plan_reasoning]</entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from BazaarAgent: Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ? plan_reasoning]</entry>
+<entry timestamp="2015-11-19#18:28:28" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Proposal Queue: [Message from BazaarAgent: Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ? plan_reasoning]</entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Proposal Message from BazaarAgent: Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ? plan_reasoningbelief*priority: 0.019775390625*1000000.0=1000000.0</entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:29" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from BazaarAgent: Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ? plan_reasoning</processing></entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:29" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from BazaarAgent: Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ? </processing></entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from BazaarAgent: Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ? </entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:29" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from BazaarAgent: Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ? ]</entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:29" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:34" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:34" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:34" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:34" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:34" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from gaurav: plan 2 </processing></entry>
+<entry timestamp="2015-11-19#18:28:34" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from gaurav: plan 2 </entry>
+<entry timestamp="2015-11-19#18:28:34" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:34" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:34" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:34" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:34" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:28:34" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:34" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from gaurav: plan 2 PLAN+PLAN2+neg]</entry>
+<entry timestamp="2015-11-19#18:28:34" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:34" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:34" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:38" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:38" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:38" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:38" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:38" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from gaurav: no reason </processing></entry>
+<entry timestamp="2015-11-19#18:28:38" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from gaurav: no reason </entry>
+<entry timestamp="2015-11-19#18:28:38" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:38" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:38" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:38" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:38" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:28:38" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:38" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from gaurav: no reason NEGATIVE+neg]</entry>
+<entry timestamp="2015-11-19#18:28:38" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:38" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:38" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:40" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:40" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:40" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:40" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:40" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from sree: plan 1 is not viable because it is not environment friendly and just plain shit </processing></entry>
+<entry timestamp="2015-11-19#18:28:40" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from sree: plan 1 is not viable because it is not environment friendly and just plain shit </entry>
+<entry timestamp="2015-11-19#18:28:40" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:40" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:40" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:40" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">SOCIAL_TRIGGER_EVENT</dispatching></entry>
+<entry timestamp="2015-11-19#18:28:40" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate SOCIAL_TRIGGER_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:40" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-11-19#18:28:40" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:40" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:40" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:40" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:28:40" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:41" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:41" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2015-11-19#18:28:43" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from sree: plan 1 is not viable because it is not environment friendly and just plain shit PLAN+ABUSE+GIVING_OPINION+NEGATIVE+PLAN1+pos]</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"><socialtrigger from="RULES" score="1.0" /></processing></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: <socialtrigger from="RULES" score="1.0" /></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [<socialtrigger from="RULES" score="1.0" />]</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from BazaarAgent: Hey gaurav, Can you evaluate sree 's plan from your perspective of carbon neutrality and economical in the long run ? plan_reasoning]</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from BazaarAgent: Hey gaurav, Can you evaluate sree 's plan from your perspective of carbon neutrality and economical in the long run ? plan_reasoning]</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from xu: I thik plan 3 is the best because it is the most environmentally friendly and could generate some commercial benefits. </processing></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from xu: I thik plan 3 is the best because it is the most environmentally friendly and could generate some commercial benefits. </entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">SOCIAL_TRIGGER_EVENT</dispatching></entry>
+<entry timestamp="2015-11-19#18:28:43" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate SOCIAL_TRIGGER_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:43" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Proposal Queue: [Message from BazaarAgent: Hey gaurav, Can you evaluate sree 's plan from your perspective of carbon neutrality and economical in the long run ? plan_reasoning]</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Proposal not allowed by Source: plan_reasoning: Message from BazaarAgent: Hey gaurav, Can you evaluate sree 's plan from your perspective of carbon neutrality and economical in the long run ? plan_reasoning</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Proposal Message from BazaarAgent: Hey gaurav, Can you evaluate sree 's plan from your perspective of carbon neutrality and economical in the long run ? plan_reasoningbelief*priority: 0.0*1000000.0=1000000.0</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:43" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from BazaarAgent: Hey gaurav, Can you evaluate sree 's plan from your perspective of carbon neutrality and economical in the long run ? plan_reasoning</processing></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2015-11-19#18:28:43" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:28:43" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from xu: I thik plan 3 is the best because it is the most environmentally friendly and could generate some commercial benefits. PLAN+GIVING_OPINION+PLAN3+pos]</entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"><socialtrigger from="RULES" score="1.0" /></processing></entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: <socialtrigger from="RULES" score="1.0" /></entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [<socialtrigger from="RULES" score="1.0" />]</entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from BazaarAgent: Hey gaurav, Can you evaluate sree 's plan from your perspective of carbon neutrality and economical in the long run ? </processing></entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from BazaarAgent: Hey gaurav, Can you evaluate sree 's plan from your perspective of carbon neutrality and economical in the long run ? </entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:28:44" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from BazaarAgent: Hey gaurav, Can you evaluate sree 's plan from your perspective of carbon neutrality and economical in the long run ? ]</entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:28:44" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:29:32" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:29:32" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:29:32" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:29:32" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:29:32" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from xu: plan4 </processing></entry>
+<entry timestamp="2015-11-19#18:29:32" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from xu: plan4 </entry>
+<entry timestamp="2015-11-19#18:29:32" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:29:32" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:29:32" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:29:32" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:29:32" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:29:32" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:29:32" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from xu: plan4 PLAN+PLAN4+neg]</entry>
+<entry timestamp="2015-11-19#18:29:32" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:29:32" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:29:32" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:29:35" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:29:35" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:29:35" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:29:35" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:29:35" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from xu: plan 4 </processing></entry>
+<entry timestamp="2015-11-19#18:29:35" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from xu: plan 4 </entry>
+<entry timestamp="2015-11-19#18:29:35" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:29:35" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:29:35" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:29:35" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:29:35" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:29:35" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:29:35" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from xu: plan 4 PLAN+PLAN4+neg]</entry>
+<entry timestamp="2015-11-19#18:29:35" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:29:35" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:29:35" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:29:36" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:29:36" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:29:36" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:29:36" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:29:36" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from xu: hi </processing></entry>
+<entry timestamp="2015-11-19#18:29:36" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from xu: hi </entry>
+<entry timestamp="2015-11-19#18:29:36" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:29:36" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:29:36" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:29:36" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:29:36" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:29:36" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:29:36" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from xu: hi neg]</entry>
+<entry timestamp="2015-11-19#18:29:36" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:29:36" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:29:36" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:29:38" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:29:38" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:29:38" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:29:38" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:29:38" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from sree: Wassup </processing></entry>
+<entry timestamp="2015-11-19#18:29:38" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from sree: Wassup </entry>
+<entry timestamp="2015-11-19#18:29:38" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:29:38" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:29:38" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:29:38" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:29:38" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:29:38" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:29:38" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from sree: Wassup neg]</entry>
+<entry timestamp="2015-11-19#18:29:38" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:29:38" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:29:38" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:30:04" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:30:08" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:30:08" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:30:08" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:30:08" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:30:08" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from sree: plan4 is not viable because environment friendly and economy </processing></entry>
+<entry timestamp="2015-11-19#18:30:08" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from sree: plan4 is not viable because environment friendly and economy </entry>
+<entry timestamp="2015-11-19#18:30:08" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:30:08" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:30:08" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:30:08" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:30:08" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2015-11-19#18:30:08" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:30:08" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from sree: plan4 is not viable because environment friendly and economy PLAN+PLAN4+NEGATIVE+neg]</entry>
+<entry timestamp="2015-11-19#18:30:08" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:30:08" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:30:08" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:32:04" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">DORMANT_GROUP_EVENT</dispatching></entry>
+<entry timestamp="2015-11-19#18:32:04" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate DORMANT_GROUP_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:32:04" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="DORMANT_GROUP_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2015-11-19#18:32:04" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:32:04" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:32:04" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="DORMANT_GROUP_EVENT" from="inputCoordinator"><dormantGroup/></processing></entry>
+<entry timestamp="2015-11-19#18:32:04" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: <dormantGroup/></entry>
+<entry timestamp="2015-11-19#18:32:04" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:32:04" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:32:04" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [<dormantGroup/>]</entry>
+<entry timestamp="2015-11-19#18:32:04" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:32:04" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:32:04" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="DORMANT_GROUP_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:32:48" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:32:48" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2015-11-19#18:32:48" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: gaurav is now PRESENT</processing></entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: gaurav is now PRESENT</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: gaurav is now PRESENT]</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: xu is now PRESENT</processing></entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: xu is now PRESENT</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: xu is now PRESENT]</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: sree is now ABSENT</processing></entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: sree is now ABSENT</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="true" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor." type="prompt"/>
+	<student id="gaurav" name="gaurav" role="UNASSIGNED" present="true" />	<student id="sree" name="sree" role="UNASSIGNED" present="false" />	<student id="xu" name="xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: sree is now ABSENT]</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2015-11-19#18:32:48" user="BazaarAgent_mturktesttyty.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>

@@ -1,0 +1,38 @@
+<entry timestamp="2015-11-19#18:14:38" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2015-11-19#18:14:38" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2015-11-19#18:14:38" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2015-11-19#18:14:38" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.side.listeners.LightSideMessageAnnotator, class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher, class basilica2.social.listeners.StrategyScoreComputer, class basilica2.social.listeners.RuleBasedTriggerComputer, class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.myagent.listeners.Register]</entry>
+<entry timestamp="2015-11-19#18:14:38" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor, class basilica2.myagent.listeners.PromptActor]</entry>
+<entry timestamp="2015-11-19#18:14:39" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2015-11-19#18:14:39" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2015-11-19#18:14:44" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to mturktesttyty</entry>
+<entry timestamp="2015-11-19#18:14:44" user="NewAgentRunner" level="NORMAL"><launching room=mturktesttyty/></entry>
+<entry timestamp="2015-11-19#18:14:44" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2015-11-19#18:14:45" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2015-11-19#18:14:45" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2015-11-19#18:14:45" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2015-11-19#18:14:45" user="AgentFactory" level="NORMAL">Components read. N=5</entry>
+<entry timestamp="2015-11-19#18:14:45" user="AgentFactory" level="NORMAL">Agent build. BazaarAgent_mturktesttyty</entry>
+<entry timestamp="2015-11-19#18:14:45" user="NewAgentRunner" level="NORMAL">Adding agent BazaarAgent_mturktesttyty</entry>
+<entry timestamp="2015-11-19#18:14:45" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2015-11-19#18:14:45" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2015-11-19#18:14:48" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2015-11-19#18:14:48" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2015-11-19#18:14:49" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-11-19#18:14:49" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for BazaarAgent_mturktesttyty</entry>
+<entry timestamp="2015-11-19#18:14:49" user="NewAgentRunner" level="NORMAL">Agent added BazaarAgent_mturktesttyty</entry>
+<entry timestamp="2015-11-19#18:14:49" user="" level="NORMAL">accepted. Message from BazaarAgent: Welcome, gaurav
+ INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-11-19#18:14:59" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2015-11-19#18:14:59" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2015-11-19#18:14:59" user="Step" level="NORMAL">Handlers for Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.(prompt): [basilica2.agents.listeners.plan.PromptStepHandler@72cef095]</entry>
+<entry timestamp="2015-11-19#18:14:59" user="PromptStepHandler" level="NORMAL">starting 15.399999999999999 second prompt delay</entry>
+<entry timestamp="2015-11-19#18:14:59" user="" level="NORMAL">accepted. Message from BazaarAgent: Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor. Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor..
+Starting blockout countdown... </entry>
+<entry timestamp="2015-11-19#18:15:14" user="PromptStepHandler" level="NORMAL">ending 15.399999999999999 second prompt delay</entry>
+<entry timestamp="2015-11-19#18:15:14" user="PlanExecutor" level="NORMAL">starting 720 second delay timer for Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.</entry>

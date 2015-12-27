@@ -1,0 +1,72 @@
+2015-11-15,01:44:48,0,VirtualCarolyn,1447569890130,"Welcome, Sree S
+",INTRODUCTION
+2015-11-15,01:45:09,0,VirtualCarolyn,1447569910232,"Welcome, xu
+",INTRODUCTION
+2015-11-15,01:45:09,0,xu,1447569912146,hi,neg
+2015-11-15,01:45:14,0,VirtualCarolyn,1447569914238,"Welcome, gaurav
+",INTRODUCTION
+2015-11-15,01:45:15,0,Sree S,1447569915929,Hi Xu!,neg
+2015-11-15,01:45:19,0,Sree S,1447569919461,Hi Gaurav!,neg
+2015-11-15,01:45:32,0,xu,1447569932519,I agree with you,GIVING_ORIENTATION+AGREE+neg
+2015-11-15,01:45:32,0,Sree S,1447569933202,Is there a welcome prompt?,QUESTION+neg
+2015-11-15,01:45:33,0,gaurav,1447569933609,Hi everyone,neg
+2015-11-15,01:45:33,0,VirtualCarolyn,1447569934261,"xu, can you elaborate on why you agree?",agree_reasoning
+2015-11-15,01:45:57,0,Sree S,1447569958421,I guess agreement is working.,GIVING_OPINION+GIVING_ORIENTATION+neg
+2015-11-15,01:46:01,0,gaurav,1447569965096,It's still over budget and plan 1 puts into effect wase disposal,PLAN+pos
+2015-11-15,01:46:05,0,VirtualCarolyn,1447569966311,"gaurav, thanks for your explanation, that makes the argument very clear.",REASONING_APPRECIATION
+2015-11-15,01:46:07,0,Sree S,1447569967854,I am going to say plan1,PLAN+AFFIRMATIVE+neg
+2015-11-15,01:46:07,0,VirtualCarolyn,1447569968315,"gaurav, can you say more about why you chose this plan?",plan_reasoning
+2015-11-15,01:46:08,0,xu,1447569970980,"yes, sure! I think the plan is better because it doesn't have any pollution",GIVING_OPINION+GIVING_ORIENTATION+AFFIRMATIVE+pos
+2015-11-15,01:46:10,0,VirtualCarolyn,1447569972383,"xu, thanks for your explanation, that makes the argument very clear.",REASONING_APPRECIATION
+2015-11-15,01:46:24,0,Sree S,1447569984866,Just plan1,PLAN+neg
+2015-11-15,01:46:31,0,gaurav,1447569994483,it will be bit slow .. as i m runing from my old laptop,neg
+2015-11-15,01:46:34,0,VirtualCarolyn,1447569996450,"Sree S, can you say more about why you chose this plan?",plan_reasoning
+2015-11-15,01:46:47,0,Sree S,1447570007239,Oh ok.,AFFIRMATIVE+neg
+2015-11-15,01:47:12,0,VirtualCarolyn,1447570032487,"xu, would you like to talk about which plan you prefer?",PLAN_ELICITATION
+2015-11-15,01:47:17,0,Sree S,1447570039151,I disagree with you because I feel that the city's budget does not allow the implementation of such a costly plan.,CHALLENGE_CONTRIBUTION+GIVING_ORIENTATION+DISAGREE+NEGATIVE+pos
+2015-11-15,01:47:19,0,VirtualCarolyn,1447570040499,"Sree S, thanks for your explanation, that makes the argument very clear.",REASONING_APPRECIATION
+2015-11-15,01:47:26,0,Sree S,1447570046687,Nice.,POSITIVITY+neg
+2015-11-15,01:47:26,0,VirtualCarolyn,1447570048510,"Sree S, do you have any reasons to disagree?",disagree_reasoning
+2015-11-15,01:47:34,0,Sree S,1447570055698,The model seems to be working well.,pos
+2015-11-15,01:47:35,0,VirtualCarolyn,1447570056521,"Sree S, thanks for your explanation, that makes the argument very clear.",REASONING_APPRECIATION
+2015-11-15,01:47:48,0,Sree S,1447570069654,"If we can smooth out the response, we should be fine.",POSITIVITY+pos
+2015-11-15,01:47:49,0,VirtualCarolyn,1447570070599,"Sree S, thanks for your explanation, that makes the argument very clear.",REASONING_APPRECIATION
+2015-11-15,01:48:00,0,xu,1447570080356,"oh, I prefer plan 3",PLAN+neg
+2015-11-15,01:48:09,0,xu,1447570091119,because plan 3 is the most economical plan among all plans,PLAN+GIVING_OPINION+pos
+2015-11-15,01:48:11,0,VirtualCarolyn,1447570092623,"xu, thanks for your explanation, that makes the argument very clear.",REASONING_APPRECIATION
+2015-11-15,01:48:26,0,gaurav,1447570108704,i identified a small bug .. i will fix that,neg
+2015-11-15,01:48:28,0,VirtualCarolyn,1447570108722,"xu, can you say more about why you chose this plan?",plan_reasoning
+2015-11-15,01:48:45,0,gaurav,1447570125817,this is the bug,neg
+2015-11-15,01:48:50,0,gaurav,1447570130770,xu got two responses,neg
+2015-11-15,01:48:54,0,gaurav,1447570134306,she shud get one,neg
+2015-11-15,01:48:55,0,xu,1447570136992,"@Gaurav, is it because I'm not saying anything in some time, so that she's asking me which plan I prefer?",QUESTION+NEGATIVE+neg
+2015-11-15,01:48:59,0,gaurav,1447570139260,i know the reason,EXPLANATION_CONTRIBUTION+neg
+2015-11-15,01:49:09,0,xu,1447570150629,"xu, would you like to talk about which plan you prefer?",POSITIVITY+QUESTION+neg
+2015-11-15,01:49:12,0,xu,1447570152703,this,neg
+2015-11-15,01:49:21,0,Sree S,1447570161977,I also got multiple responses.,neg
+2015-11-15,01:49:35,0,xu,1447570176188,"yes, if we're checking two dialogues",AFFIRMATIVE+neg
+2015-11-15,01:49:48,0,xu,1447570188258,there should be one response,neg
+2015-11-15,01:49:48,0,gaurav,1447570188999,i know the reason will fix that,EXPLANATION_CONTRIBUTION+neg
+2015-11-15,01:49:53,0,Sree S,1447570193502,Ok.,AFFIRMATIVE+neg
+2015-11-15,01:49:54,0,xu,1447570194970,"ok, great!",AFFIRMATIVE+neg
+2015-11-15,01:50:15,0,gaurav,1447570219229,i jus realized because model was not working i could not check all the cases,NEGATIVE+neg
+2015-11-15,01:50:17,0,gaurav,1447570219391,test*,neg
+2015-11-15,01:50:25,0,Sree S,1447570226470,Yeterday was children's day in India.,neg
+2015-11-15,01:50:34,0,xu,1447570235111,happy children's day,neg
+2015-11-15,01:50:37,0,xu,1447570237890,haahha ,neg
+2015-11-15,01:50:48,0,gaurav,1447570251430,"i agree with sree that It is inexpensive, low polluting, and has the highest percentage of renewables",GIVING_OPINION+GIVING_ORIENTATION+AGREE+pos
+2015-11-15,01:50:49,0,xu,1447570251489,"oh, yeah",AFFIRMATIVE+neg
+2015-11-15,01:50:51,0,VirtualCarolyn,1447570253208,"gaurav, thanks for your explanation, that makes the argument very clear.",REASONING_APPRECIATION
+2015-11-15,01:50:51,0,VirtualCarolyn,1447570255211,"gaurav, can you elaborate on why you agree?",agree_reasoning
+2015-11-15,01:51:07,0,Sree S,1447570269405,Children's day is celebrated in memory of one of our prime ministers who kids used to adore apparently.,pos
+2015-11-15,01:51:09,0,VirtualCarolyn,1447570271228,"Sree S, thanks for your explanation, that makes the argument very clear.",REASONING_APPRECIATION
+2015-11-15,01:51:32,0,xu,1447570293405,"I don't with Gaurav because it's not a renewable energy source, there'll be a day coal energy is exhausted.",AUDIO_SOURCE+NEGATIVE+pos
+2015-11-15,01:51:33,0,VirtualCarolyn,1447570295335,"xu, thanks for your explanation, that makes the argument very clear.",REASONING_APPRECIATION
+2015-11-15,01:51:55,0,Sree S,1447570316030,Huh?,QUESTION+neg
+2015-11-15,01:52:02,0,Sree S,1447570322641,Incorrect reasoning detection here..,neg
+2015-11-15,01:52:14,0,gaurav,1447570334327,i will check that in model,neg
+2015-11-15,01:52:20,0,Sree S,1447570340523,I guess I was reasoning but my reasoning was not on topic..,GIVING_OPINION+NEGATIVE+neg
+2015-11-15,01:52:21,0,xu,1447570341589,"another thing is we didn't try to distinguish on-topic dialogues with off-topic ones, but I guess that won't be a problem in the real study?",GIVING_OPINION+QUESTION+neg
+2015-11-15,01:52:26,0,Sree S,1447570346829,Maybe we can address that.,POSITIVITY+GIVING_OPINION+GIVING_ORIENTATION+neg
+2015-11-15,01:52:28,0,Sree S,1447570348708,Yeah Xu!,AFFIRMATIVE+neg
+2015-11-15,01:52:40,0,Sree S,1447570360529,That won't be.,PREDICTION_CONTRIBUTION+neg

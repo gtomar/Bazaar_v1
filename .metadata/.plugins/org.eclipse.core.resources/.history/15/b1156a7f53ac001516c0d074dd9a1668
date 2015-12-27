@@ -1,0 +1,12 @@
+2015-11-18,20:32:45,0,BazaarAgent,1447896766817,"Welcome, gaurav
+",INTRODUCTION
+2015-11-18,20:32:45,0,BazaarAgent,1447896768909,"Welcome, xu
+",INTRODUCTION
+2015-11-18,20:32:55,0,BazaarAgent,1447896776916,"Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.",Use this space to discuss the relative merits and demerits of each of your assigned energy sources and come to a consensus
+about which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons for the same. Virtual Carolyn agent will support you in this endeavor.
+2015-11-18,20:33:47,0,gaurav,1447896831733,there,neg
+2015-11-18,20:33:59,0,sree,1447896839875,hello,neg
+2015-11-18,20:34:06,0,sree,1447896858373,It's still over budget and plan 1 puts into effect wase disposal,PLAN+pos
+2015-11-18,20:34:18,0,BazaarAgent,1447896859110,"Hey xu, Can you evaluatesree's plan from your perspective of environmental friendliness and low startup cost ?",plan_reasoning
+2015-11-18,20:34:30,0,sree,1447896871247,space is missing but otherwise fine.,GIVING_OPINION+neg

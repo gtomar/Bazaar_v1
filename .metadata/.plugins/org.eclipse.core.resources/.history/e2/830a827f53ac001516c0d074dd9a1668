@@ -1,0 +1,15 @@
+2015-07-15,16:20:28,0,VirtualCarolyn,1436991630080,...,...
+2015-07-15,16:21:25,0,VirtualCarolyn,1436991686164,(s1) low pressure temperature,WIZARD
+2015-07-15,16:21:25,0,s1,1436991686201,low pressure temperature,LP+WIZARD+TEMPERATURE
+2015-07-15,16:21:26,0,VirtualCarolyn,1436991688170,I noticed that you are talking about low pressure temperature. If you want to check your knowledge on low pressure temperature with me say 'LET'S DISCUSS ABOUT low pressure temperature' and I will ask some questions on it.,TOPIC_ELICITATION
+2015-07-15,16:23:25,0,VirtualCarolyn,1436991806303,You can discuss about low pressure precipitation. If you want to check your knowledge on low pressure precipitation with me say 'LET'S DISCUSS ABOUT low pressure precipitation',TOPIC_PROMPTED
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-07-15,16:49:41,0,VirtualCarolyn,1436993383436,...,...
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2015-07-16,10:08:22,0,VirtualCarolyn,1437055703891,(Oz) happy joy good,WIZARD
+2015-07-16,10:08:23,0,Oz,1437055722363,happy joy good,POSITIVITY+WIZARD+pos
+2015-07-16,10:09:16,0,Oz,1437055756968,sad cry ,WIZARD+neg
+2015-07-16,10:09:16,0,VirtualCarolyn,1437055758692,(Oz) sad cry ,WIZARD
+2015-07-16,10:10:45,0,Oz,1437055846003,fun hilarious,POSITIVITY+WIZARD+SILLYNESS+pos
+2015-07-16,10:10:45,0,VirtualCarolyn,1437055846781,(Oz) fun hilarious,WIZARD
+2015-07-16,10:12:23,0,VirtualCarolyn,1437055944954,You can discuss about low pressure precipitation. If you want to check your knowledge on low pressure precipitation with me say 'LET'S DISCUSS ABOUT low pressure precipitation',TOPIC_PROMPTED

@@ -1,0 +1,63 @@
+<entry timestamp="2015-12-07#20:16:19" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2015-12-07#20:16:19" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2015-12-07#20:16:19" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2015-12-07#20:16:19" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.side.listeners.LightSideMessageAnnotator, class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher, class basilica2.social.listeners.StrategyScoreComputer, class basilica2.social.listeners.RuleBasedTriggerComputer, class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.myagent.listeners.Register]</entry>
+<entry timestamp="2015-12-07#20:16:19" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor, class basilica2.myagent.listeners.PromptActor]</entry>
+<entry timestamp="2015-12-07#20:16:21" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2015-12-07#20:16:21" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2015-12-07#20:16:33" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to mturk_id3</entry>
+<entry timestamp="2015-12-07#20:16:33" user="NewAgentRunner" level="NORMAL"><launching room=mturk_id3/></entry>
+<entry timestamp="2015-12-07#20:16:33" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2015-12-07#20:16:33" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2015-12-07#20:16:33" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2015-12-07#20:16:33" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2015-12-07#20:16:33" user="AgentFactory" level="NORMAL">Components read. N=5</entry>
+<entry timestamp="2015-12-07#20:16:33" user="AgentFactory" level="NORMAL">Agent build. BazaarAgent_mturk_id3</entry>
+<entry timestamp="2015-12-07#20:16:33" user="NewAgentRunner" level="NORMAL">Adding agent BazaarAgent_mturk_id3</entry>
+<entry timestamp="2015-12-07#20:16:33" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2015-12-07#20:16:33" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2015-12-07#20:16:33" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2015-12-07#20:16:34" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2015-12-07#20:16:34" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for BazaarAgent_mturk_id3</entry>
+<entry timestamp="2015-12-07#20:16:34" user="NewAgentRunner" level="NORMAL">Agent added BazaarAgent_mturk_id3</entry>
+<entry timestamp="2015-12-07#20:16:34" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2015-12-07#20:16:34" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2015-12-07#20:16:34" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2015-12-07#20:16:35" user="" level="NORMAL">accepted. Message from BazaarAgent: Welcome, sree
+ INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-12-07#20:16:37" user="" level="NORMAL">accepted. Message from BazaarAgent: Welcome, xu
+ INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-12-07#20:16:39" user="" level="NORMAL">rejected! Message from BazaarAgent: Welcome, gaurav
+ INTRODUCTION</entry>
+<entry timestamp="2015-12-07#20:16:44" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2015-12-07#20:16:44" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2015-12-07#20:16:44" user="Step" level="NORMAL">Handlers for Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.(prompt): [basilica2.agents.listeners.plan.PromptStepHandler@9e8c8b1]</entry>
+<entry timestamp="2015-12-07#20:16:44" user="PromptStepHandler" level="NORMAL">starting 18.400000000000002 second prompt delay</entry>
+<entry timestamp="2015-12-07#20:16:45" user="" level="NORMAL">accepted. Message from BazaarAgent: Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process. Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process..
+Starting blockout countdown... </entry>
+<entry timestamp="2015-12-07#20:16:53" user="" level="NORMAL">accepted. Message from BazaarAgent: Hey xu, Can you elaborate on your choice from your perspective of environmental friendliness and reliability ? plan_reasoning.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-12-07#20:17:02" user="PromptStepHandler" level="NORMAL">ending 18.400000000000002 second prompt delay</entry>
+<entry timestamp="2015-12-07#20:17:02" user="PlanExecutor" level="NORMAL">starting 720 second delay timer for Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2 and come to a consensus on which plan you think is the best. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.</entry>
+<entry timestamp="2015-12-07#20:17:21" user="" level="NORMAL">accepted. Message from BazaarAgent: Hey gaurav, Can you evaluate xu's choice from your perspective of carbon neutrality and economical in the long run ? plan_reasoning.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-12-07#20:17:43" user="" level="NORMAL">accepted. Message from BazaarAgent: Hey gaurav, Can you evaluate plan 4 from your perspective of carbon neutrality and economical in the long run ? plan_reasoning.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-12-07#20:17:51" user="" level="NORMAL">accepted. Message from BazaarAgent: Hey sree, Can you evaluate xu's plan from your perspective of most economical ? plan_reasoning.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-12-07#20:18:05" user="" level="NORMAL">accepted. Message from BazaarAgent: Hey xu, Can you evaluate plan 4 from your perspective of environmental friendliness and reliability ? plan_reasoning.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-12-07#20:19:01" user="" level="NORMAL">accepted. Message from BazaarAgent: Hey xu, Can you evaluate plan 1 from your perspective of environmental friendliness and reliability ? plan_reasoning.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-12-07#20:19:59" user="" level="NORMAL">accepted. Message from BazaarAgent: Hey sree, Can you evaluate plan 2 from your perspective of most economical ? plan_reasoning.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-12-07#20:20:11" user="" level="NORMAL">accepted. Message from BazaarAgent: Hey sree, Can you elaborate on your choice from your perspective of most economical ? plan_reasoning.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-12-07#20:20:21" user="" level="NORMAL">accepted. Message from BazaarAgent: Hey gaurav, Can you evaluate plan 1 from your perspective of carbon neutrality and economical in the long run ? plan_reasoning.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-12-07#20:21:43" user="" level="NORMAL">accepted. Message from BazaarAgent: It looks like no one is using the chat. Use this space to discuss and come to a consensus about which plan you prefer while writing the proposal. POKING.
+Starting blockout countdown... </entry>
+<entry timestamp="2015-12-07#20:21:47" user="" level="NORMAL">accepted. Message from BazaarAgent: Hey sree, Can you evaluate xu's plan from your perspective of most economical ? plan_reasoning.
+Starting blockout countdown... </entry>
