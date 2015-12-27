@@ -13,3 +13,11 @@ hs_err_pid*
 
 #ignore logs
 logs
+
+#hidden files
+.metadata/
+.DS_Store/
+
+#Eclipse files
+RemoteSystemsTempFiles
+org.eclipse.riena.monitor.client
