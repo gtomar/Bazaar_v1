@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;PostHocAnnotator&apos;" deleteContents="true" description="Delete resource &apos;PostHocAnnotator&apos;" element1="/PostHocAnnotator" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1451189790308"/>&#x0A;<refactoring comment="Delete resource &apos;InterventionAgent&apos;" deleteContents="true" description="Delete resource &apos;InterventionAgent&apos;" element1="/InterventionAgent" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1451189857597"/>
-</session>

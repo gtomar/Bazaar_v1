@@ -1,2 +1,0 @@
-0000000000000000000000000000000000000000 f951e9c2d5ce209b802ab77568d97d1dd289bc1e Researcher <researcher@thingvellir.wv.cc.cmu.edu> 1421086792 -0500	fetch --progress --prune --recurse-submodules=on-demand origin: storing head
-f951e9c2d5ce209b802ab77568d97d1dd289bc1e 206dff0fc9ee68fe8de8065f3a3da7637be37ee5 Researcher <researcher@thingvellir.wv.cc.cmu.edu> 1421090641 -0500	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward
