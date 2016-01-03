@@ -21,3 +21,6 @@ logs
 #Eclipse files
 RemoteSystemsTempFiles
 org.eclipse.riena.monitor.client
+
+#Node modules
+node_modules
