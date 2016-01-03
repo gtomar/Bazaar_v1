@@ -15,8 +15,8 @@ hs_err_pid*
 logs
 
 #hidden files
-.metadata/
-.DS_Store/
+.metadata
+.DS_Store
 
 #Eclipse files
 RemoteSystemsTempFiles
