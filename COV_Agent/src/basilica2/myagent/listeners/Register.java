@@ -6,6 +6,7 @@ import java.util.Date;
 
 import edu.cmu.cs.lti.basilica2.core.Event;
 import basilica2.agents.components.InputCoordinator;
+import basilica2.agents.events.COVexternal_Event;
 import basilica2.agents.events.MessageEvent;
 import basilica2.agents.events.PresenceEvent;
 import basilica2.agents.events.PromptEvent;
@@ -29,7 +30,7 @@ public class Register implements BasilicaPreProcessor
     	topicList = new ArrayList<Topic>();
     	userList = new ArrayList<User>();
     	
-		String dialogueConfigFile="dialogues/dialogues-example.xml";
+		String dialogueConfigFile="dialogues/dialogues-config.xml";
     	loadconfiguration(dialogueConfigFile);
 	}    
     
@@ -113,6 +114,18 @@ public class Register implements BasilicaPreProcessor
 			source.queueNewEvent(prompt);
 					
 		}
+		else if (event instanceof COVexternal_Event)
+		{
+			String prompt_message = "It looks like you made following selections.\n";
+			String message = ((COVexternal_Event) event).getMessage();
+		    for (String s: message.split(",")){
+		          String[] t = s.split("_");
+		          prompt_message += t[0] + " ---> " + t[1] + "\n";
+		    }
+			
+			PromptEvent prompt = new PromptEvent(source, prompt_message , "SELECTIONS");
+			source.queueNewEvent(prompt);			
+		}
 		else if (event instanceof PresenceEvent)
 		{
 			PresenceEvent pe = (PresenceEvent) event;
@@ -171,7 +184,7 @@ public class Register implements BasilicaPreProcessor
 
 	@Override
 	public Class[] getPreprocessorEventClasses() {
-		return new Class[]{MessageEvent.class, PresenceEvent.class, DormantStudentEvent.class};
+		return new Class[]{MessageEvent.class, PresenceEvent.class, DormantStudentEvent.class, COVexternal_Event.class};
 	}
 	
 

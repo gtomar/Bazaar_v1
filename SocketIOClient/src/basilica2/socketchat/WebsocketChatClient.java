@@ -20,6 +20,8 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import basilica2.agents.components.ChatClient;
+import basilica2.agents.events.COV_Event;
+import basilica2.agents.events.COVexternal_Event;
 import basilica2.agents.events.MessageEvent;
 import basilica2.agents.events.PresenceEvent;
 import basilica2.agents.events.PrivateMessageEvent;
@@ -86,7 +88,7 @@ public class WebsocketChatClient extends Component implements ChatClient
 				e1.printStackTrace();
 			}
 		}
-		if(e instanceof WhiteboardEvent)
+		else if(e instanceof WhiteboardEvent)
 		{
 			WhiteboardEvent me = (WhiteboardEvent) e;
 			try
@@ -141,6 +143,20 @@ public class WebsocketChatClient extends Component implements ChatClient
 				// TODO Auto-generated catch block
 				e1.printStackTrace();
 			}
+		}
+		else if(e instanceof COV_Event)
+		{
+			COV_Event ce = (COV_Event) e;
+			try
+			{
+				handleCOV_Event(ce.getConcept());
+			}
+			catch (Exception e1)
+			{
+				System.err.println("couldn't handle cov event : "+ce);
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}			
 		}
 		//TODO: private messages? "beeps"?
 
@@ -206,6 +222,11 @@ public class WebsocketChatClient extends Component implements ChatClient
 			socket.emit("global_ready", ready?"ready":"unready");
 		else
 			socket.emit("ready", ready?"ready":"unready");
+	}
+	
+	protected void handleCOV_Event(String concept)
+	{
+		socket.emit("handlecov", concept);
 	}
 	
 	class ChatSocketCallback implements IOCallback
@@ -309,6 +330,12 @@ public class WebsocketChatClient extends Component implements ChatClient
 				WhiteboardEvent me = new WhiteboardEvent(WebsocketChatClient.this, message, (String)args[0], message);
 				WebsocketChatClient.this.broadcast(me);
 			}
+			else if(event.equals("updatecov"))
+			{
+				String message = (String)args[1];
+				COVexternal_Event me = new COVexternal_Event(WebsocketChatClient.this, message);
+				WebsocketChatClient.this.broadcast(me);
+			}			
 			else if(event.equals("updatepresence"))
 			{
 				String message = (String)args[1];

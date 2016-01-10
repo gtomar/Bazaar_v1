@@ -43,6 +43,7 @@ import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 
 import basilica2.agents.components.InputCoordinator;
+import basilica2.agents.events.COV_Event;
 import basilica2.agents.events.MessageEvent;
 import basilica2.agents.events.PresenceEvent;
 import basilica2.agents.events.PromptEvent;
@@ -228,6 +229,11 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 			//start dialog engine
 			handleTutoringStartedEvent((TutoringStartedEvent) e);
 		}
+		else if (e instanceof COV_Event)
+		{
+			System.out.println("********************");
+			
+		}
 		else if (e instanceof MessageEvent)
 		{
 			//check for concept match and start specific dialog - mostly used for affirmative to 'are you ready'
@@ -299,6 +305,7 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 
 					killMeNow = d;
 					sendTutorMessage(d.acceptText);
+					
 					startDialog(d);
 				}
 				else if(d.cancelAnnotation.equals(concept))
@@ -335,6 +342,9 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 	
 	public void startDialog(Dialog d)
 	{
+		
+		COV_Event ce = new COV_Event(source,d.conceptName);
+		source.addEventProposal(ce,1.0,600);
 		enlistedDialog = null;
 		isTutoring = true;
 		
@@ -687,7 +697,7 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 	@Override
 	public Class[] getListenerEventClasses()
 	{
-		return new Class[]{MessageEvent.class, DoTutoringEvent.class,StudentTurnsEvent.class, MoveOnEvent.class, TutoringStartedEvent.class};
+		return new Class[]{MessageEvent.class, DoTutoringEvent.class,StudentTurnsEvent.class, MoveOnEvent.class, TutoringStartedEvent.class, COV_Event.class};
 	}
 
 	@Override
