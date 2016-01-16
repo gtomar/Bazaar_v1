@@ -158,7 +158,6 @@ public class TutorTurnWatcher extends BasilicaAdapter implements TimeoutReceiver
 			updateEpisodeLog(currentConcept, ce.getFrom() + "\t" + ce.getMessage(), "ST_COE");
 			studentTurns.add(ce.getMessage());
 			contributors.add(ce.getFrom());
-			System.out.println(ce.getMessage().toUpperCase() + " ___________________________________");
 			annotations.addAll(Arrays.asList(ce.getMessage().toUpperCase()));
 		}
 	}

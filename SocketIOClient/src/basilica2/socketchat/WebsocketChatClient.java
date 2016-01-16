@@ -146,7 +146,6 @@ public class WebsocketChatClient extends Component implements ChatClient
 		}
 		else if(e instanceof COV_Event)
 		{
-			System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
 			COV_Event ce = (COV_Event) e;
 			try
 			{

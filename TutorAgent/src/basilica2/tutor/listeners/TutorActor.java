@@ -228,11 +228,7 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 		{
 			//start dialog engine
 			handleTutoringStartedEvent((TutoringStartedEvent) e);
-		}
-		else if (e instanceof COV_Event)
-		{
-			System.out.println("******************************************************");
-		}		
+		}	
 		else if (e instanceof MessageEvent)
 		{
 			//check for concept match and start specific dialog - mostly used for affirmative to 'are you ready'
@@ -344,8 +340,7 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 		prioritySource.setBlocking(false);
 		COV_Event ce = new COV_Event(source,d.conceptName);
 		source.pushEventProposal(ce,1.0,60);
-		//prioritySource.setBlocking(true);
-		//source.queueNewEvent(ce);
+
 		enlistedDialog = null;
 		isTutoring = true;
 		
@@ -358,7 +353,6 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 		//TODONE: figure out what "requests" are and why we care
 		TutoringStartedEvent tse = new TutoringStartedEvent(source, d.scenarioName, d.conceptName);
 		source.queueNewEvent(tse);
-		//source.addEventProposal(tse);
 	}
 
 	private void handleMoveOnEvent(MoveOnEvent mve)
