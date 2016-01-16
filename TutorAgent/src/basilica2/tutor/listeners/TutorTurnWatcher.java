@@ -7,6 +7,8 @@ import java.util.Arrays;
 import java.util.List;
 
 import basilica2.agents.components.InputCoordinator;
+import basilica2.agents.events.COV_Event;
+import basilica2.agents.events.COVexternal_Event;
 import basilica2.agents.events.MessageEvent;
 import basilica2.agents.listeners.BasilicaAdapter;
 import basilica2.tutor.events.DoneTutoringEvent;
@@ -149,7 +151,17 @@ public class TutorTurnWatcher extends BasilicaAdapter implements TimeoutReceiver
 			annotations.addAll(Arrays.asList(me.getAllAnnotations()));
 		}
 	}
-
+	private void handleCOVexternal_Event(COVexternal_Event ce)
+	{
+		if (isCoordinating)
+		{
+			updateEpisodeLog(currentConcept, ce.getFrom() + "\t" + ce.getMessage(), "ST_COE");
+			studentTurns.add(ce.getMessage());
+			contributors.add(ce.getFrom());
+			annotations.addAll(Arrays.asList(ce.getMessage().toUpperCase()));
+		}
+	}
+	
 	public void timedOut(String id)
 	{
 		informObservers("<timedout id=\"" + id + "\" />");
@@ -190,16 +202,20 @@ public class TutorTurnWatcher extends BasilicaAdapter implements TimeoutReceiver
 		else if (e instanceof DoneTutoringEvent)
 		{
 			handleDoneTutoringEvent((DoneTutoringEvent) e);
-		}
+		}		
 		else if (e instanceof MessageEvent)
 		{
 			handleMessageEvent((MessageEvent) e);
+		}
+		else if(e instanceof COVexternal_Event)
+		{
+			handleCOVexternal_Event((COVexternal_Event) e);
 		}
 	}
 
 	@Override
 	public Class[] getPreprocessorEventClasses()
 	{
-		return new Class[] { MessageEvent.class, TutoringStartedEvent.class, TutorTurnsEvent.class, DoneTutoringEvent.class };
+		return new Class[] { MessageEvent.class, TutoringStartedEvent.class, TutorTurnsEvent.class, DoneTutoringEvent.class, COVexternal_Event.class, COV_Event.class };
 	}
 }

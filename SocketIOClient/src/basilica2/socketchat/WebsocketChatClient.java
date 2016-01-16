@@ -333,7 +333,7 @@ public class WebsocketChatClient extends Component implements ChatClient
 			else if(event.equals("updatecov"))
 			{
 				String message = (String)args[1];
-				COVexternal_Event me = new COVexternal_Event(WebsocketChatClient.this, message);
+				COVexternal_Event me = new COVexternal_Event(WebsocketChatClient.this, message, (String)args[0]);
 				WebsocketChatClient.this.broadcast(me);
 			}			
 			else if(event.equals("updatepresence"))

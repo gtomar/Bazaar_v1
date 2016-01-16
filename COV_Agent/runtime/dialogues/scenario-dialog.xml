@@ -15,10 +15,17 @@
 		<concept label="unanticipated-response">
 			<phrase>anything else</phrase>
 		</concept>
-		<concept label="intro">
-			<phrase>Should we get started?</phrase>
+		<concept label="check">
+			<phrase>Do you see a radio button form on right hand side of the screen?</phrase>
 		</concept>
-		
+
+		<concept label="intro">
+			<phrase>Welcome to the mission!
+Before we get started, I want to know what your opinions are.
+On the right screen, tell me which of the factors you think will make a difference to the performance in space.
+When you are done, just click "OK".</phrase>
+		</concept>
+
 		<concept label="yes" type="annotation">
 			<phrase>AFFIRMATIVE</phrase>
 		</concept>
@@ -26,15 +33,31 @@
 		<concept label="no" type="annotation">
 			<phrase>NEGATIVE</phrase>
 		</concept>
+
+		<concept label="all_yes" type="annotation">
+			<phrase>FIT_YES,PHEALTH_YES,FSIZE_YES,EDU_YES</phrase>
+		</concept>
 		
+		<concept label="all_no" type="annotation">
+			<phrase>FIT_NO,PHEALTH_NO,FSIZE_NO,EDU_NO</phrase>
+		</concept>
+				
 		<concept label="yes_response">
-			<phrase>:-)</phrase>
+			<phrase>Good.</phrase>
 		</concept>
 		
 		<concept label="no_response">
 			<phrase>:-(</phrase>
 		</concept>
+
+		<concept label="all_yes_response">
+			<phrase>You feel that all factors will make a difference to the performance.</phrase>
+		</concept>
 		
+		<concept label="all_no_response">
+			<phrase>You feel that none of the factors will make a difference to the performance.</phrase>
+		</concept>
+				
 		<concept label="unanticipated-response_response">
 			<phrase>:-|</phrase>
 		</concept>
@@ -43,12 +66,30 @@
 	<script>
 		<goal name="start" difficulty="1">
 			<step>
+				<initiation>check</initiation>
+				<response say="yes_response">yes</response>
+				<response push="no_screen" say="no_response">no</response>
+				<response say="unanticipated-response_response">unanticipated-response</response>
+			</step>
+			
+			<step>
 				<initiation>intro</initiation>
+				<response say="all_yes_response">all_yes</response>
+				<response say="all_no_response">all_no</response>
+				<response say="unanticipated-response_response">unanticipated-response</response>
+			</step>
+						
+		</goal>
+		
+		<goal name="no_screen" difficulty="1">
+			<step>
+				<initiation>Do you see it now ?</initiation>
 				<response say="yes_response">yes</response>
 				<response say="no_response">no</response>
 				<response say="unanticipated-response_response">unanticipated-response</response>
 			</step>
 		</goal>
+		
 	</script>
 
 </scenario>
