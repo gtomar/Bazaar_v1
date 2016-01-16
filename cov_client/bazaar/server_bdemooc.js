@@ -1,4 +1,5 @@
 var winston    = require('winston');
+var fs = require('fs');
 var mysql      = require('mysql');
 var mysql_auth = {
       host     : 'localhost',
@@ -63,7 +64,7 @@ var app = express()
 
 var logger;
 
-server.listen(80);
+server.listen(8001);
 // routing
 
 
@@ -150,7 +151,7 @@ function setTeam(teamNumber,req,provider,logger,res)
 {
 
         var roomname = req.query.roomName + pad(teamNumber, 2);
-	var url = 'http://bazaar.lti.cs.cmu.edu:80/chat/'+ roomname  + '/' + provider.userId + '/';
+	var url = 'http://bazaar.lti.cs.cmu.edu:8001/chat/'+ roomname  + '/' + provider.userId + '/';
 
     	res.writeHead(301,{Location: url});
     	res.end();
@@ -427,6 +428,24 @@ io.sockets.on('connection', function (socket) {
 		logMessage(socket, data, "image");
 		io.sockets.in(socket.room).emit('updateimage', socket.username, data);
 	});
+       
+        socket.on('sendcov', function (data) {
+
+                logMessage(socket, data, "cov");
+                io.sockets.in(socket.room).emit('updatecov', socket.username, data);
+        });
+  
+        socket.on('handlecov', function (data) {
+
+                logMessage(socket, data, "cov");
+		fs.readFile('./' + data + '.html', 'utf8', function (err, html) {
+    			if (err) {
+        			console.log("Error in reading html file - " + './' + data + '.html');
+    			}      
+                        console.log(html); 
+			io.sockets.in(socket.room).emit('handlecov_client', socket.username, html);
+		});                
+        });
 
  
 	// when the client emits 'sendchat', this listens and executes

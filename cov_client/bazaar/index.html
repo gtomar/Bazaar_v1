@@ -14,7 +14,7 @@
 
 
 <script>
-    var chatserver_url = 'http://bazaar.lti.cs.cmu.edu:80/'
+    var chatserver_url = 'http://bazaar.lti.cs.cmu.edu:8001/'
     var windowHasFocus = true;
     var unreadMessages = 0;
     var lastDate = null;
@@ -33,8 +33,6 @@
           return entityMap[s];
         });
       }
-	
-		
     function appendMessage(timestamp, username, text, color) 
     {
         
@@ -194,7 +192,13 @@
         appendNote(new Date(), username, 'has shared an <a href="#'+anchor+'">image.</a>');
 		$('#images').stop().animate({ scrollTop: $("#images")[0].scrollHeight}, 500);	
 	});
-	
+
+        socket.on('handlecov_client', function (username, html)
+        {
+	   //$('#tool_area').load(concept + '.html');
+           document.getElementById("tool_area").innerHTML = html;
+        });
+        	
 	socket.on('dump_history', function (backlog) 
 	{
 	    for(i = 0; i < backlog.length; i++)
@@ -331,7 +335,25 @@
             sendMessage();
 		});
 		
-		
+
+                $('#tool_area').on("click", "input.button", function()
+                {
+                        if( document.querySelector('input[name="fit"]:checked') == null ||
+                            document.querySelector('input[name="phealth"]:checked') == null ||
+                            document.querySelector('input[name="fsize"]:checked') == null ||
+                            document.querySelector('input[name="edu"]:checked') == null ){
+			    alert("Select a value for all factors");
+ 		  	    return;
+                        }
+                        var message =   "fit_" + document.querySelector('input[name="fit"]:checked').value + "," +
+                                        "phealth_" + document.querySelector('input[name="phealth"]:checked').value + "," +
+                                        "fsize_" + document.querySelector('input[name="fsize"]:checked').value + "," +
+                                        "edu_" + document.querySelector('input[name="edu"]:checked').value;
+ 
+                        socket.emit('sendcov', message);
+                        document.getElementById("tool_area").innerHTML = "Thanks for submitting your choices!";
+                });                
+
 		// when the client clicks READY
 		$('#ready_button').click( function() 
 		{
@@ -424,23 +446,17 @@
             <div id="messagebutton_div">
                 <input class="button" type="button" id="datasend" value="Send Message" />
             
-             <!--<input class="button" type="button" id="ready_button" value="We're Ready"/>-->
+            <!-- <input class="button" type="button" id="ready_button" value="We're Ready"/> -->
             </div>
     </div>
     </div>
     
     <div id="image_column">
-        <h2 id="image_header"  class="header">Information</h2>
-        
+        <h2 id="image_header"  class="header">Data space</h2>
         <div id="image_container" class="container">
-            <div id="images" class="scrollable"></div>
-        </div>
-        
-        <div id="image_controls" class="control">
-            <div id="image_url_input_div">
-                <input id="image_url_input" value=""  placeholder="Want to share an image? Paste its URL here!"/>
+            <div id="images" class="scrollable">
+                <div id="tool_area"> You will see data records in this space.</div>
             </div>
-            <div id="image_url_input_button_div"><input class="button" type="button" id="imagesend" value="Share Image URL" /></div>
         </div>
     </div>
     <h2 id="roomname">Room</h2>
