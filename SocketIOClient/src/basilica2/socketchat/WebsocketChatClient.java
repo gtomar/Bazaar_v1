@@ -146,6 +146,7 @@ public class WebsocketChatClient extends Component implements ChatClient
 		}
 		else if(e instanceof COV_Event)
 		{
+			System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
 			COV_Event ce = (COV_Event) e;
 			try
 			{
@@ -333,7 +334,7 @@ public class WebsocketChatClient extends Component implements ChatClient
 			else if(event.equals("updatecov"))
 			{
 				String message = (String)args[1];
-				COVexternal_Event me = new COVexternal_Event(WebsocketChatClient.this, message);
+				COVexternal_Event me = new COVexternal_Event(WebsocketChatClient.this, message, (String)args[0]);
 				WebsocketChatClient.this.broadcast(me);
 			}			
 			else if(event.equals("updatepresence"))

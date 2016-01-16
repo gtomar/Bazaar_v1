@@ -8,16 +8,23 @@ public class COVexternal_Event extends Event
 {
 	public static String GENERIC_NAME = "COVEXTERNAL_EVENT";
 	public String message;
+	public String from;
 	
-	public COVexternal_Event(Component source, String message)
+	public COVexternal_Event(Component source, String message, String from)
 	{
 		super(source);
 		this.message = message;
+		this.from = from;
 	}
 
 	public String getMessage() {
 
 		return this.message;
+	}
+
+	public String getFrom() {
+
+		return this.from;
 	}
 	
 	@Override

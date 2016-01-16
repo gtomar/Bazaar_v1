@@ -17,6 +17,7 @@ logs
 #hidden files
 .metadata
 .DS_Store
+.recommenders
 
 #Eclipse files
 RemoteSystemsTempFiles

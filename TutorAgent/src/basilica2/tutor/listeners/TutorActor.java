@@ -231,9 +231,8 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 		}
 		else if (e instanceof COV_Event)
 		{
-			System.out.println("********************");
-			
-		}
+			System.out.println("******************************************************");
+		}		
 		else if (e instanceof MessageEvent)
 		{
 			//check for concept match and start specific dialog - mostly used for affirmative to 'are you ready'
@@ -342,9 +341,11 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 	
 	public void startDialog(Dialog d)
 	{
-		
+		prioritySource.setBlocking(false);
 		COV_Event ce = new COV_Event(source,d.conceptName);
-		source.addEventProposal(ce,1.0,600);
+		source.pushEventProposal(ce,1.0,60);
+		//prioritySource.setBlocking(true);
+		//source.queueNewEvent(ce);
 		enlistedDialog = null;
 		isTutoring = true;
 		
@@ -357,6 +358,7 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 		//TODONE: figure out what "requests" are and why we care
 		TutoringStartedEvent tse = new TutoringStartedEvent(source, d.scenarioName, d.conceptName);
 		source.queueNewEvent(tse);
+		//source.addEventProposal(tse);
 	}
 
 	private void handleMoveOnEvent(MoveOnEvent mve)
@@ -417,7 +419,8 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 //									TutorTurnsEvent tte = new TutorTurnsEvent(this, new String[] { response_poke_prompt_text,
 //											lastTutorTurns.get(lastTutorTurns.size() - 1) });
 //									this.dispatchEvent(myAgent.getComponent(tutoring_actor_name), tte);
-									sendTutorMessage(response_poke_prompt_text, lastTutorTurns.get(lastTutorTurns.size() - 1));
+									//sendTutorMessage(response_poke_prompt_text, lastTutorTurns.get(lastTutorTurns.size() - 1));
+									
 								}
 								else if (noMatchingResponseCount >= 2)
 								{
