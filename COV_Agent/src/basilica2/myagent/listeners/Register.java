@@ -120,6 +120,7 @@ public class Register implements BasilicaPreProcessor
 			String message = ((COVexternal_Event) event).getMessage();
 		    for (String s: message.split(",")){
 		          String[] t = s.split("_");
+		          prompt_message += t[0] + " ---> " + t[1] + "\n";
 		    }
 			
 			PromptEvent prompt = new PromptEvent(source, prompt_message , "SELECTIONS");

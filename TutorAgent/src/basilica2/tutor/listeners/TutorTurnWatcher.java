@@ -1,7 +1,11 @@
 package basilica2.tutor.listeners;
 
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -156,12 +160,77 @@ public class TutorTurnWatcher extends BasilicaAdapter implements TimeoutReceiver
 		if (isCoordinating)
 		{
 			updateEpisodeLog(currentConcept, ce.getFrom() + "\t" + ce.getMessage(), "ST_COE");
-			studentTurns.add(ce.getMessage());
+			studentTurns.add(ce.getMessage().toUpperCase());
 			contributors.add(ce.getFrom());
 			annotations.addAll(Arrays.asList(ce.getMessage().toUpperCase()));
+			
+			String message = ce.getMessage();
+			List<String> query = new ArrayList<String>();
+			//0,       1,               2,           3
+			//Fitness, Parents' Health, Family Size, Education
+			
+		    for (String s: message.split(",")){
+		          String[] t = s.split("_");
+		          query.add(t[1]);
+		    }
+		    
+		    String[] result = checkInCSV("records.csv",query);
+		    query.add(result[0]); //Record#
+		    query.add(result[5]); //Gender
+		    query.add(result[7]); //Performance
+		    query.add(result[8]); //Name
+		    
+		    COV_Event ce_new = new COV_Event(source,"",query);
+			source.pushEventProposal(ce_new,1.0,60);
 		}
 	}
 	
+	private String[] checkInCSV(String csvFile, List<String> query)
+	{
+
+		BufferedReader br = null;
+		String line = "";
+		String cvsSplitBy = ",";
+
+		try {
+
+			br = new BufferedReader(new FileReader(csvFile));
+			while ((line = br.readLine()) != null) {
+
+			    // use comma as separator
+				String[] record = line.split(cvsSplitBy);
+				//0,        1,       2,               3,            4,          5,      6,              7,           8,
+                //Record#,	Fitness, Parents' Health, Family Size,	Education,	Gender,	Home Climate,	Performance, Name
+				
+				
+                if(record[1].equals(query.get(0)) && // Fitness
+                   record[2].equals(query.get(1)) && // Parents' Health
+                   record[3].equals(query.get(2)) && // Family size
+                   record[4].equals(query.get(3))    // Education
+                   )
+                {
+                	return record;
+                }
+			}
+
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			if (br != null) {
+				try {
+					br.close();
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+			}
+		}
+		System.out.println("Error");
+		String [] empty = null;
+        return empty;
+		
+	}
 	public void timedOut(String id)
 	{
 		informObservers("<timedout id=\"" + id + "\" />");

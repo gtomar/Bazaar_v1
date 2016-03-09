@@ -42,8 +42,8 @@ When you are done, just click "OK".</phrase>
 			<phrase>FIT_NO,PHEALTH_NO,FSIZE_NO,EDU_NO</phrase>
 		</concept>
 
-		<concept label="valid_response" type="regex">
-			<phrase>FIT_*,PHEALTH_*,FSIZE_*,EDU_*</phrase>
+		<concept label="valid" type="regex">
+			<phrase>FIT_EXCELLENT,PHEALTH_EXCELLENT,FSIZE_LARGE,EDU_COLLEGE</phrase>
 		</concept>
 				
 		<concept label="yes_response">
@@ -54,6 +54,10 @@ When you are done, just click "OK".</phrase>
 			<phrase>:-(</phrase>
 		</concept>
 
+		<concept label="valid_response">
+			<phrase>Let's go to the next step.</phrase>
+		</concept>
+		
 		<concept label="all_yes_response">
 			<phrase>You feel that all factors will make a difference to the performance.</phrase>
 		</concept>

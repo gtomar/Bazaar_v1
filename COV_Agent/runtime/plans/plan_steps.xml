@@ -6,7 +6,7 @@
 
     <stage name="initiate" type="other" delay="1">
         <step type="prompt" delay="1">INTRO_MESSAGE</step>
-        <step type="dialogue" delay="1000" dialogue="dialog">BLANK</step>
+        <step type="dialogue" delay="1000" dialogue="dialog2">BLANK</step>
 		<step type="logout" delay="1">LOG_OUT</step>
     </stage>
 </plan>

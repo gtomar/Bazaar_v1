@@ -338,7 +338,7 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 	public void startDialog(Dialog d)
 	{
 		prioritySource.setBlocking(false);
-		COV_Event ce = new COV_Event(source,d.conceptName);
+		COV_Event ce = new COV_Event(source,d.conceptName, null);
 		source.pushEventProposal(ce,1.0,60);
 
 		enlistedDialog = null;
