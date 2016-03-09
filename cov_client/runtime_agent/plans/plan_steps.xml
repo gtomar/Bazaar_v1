@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plan name="phase 1">
+	<!-- "timeout" for a stage is an absolute number of seconds that elapses 
+	(from the script's beginning) before that stage starts.  -->
+	<!-- "delay" for a stage is the number seconds that elapses in-between stages.  -->
+
+    <stage name="initiate" type="other" delay="1">
+        <step type="prompt" delay="1">INTRO_MESSAGE</step>
+        <step type="dialogue" delay="1000" dialogue="dialog">BLANK</step>
+		<step type="logout" delay="1">LOG_OUT</step>
+    </stage>
+</plan>

@@ -1,4 +1,4 @@
-#!/bin/bash
+﻿#!/bin/bash
 #usage: ./run.sh roomname num condition [numcols [width height]]
 
 roomname=${1:-"Week_"};
@@ -10,7 +10,7 @@ height=${6:-180};
 rows=4;
 
 jar_name= "talk"
-agentdir="/usr0/home/gtomar/bazaar/cov_bazaar/${roomname}agent/"
+agentdir="/usr0/home/gtomar/Bazaar_v1/cov_client/${roomname}agent/"
 
 echo $agentdir
 echo hello
