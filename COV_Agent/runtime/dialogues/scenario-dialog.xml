@@ -41,6 +41,10 @@ When you are done, just click "OK".</phrase>
 		<concept label="all_no" type="annotation">
 			<phrase>FIT_NO,PHEALTH_NO,FSIZE_NO,EDU_NO</phrase>
 		</concept>
+
+		<concept label="valid_response" type="regex">
+			<phrase>FIT_*,PHEALTH_*,FSIZE_*,EDU_*</phrase>
+		</concept>
 				
 		<concept label="yes_response">
 			<phrase>Good.</phrase>
@@ -74,7 +78,7 @@ When you are done, just click "OK".</phrase>
 			
 			<step>
 				<initiation>intro</initiation>
-				<response say="all_yes_response">all_yes</response>
+				<response say="all_yes_response">valid_response</response>
 				<response say="all_no_response">all_no</response>
 				<response say="unanticipated-response_response">unanticipated-response</response>
 			</step>
@@ -88,8 +92,7 @@ When you are done, just click "OK".</phrase>
 				<response say="no_response">no</response>
 				<response say="unanticipated-response_response">unanticipated-response</response>
 			</step>
-		</goal>
-		
+		</goal>				
 	</script>
 
 </scenario>
