@@ -447,6 +447,12 @@ io.sockets.on('connection', function (socket) {
 		});                
         });
 
+    socket.on('handledynamiccov', function (data) {
+
+        logMessage(socket, data, "cov");
+
+		io.sockets.in(socket.room).emit('handlecov_client', socket.username, data);               
+    });
  
 	// when the client emits 'sendchat', this listens and executes
 	socket.on('ready', function (data) 

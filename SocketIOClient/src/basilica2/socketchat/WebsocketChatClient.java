@@ -5,8 +5,14 @@ import io.socket.IOCallback;
 import io.socket.SocketIO;
 import io.socket.SocketIOException;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.net.MalformedURLException;
 import java.util.Iterator;
+import java.util.List;
 import java.util.Timer;
 import java.util.TimerTask;
 import java.util.logging.Level;
@@ -149,7 +155,12 @@ public class WebsocketChatClient extends Component implements ChatClient
 			COV_Event ce = (COV_Event) e;
 			try
 			{
-				handleCOV_Event(ce.getConcept());
+				if(ce.getQuery().equals("")){
+					handleCOV_Event(ce.getConcept());
+				}
+				else{
+					handleDynamicCOV_Event(ce.getQuery());
+				}
 			}
 			catch (Exception e1)
 			{
@@ -227,6 +238,49 @@ public class WebsocketChatClient extends Component implements ChatClient
 	protected void handleCOV_Event(String concept)
 	{
 		socket.emit("handlecov", concept);
+	}
+	
+	protected void handleDynamicCOV_Event(List<String> list)
+	{
+		File file = new File("dialog4.txt");
+	    BufferedReader reader = null;
+		try {
+			reader = new BufferedReader( new FileReader (file));
+		} catch (FileNotFoundException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+	    String         line = null;
+	    StringBuilder  stringBuilder = new StringBuilder();
+	    String         ls = System.getProperty("line.separator");
+        String         text = "";
+	    try {
+	        try {
+				while( ( line = reader.readLine() ) != null ) {
+				    stringBuilder.append( line );
+				    stringBuilder.append( ls );
+				}
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+
+	        text = stringBuilder.toString();
+	    } finally {
+	        try {
+				reader.close();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+	    }
+	    
+	    text.replaceAll("[Record]", list.get(4));
+	    text.replaceAll("[Gender]", list.get(5));
+	    text.replaceAll("[Performance]", list.get(6));
+	    text.replaceAll("[Name]", list.get(7));
+	    
+		socket.emit("handledynamiccov", text);
 	}
 	
 	class ChatSocketCallback implements IOCallback

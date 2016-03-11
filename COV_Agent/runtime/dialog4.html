@@ -1,0 +1,81 @@
+<!doctype html>
+<link rel="stylesheet" href="dialog.css">
+<script src="test.js"></script>
+<body>
+
+<div class="content">
+  <div class="dialog">
+
+
+    Director:<br>
+    Great! Now, let's figure out whether those factors actually matter!<br>
+    What I have in my database is a list of records of how the applicants performed.<br>
+    If you study the records carefully, you will be able to see which factors make a difference to performance and which don’t.<br>
+    Now, let's try it.<br>
+    On the screen, look for an applicant who you want to look at by selecting a level for each factor, and the computer will find you an applicant who is like that and tell you his/her performance<br>
+    Remember to click "OK" when you are ready.<br>
+    <br>
+    As you can see, you selected Record #3, Paul Roy. And you can see that his performance was C.<br>
+    <br>
+    Now that you know how to select a record, why don't you start figuring out whether Fitness matter by choosing one or two cases.
+    How many records would you like to see? One or Two?<br>
+    <br>
+    Student:<br>
+    <form action="dialog5.html">
+      <input type="text" placeholder="Enter your answer here" class="answer">
+    </form>
+
+  </div>
+
+  <div class="action">
+    <div class="frame">
+
+    <table class="record">
+      <tr>
+        <td colspan="3" class="robot">[Record] <b>[Name]</b>
+        <td class="robot">Gender: [Gender]
+    </table>
+
+    <table class="xxx">
+      <tr>
+        <td>Fitness
+        <td><label><img src="graphics/excellent fitness.jpg"><br>
+        Excellent</label>
+        <td>&nbsp;
+        <td><label class="dimmed"><img src="graphics/average fitness.jpg"><br>
+        Average</label>
+      <tr>
+        <td>Parents health
+        <td><label><img src="graphics/excellent parents.jpg"><br>
+        Excellent</label>
+        <td>&nbsp;
+        <td><label class="dimmed"><img src="graphics/fair parents.jpg"><br>
+        Fair</label>
+      <tr>
+        <td>Family size
+        <td><label class="dimmed"><img src="graphics/large family.jpg"><br>
+        Large</label>
+        <td>&nbsp;
+        <td><label><img src="graphics/small family.jpg"><br>
+        Small</label>
+      <tr>
+        <td>Education
+        <td><label class="dimmed"><img src="graphics/college.jpg"><br>
+        College</label>
+        <td><label class="dimmed"><img src="graphics/some college.jpg"><br>
+        Some College</label>
+        <td><label><img src="graphics/no college.jpg"><br>
+        No College</label>
+
+    </table>
+
+    <p class="performance-level">Performance Level:
+      <span class="grade">[Performance]</span>
+    </p>
+
+  </div><!-- .frame -->
+
+  </div>
+</div>
+
+</body>
